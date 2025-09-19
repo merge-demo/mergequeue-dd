@@ -9073,7 +9073,6 @@ charmonium
 charms
 cremated
 cancelable
-charneco
 chekmak
 charnockite
 charnockites
@@ -16490,6 +16489,7 @@ celebrious
 chimane
 cursores
 clobber
+charneco
 connarus
 cleeking
 clobbered
