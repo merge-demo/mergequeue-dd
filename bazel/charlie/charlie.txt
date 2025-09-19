@@ -11738,7 +11738,6 @@ circuitous
 chondrodystrophy
 colorational
 coempted
-chromogenetic
 chabuks
 chondroditic
 couthest
@@ -19002,6 +19001,7 @@ characteristics
 collaret
 collarette
 carpuspi
+chromogenetic
 coupelet
 cochal
 conjugate
