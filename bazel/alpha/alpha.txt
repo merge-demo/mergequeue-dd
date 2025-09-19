@@ -5400,6 +5400,7 @@ afterlove
 aftermark
 aftermass
 armenite
+alveolodental
 agednesses
 affodill
 azox
@@ -9789,7 +9790,6 @@ amatito
 awaste
 alliaceous
 acerata
-alveolodental
 airers
 adminiculate
 anticlastic
