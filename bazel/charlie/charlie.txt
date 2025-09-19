@@ -18740,7 +18740,6 @@ coyol
 coccoloba
 coyotillos
 caucusing
-coyoting
 croaky
 coypous
 coypus
@@ -25153,6 +25152,7 @@ corylus
 contraprop
 chenopodiales
 cads
+coyoting
 cyanicide
 clocking
 corymbiate
