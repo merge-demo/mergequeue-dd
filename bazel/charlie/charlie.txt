@@ -19791,7 +19791,6 @@ combatable
 coremium
 chroma
 chrismale
-camerine
 certose
 combatant
 cobbin
@@ -22425,6 +22424,7 @@ cashier
 coerects
 contradicted
 coni
+camerine
 conia
 coniacian
 conic
