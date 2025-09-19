@@ -10199,6 +10199,7 @@ chewing
 cygnet
 coheretic
 chews
+ct
 ciceronians
 counterstatant
 crease
@@ -30422,7 +30423,6 @@ cankerbird
 crimpled
 csp
 csw
-ct
 cte
 catharized
 crow
