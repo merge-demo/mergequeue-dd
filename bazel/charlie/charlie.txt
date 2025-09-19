@@ -2574,7 +2574,6 @@ culturologist
 candroys
 camphires
 censuses
-cyclotrons
 cane
 cd
 corneum
@@ -25298,6 +25297,7 @@ conject
 cappelenite
 cornein
 cellular
+cyclotrons
 cornelia
 concessioner
 cornell
