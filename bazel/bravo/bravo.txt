@@ -8208,7 +8208,6 @@ bewaring
 biflex
 bistort
 beshiver
-boddagh
 bakehouses
 bifocal
 bejumbles
@@ -11379,6 +11378,7 @@ bandits
 bingies
 betelnuts
 bluebreast
+boddagh
 balance
 badinaged
 build
