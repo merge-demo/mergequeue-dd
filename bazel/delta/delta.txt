@@ -3486,6 +3486,7 @@ defrayable
 dismissable
 digitalizing
 dodginess
+dalai
 dartsman
 delft
 defrayed
@@ -16406,7 +16407,6 @@ dicoelous
 downtimes
 deplumate
 daven
-dalai
 divergently
 daviely
 dolt
