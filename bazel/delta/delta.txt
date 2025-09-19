@@ -785,7 +785,6 @@ dictator
 dispurpose
 drawn
 devolatilize
-dandles
 dapperly
 dibrach
 discomplexion
@@ -10787,6 +10786,7 @@ dipsaceae
 disavow
 dipnoan
 dun
+dandles
 dubiousness
 discharges
 dastardy
