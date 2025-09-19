@@ -801,7 +801,6 @@ amphicyrtous
 abscission
 absconce
 arris
-abetments
 abscond
 anteport
 absconded
@@ -5985,6 +5984,7 @@ agnatical
 ascended
 amoreuxia
 abatable
+abetments
 azotised
 admissions
 aus
