@@ -619,6 +619,7 @@ bactericide
 bacterin
 beggiatoa
 bacteriochlorophyll
+bootprint
 bacteriocin
 bostangi
 bacteriodiagnosis
@@ -6674,7 +6675,6 @@ bernardine
 bonneter
 bernicia
 berninesque
-bootprint
 burningly
 blousing
 bunnymouth
