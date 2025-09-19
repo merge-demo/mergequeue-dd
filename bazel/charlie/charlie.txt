@@ -11954,6 +11954,7 @@ cowhages
 chondroganoidei
 crwths
 choreus
+corticoline
 choreutic
 crevassing
 chorial
@@ -25875,7 +25876,6 @@ corticifugally
 corticipetal
 collegiate
 corticoafferent
-corticoline
 corticolous
 corruptibly
 chowdering
