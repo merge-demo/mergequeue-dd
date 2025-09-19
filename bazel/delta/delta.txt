@@ -6042,6 +6042,7 @@ disconfirm
 diobols
 delimiting
 disapprove
+doglike
 dermatonosus
 disdaining
 drawarm
@@ -15177,7 +15178,6 @@ donning
 discardment
 dogie
 doglegs
-doglike
 diphyllous
 dekabrist
 delicti
