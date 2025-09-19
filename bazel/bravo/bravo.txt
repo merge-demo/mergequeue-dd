@@ -12887,7 +12887,6 @@ bandhor
 bylaws
 bacciform
 boorishness
-bulldog
 blondes
 bryozoans
 beauticians
@@ -17066,6 +17065,7 @@ bullyragger
 barrios
 bala
 bullocks
+bulldog
 booklice
 bolography
 boder
