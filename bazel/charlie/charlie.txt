@@ -23141,6 +23141,7 @@ chkalik
 clysmian
 causson
 corymbs
+consecrated
 constablewick
 constabular
 constabularies
@@ -25475,7 +25476,6 @@ crociate
 chronoscopv
 coronach
 coronachs
-consecrated
 chickens
 coronados
 coronae
