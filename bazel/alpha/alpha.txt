@@ -5586,7 +5586,6 @@ answers
 amphistome
 abdication
 afeared
-agapeti
 agapetid
 aciculate
 akamnik
@@ -21310,6 +21309,7 @@ aerialist
 aspasia
 anathematized
 atimy
+agapeti
 aspect
 aspectable
 aspectant
