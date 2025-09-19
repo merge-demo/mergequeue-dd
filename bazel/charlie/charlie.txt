@@ -2125,7 +2125,6 @@ camporee
 camphorone
 camphorwood
 cmdg
-calvinize
 conference
 campi
 concurrency
@@ -10299,6 +10298,7 @@ crankism
 canthus
 chichicaste
 chichimec
+calvinize
 clarino
 chichipe
 carvyl
