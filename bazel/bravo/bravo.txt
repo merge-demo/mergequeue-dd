@@ -7110,6 +7110,7 @@ besses
 bessie
 bellhanger
 banger
+blurbist
 bushwah
 biarticulated
 belligerencies
@@ -11542,7 +11543,6 @@ bocedization
 barbs
 behemoth
 blurb
-blurbist
 bananist
 blacklists
 basad
