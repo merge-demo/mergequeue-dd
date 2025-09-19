@@ -10058,7 +10058,6 @@ blabbermouths
 blabbers
 blabbing
 blabmouth
-brujos
 beamish
 blackamoors
 blackbine
@@ -10369,6 +10368,7 @@ bonneted
 buntlines
 bayal
 besnows
+brujos
 boskets
 bootholder
 blandation
