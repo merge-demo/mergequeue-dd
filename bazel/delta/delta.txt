@@ -14381,7 +14381,6 @@ dyer
 deuterogenic
 diurnally
 drug
-diurnule
 doctrix
 dephlegmedness
 distracted
@@ -15770,6 +15769,7 @@ docile
 dunce
 despondency
 didrachma
+diurnule
 decollator
 dopped
 detractiveness
