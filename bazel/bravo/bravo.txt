@@ -3381,7 +3381,6 @@ brythonic
 baculum
 bassan
 bassanite
-biotechnics
 bassetta
 blockbuster
 bandstands
@@ -8799,6 +8798,7 @@ buckbean
 bromeliaceae
 bogeymen
 bari
+biotechnics
 banalities
 bravadoing
 brazas
