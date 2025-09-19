@@ -4687,6 +4687,7 @@ banyans
 bazoo
 bunted
 blackseed
+barytocalcite
 bord
 basilarchia
 beinked
@@ -7815,7 +7816,6 @@ bibelots
 berdash
 bibenzyl
 bookers
-barytocalcite
 bibi
 busses
 baniya
