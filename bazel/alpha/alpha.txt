@@ -17399,7 +17399,6 @@ antineuralgic
 antieyestrain
 abstentious
 appendicocaecostomy
-actinoidea
 apparat
 apiose
 antimonarchally
@@ -24888,6 +24887,7 @@ awakable
 anhydrous
 apetaloid
 abatis
+actinoidea
 awake
 aquocarbonic
 awakeable
