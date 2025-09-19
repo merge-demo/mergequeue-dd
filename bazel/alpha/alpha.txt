@@ -2426,6 +2426,7 @@ acolythate
 amphiaster
 ardella
 autoserum
+allocate
 austrasian
 absciss
 amidate
@@ -8703,7 +8704,6 @@ allocatable
 alcohols
 absorption
 airmails
-allocate
 anglophobes
 autoimmunization
 afifi
