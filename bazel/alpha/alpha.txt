@@ -15113,7 +15113,6 @@ alkarsin
 archaeornis
 alaite
 alining
-antifundamentalism
 anticonductor
 atebrin
 albertinian
@@ -21074,6 +21073,7 @@ ashangos
 antitetanolysin
 ashanti
 archilla
+antifundamentalism
 algieba
 ashake
 atonia
