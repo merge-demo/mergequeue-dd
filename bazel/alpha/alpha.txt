@@ -12802,6 +12802,7 @@ aerophilatelist
 angularity
 affirming
 amphimictic
+assailed
 acct
 angulated
 angulately
@@ -19559,7 +19560,6 @@ agglutinins
 arioian
 animalcular
 alulae
-assailed
 arion
 arrowless
 ariot
