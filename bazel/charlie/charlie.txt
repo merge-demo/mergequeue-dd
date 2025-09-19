@@ -25127,6 +25127,7 @@ carbonimeter
 corianders
 conditional
 cuttlebones
+connectant
 cycled
 carnac
 calabar
@@ -25499,7 +25500,6 @@ chasidim
 coroneted
 cordeliere
 coronetted
-connectant
 crushability
 coronettee
 confronte
