@@ -9332,6 +9332,7 @@ alstonite
 alstroemeria
 alsweill
 anticathode
+afterfuture
 aetian
 alberghi
 administrations
@@ -17033,7 +17034,6 @@ autolaryngoscopy
 amethodical
 abiogeny
 acoelomate
-afterfuture
 agrological
 apogonid
 apographic
