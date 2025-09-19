@@ -3328,7 +3328,6 @@ catapetalous
 counterweighing
 capotasto
 containerized
-capotastos
 choicest
 celsius
 carrots
@@ -16879,6 +16878,7 @@ clubfisted
 clubfoot
 clubfooted
 clubhand
+capotastos
 carpellum
 cerebralgia
 clubhaul
