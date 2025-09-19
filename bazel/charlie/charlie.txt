@@ -10460,7 +10460,6 @@ celiomyositis
 cephalograph
 caenogaean
 congratulant
-castock
 chikara
 couchmaking
 cinephotomicrography
@@ -23852,6 +23851,7 @@ contravening
 contraversion
 contravindicate
 chaui
+castock
 contravindication
 circumvascular
 contrawise
