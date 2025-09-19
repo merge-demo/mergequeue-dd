@@ -19225,7 +19225,6 @@ cinenchym
 caponatas
 citylike
 colloider
-cede
 coalsheds
 czarship
 cordless
@@ -25847,6 +25846,7 @@ contra
 corsy
 coom
 corsican
+cede
 clof
 culmigenous
 coothay
