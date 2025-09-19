@@ -28994,7 +28994,6 @@ candleberries
 crimper
 crimpiness
 crimping
-chattable
 crimps
 cracovienne
 cantatory
@@ -29517,6 +29516,7 @@ crizzel
 cornfields
 checkerboarding
 cherna
+chattable
 crizzled
 cro
 conventionalizing
