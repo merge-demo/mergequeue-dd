@@ -7703,7 +7703,6 @@ bhistie
 bhisties
 berake
 bhojpuri
-bhokra
 bonaventure
 bustee
 blesbok
@@ -16562,6 +16561,7 @@ bulanda
 bezetta
 brevicipitid
 blackly
+bhokra
 burke
 baronies
 bucharest
