@@ -8884,7 +8884,6 @@ annulata
 akoluthia
 algebraized
 allotments
-allotransplantation
 anapsidan
 aden
 autarkically
@@ -16853,6 +16852,7 @@ aplanatism
 alginic
 ately
 aluminography
+allotransplantation
 airways
 aplanogamete
 ablepharus
