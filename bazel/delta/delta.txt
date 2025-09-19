@@ -4915,7 +4915,6 @@ diplopods
 demonish
 dryster
 devotionary
-disozonize
 dismaying
 demonists
 dimenhydrinate
@@ -16004,6 +16003,7 @@ dentines
 dormition
 devilwood
 deprecable
+disozonize
 dossmen
 dissemblies
 decommission
