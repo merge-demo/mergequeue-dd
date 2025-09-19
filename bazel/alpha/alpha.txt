@@ -9761,6 +9761,7 @@ abrotin
 antheridium
 anomocarpous
 antimilitaristically
+antifreezing
 alfiona
 amasthenic
 accipenser
@@ -12731,7 +12732,6 @@ anthemwise
 altin
 assot
 anglomane
-antifreezing
 accidence
 archdiocesan
 anglophil
