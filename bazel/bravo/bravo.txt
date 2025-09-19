@@ -771,7 +771,6 @@ brewster
 batata
 bravuraish
 buba
-bearer
 barricados
 bacchants
 banket
@@ -14387,6 +14386,7 @@ brainpans
 bisley
 bacterioscopic
 blighting
+bearer
 behoving
 barnstorm
 belieffulness
