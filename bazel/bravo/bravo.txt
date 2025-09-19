@@ -2200,7 +2200,6 @@ berrichon
 bostonite
 barter
 bracery
-barauna
 boneheadedness
 bromizing
 blobs
@@ -10467,6 +10466,7 @@ bopyrid
 boating
 benvenuto
 blaster
+barauna
 blastid
 blastocele
 bespousing
