@@ -3123,7 +3123,6 @@ beautify
 bucrnia
 bullring
 bloodcurdler
-battleplane
 bivalvular
 baseborn
 besprinkle
@@ -12969,6 +12968,7 @@ bonanza
 butterball
 banausic
 becrusting
+battleplane
 bondar
 brewages
 bombycillidae
