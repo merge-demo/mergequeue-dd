@@ -397,6 +397,7 @@ acetylsalicylic
 abd
 auxohormone
 abidances
+anticularia
 abider
 advisability
 abie
@@ -14900,7 +14901,6 @@ anticrochet
 antics
 applicatorily
 adp
-anticularia
 atman
 anticus
 antidactyl
