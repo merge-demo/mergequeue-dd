@@ -9478,7 +9478,6 @@ chebecs
 chebel
 chebog
 culation
-categorising
 chebulic
 colorbearer
 canroy
@@ -15353,6 +15352,7 @@ clanjamphrey
 clank
 clanked
 choledocholithotomy
+categorising
 clanking
 chisled
 chlorimetry
