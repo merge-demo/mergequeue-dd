@@ -4165,6 +4165,7 @@ bulgy
 beastman
 barracoutas
 boldfacedness
+brachiosaur
 baftah
 beastship
 benches
@@ -14257,7 +14258,6 @@ bodices
 bailees
 brogan
 balductum
-brachiosaur
 bragger
 byways
 bubbleless
