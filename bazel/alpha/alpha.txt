@@ -20395,6 +20395,7 @@ autoicous
 assalto
 adusk
 anchorages
+antimythical
 arterioarctia
 ambushment
 asg
@@ -21196,7 +21197,6 @@ aceanthrene
 atretic
 asymmetric
 ambivalency
-antimythical
 aways
 acknowledgement
 asymmetron
