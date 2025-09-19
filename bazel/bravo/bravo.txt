@@ -1526,6 +1526,7 @@ bemadamed
 ballades
 bikeways
 bacteremia
+bromometric
 bedsick
 brodyaga
 balladised
@@ -17944,7 +17945,6 @@ bedpan
 bracteate
 breakups
 bobachee
-bromometric
 barkeeper
 brassbounder
 blobbiest
