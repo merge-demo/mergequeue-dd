@@ -4052,6 +4052,7 @@ attributiveness
 autocarpous
 apophthegmatic
 antitarnish
+anatomicopathological
 aluminize
 aleyard
 adoptian
@@ -9808,7 +9809,6 @@ amaze
 airlocks
 amazedly
 amazeful
-anatomicopathological
 anatomise
 accented
 antihelixes
