@@ -3938,7 +3938,6 @@ congredient
 carcharodont
 correctify
 carcinemia
-croquettes
 carcinogenesis
 carcinogenic
 carcinoid
@@ -22202,6 +22201,7 @@ chowing
 cripplers
 confounding
 chronogrammatical
+croquettes
 canonesses
 confounds
 chiule
