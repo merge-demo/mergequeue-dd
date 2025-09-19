@@ -5216,7 +5216,6 @@ bedders
 blanky
 blinkering
 beworming
-boarcite
 basification
 blotless
 breadboards
@@ -7522,6 +7521,7 @@ barnacle
 bleater
 burele
 brakeages
+boarcite
 battleground
 burrito
 bedrivel
