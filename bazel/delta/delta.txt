@@ -915,6 +915,7 @@ dictation
 dapedius
 decatholicize
 dripple
+demiturned
 duckie
 danio
 dudman
@@ -15806,7 +15807,6 @@ doucet
 disentrain
 doria
 daribah
-demiturned
 deair
 disgig
 dukhn
