@@ -19840,6 +19840,7 @@ classifiers
 contemplance
 cloudburst
 combiner
+curteous
 combiners
 combines
 cappie
@@ -31572,7 +31573,6 @@ checkable
 coadunatively
 christianizing
 chaperonless
-curteous
 curter
 centillion
 cordaitales
