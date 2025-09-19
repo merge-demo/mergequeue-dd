@@ -14330,6 +14330,7 @@ blenny
 braided
 binaurally
 binomen
+blunges
 burstones
 braidism
 braidist
@@ -15186,7 +15187,6 @@ bestrewed
 blitzes
 bridesmaids
 bedrocks
-blunges
 baybolt
 beholding
 birdsall
