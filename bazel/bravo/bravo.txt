@@ -41,6 +41,7 @@ breams
 bish
 bungarum
 bundocks
+beigel
 befrogged
 brushable
 bonspiel
@@ -3040,7 +3041,6 @@ ballrooms
 barflies
 branglement
 biomasses
-beigel
 braggartism
 barriness
 bhaktis
