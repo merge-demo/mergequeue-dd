@@ -5825,7 +5825,6 @@ coadore
 cytolymph
 catering
 cateringly
-copras
 caterpillar
 caterpillared
 causticness
@@ -8144,6 +8143,7 @@ chainless
 craspedon
 chainlike
 clericalism
+copras
 confrontal
 contumacity
 calchas
