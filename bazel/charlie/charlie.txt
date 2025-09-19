@@ -3456,7 +3456,6 @@ capsula
 compage
 capsulation
 collegatary
-chainomatic
 chawbone
 coccyges
 centinody
@@ -11409,6 +11408,7 @@ confetto
 cabrioles
 chlortetracycline
 coercers
+chainomatic
 chondriosome
 confuting
 cho
