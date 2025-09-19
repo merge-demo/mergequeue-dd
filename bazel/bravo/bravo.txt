@@ -2200,6 +2200,7 @@ berrichon
 bostonite
 barter
 bracery
+blowing
 barauna
 boneheadedness
 bromizing
@@ -11293,7 +11294,6 @@ bajardo
 blowie
 bibliographic
 backups
-blowing
 basify
 brigandage
 bushidos
