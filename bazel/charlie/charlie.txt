@@ -9675,6 +9675,7 @@ cheesiest
 curbs
 convince
 crabeater
+cubbish
 chevre
 convocate
 cheesing
@@ -20073,7 +20074,6 @@ commaterial
 cofeoffee
 commatic
 cryobiologist
-cubbish
 cheerily
 commeasurable
 commeasure
