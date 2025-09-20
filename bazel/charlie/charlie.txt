@@ -2984,7 +2984,6 @@ candiot
 cantilating
 cantilene
 caravelle
-cantilever
 cantilevered
 cantily
 cantina
@@ -17890,6 +17889,7 @@ consumption
 cutigeral
 cononintelligent
 catchup
+cantilever
 codespairer
 ctn
 classism
