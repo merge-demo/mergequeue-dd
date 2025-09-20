@@ -800,6 +800,7 @@ begod
 browniness
 bldr
 bugginess
+barrier
 bromochloromethane
 blautok
 baetulus
@@ -17673,7 +17674,6 @@ boonfellow
 burma
 blacking
 brackets
-barrier
 begazed
 basker
 backhands
