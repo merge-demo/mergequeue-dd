@@ -14775,6 +14775,7 @@ cesura
 cyclonometer
 citicorp
 culler
+courlans
 cowering
 cityfied
 calycophorae
@@ -20737,7 +20738,6 @@ complant
 collapsible
 converser
 complementary
-courlans
 carty
 complementariness
 combfish
