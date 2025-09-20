@@ -3585,6 +3585,7 @@ deglamorizing
 disrespectfulness
 discernably
 deglazed
+duelist
 diopters
 duckbills
 dubbing
@@ -17908,7 +17909,6 @@ defamations
 dyspepsy
 displeased
 duelers
-duelist
 duelistic
 disinfest
 durgan
