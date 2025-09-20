@@ -21570,6 +21570,7 @@ concordity
 circline
 centumvir
 cemetary
+clavel
 concorporate
 culverts
 concorporated
@@ -23886,7 +23887,6 @@ catalyzed
 charpoy
 chewink
 chair
-clavel
 contributable
 cutins
 chenier
