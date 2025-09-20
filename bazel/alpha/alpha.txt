@@ -5323,7 +5323,6 @@ actinophone
 angild
 alcoholicity
 afterbirth
-atmospheres
 afterbrain
 aerarium
 afterbreast
@@ -25144,6 +25143,7 @@ annulate
 aret
 axletree
 azteca
+atmospheres
 agriochoerus
 axodendrite
 axogamy
