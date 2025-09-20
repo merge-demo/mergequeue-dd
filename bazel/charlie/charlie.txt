@@ -19613,6 +19613,7 @@ colpoperineoplasty
 centrodesmus
 castorial
 casimires
+cpu
 carboloy
 croissants
 convenientness
@@ -30415,7 +30416,6 @@ chaetopterin
 conveniences
 csect
 cannikins
-cpu
 cholecystectomies
 csmp
 cankerbird
