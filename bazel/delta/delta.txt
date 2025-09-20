@@ -6605,7 +6605,6 @@ dephlegmated
 desegregated
 dictyota
 decadently
-desegregates
 draggletailedly
 destroyed
 denumerative
@@ -15262,6 +15261,7 @@ doing
 discopodous
 debituminization
 diestocks
+desegregates
 dokmarok
 disload
 dorestane
