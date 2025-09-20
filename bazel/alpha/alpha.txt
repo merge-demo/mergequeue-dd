@@ -15131,6 +15131,7 @@ antigenes
 antigigmanic
 autonitridation
 antigonon
+apogamous
 antigonorrheic
 afflue
 antigonus
@@ -16999,7 +17000,6 @@ antibody
 appendicle
 apogamies
 assassinated
-apogamous
 apogamously
 agamist
 alebion
