@@ -4049,6 +4049,7 @@ archmock
 adoptedly
 adoptee
 autozooid
+abiosis
 attributiveness
 autocarpous
 apophthegmatic
@@ -24476,7 +24477,6 @@ armsize
 abhor
 aerophile
 auxiliaries
-abiosis
 anthocephalous
 anelastic
 auxiliator
