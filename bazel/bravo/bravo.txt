@@ -1914,7 +1914,6 @@ bycoket
 brainsickly
 barometry
 bando
-besieger
 bell
 bodiced
 blackguardry
@@ -2269,6 +2268,7 @@ boneless
 bummil
 bindoree
 bacchii
+besieger
 bactericholia
 bide
 battling
