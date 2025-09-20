@@ -24742,7 +24742,6 @@ coprophagous
 chymified
 coprophilism
 crepitaculum
-coprophilous
 cockaded
 coprophobia
 cessing
@@ -25975,6 +25974,7 @@ cranioscopical
 coprozoic
 clumbers
 chelidonian
+coprophilous
 coseat
 conducive
 collude
