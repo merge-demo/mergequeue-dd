@@ -6862,7 +6862,6 @@ committedness
 cypreses
 celom
 cardcase
-crabwise
 cytherean
 castlery
 chauvinistically
@@ -31363,6 +31362,7 @@ colocating
 coelongated
 cadmiferous
 counterfallacy
+crabwise
 coenzymatic
 cystoadenoma
 curiam
