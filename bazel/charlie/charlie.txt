@@ -12940,6 +12940,7 @@ chuttie
 chutzpa
 carbanion
 chutzpanik
+comes
 cuesta
 cia
 crystallised
@@ -29950,7 +29951,6 @@ connivances
 crotalo
 crotaphic
 calydon
-comes
 composting
 conserves
 craniotomies
