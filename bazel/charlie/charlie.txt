@@ -4918,6 +4918,7 @@ conduct
 cartilagines
 cartilaginoid
 cellarway
+corkscrewed
 cartilaginous
 churring
 carting
@@ -8355,7 +8356,6 @@ challises
 challot
 compartmentalizing
 challote
-corkscrewed
 curcumas
 catalogers
 carburated
