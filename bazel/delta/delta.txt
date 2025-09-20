@@ -15919,7 +15919,6 @@ dogmata
 dorsocentral
 diminishing
 disfrancnise
-disprovable
 dhurry
 defers
 droops
@@ -17394,6 +17393,7 @@ disquisition
 desirers
 drooly
 diencephala
+disprovable
 doorstep
 diseasy
 deerstalker
