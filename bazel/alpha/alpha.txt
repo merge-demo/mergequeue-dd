@@ -5675,7 +5675,6 @@ adradial
 agen
 asperness
 acculturizing
-archfelon
 anisocarpic
 agend
 ampyx
@@ -6646,6 +6645,7 @@ aglipayan
 airfoil
 airfoils
 actualising
+archfelon
 adiate
 accretion
 alodially
