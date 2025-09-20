@@ -3095,6 +3095,7 @@ defaultless
 downfolded
 defaults
 dayworker
+deriding
 detritus
 denumberment
 defeasanced
@@ -6189,7 +6190,6 @@ doppler
 declassed
 detractress
 derivant
-deriding
 deringa
 dwell
 did
