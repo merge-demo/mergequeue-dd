@@ -18092,7 +18092,6 @@ allhallow
 aquifer
 avanturine
 actifier
-aquifoliaceous
 akkadian
 aspersor
 aggrandizers
@@ -22669,6 +22668,7 @@ antiopium
 agamic
 amorphinism
 atmospherics
+aquifoliaceous
 adjourned
 atmospherology
 admitter
