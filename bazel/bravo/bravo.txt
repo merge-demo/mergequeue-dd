@@ -14143,6 +14143,7 @@ braggite
 bracking
 blellum
 brackish
+biometry
 brunswick
 bacteriological
 banat
@@ -16527,7 +16528,6 @@ beltings
 blastogeny
 buccin
 baroni
-biometry
 berascals
 bousy
 botryogen
