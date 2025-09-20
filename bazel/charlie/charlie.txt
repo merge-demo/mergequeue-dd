@@ -7586,7 +7586,6 @@ cerebri
 czar
 clonisms
 censerless
-cocreate
 croaks
 carus
 confutator
@@ -9939,6 +9938,7 @@ campanulales
 cretinism
 chemotherapeutics
 chemotherapy
+cocreate
 calqued
 carcinomas
 crackjaw
