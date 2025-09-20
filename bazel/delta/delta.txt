@@ -442,6 +442,7 @@ divisi
 demipomada
 didynamian
 desulfurise
+didos
 decanal
 darwan
 decorticator
@@ -8089,7 +8090,6 @@ despotically
 dimension
 distinctional
 disgavel
-didos
 dragaded
 dactylist
 delphine
