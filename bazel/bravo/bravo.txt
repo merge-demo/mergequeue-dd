@@ -12259,7 +12259,6 @@ bombaster
 berakoth
 beadswomen
 begob
-bhisti
 bowfront
 biquartz
 boltrope
@@ -12517,6 +12516,7 @@ burseeds
 biham
 bibacious
 boni
+bhisti
 bony
 burtonize
 bowlegged
