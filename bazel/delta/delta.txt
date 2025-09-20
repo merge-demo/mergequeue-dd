@@ -8631,7 +8631,6 @@ dd
 downwards
 drumline
 dinge
-delimitations
 diary
 diaglyph
 disimprove
@@ -15288,6 +15287,7 @@ dolcino
 dididae
 disenmesh
 disbalance
+delimitations
 delectably
 daimonic
 directory
