@@ -3263,7 +3263,6 @@ bote
 babbling
 bandora
 beriberi
-battened
 bantingize
 buettneriaceae
 bedouin
@@ -15171,6 +15170,7 @@ bridals
 bellow
 bourses
 blooddrop
+battened
 bridecake
 bandana
 blackfire
