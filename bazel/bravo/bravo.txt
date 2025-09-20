@@ -10295,7 +10295,6 @@ bromuret
 bladygrass
 bisme
 blennostasis
-biffs
 blaeberries
 bebothered
 blaflum
@@ -11938,6 +11937,7 @@ betweens
 bolivianos
 begirdling
 boggard
+biffs
 blindfoldly
 bogged
 boggier

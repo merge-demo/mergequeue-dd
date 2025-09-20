@@ -803,7 +803,6 @@ delusters
 dakhini
 dermatograph
 dovecote
-detn
 diuretical
 drearly
 deprecatorily
@@ -14696,6 +14695,7 @@ droopier
 dainchas
 daneweed
 doctrines
+detn
 deuteropathy
 dizen
 dlr
