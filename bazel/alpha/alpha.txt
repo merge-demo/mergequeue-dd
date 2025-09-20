@@ -7006,6 +7006,7 @@ allophore
 aschaffite
 arabinic
 amphigony
+apparatus
 aktistetae
 aphicidal
 aku
@@ -17391,7 +17392,6 @@ apparat
 apiose
 antimonarchally
 apparatchiks
-apparatus
 arist
 appareling
 apparentements
