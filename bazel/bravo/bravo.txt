@@ -12339,7 +12339,6 @@ beefsteaks
 bobfly
 brimful
 baste
-blatter
 broideries
 bombing
 beautifies
@@ -13514,6 +13513,7 @@ becoom
 backpacks
 beadrolls
 breastful
+blatter
 botulinus
 bottu
 branchiocardiac
