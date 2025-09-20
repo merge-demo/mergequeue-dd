@@ -5772,7 +5772,6 @@ diazotizability
 dimpled
 depolarizers
 droves
-deliberating
 debater
 dilating
 disjoint
@@ -13197,6 +13196,7 @@ drenchingly
 dummyism
 dispiteousness
 deflectionize
+deliberating
 displaceability
 definitive
 danceable

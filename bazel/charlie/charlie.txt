@@ -15061,6 +15061,7 @@ choanoid
 countercondemnation
 cipollino
 certes
+crup
 compunctive
 circumtropical
 civilizationally
@@ -30300,7 +30301,6 @@ confrater
 consonantizing
 chiragra
 cruorin
-crup
 cruppen
 crampfish
 cruppered
