@@ -15192,7 +15192,6 @@ clag
 claggum
 cantala
 commandries
-candiel
 contangos
 construal
 commanderies
@@ -19712,6 +19711,7 @@ craved
 columnal
 camphors
 columnarian
+candiel
 calamaries
 columnate
 cupseed
