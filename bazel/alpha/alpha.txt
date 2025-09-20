@@ -11782,6 +11782,7 @@ antecurvature
 asteatosis
 anantherous
 ananthous
+abnormalism
 anapaestically
 abashments
 ataraxic
@@ -16529,7 +16530,6 @@ anticlassically
 asyndeta
 alternipinnate
 apertness
-abnormalism
 apertometer
 apocarpies
 associateship
