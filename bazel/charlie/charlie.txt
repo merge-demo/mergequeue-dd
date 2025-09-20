@@ -4047,7 +4047,6 @@ copydesks
 claimed
 cardiform
 cardigan
-cameoing
 cardin
 croslet
 cancans
@@ -28754,6 +28753,7 @@ cresegol
 cargo
 cresyl
 cresylate
+cameoing
 cresylic
 cresylite
 cresyls
