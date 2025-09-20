@@ -2343,7 +2343,6 @@ barreler
 benzoperoxide
 badarrah
 borid
-babakoto
 bourignianism
 braggart
 barboy
@@ -6165,6 +6164,7 @@ bicron
 bipartient
 beni
 baldoquin
+babakoto
 buckjumper
 benic
 bonus
