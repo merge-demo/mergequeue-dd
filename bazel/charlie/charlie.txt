@@ -9620,7 +9620,6 @@ cheerier
 cautiousness
 curtals
 coexistent
-cableways
 cheering
 cheerlead
 crystallinity
@@ -22729,6 +22728,7 @@ circadian
 condensity
 crickey
 conominee
+cableways
 concertiser
 conopidae
 consisted
