@@ -17756,6 +17756,7 @@ cocksfoot
 coco
 cocoach
 campuses
+compositor
 chasing
 cocoas
 cocoawood
@@ -20921,7 +20922,6 @@ composites
 compositing
 comparatives
 cacoepist
-compositor
 compositors
 cashed
 compositure
