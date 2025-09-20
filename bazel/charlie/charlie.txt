@@ -4580,6 +4580,7 @@ carditic
 caoba
 carols
 carolus
+correspondentially
 chemicocautery
 causeless
 cementite
@@ -11340,7 +11341,6 @@ cestuy
 corollate
 chlorophyceae
 convenee
-correspondentially
 cressweed
 cotemporary
 chlorophyllase
