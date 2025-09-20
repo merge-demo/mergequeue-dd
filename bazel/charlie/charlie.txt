@@ -8152,7 +8152,6 @@ contumacity
 calchas
 chainmaker
 chiropodist
-chainman
 chainmen
 capitare
 cultists
@@ -21622,6 +21621,7 @@ cuff
 claimsmen
 ceruse
 concurred
+chainman
 cosmogonies
 concurrencies
 concurrently
