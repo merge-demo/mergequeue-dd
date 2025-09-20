@@ -2627,6 +2627,7 @@ biporous
 blondine
 borana
 barkhan
+bassist
 batman
 bechained
 belostoma
@@ -15892,7 +15893,6 @@ battels
 boatwoman
 basiated
 broncholemmitis
-bassist
 borrelomycetaceae
 baillone
 bronchophony
