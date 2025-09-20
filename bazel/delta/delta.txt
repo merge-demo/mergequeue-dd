@@ -12888,7 +12888,6 @@ dispergating
 dogman
 dismissory
 discographically
-duels
 dysmnesia
 dysmorphophobia
 downstair
@@ -17590,6 +17589,7 @@ decolour
 dynamiter
 drumliest
 drumlinoid
+duels
 decelerated
 dactylate
 drumlins
