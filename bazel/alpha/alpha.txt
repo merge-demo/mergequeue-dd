@@ -5342,7 +5342,6 @@ afterclause
 australasian
 acrostichic
 autocamper
-aftercooler
 alahee
 aftercost
 anatine
@@ -25283,6 +25282,7 @@ anisogamous
 amylophosphoric
 avell
 articulateness
+aftercooler
 archaistic
 arvicola
 antihumbuggist
