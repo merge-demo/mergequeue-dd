@@ -6468,7 +6468,6 @@ asperates
 afterburner
 anorchia
 aikinite
-agenes
 arbitrarily
 afterknowledge
 achromatised
@@ -10577,6 +10576,7 @@ antichrome
 astrophyllite
 axolemma
 aminobenzoic
+agenes
 antidrag
 appetency
 alinota
