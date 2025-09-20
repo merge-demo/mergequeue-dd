@@ -4338,6 +4338,7 @@ carinas
 chrysene
 countersale
 carinated
+cirsotomy
 coprocessing
 carination
 caring
@@ -6653,7 +6654,6 @@ counterthrust
 clamoring
 celestine
 ceilers
-cirsotomy
 carsick
 condole
 ceilidh
