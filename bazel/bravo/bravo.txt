@@ -6501,7 +6501,6 @@ breakaway
 blastospheric
 balnibarbi
 berattle
-borickite
 bout
 biohazard
 berberid
@@ -14253,6 +14252,7 @@ blending
 brag
 begazes
 bannut
+borickite
 bodices
 bailees
 brogan
