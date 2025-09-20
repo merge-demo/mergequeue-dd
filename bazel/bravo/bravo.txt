@@ -3732,6 +3732,7 @@ bionomics
 blennogenic
 bastile
 batlan
+buckram
 bukshi
 battologising
 battologize
@@ -12386,7 +12387,6 @@ betterly
 brum
 brownest
 barrenness
-buckram
 bowknot
 befingering
 blindless
