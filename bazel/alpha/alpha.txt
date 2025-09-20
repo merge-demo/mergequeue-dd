@@ -7671,7 +7671,6 @@ atrickle
 anglicism
 advocatess
 aldrovanda
-achromaturia
 adequative
 aldus
 alumian
@@ -21627,6 +21626,7 @@ asserter
 automatics
 archegonium
 assertingly
+achromaturia
 anathematically
 abogados
 abuta
