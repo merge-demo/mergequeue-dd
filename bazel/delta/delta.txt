@@ -2697,7 +2697,6 @@ delectable
 duetto
 decorate
 dopey
-discounsel
 diplopterous
 diplodus
 domoid
@@ -9251,6 +9250,7 @@ dieldrin
 decahedrodra
 disappointment
 dieldrins
+discounsel
 deaminization
 dielectric
 disparately
