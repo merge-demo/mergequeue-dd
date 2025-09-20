@@ -9120,6 +9120,7 @@ behaviourist
 bolometric
 bromcamphor
 bruja
+badged
 biotome
 boiler
 brothered
@@ -17269,7 +17270,6 @@ bundled
 bundler
 bivium
 bottleneck
-badged
 belialist
 bundles
 bipaliidae
