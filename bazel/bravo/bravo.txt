@@ -5950,6 +5950,7 @@ brigued
 bemangle
 bevaring
 bemask
+barbarical
 befooling
 backslapped
 brewis
@@ -13944,7 +13945,6 @@ barwise
 begowk
 bacteriofluorescin
 buffier
-barbarical
 borghese
 belute
 brooders
