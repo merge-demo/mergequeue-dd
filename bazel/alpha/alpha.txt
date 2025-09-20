@@ -3239,7 +3239,6 @@ adaptitude
 azurite
 adaptive
 acclimatable
-amortizement
 archpiece
 apostemation
 answerless
@@ -21802,6 +21801,7 @@ anisomyodi
 adsorb
 approachable
 alternat
+amortizement
 alaternus
 albarellos
 aminolipin
