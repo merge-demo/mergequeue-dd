@@ -7430,6 +7430,7 @@ buttinskies
 berhymed
 battute
 bonytail
+bowyers
 boothage
 bistre
 bleariest
@@ -13863,7 +13864,6 @@ bepreach
 beadiest
 bowyer
 bejape
-bowyers
 bulnbuln
 bilious
 bedrite
