@@ -1773,6 +1773,7 @@ deathward
 ductility
 dolldom
 docent
+distort
 diminuting
 downlier
 deathworm
@@ -8715,7 +8716,6 @@ dimeride
 decors
 disordered
 diastrophically
-distort
 decatize
 dipter
 dichrooscopic
