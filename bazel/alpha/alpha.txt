@@ -3411,7 +3411,6 @@ arpent
 ajivas
 adelantado
 adelante
-adelarthra
 aircoaches
 alectryon
 apetalae
@@ -19589,6 +19588,7 @@ autodecrement
 aristocratism
 aristocrats
 abducens
+adelarthra
 adrectal
 aristodemocracies
 anthericum
