@@ -6605,7 +6605,6 @@ airbrushing
 airburst
 antimechanistically
 airbusses
-atenist
 aquas
 axometer
 aircraftsman
@@ -13896,6 +13895,7 @@ adventurousness
 antecedes
 aloedary
 aloetic
+atenist
 adiagnostic
 accomodate
 agitpropist
