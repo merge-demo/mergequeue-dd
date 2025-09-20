@@ -200,7 +200,6 @@ dequeued
 dechlorination
 diabolize
 defecant
-decessit
 dress
 dak
 dampens
@@ -17151,6 +17150,7 @@ dedicatorial
 destuffs
 divisory
 diaconus
+decessit
 dismally
 diclinies
 disrange
