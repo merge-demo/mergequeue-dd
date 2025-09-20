@@ -821,7 +821,6 @@ depaganize
 dangle
 distortedly
 downset
-descartes
 deniable
 dearths
 dysacousia
@@ -13162,6 +13161,7 @@ daces
 dogsled
 dressmakers
 derelicta
+descartes
 dispersing
 dispersoidological
 dynastid
