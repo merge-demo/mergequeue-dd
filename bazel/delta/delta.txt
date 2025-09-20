@@ -8625,7 +8625,6 @@ diapsida
 dashiest
 discolored
 deathin
-disrated
 douanier
 dehydrant
 dextrorse
@@ -18036,6 +18035,7 @@ diamagnetism
 diplex
 denitrated
 disgallant
+disrated
 disquisitionary
 damping
 dulcitude
