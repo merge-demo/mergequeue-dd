@@ -1758,7 +1758,6 @@ decumaria
 deathlikeness
 dundees
 deady
-dumble
 derogation
 disaccord
 deathtime
@@ -2284,6 +2283,7 @@ dyewoods
 disburden
 decemfoliate
 dogmas
+dumble
 demotion
 dissocialize
 decempunctate
