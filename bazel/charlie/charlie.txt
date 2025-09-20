@@ -25884,6 +25884,7 @@ cortexes
 copacetic
 cortication
 cortices
+characterizable
 cordula
 corticifugally
 corticipetal
@@ -28181,7 +28182,6 @@ compiler
 crannock
 crannoger
 carvomenthene
-characterizable
 cockscomb
 circlet
 calabrese
