@@ -2514,6 +2514,7 @@ dipper
 discursive
 declarators
 dotted
+deoxidizer
 divulgater
 disregarder
 dividuity
@@ -15963,7 +15964,6 @@ dhourras
 defecated
 daft
 demonesses
-deoxidizer
 dossiers
 dudes
 dorty
