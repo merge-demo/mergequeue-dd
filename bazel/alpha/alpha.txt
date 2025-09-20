@@ -9776,6 +9776,7 @@ alfiona
 amasthenic
 accipenser
 aegithalos
+autosight
 amatembu
 attaint
 alloquial
@@ -24338,7 +24339,6 @@ agathis
 antivivisection
 ablaut
 antagonise
-autosight
 albuminuric
 asbolan
 autosymbolic
