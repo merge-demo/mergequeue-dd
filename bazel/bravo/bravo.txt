@@ -510,6 +510,7 @@ butle
 bahoo
 blumed
 biserial
+befit
 bretwalda
 besouth
 biniodide
@@ -7194,7 +7195,6 @@ bestud
 boninite
 bipont
 bestuds
-befit
 bobierrite
 basiliscine
 besully
