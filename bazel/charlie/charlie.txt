@@ -24876,7 +24876,6 @@ cobreathe
 ciderist
 coralligena
 coralligenous
-coralligerous
 corallin
 conchfish
 corallina
@@ -30946,6 +30945,7 @@ charmlessly
 culveriner
 corsesque
 culverkey
+coralligerous
 culverkeys
 culvers
 culverwort
