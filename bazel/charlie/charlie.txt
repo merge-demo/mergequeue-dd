@@ -15560,7 +15560,6 @@ classicalist
 classicality
 classicise
 chromophoric
-classicism
 classicist
 classicists
 cheshire
@@ -17398,6 +17397,7 @@ coastguardsman
 coastguardsmen
 cacheted
 cruder
+classicism
 cogons
 coastland
 couscouses
