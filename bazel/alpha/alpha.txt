@@ -3975,7 +3975,6 @@ avgas
 anvil
 anoopsias
 agrief
-antihypertensives
 antilyssic
 antenna
 acrasia
@@ -10102,6 +10101,7 @@ anthropomorphitic
 autogauge
 antinationalism
 agathokakological
+antihypertensives
 ambuscado
 ambushers
 aerocartography
