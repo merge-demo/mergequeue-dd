@@ -21102,7 +21102,6 @@ computerise
 computerization
 commercialised
 computerizes
-computernik
 conenose
 celoms
 catarrh
@@ -22666,6 +22665,7 @@ carpostome
 conniptions
 connivance
 circumcinct
+computernik
 connivancy
 connivantly
 connive
