@@ -1821,7 +1821,6 @@ diffusely
 debilitate
 deck
 debases
-doggoned
 debate
 disparts
 distortionist
@@ -3740,6 +3739,7 @@ declinations
 defoliage
 dehorted
 digitoxin
+doggoned
 detectives
 decompensation
 duckweed
