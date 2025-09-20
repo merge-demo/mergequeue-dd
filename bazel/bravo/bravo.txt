@@ -1242,6 +1242,7 @@ belles
 biomagnetism
 benzazimide
 baymen
+batidaceous
 bearhide
 biodynamic
 bakra
@@ -3624,7 +3625,6 @@ bathvillite
 bookmobile
 brachytmema
 blithelike
-batidaceous
 butterflylike
 brucines
 burdock
