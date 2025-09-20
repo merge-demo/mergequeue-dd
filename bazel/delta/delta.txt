@@ -13954,7 +13954,6 @@ discohexaster
 doryphorus
 debits
 diactin
-diablo
 daubreelite
 dichroism
 dipleurule
@@ -15966,6 +15965,7 @@ dudes
 dorty
 daikers
 dispand
+diablo
 documentor
 discounts
 doser
