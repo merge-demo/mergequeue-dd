@@ -11121,6 +11121,7 @@ bernie
 balmiest
 beddings
 bedawn
+boehmite
 bathyal
 barra
 blockship
@@ -16477,7 +16478,6 @@ bubastid
 backorder
 blightingly
 bubby
-boehmite
 benedictory
 brachiocrural
 bubblement
