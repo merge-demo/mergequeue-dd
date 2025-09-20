@@ -62,7 +62,6 @@ abadejo
 abadengo
 ayont
 apophasis
-aerially
 anticonstitution
 aestive
 arcadian
@@ -9825,6 +9824,7 @@ antihelixes
 amazilia
 aplome
 antizymotic
+aerially
 almoravides
 amazons
 asterisms
