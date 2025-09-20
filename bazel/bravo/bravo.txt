@@ -4802,6 +4802,7 @@ beltwise
 bedspring
 baffing
 beduncing
+begulfed
 botchiest
 begowned
 bewrapped
@@ -10936,7 +10937,6 @@ bowses
 basta
 bacach
 begass
-begulfed
 beckets
 bemires
 bartonia
