@@ -5089,7 +5089,6 @@ affeerer
 ankerite
 ampulated
 anthemideae
-ameloblastic
 ascensor
 atween
 affeir
@@ -18616,6 +18615,7 @@ aristocratical
 archebiosis
 acetract
 awesome
+ameloblastic
 auctioneer
 autophobia
 airshed
