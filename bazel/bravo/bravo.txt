@@ -132,7 +132,6 @@ brayer
 babion
 berengarianism
 brimmer
-baikerite
 brabantine
 brachets
 basicranial
@@ -6273,6 +6272,7 @@ braze
 biblic
 billbroking
 barrer
+baikerite
 brike
 benzanthracene
 bitore
