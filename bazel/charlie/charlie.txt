@@ -8827,7 +8827,6 @@ chappin
 chartlet
 competes
 catchplate
-chaprasi
 chapstick
 cortile
 concurbit
@@ -18449,6 +18448,7 @@ cardinalic
 contentment
 cognatic
 concatenary
+chaprasi
 calorize
 cutaway
 cementum
