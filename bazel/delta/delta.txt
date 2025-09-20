@@ -10995,7 +10995,6 @@ dreadnoughts
 disaffirmation
 dills
 desorption
-disaffirming
 decapoda
 dulcinea
 disafforestment
@@ -13542,6 +13541,7 @@ digredient
 depeopling
 disseminative
 dissension
+disaffirming
 drang
 daimioate
 dissensualize
