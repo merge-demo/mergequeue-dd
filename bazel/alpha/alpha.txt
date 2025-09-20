@@ -4939,6 +4939,7 @@ aeruginous
 animikite
 aerugo
 aerugos
+axhammer
 aes
 amparo
 arenga
@@ -10419,7 +10420,6 @@ ausones
 authorisation
 apollonia
 anandrous
-axhammer
 antihypnotic
 ameliorativ
 amidoplast
