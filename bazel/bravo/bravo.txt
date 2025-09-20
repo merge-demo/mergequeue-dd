@@ -10403,7 +10403,6 @@ breaker
 borstals
 blanketlike
 blankets
-bhoot
 brisement
 beedged
 byrling
@@ -11697,6 +11696,7 @@ biennales
 bepranked
 bipaleolate
 bindles
+bhoot
 beerbelly
 bobbejaan
 buskined
