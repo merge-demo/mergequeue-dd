@@ -499,6 +499,7 @@ abjurer
 actinophrys
 abjurers
 abkari
+allophonic
 abortionists
 amerism
 abkhasian
@@ -14407,7 +14408,6 @@ anthropopathism
 adc
 aseptol
 abiogenesist
-allophonic
 atemporal
 andiron
 antiroyalism
