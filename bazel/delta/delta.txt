@@ -1131,7 +1131,6 @@ dribblet
 doubleword
 darnings
 dodecamerous
-dicentra
 deliverer
 dashedly
 dipnoid
@@ -1748,6 +1747,7 @@ dittology
 deathify
 discreteness
 dispensible
+dicentra
 diobol
 densifier
 deterioration
