@@ -5807,6 +5807,7 @@ desmotropism
 dacker
 draftman
 deepnesses
+dysmetria
 deposer
 deposers
 deposit
@@ -6156,7 +6157,6 @@ deregulated
 durables
 defenestrated
 duckhunting
-dysmetria
 drumloid
 deregulatory
 dowsabels
