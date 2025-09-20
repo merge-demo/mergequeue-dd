@@ -9788,6 +9788,7 @@ chrematistics
 ceylon
 caudate
 cheliform
+chimalapa
 chelinga
 curua
 chelingas
@@ -14925,7 +14926,6 @@ ceased
 clinometrical
 cytopyge
 cantaro
-chimalapa
 catabasis
 curemaster
 cytoreticulum
