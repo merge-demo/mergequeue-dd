@@ -7480,6 +7480,7 @@ ceratoid
 calves
 cartellist
 ceratonia
+confessory
 cicerones
 counterbrace
 chlorophyl
@@ -29695,7 +29696,6 @@ catercorner
 campanulaceous
 commodore
 cried
-confessory
 crookbacked
 crookbill
 contention

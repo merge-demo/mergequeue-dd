@@ -8741,6 +8741,7 @@ diogenite
 devility
 dimeride
 decors
+disordered
 diastrophically
 distort
 decatize
@@ -17076,7 +17077,6 @@ disjoined
 diacritically
 dregs
 dreynt
-disordered
 defibrinate
 demagnetized
 damkjernite
