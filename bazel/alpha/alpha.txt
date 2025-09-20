@@ -1055,6 +1055,7 @@ anjan
 albertustaler
 amnia
 ancestorial
+autoproteolysis
 abuna
 animality
 abundance
@@ -24265,7 +24266,6 @@ autoportraiture
 antiparalytical
 autopotent
 acinacity
-autoproteolysis
 autopsy
 autopsical
 aliyas
