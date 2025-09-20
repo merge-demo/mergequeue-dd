@@ -1657,7 +1657,6 @@ alouettes
 accumbency
 accumbent
 accumulating
-anthracomartian
 antjar
 agony
 accumulation
@@ -7662,6 +7661,7 @@ acrolein
 adaptivity
 ausubos
 acoelomata
+anthracomartian
 atrickle
 anglicism
 advocatess
