@@ -8977,7 +8977,6 @@ bacterioagglutinin
 biomathematics
 bromism
 bets
-boatowner
 biome
 biomechanical
 begrims
@@ -14290,6 +14289,7 @@ blimps
 boiseries
 blindball
 backaches
+boatowner
 bluet
 brachistocephaly
 bessi
