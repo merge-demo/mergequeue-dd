@@ -3096,6 +3096,7 @@ can
 capacitive
 cenotaphies
 coordinately
+commanders
 counterjumper
 cyclopes
 capacitor
@@ -8838,7 +8839,6 @@ chapterhouse
 cardinalates
 chapwoman
 chaqueta
-commanders
 cerosin
 char
 conveyability
