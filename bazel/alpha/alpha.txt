@@ -1467,6 +1467,7 @@ accolled
 arpeggio
 absinthiate
 apparens
+anomurous
 accomplishers
 avicularimorphae
 accommodated
@@ -24847,7 +24848,6 @@ astrict
 aeolina
 acknown
 attractableness
-anomurous
 aromas
 antinoness
 atmospherically
