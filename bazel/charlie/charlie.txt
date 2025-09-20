@@ -2999,6 +2999,7 @@ churner
 canto
 confederatism
 cortege
+carretela
 capiteaux
 convokes
 colander
@@ -31183,7 +31184,6 @@ cuprene
 classless
 cupressus
 custode
-carretela
 cuprites
 cunningly
 coccygeus
