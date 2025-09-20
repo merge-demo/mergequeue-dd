@@ -15135,7 +15135,6 @@ autonitridation
 antigonon
 apogamous
 antigonorrheic
-afflue
 antigonus
 antigovernmental
 andouille
@@ -15145,6 +15144,7 @@ apiculture
 aminoacetanilide
 armies
 aromatised
+afflue
 anisotropal
 ansa
 antigraph
