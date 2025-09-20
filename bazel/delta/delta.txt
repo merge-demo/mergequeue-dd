@@ -7174,6 +7174,7 @@ desulfurizer
 demolitions
 dynamometric
 depictor
+degustate
 diamins
 desulfurs
 decline
@@ -15214,7 +15215,6 @@ dentex
 diumvirate
 dase
 descamisado
-degustate
 dogsleep
 deintellectualize
 dipolarization
