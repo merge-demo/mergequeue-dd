@@ -9726,7 +9726,6 @@ dilaniate
 dichter
 dourines
 dribbling
-doubled
 debouchure
 disconcord
 diethylamide
@@ -17805,6 +17804,7 @@ denasalized
 doublehatching
 decylenic
 ducked
+doubled
 discussionis
 duckery
 duckers
