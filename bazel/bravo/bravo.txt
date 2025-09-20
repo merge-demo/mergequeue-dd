@@ -9394,7 +9394,6 @@ brucia
 bethank
 bulimulidae
 birgand
-bedirties
 birkeniidae
 bran
 birky
@@ -12995,6 +12994,7 @@ biolith
 brideless
 bituberculate
 bloomers
+bedirties
 beadleism
 bombazine
 beliquored
