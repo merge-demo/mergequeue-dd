@@ -5442,7 +5442,6 @@ crunode
 casuistess
 conchobor
 cutaneal
-cps
 conductances
 cellar
 casuistries
@@ -8730,6 +8729,7 @@ concise
 cheiloplasties
 chantry
 cynicism
+cps
 chanukah
 chaology
 chaori
