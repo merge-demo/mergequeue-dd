@@ -1432,6 +1432,7 @@ acclimatisation
 affixable
 acclimatise
 anticynically
+aspersive
 azorian
 acclimatised
 acclimatiser
@@ -21378,7 +21379,6 @@ astrochronological
 aspersers
 aspersion
 arianistical
-aspersive
 antiputrid
 abirritant
 adephaga
