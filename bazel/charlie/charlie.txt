@@ -22676,6 +22676,7 @@ clinker
 connived
 captance
 caliper
+countertrespass
 connivingly
 camerina
 connochaetes
@@ -31345,7 +31346,6 @@ concordats
 canning
 curfs
 causeys
-countertrespass
 curia
 calxes
 clodpoles
