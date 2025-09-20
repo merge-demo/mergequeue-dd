@@ -7625,6 +7625,7 @@ aldide
 assibilated
 aldime
 accepted
+acidulent
 afar
 alditol
 adipomatous
@@ -23589,7 +23590,6 @@ aurore
 aurorian
 aurorium
 algorithm
-acidulent
 additionally
 aleppine
 aurrescu
