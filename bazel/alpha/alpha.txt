@@ -7563,7 +7563,6 @@ absistos
 adaw
 antiromance
 alcoholmeter
-anemogram
 acroter
 abaissed
 alcoholometer
@@ -16958,6 +16957,7 @@ arefaction
 aerophotography
 agranulocyte
 apodal
+anemogram
 apodedeipna
 acrotarsium
 apodeictic
