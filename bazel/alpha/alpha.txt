@@ -5788,7 +5788,6 @@ aggregatively
 amidofluorid
 aggregator
 ackman
-amatol
 antiroll
 anatman
 appropriating
@@ -9096,6 +9095,7 @@ actinomycetal
 artlessness
 axolotl
 almsful
+amatol
 adenohypophysis
 almsmen
 almswoman
