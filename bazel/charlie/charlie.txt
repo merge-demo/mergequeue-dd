@@ -3229,6 +3229,7 @@ capitan
 capitana
 coelenterata
 crenelle
+culvers
 capitasti
 cokers
 capitated
@@ -30948,7 +30949,6 @@ culveriner
 corsesque
 culverkey
 culverkeys
-culvers
 culverwort
 cum
 cants
