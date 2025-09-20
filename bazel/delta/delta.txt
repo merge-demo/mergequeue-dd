@@ -293,6 +293,7 @@ druggery
 digitonin
 dodecatemory
 dreadnaught
+dulias
 durn
 decolourised
 deresinate
@@ -10634,7 +10635,6 @@ diectasis
 dosology
 deviously
 diphenan
-dulias
 defoedation
 drey
 digammated
