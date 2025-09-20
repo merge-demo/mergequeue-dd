@@ -6501,7 +6501,6 @@ dorsifixed
 desmotrope
 disencumberment
 dicynodontia
-diag
 dispossesses
 descendable
 deceivability
@@ -13798,6 +13797,7 @@ diamondizing
 dylan
 digram
 discomposingly
+diag
 dindle
 distain
 distance
