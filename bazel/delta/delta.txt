@@ -6989,6 +6989,7 @@ dikamalli
 dont
 digitron
 dartrous
+disburse
 dignified
 desuetudes
 downfalls
@@ -11310,7 +11311,6 @@ disbursal
 definitively
 dogstail
 dishelming
-disburse
 denominationalist
 deictic
 duckpins
