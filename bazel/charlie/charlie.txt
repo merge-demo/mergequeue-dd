@@ -15831,7 +15831,6 @@ clearhearted
 chott
 chanson
 caddice
-clearinghouse
 congratulating
 clearinghouses
 clearish
@@ -17707,6 +17706,7 @@ creationistic
 choregraphy
 cochleleas
 cochleous
+clearinghouse
 cochlidiid
 catalaunian
 calque
