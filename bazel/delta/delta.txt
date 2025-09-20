@@ -4823,7 +4823,6 @@ demodulating
 designless
 deciares
 deciduoma
-deaconing
 dipsas
 divots
 didus
@@ -17737,6 +17736,7 @@ dedifferentiation
 decanonization
 decolouriser
 defer
+deaconing
 dicarbonate
 dubio
 devot
