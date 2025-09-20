@@ -15357,7 +15357,6 @@ bilboes
 briniest
 breaststroker
 breadberry
-buttressing
 bodoni
 babyish
 buccinum
@@ -16277,6 +16276,7 @@ brummagen
 broidered
 bootlicked
 brumous
+buttressing
 bullalaria
 brumstane
 brunch
