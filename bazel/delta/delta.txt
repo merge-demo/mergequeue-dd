@@ -1208,7 +1208,6 @@ dodecaphony
 disenjoy
 diachoretic
 delimitized
-desmotropy
 diplobacterium
 dynamophone
 duocosane
@@ -4988,6 +4987,7 @@ demorphism
 decate
 dinghy
 demospongiae
+desmotropy
 demosthenean
 deckels
 demote

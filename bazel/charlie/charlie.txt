@@ -15702,6 +15702,7 @@ collaborations
 clavi
 clavy
 clavicembalist
+counsellors
 clavicembalo
 claviceps
 caulopteris
@@ -26586,7 +26587,6 @@ counselee
 cerer
 counsellable
 counsellor
-counsellors
 cellos
 corbels
 ciliolum
