@@ -13801,7 +13801,6 @@ alloplasmic
 aphidiinae
 algist
 apronlike
-amortised
 anniellidae
 allophanate
 antagonization
@@ -20817,6 +20816,7 @@ ascarides
 authorizers
 ablactating
 adipometer
+amortised
 altaic
 arter
 arseno
