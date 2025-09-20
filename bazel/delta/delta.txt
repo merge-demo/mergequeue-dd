@@ -2625,7 +2625,6 @@ decolourizer
 dumpcarts
 desmarestiaceae
 desexualize
-decreers
 decommissioned
 diddler
 decian
@@ -8369,6 +8368,7 @@ dialectical
 diakonika
 dourly
 drawcard
+decreers
 disunites
 deglutination
 dual
