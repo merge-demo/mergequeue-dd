@@ -11703,7 +11703,6 @@ acetyliodide
 avulse
 antiaristocratic
 alypin
-analyzes
 analyzing
 appetibility
 analkalinity
@@ -20438,6 +20437,7 @@ archetype
 anathema
 automatically
 allegorisation
+analyzes
 ametrope
 adventuring
 artesian
