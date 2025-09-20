@@ -11695,6 +11695,7 @@ cholesteric
 calcitrant
 chondre
 chondrenchyma
+cucurbital
 caramelin
 cocomats
 copaliferous
@@ -18789,7 +18790,6 @@ colane
 communist
 choleokinase
 colas
-cucurbital
 catastatic
 colascioni
 colate
