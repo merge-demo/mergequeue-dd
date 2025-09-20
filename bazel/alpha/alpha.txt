@@ -3664,6 +3664,7 @@ adiathermancy
 antioxidase
 akroterial
 alure
+amiray
 arcticologist
 acaridea
 adiathetic
@@ -10609,7 +10610,6 @@ analogic
 amyosthenic
 alighting
 amyotonia
-amiray
 asseveratory
 appendicious
 argos

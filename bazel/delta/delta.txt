@@ -3885,6 +3885,7 @@ dejeuner
 dekagramme
 deductibles
 dortiness
+derogative
 discants
 doggerelize
 depriorize
@@ -17509,7 +17510,6 @@ dimidiate
 demonstrational
 dhobi
 drove
-derogative
 delocalising
 drench
 doorboy
