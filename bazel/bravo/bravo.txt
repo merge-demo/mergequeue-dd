@@ -4790,6 +4790,7 @@ bedtime
 brackens
 bazoos
 buttercups
+bisons
 bath
 brainstorm
 bewrapping
@@ -16555,7 +16556,6 @@ brevet
 bugproof
 bucculae
 butyr
-bisons
 bulanda
 bezetta
 brevicipitid
