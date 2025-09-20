@@ -19385,7 +19385,6 @@ coctoprecipitin
 cow
 colonialize
 chortles
-colonializing
 crystic
 colonially
 cowinners
@@ -31245,6 +31244,7 @@ curari
 computable
 coenospecific
 curarines
+colonializing
 curaris
 cephalopharyngeal
 clitellum
