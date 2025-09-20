@@ -884,7 +884,6 @@ dipneumonous
 dannebrog
 diactinism
 deuteronomistic
-disinvolve
 decumana
 diagnostication
 dori
@@ -6134,6 +6133,7 @@ desc
 demiworld
 derailment
 decocts
+disinvolve
 divvied
 dynapolis
 defalcate
