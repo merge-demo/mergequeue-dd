@@ -15963,7 +15963,6 @@ clergy
 clergyable
 cotoneaster
 clergylike
-cyclos
 clergymen
 chanchito
 circumparallelogram
@@ -27618,6 +27617,7 @@ cowardness
 coinquinate
 collided
 croquette
+cyclos
 convive
 consomm
 cutworks
