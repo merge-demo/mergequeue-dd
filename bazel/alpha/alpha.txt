@@ -3202,6 +3202,7 @@ actorish
 allosyndesis
 antihierarchic
 adamine
+animater
 arborescence
 adamite
 anselmian
@@ -15089,7 +15090,6 @@ antilabor
 antiforeignism
 afrown
 antiformin
-animater
 acanthocephalan
 antifouling
 antihydropin
