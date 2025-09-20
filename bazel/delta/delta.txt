@@ -3924,7 +3924,6 @@ doctorates
 diaplexal
 delabialization
 denigration
-dessertspoonfuls
 demulsification
 delactation
 delayable
@@ -6439,6 +6438,7 @@ decarburisation
 desacralization
 documenter
 defence
+dessertspoonfuls
 drizzled
 drugshop
 dictatrix
