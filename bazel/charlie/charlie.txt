@@ -5451,7 +5451,6 @@ casus
 catabaptist
 contos
 catabases
-cathartidae
 catabasion
 ceros
 curls
@@ -24574,6 +24573,7 @@ cophosis
 chorisos
 copia
 clapped
+cathartidae
 copyboy
 cephalhematoma
 curarization
