@@ -319,6 +319,7 @@ coner
 cradle
 cemented
 cryptology
+characine
 cysticercus
 cacodemonia
 cowtongue
@@ -20624,7 +20625,6 @@ chandelier
 checkerspot
 compellable
 cultirostres
-characine
 cryptopapist
 compelled
 carpogenic
