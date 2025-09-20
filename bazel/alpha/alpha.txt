@@ -4198,6 +4198,7 @@ auctioneers
 antickt
 archbishoprics
 aterian
+avg
 adsmith
 atelectasis
 adsmithing
@@ -24670,7 +24671,6 @@ acephalia
 arised
 avesta
 artisans
-avg
 athalamous
 assenting
 avians
