@@ -16396,6 +16396,7 @@ diarchy
 disruptiveness
 drubs
 duratives
+dactyls
 dorothy
 daffled
 dumpiness
@@ -17907,7 +17908,6 @@ duelist
 duelistic
 disinfest
 durgan
-dactyls
 dinks
 dayflowers
 docible
