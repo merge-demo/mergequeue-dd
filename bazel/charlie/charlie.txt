@@ -6807,7 +6807,6 @@ chanceable
 cellarmen
 casabe
 chirologies
-celled
 centennium
 cellfalcicula
 concaveness
@@ -12995,6 +12994,7 @@ cleeky
 catamnesis
 cotty
 corella
+celled
 coleopteron
 campanulaceae
 clamation
