@@ -17218,7 +17218,6 @@ apostatically
 apostatise
 angiocarpy
 apostatism
-antirennet
 abeam
 agathaea
 aldane
@@ -18483,6 +18482,7 @@ acarophilous
 archaeographic
 archaeographical
 academial
+antirennet
 atokous
 anemologic
 admedian
