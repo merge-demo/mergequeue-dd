@@ -9420,7 +9420,6 @@ chazan
 chazans
 chazanut
 chimonanthus
-chazy
 chrysopidae
 chuting
 circularwise
@@ -12255,6 +12254,7 @@ chrysoprasus
 chasmic
 counteradvice
 chrysops
+chazy
 casement
 chrysopsis
 crispy
