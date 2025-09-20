@@ -1388,6 +1388,7 @@ bnf
 brauronia
 bribable
 baldachino
+backhandedly
 bootle
 bowers
 bodywise
@@ -15686,7 +15687,6 @@ broguer
 batrachophagous
 brogueries
 becaps
-backhandedly
 besonio
 bimester
 blueprinting
