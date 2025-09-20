@@ -8553,6 +8553,7 @@ diapente
 dehydrofreeze
 diet
 dyschromatopsia
+documentable
 duchy
 departmentally
 doughnut
@@ -14927,7 +14928,6 @@ denigratory
 docudramas
 driftweed
 document
-documentable
 dos
 documental
 delimer
