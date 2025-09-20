@@ -6831,6 +6831,7 @@ borons
 burtree
 beseen
 burglariously
+billon
 bajan
 burgundian
 bousoukis
@@ -11747,7 +11748,6 @@ bajocian
 bangs
 bigarade
 boatage
-billon
 baroscopic
 bedecks
 bobsledded
