@@ -1472,7 +1472,6 @@ bisnagas
 bartisans
 balistes
 blatherskite
-battologized
 bloodshedding
 bepuzzle
 balistidae
@@ -13357,6 +13356,7 @@ botels
 bradyphagia
 buhlbuhl
 bothersome
+battologized
 banderol
 bothered
 brender
