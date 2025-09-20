@@ -4299,7 +4299,6 @@ adure
 antipuritan
 adustion
 aulical
-adhere
 absurdities
 adustive
 amang
@@ -17837,6 +17836,7 @@ apostolize
 ablate
 axillae
 appropriations
+adhere
 appropriativeness
 anywise
 algometric
