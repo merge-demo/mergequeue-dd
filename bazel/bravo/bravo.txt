@@ -3929,7 +3929,6 @@ bipedism
 buttonholes
 bridegroom
 beteela
-bdellium
 bdelliums
 bdelloid
 bonnne
@@ -16398,6 +16397,7 @@ bestrode
 brustle
 bridal
 bluntie
+bdellium
 bedlamism
 branchlike
 brutalism
