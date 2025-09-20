@@ -5881,7 +5881,6 @@ bouillabaisse
 belostomidae
 bruta
 boroughmongery
-belotte
 broadening
 benzalcyanhydrin
 beden
@@ -11856,6 +11855,7 @@ bestowals
 bismuthiferous
 bodicemaking
 bodied
+belotte
 becrowding
 bepale
 bodykins
