@@ -7754,6 +7754,7 @@ brochettes
 bradypepsy
 berain
 bottomchrome
+balantidium
 bezante
 biallyl
 bellum
@@ -14873,7 +14874,6 @@ browd
 badju
 bura
 beflum
-balantidium
 bronchoscopy
 bakelite
 baldie
