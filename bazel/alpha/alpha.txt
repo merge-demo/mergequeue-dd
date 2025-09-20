@@ -1143,7 +1143,6 @@ academist
 academite
 academization
 allayed
-assurgency
 ankylotomy
 attractive
 aflame
@@ -24782,6 +24781,7 @@ anginoid
 avoider
 ascribing
 addnl
+assurgency
 actomyosin
 avoids
 afflict
