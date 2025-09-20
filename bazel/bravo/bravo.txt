@@ -8212,6 +8212,7 @@ bistort
 beshiver
 bakehouses
 bifocal
+betimes
 bejumbles
 berith
 berrichonne
@@ -18018,7 +18019,6 @@ betoken
 baptizable
 biologies
 belatticed
-betimes
 beefwood
 bistro
 boast
