@@ -4605,7 +4605,6 @@ barbershops
 bedevilment
 bescarf
 betsileos
-bact
 ballistically
 bedews
 babaylan
@@ -4735,6 +4734,7 @@ bedrizzle
 backpedaled
 bollen
 burriest
+bact
 bougee
 bedroll
 bedrooms
