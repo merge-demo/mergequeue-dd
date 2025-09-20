@@ -643,7 +643,6 @@ damnability
 damnabilities
 disegno
 dawut
-dermatozoon
 deadrize
 disintegrating
 derelinquendi
@@ -11701,6 +11700,7 @@ drunkery
 decametric
 discour
 dimethylanthranilate
+dermatozoon
 daubiest
 designates
 dyotheletian
