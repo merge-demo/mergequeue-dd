@@ -20472,6 +20472,7 @@ colibertus
 cryptamnesia
 compactible
 categorizations
+copyread
 chondrophyte
 compactly
 chondrodynia
@@ -24611,7 +24612,6 @@ carabeen
 copiosity
 copious
 copiousness
-copyread
 casuistically
 checkweighmen
 copyreader
