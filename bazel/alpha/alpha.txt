@@ -11678,7 +11678,6 @@ aggeration
 aurei
 amminolytic
 alod
-amphophilic
 angeleen
 alai
 analyt
@@ -20930,6 +20929,7 @@ anticommutative
 albumenize
 asclepin
 ashpan
+amphophilic
 antiapoplectic
 aerogenesis
 ascocarps

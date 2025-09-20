@@ -10448,7 +10448,6 @@ blueweed
 boneset
 blarnid
 bhutan
-biacuru
 blason
 blasphemed
 blasphemes
@@ -12555,6 +12554,7 @@ bonitary
 beauing
 bistroic
 boroughlet
+biacuru
 bemocks
 bardane
 bonk
