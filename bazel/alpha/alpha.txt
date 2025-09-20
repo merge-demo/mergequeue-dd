@@ -325,7 +325,6 @@ antiminsia
 archiphoneme
 abed
 alarmists
-archinformer
 anandria
 anthophyte
 anguis
@@ -21320,6 +21319,7 @@ amenage
 alluvia
 aliso
 asperate
+archinformer
 adulterers
 andrewartha
 aphthoid
