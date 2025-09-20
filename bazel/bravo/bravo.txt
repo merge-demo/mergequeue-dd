@@ -12486,6 +12486,7 @@ bacquet
 bilberries
 bridesman
 blepharedema
+bonnetman
 bidets
 befavor
 brunizems
@@ -17612,7 +17613,6 @@ bartends
 bellipotent
 burked
 burgundy
-bonnetman
 brushbird
 belletrists
 bacilliform
