@@ -3001,7 +3001,6 @@ churner
 canto
 confederatism
 cortege
-carretela
 capiteaux
 convokes
 colander
@@ -22222,6 +22221,7 @@ cogitatively
 confraternal
 cigala
 confrere
+carretela
 crocheters
 colpeurynter
 confrerie
