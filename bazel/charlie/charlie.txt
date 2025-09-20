@@ -4313,7 +4313,6 @@ chloroamine
 crisper
 catholical
 counterslope
-crum
 caricologist
 carucage
 cowlstaff
@@ -5277,6 +5276,7 @@ climatologic
 cassis
 courtling
 ccws
+crum
 cassius
 cassock
 ctenophora
