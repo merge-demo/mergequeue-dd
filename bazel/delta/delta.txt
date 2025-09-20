@@ -14506,6 +14506,7 @@ ds
 deliveries
 drouk
 douter
+demos
 duumvirate
 dividant
 ditroite
@@ -16094,7 +16095,6 @@ downsize
 disyllable
 decrepitude
 direct
-demos
 didunculinae
 dotter
 doubleheartedness

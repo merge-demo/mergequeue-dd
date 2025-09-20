@@ -9697,6 +9697,7 @@ amante
 auscultation
 augurer
 agst
+awarder
 amanuensis
 ainsell
 arryish
@@ -19344,7 +19345,6 @@ argillaceous
 anmia
 affectively
 amphipodiform
-awarder
 argillic
 aspalathus
 argilliferous
