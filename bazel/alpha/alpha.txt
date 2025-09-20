@@ -11302,7 +11302,6 @@ amplificate
 amplificative
 amplificatory
 accursedly
-amplifying
 amplitude
 aestivating
 amplitudinous
@@ -23026,6 +23025,7 @@ attermined
 acquaintanceship
 atterminement
 apotropaically
+amplifying
 aggressionist
 attest
 amphibology
