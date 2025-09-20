@@ -19271,6 +19271,7 @@ cornhusks
 conjunctives
 clitterclatter
 collotypic
+consistory
 calcic
 clay
 classifier
@@ -28423,7 +28424,6 @@ chattered
 childminder
 creasier
 curiegram
-consistory
 countertype
 creasot
 computing
