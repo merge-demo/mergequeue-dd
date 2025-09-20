@@ -25685,7 +25685,6 @@ correspond
 charcutiers
 correspondence
 correspondency
-correspondent
 composedness
 correspondential
 correspondently
@@ -29604,6 +29603,7 @@ cognizer
 convulsiveness
 confrontationism
 cruth
+correspondent
 chronol
 counteraffirm
 cuprum
