@@ -10631,7 +10631,6 @@ cabalistically
 cashbook
 catogene
 chylopoiesis
-colporteurs
 coagulum
 chilostomatous
 chylous
@@ -16066,6 +16065,7 @@ carageen
 clich
 cliche
 cryopathy
+colporteurs
 cliches
 click
 clicked
