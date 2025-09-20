@@ -6469,6 +6469,7 @@ aikinite
 agenes
 arbitrarily
 afterknowledge
+anostosis
 achromatised
 aile
 ambulatorium
@@ -7869,7 +7870,6 @@ alexandrine
 allower
 alexandrite
 apexing
-anostosis
 accadian
 altruistically
 agriculturist
