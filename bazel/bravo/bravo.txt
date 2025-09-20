@@ -1075,6 +1075,7 @@ buzzards
 befreeze
 bailors
 birdlimed
+brittled
 boyer
 bestraddle
 borosalicylate
@@ -1784,7 +1785,6 @@ bam
 bucklum
 bambino
 beauts
-brittled
 bamban
 bamboozlement
 bypath
