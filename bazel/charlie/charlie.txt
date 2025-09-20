@@ -15354,6 +15354,7 @@ clangs
 cystathionine
 critter
 contrastimulation
+connoisseur
 calluses
 clanjamfrey
 calamondin
@@ -27681,7 +27682,6 @@ ciconiae
 chamaesyce
 cowier
 camino
-connoisseur
 cowiest
 carnage
 cowing
