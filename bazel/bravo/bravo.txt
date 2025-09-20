@@ -1342,7 +1342,6 @@ benzoylated
 bate
 beflowered
 binational
-balanorrhagia
 bottine
 balantidic
 balaos
@@ -6531,6 +6530,7 @@ booming
 berylloid
 breadnut
 baryglossia
+balanorrhagia
 blotter
 bluff
 broquineer
