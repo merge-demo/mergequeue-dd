@@ -1296,6 +1296,7 @@ bonze
 bedim
 bedstead
 bardie
+babydom
 balanceable
 brewst
 bafflements
@@ -3269,7 +3270,6 @@ blushfulness
 basilicock
 basilidian
 brome
-babydom
 baboon
 bitting
 birder
