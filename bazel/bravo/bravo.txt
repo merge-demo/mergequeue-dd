@@ -9164,6 +9164,7 @@ bourbonesque
 bipedality
 bipeds
 bipeltate
+battarism
 bipennate
 bevor
 baldrics
@@ -15602,7 +15603,6 @@ bienseance
 bands
 bogglebo
 barbering
-battarism
 brunonia
 banatite
 broadlooms
