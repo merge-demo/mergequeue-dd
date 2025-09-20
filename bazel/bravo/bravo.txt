@@ -13077,7 +13077,6 @@ backsetting
 burdash
 balladeer
 bannister
-brawnier
 biopsy
 boodleism
 bernice
@@ -13689,6 +13688,7 @@ buchanan
 beknotted
 bleary
 bombination
+brawnier
 betallow
 bezonian
 boid
