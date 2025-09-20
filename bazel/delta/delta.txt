@@ -11916,6 +11916,7 @@ defrosters
 diamondized
 dhunchi
 decollimate
+dater
 disequilibration
 disease
 dentalisation
@@ -15829,7 +15830,6 @@ dandriff
 diaxonic
 dithyrambus
 disyntheme
-dater
 dicht
 delays
 doggedly
