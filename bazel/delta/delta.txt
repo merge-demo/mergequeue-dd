@@ -2849,7 +2849,6 @@ daedalist
 dishwatery
 devotions
 drail
-drepanis
 dronet
 didunculidae
 decurion
@@ -6369,6 +6368,7 @@ dermotropic
 dastardliness
 defined
 dissceptered
+drepanis
 djinny
 davies
 demurrable
