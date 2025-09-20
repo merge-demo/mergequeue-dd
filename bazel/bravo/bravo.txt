@@ -16864,6 +16864,7 @@ bloodstained
 bockey
 batis
 begirded
+bewray
 bondelswarts
 bolag
 bedewoman
@@ -17264,7 +17265,6 @@ banderoling
 bolsons
 bibliopegically
 bihari
-bewray
 beautified
 brennage
 bechance
