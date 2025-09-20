@@ -393,7 +393,6 @@ backhand
 backhandedness
 brinjarry
 baryphony
-brewery
 brachypodous
 bovarist
 backhaul
@@ -4712,6 +4711,7 @@ bypasses
 beaterman
 backwinding
 bauds
+brewery
 bedrails
 bedraped
 bedraping
