@@ -3468,7 +3468,6 @@ basto
 baguios
 bucklandite
 beshamed
-bovine
 basural
 bovarism
 basuto
@@ -11345,6 +11344,7 @@ bejewel
 besoothe
 benmost
 beguilements
+bovine
 bakeapple
 bendingly
 blockmaking
