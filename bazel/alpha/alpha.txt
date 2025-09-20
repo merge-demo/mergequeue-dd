@@ -11106,7 +11106,6 @@ arendator
 arbustum
 artefact
 acoustical
-amphichrom
 amphichromy
 amphicyon
 apocryphal
@@ -12698,6 +12697,7 @@ angletouch
 anthraxylon
 angletwitch
 amadavats
+amphichrom
 achronism
 allays
 anglewise
