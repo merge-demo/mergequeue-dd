@@ -4260,7 +4260,6 @@ bebathe
 bryonin
 batteries
 beblooding
-bluestockingism
 boustrophedon
 bebloods
 basurale
@@ -4829,6 +4828,7 @@ biodegrade
 barretry
 baikalite
 blackwashing
+bluestockingism
 boucl
 bedwarfing
 bubukle
