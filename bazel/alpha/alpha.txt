@@ -862,6 +862,7 @@ absoil
 absterging
 antient
 amphitron
+artou
 absolent
 azophosphin
 apophlegmatic
@@ -12195,7 +12196,6 @@ andreaeales
 andreas
 anhematopoiesis
 airfields
-artou
 andrena
 anopluriform
 allumine
