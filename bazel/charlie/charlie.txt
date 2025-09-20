@@ -4234,6 +4234,7 @@ commerce
 casaba
 caretake
 caretaker
+congress
 caretaking
 chastisers
 caretook
@@ -22381,7 +22382,6 @@ congregations
 conciator
 congregative
 congreso
-congress
 circumpentagon
 canted
 calcaria
