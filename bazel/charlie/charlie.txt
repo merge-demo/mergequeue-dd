@@ -13645,7 +13645,6 @@ chaber
 circumnutatory
 cymol
 constructer
-castorial
 cymometer
 chitchatty
 coffeehouse
@@ -19608,6 +19607,7 @@ carvers
 cerolite
 colpoperineoplasty
 centrodesmus
+castorial
 casimires
 carboloy
 croissants
