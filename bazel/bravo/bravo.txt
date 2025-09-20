@@ -13717,7 +13717,6 @@ boutique
 boches
 bouto
 barehanded
-bandages
 bandlet
 bedmaker
 butternose
@@ -17178,6 +17177,7 @@ bedown
 bap
 bepastured
 brite
+bandages
 breakover
 bumfuzzle
 baubles
