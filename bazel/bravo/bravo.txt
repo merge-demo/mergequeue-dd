@@ -3008,6 +3008,7 @@ bakeshops
 blasphemer
 backhatch
 becowarding
+boroughship
 brains
 bonnock
 blarneyer
@@ -4977,7 +4978,6 @@ bowlines
 blackfins
 bhowani
 beetiest
-boroughship
 bombernickel
 banqueteer
 bypass
