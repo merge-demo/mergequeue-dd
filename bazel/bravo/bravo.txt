@@ -6471,7 +6471,6 @@ biliously
 breezeful
 balinese
 balaenoid
-blackheartedness
 bolar
 browis
 berakah
@@ -11153,6 +11152,7 @@ blooding
 bestain
 blunker
 brawniest
+blackheartedness
 burglarise
 benevolently
 bloodlusting
