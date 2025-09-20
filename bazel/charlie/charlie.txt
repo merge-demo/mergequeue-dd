@@ -3807,6 +3807,7 @@ cacophonical
 carbonify
 clept
 chewbark
+cormac
 carbonification
 cdg
 chigger
@@ -25255,7 +25256,6 @@ cpo
 corkwing
 coenenchymata
 commissions
-cormac
 cormel
 concetto
 copulations
