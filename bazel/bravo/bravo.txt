@@ -805,7 +805,6 @@ broadaxes
 boothose
 batrachophobia
 braky
-benignness
 blake
 boltage
 baffies
@@ -6473,6 +6472,7 @@ belga
 buckeyes
 beray
 buster
+benignness
 bushelful
 biliously
 breezeful
