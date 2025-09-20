@@ -8039,7 +8039,6 @@ algorismic
 autocollimate
 archaean
 albino
-autecological
 antipyic
 algorithmic
 ananda
@@ -12873,6 +12872,7 @@ anhyd
 allodially
 anhydraemia
 anhydraemic
+autecological
 antikinase
 ahet
 anhydration
