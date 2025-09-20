@@ -8033,6 +8033,7 @@ behemothic
 biconic
 biconically
 boildown
+blazonment
 banyoro
 barenesses
 bayberry
@@ -10601,7 +10602,6 @@ bisti
 benzothiazole
 belemnite
 ballarag
-blazonment
 bouquet
 bladders
 blazonry
