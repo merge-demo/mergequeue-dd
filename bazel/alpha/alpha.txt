@@ -4372,7 +4372,6 @@ acloud
 amphierotism
 aggerose
 apportionable
-arvo
 adverbiation
 adversatively
 ambushed
@@ -15477,6 +15476,7 @@ antinomical
 antinomies
 ailment
 acoustics
+arvo
 aneled
 antinormality
 antinormalness
