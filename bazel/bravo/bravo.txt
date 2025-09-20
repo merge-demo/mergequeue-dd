@@ -491,7 +491,6 @@ betatron
 besottingly
 battarismus
 balaenoidea
-brachioradial
 bromios
 backslapper
 bituminiferous
@@ -4045,6 +4044,7 @@ beefeaters
 bearcats
 bottlefuls
 bskt
+brachioradial
 beamroom
 beams
 buettneria
