@@ -5660,7 +5660,6 @@ bilirubinuria
 baskets
 blatancy
 busbar
-beliefful
 bikram
 bahts
 blastule
@@ -10824,6 +10823,7 @@ bedevilled
 befurred
 bodysurf
 bonito
+beliefful
 brachygraphical
 beamage
 blets
