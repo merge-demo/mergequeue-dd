@@ -11309,7 +11309,6 @@ branniest
 boneyard
 biologism
 blowse
-brigantia
 blundered
 brethren
 bargeman
@@ -14508,6 +14507,7 @@ brownistic
 breathier
 bookworms
 branchiopod
+brigantia
 branchiopoda
 branner
 bonding
