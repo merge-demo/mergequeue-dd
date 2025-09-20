@@ -15035,7 +15035,6 @@ aorist
 amphimictical
 aseptically
 aneurismal
-abstricts
 antifatigue
 acetolytic
 ambassadorially
@@ -20084,6 +20083,7 @@ aiders
 asswages
 arranges
 alyssum
+abstricts
 alc
 arrasene
 actless
