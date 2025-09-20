@@ -1138,7 +1138,6 @@ drummed
 drawnet
 dumpfile
 dreamful
-diplomatical
 dasheen
 destructional
 deiparous
@@ -15500,6 +15499,7 @@ dynamize
 dominae
 divinityship
 delineament
+diplomatical
 derisions
 deforceor
 desperacy
