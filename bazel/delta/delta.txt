@@ -3689,7 +3689,6 @@ dehydrogenate
 dawtet
 distillable
 dungier
-disentangled
 designlessness
 devisable
 dehydrogenisation
@@ -15741,6 +15740,7 @@ dowieism
 delacerate
 didascaliae
 diobely
+disentangled
 dracunculus
 devilishly
 doozies
