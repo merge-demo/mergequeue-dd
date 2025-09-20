@@ -8117,7 +8117,6 @@ anopsy
 acerous
 alienage
 alienated
-allactite
 aliene
 acroamatical
 alienee
@@ -13032,6 +13031,7 @@ articulare
 accretionary
 anesthetize
 amaltas
+allactite
 animo
 academizing
 anteromedial
