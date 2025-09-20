@@ -2844,7 +2844,6 @@ dys
 denticles
 dictyopteris
 decumbent
-disfurnishment
 dugdug
 danais
 diphthongising
@@ -13625,6 +13624,7 @@ deadeye
 decentralizationist
 dandyishly
 doucin
+disfurnishment
 detachs
 diplosis
 deplorableness
