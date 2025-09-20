@@ -7793,6 +7793,7 @@ brooklyn
 bumble
 bazaars
 bicephalous
+biome
 bogman
 biface
 bark
@@ -8976,7 +8977,6 @@ bacterioagglutinin
 biomathematics
 bromism
 bets
-biome
 biomechanical
 begrims
 brilliancy
