@@ -19616,6 +19616,7 @@ carboloy
 croissants
 convenientness
 colpoplasty
+commands
 colpoptosis
 colporrhagia
 colporrhaphy
@@ -24319,7 +24320,6 @@ counterexample
 cnidaria
 cooees
 catchpoleship
-commands
 cooey
 complements
 cooeys
