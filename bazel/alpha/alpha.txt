@@ -21223,6 +21223,7 @@ anoli
 adamantly
 antepalatal
 asecretory
+avahi
 armorproof
 asyngamy
 anconeous
@@ -25336,7 +25337,6 @@ azoprotein
 anoplotheriidae
 abbroachment
 anagrammatization
-avahi
 afric
 abolitionising
 azorite
