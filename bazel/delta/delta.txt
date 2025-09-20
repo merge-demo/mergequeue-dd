@@ -12252,6 +12252,7 @@ disfurnish
 dangerless
 desulfurating
 disproportionation
+downthrown
 duxelles
 deathshot
 disfurniture
@@ -16435,7 +16436,6 @@ duodecane
 discontinuing
 dewret
 downtrend
-downthrown
 duodecagon
 distractedness
 doubletree
