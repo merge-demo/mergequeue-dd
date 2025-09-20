@@ -2278,7 +2278,6 @@ disdain
 disthroning
 deflex
 durian
-domineerer
 demnition
 dowset
 dyewoods
@@ -9030,6 +9029,7 @@ daler
 dinucleotide
 dunned
 doublehanded
+domineerer
 dezinc
 dodecuplet
 dicodeine
