@@ -2547,6 +2547,7 @@ driblets
 dromotropic
 declinational
 dimmed
+delicate
 dynasty
 declinatory
 declines
@@ -4035,7 +4036,6 @@ debruised
 dermol
 dismalest
 disvantage
-delicate
 depauperate
 disposingly
 deathrates
