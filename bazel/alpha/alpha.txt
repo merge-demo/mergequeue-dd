@@ -9051,6 +9051,7 @@ almerian
 aphesis
 appointments
 ardeae
+applicable
 arizonite
 acontia
 alpigene
@@ -17631,7 +17632,6 @@ arumlike
 anthropomorphite
 aspirators
 arenous
-applicable
 applicableness
 asilid
 acuclosure
