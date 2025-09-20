@@ -12675,7 +12675,6 @@ cider
 cargued
 comedown
 chuckingly
-chuckle
 chucklehead
 complection
 conjugateness
@@ -23229,6 +23228,7 @@ cardioscope
 constrict
 claudio
 castors
+chuckle
 consperg
 cromlechs
 constricted
