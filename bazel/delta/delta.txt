@@ -6669,6 +6669,7 @@ dipneedle
 danders
 draconites
 deserving
+devitalised
 diorite
 despisedness
 droiturel
@@ -11829,7 +11830,6 @@ dormitary
 discrowns
 doa
 daydreamed
-devitalised
 defibrillate
 defiler
 discruciate
