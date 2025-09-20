@@ -2470,7 +2470,6 @@ diplodocus
 docetae
 decision
 dnieper
-defeatists
 dozing
 decisional
 decisis
@@ -15992,6 +15991,7 @@ dossels
 decapodiform
 dosseret
 dilater
+defeatists
 dempster
 dosses
 dissenter
