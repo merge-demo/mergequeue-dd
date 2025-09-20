@@ -3596,6 +3596,7 @@ blackeye
 batholithic
 batholiths
 balconet
+beneficently
 barkentine
 bathometer
 brutalizing
@@ -9517,7 +9518,6 @@ barbal
 beltie
 braireau
 bedismal
-beneficently
 bracon
 biscuitroot
 burnets
