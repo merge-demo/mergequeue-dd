@@ -1349,7 +1349,6 @@ caliginosity
 caliginous
 caliginously
 cyanin
-cunctipotent
 cylindrical
 cabbling
 caligrapher
@@ -14637,6 +14636,7 @@ criminology
 cystis
 circulates
 cystitides
+cunctipotent
 cystitis
 correlated
 chronologists
