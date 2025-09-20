@@ -2750,7 +2750,6 @@ bonneting
 bibber
 bukeyef
 barology
-barolong
 bombax
 barometers
 beefy
@@ -17613,6 +17612,7 @@ biogenic
 belady
 blowier
 barrelfish
+barolong
 bartends
 bellipotent
 burked
