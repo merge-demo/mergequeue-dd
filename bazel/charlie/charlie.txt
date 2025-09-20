@@ -21977,6 +21977,7 @@ chamberwoman
 chillers
 confervae
 conferval
+counterweight
 cows
 combe
 cavalero
@@ -27201,7 +27202,6 @@ chlorhydrate
 catbird
 coetus
 counterweigh
-counterweight
 counterweights
 counterwheel
 counterwilling
