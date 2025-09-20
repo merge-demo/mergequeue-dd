@@ -19642,7 +19642,6 @@ arithmancy
 adglutinate
 arenose
 autophthalmoscope
-albarellos
 antechurch
 astigmias
 araeostyle
@@ -21808,6 +21807,7 @@ adsorb
 approachable
 alternat
 alaternus
+albarellos
 aminolipin
 assoils
 assonanced
