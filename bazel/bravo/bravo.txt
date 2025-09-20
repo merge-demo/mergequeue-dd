@@ -6986,7 +6986,6 @@ birle
 bowingly
 bookbinder
 beryciform
-blepharedema
 balantidiosis
 brideknot
 baccae
@@ -12494,6 +12493,7 @@ broncholith
 bacquet
 bilberries
 bridesman
+blepharedema
 bidets
 befavor
 brunizems
