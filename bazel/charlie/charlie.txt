@@ -2614,7 +2614,6 @@ carbylamine
 caneology
 cyanurine
 canephorae
-copsing
 canephore
 canepin
 cheeseflower
@@ -17918,6 +17917,7 @@ codifiers
 codifies
 codifying
 cephid
+copsing
 converging
 codille
 conoidically
