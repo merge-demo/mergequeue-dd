@@ -1543,7 +1543,6 @@ arbuscule
 acetylbenzoic
 alectrionidae
 accrual
-amatorian
 accouche
 abbreviate
 arclength
@@ -21721,6 +21720,7 @@ aristol
 angularly
 agronomist
 amowt
+amatorian
 autometamorphosis
 assyriologue
 antitubercular
