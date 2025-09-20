@@ -1695,7 +1695,6 @@ capillariomotor
 conceptualised
 cowleeching
 cortes
-copperah
 clockkeeper
 cohabiter
 corneine
@@ -11710,6 +11709,7 @@ chondrilla
 chondrinous
 coeternal
 cirrhotic
+copperah
 chondrioma
 chondriomere
 countercultural
