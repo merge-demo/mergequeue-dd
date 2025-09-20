@@ -422,7 +422,6 @@ abying
 adenophoreus
 abilao
 ability
-anomaly
 abilo
 ankylotome
 arugolas
@@ -21245,6 +21244,7 @@ askip
 antepaschal
 asklent
 asklepios
+anomaly
 askos
 advocatrice
 airless

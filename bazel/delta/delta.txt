@@ -8872,7 +8872,6 @@ dialecticize
 dibstone
 deis
 degustation
-disapprobatory
 discoverer
 dibutyrin
 debituminize
@@ -18256,6 +18255,7 @@ dumbfish
 doxologize
 decrystallization
 djakarta
+disapprobatory
 dictery
 dipody
 darts
