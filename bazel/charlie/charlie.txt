@@ -3554,7 +3554,6 @@ charadriiform
 carabaos
 cowgirl
 cloakless
-carabidae
 checkle
 carabidan
 clupein
@@ -21256,6 +21255,7 @@ counterplease
 conceptualism
 conceptualist
 cruppers
+carabidae
 contingentness
 contrasted
 cricoidectomy
