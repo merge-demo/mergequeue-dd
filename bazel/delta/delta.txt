@@ -6775,6 +6775,7 @@ demonlike
 dendroceratina
 drafts
 detachments
+dioecian
 desinent
 dispend
 dallying
@@ -10273,7 +10274,6 @@ demophobe
 dioecy
 demandingly
 downfold
-dioecian
 disclout
 duodenal
 disagreeance
