@@ -12927,7 +12927,6 @@ bialy
 brocades
 bootlessly
 balao
-botryopterid
 bluefish
 burins
 blackest
@@ -17966,6 +17965,7 @@ bankruptcies
 businesslikeness
 blanketeer
 berettas
+botryopterid
 brutification
 bluehearts
 beerily
