@@ -2083,7 +2083,6 @@ decahedron
 degamis
 dentatocrenate
 dayward
-decahedrons
 dominical
 decahydronaphthalene
 drooled
@@ -6034,6 +6033,7 @@ dermatonosus
 disdaining
 drawarm
 depthways
+decahedrons
 disoccupy
 disjeune
 dandered
