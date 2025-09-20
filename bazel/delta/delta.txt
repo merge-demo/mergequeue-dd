@@ -14298,7 +14298,6 @@ draisene
 doorways
 ditolyl
 disharmonies
-duds
 ditriglyphic
 distend
 delating
@@ -17599,6 +17598,7 @@ disavowal
 distained
 duteousness
 drumming
+duds
 dromos
 demential
 dippier
