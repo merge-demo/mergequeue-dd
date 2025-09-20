@@ -16337,7 +16337,6 @@ anuretic
 anury
 alose
 anuria
-acceptive
 anuric
 amoraic
 arctoidea
@@ -21887,6 +21886,7 @@ astable
 astacian
 astacidae
 astay
+acceptive
 anisometropic
 accrete
 agricultor
