@@ -4619,7 +4619,6 @@ chinas
 cholangitis
 companero
 comptoir
-consolan
 carotinemia
 cronying
 cholecystoduodenostomy
@@ -30483,6 +30482,7 @@ cahokia
 corozos
 cubane
 cubangle
+consolan
 cubanite
 contraclockwise
 conciliar
