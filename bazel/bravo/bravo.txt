@@ -9170,6 +9170,7 @@ baldrics
 braziletto
 built
 benzothiopyran
+brumal
 bipetalous
 bellic
 bucciniform
@@ -15242,7 +15243,6 @@ bridgework
 bridie
 biological
 barhal
-brumal
 bridlers
 blepharitic
 boredom
