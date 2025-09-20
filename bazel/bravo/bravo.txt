@@ -2489,7 +2489,6 @@ bricky
 bultow
 blurriest
 bandelet
-barfish
 billbugs
 bathyhyperesthesia
 beechwoods
@@ -13086,6 +13085,7 @@ bombylious
 basehearted
 baronnes
 barajillo
+barfish
 brisk
 battutos
 benevolent
