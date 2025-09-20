@@ -8316,7 +8316,6 @@ disordeine
 dendra
 dicatalexis
 demonization
-diagonial
 diagonic
 drum
 diagram
@@ -11718,6 +11717,7 @@ diastasis
 domdaniel
 discourses
 diovular
+diagonial
 decoagulate
 distritbute
 dehumidification
