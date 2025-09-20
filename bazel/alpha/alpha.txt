@@ -2475,7 +2475,6 @@ aecidia
 acorus
 annunciative
 autoformation
-athecata
 acost
 aircoach
 accustomizing
@@ -23411,6 +23410,7 @@ axoplasmic
 advents
 algedi
 auld
+athecata
 aulder
 auldest
 auletes
