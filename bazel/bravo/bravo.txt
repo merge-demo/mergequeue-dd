@@ -835,6 +835,7 @@ bedene
 barmbrack
 barragon
 breakaxe
+bewinged
 bouleversement
 baffs
 becomingly
@@ -7536,7 +7537,6 @@ bribri
 bridgeway
 bibliotaphe
 bewilderment
-bewinged
 bewitched
 bewitcher
 bondswomen
