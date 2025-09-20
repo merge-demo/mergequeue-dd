@@ -4402,7 +4402,6 @@ dispersedness
 dinical
 demaree
 dying
-distends
 demarkation
 deciduate
 daggerbush
@@ -17711,6 +17710,7 @@ declamatoriness
 dichotomistic
 downlying
 dindymene
+distends
 dopiness
 democratifiable
 duodenojejunal
