@@ -17301,7 +17301,6 @@ acceptably
 autotrophy
 alhambresque
 apothecaryship
-archosyrinx
 agillawood
 antiadiaphorist
 afret
@@ -21430,6 +21429,7 @@ aminoquinoline
 afterroll
 archaeolatry
 anatomicopathologic
+archosyrinx
 autobiographal
 arusa
 acetylhydrazine

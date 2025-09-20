@@ -6237,7 +6237,6 @@ burying
 benthamism
 burglarproof
 benthic
-barbar
 bagfuls
 benthonic
 bevors
@@ -18253,6 +18252,7 @@ bedlamize
 bronzier
 butternuts
 batea
+barbar
 bitt
 bunuelo
 bde
