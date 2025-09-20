@@ -1167,6 +1167,7 @@ buffeter
 ballard
 baiting
 baywoods
+betroths
 bodhisat
 broodier
 ballasting
@@ -7369,7 +7370,6 @@ burglarproofed
 betrend
 braveries
 betrothing
-betroths
 betrousered
 betrust
 besmiles
