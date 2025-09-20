@@ -1869,6 +1869,7 @@ cambridge
 catostomidae
 chaumer
 cajava
+campanology
 cambuca
 cambuscan
 camel
@@ -2054,7 +2055,6 @@ counterponderate
 clachs
 campanologer
 colport
-campanology
 croaker
 campanological
 conjunctly
