@@ -3080,6 +3080,7 @@ baleful
 brainwashing
 bimetal
 beeswings
+batiked
 bejelled
 bakerite
 ballon
@@ -3237,7 +3238,6 @@ buckleless
 basidiosporous
 bundy
 billman
-batiked
 bodiless
 bellowslike
 bathtub
