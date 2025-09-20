@@ -19059,6 +19059,7 @@ amortizable
 acheer
 arctiid
 allokurtic
+autotelegraph
 arctium
 arctoidean
 arctos
@@ -24383,7 +24384,6 @@ autosuggestionist
 afflatuses
 adversarious
 autosuppression
-autotelegraph
 antiserum
 autonavigators
 autoanticomplement
