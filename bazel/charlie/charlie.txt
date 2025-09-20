@@ -14502,6 +14502,7 @@ cyrtoceras
 chergui
 ceratitis
 courantos
+charbroiled
 cyrtometer
 calcavella
 cyrtopia
@@ -17987,7 +17988,6 @@ coelect
 cystonephrosis
 cloacean
 cephalomyitis
-charbroiled
 copulable
 chololith
 captiving
