@@ -5611,7 +5611,6 @@ dacelo
 dismoded
 defrauded
 discouraging
-duddy
 dei
 desaturation
 depaint
@@ -17492,6 +17491,7 @@ daneweeds
 droughts
 dominium
 deskill
+duddy
 dermatographic
 damascener
 dentiroster
