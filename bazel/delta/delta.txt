@@ -6011,7 +6011,6 @@ daunii
 diagraphics
 diamagnetize
 diagrammitically
-depthlessness
 disconfirm
 diobols
 delimiting
@@ -7694,6 +7693,7 @@ dekadrachm
 developing
 didelphis
 development
+depthlessness
 developmental
 decompressions
 disavowment
