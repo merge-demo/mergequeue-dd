@@ -7750,6 +7750,7 @@ ascella
 appropriates
 alembic
 aurata
+autoallogamy
 abolishes
 amylolytic
 appmt
@@ -18862,7 +18863,6 @@ affine
 autoschediastically
 ammelin
 architectress
-autoallogamy
 alidade
 amorality
 afterplanting
