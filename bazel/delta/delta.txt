@@ -88,6 +88,7 @@ demoralizer
 demodicidae
 demeritoriously
 dictyodromous
+desmodont
 dactyliotheca
 digladiator
 deltal
@@ -2880,7 +2881,6 @@ dedanite
 dedd
 desoxyribonucleoprotein
 divide
-desmodont
 duodecimomos
 dedicant
 dedicatee
