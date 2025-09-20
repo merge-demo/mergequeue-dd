@@ -6836,6 +6836,7 @@ contangoes
 chauldron
 cosignitary
 cuddly
+coarsest
 cryptesthesia
 conscientiousness
 curares
@@ -24612,7 +24613,6 @@ copious
 copiousness
 copyread
 casuistically
-coarsest
 checkweighmen
 copyreader
 curiosos
