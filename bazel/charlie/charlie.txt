@@ -18811,7 +18811,6 @@ canaliculation
 conquistador
 colatitude
 colazione
-colberter
 colbertine
 corinthianism
 connumerate
@@ -30954,6 +30953,7 @@ cants
 crystallizing
 cumay
 cotranslator
+colberter
 currack
 cumal
 cytozoic
