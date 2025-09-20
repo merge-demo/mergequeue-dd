@@ -16634,6 +16634,7 @@ chapeaus
 circut
 cylindrosporium
 clonos
+cultism
 carangus
 clonus
 cloof
@@ -30891,7 +30892,6 @@ cultigens
 cystogenous
 cerasin
 carboyed
-cultism
 cubbyholes
 crassulaceous
 coralflower
