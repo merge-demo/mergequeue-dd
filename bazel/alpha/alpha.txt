@@ -6237,7 +6237,6 @@ atelene
 adonai
 agronomists
 aberrate
-antieducationally
 arapaimas
 agrostemma
 agrosteral
@@ -8158,6 +8157,7 @@ aliferous
 aliform
 autoconvection
 assurers
+antieducationally
 aligerous
 akcheh
 anconagra
