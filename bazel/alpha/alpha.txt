@@ -12208,6 +12208,7 @@ abnormally
 acquaintant
 astilbe
 awestrike
+apheses
 acervuli
 androcephalous
 amorettos
@@ -16619,7 +16620,6 @@ amphithalami
 aphengoscope
 aphenoscope
 apheresis
-apheses
 asclepius
 asmile
 algarsyf
