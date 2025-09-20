@@ -4763,7 +4763,6 @@ completion
 carport
 carpos
 chibouk
-coursy
 catalase
 carlist
 cocash
@@ -15109,6 +15108,7 @@ clabularium
 convoking
 clach
 chlorogenine
+coursy
 clackama
 cellblock
 chinsed
