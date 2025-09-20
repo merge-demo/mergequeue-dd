@@ -3760,7 +3760,6 @@ adjoinedly
 aflagellar
 analphabetism
 amalgamating
-adjoiner
 anapaestic
 allioniaceae
 adjoints
@@ -6043,6 +6042,7 @@ agonic
 axillas
 agonistarch
 agonistics
+adjoiner
 agonize
 ajoure
 archduchess
