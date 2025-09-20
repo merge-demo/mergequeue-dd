@@ -9705,6 +9705,7 @@ bistred
 bindheimite
 beknights
 bradylexia
+boedromion
 beetler
 bascunan
 baronetage
@@ -11888,7 +11889,6 @@ bodiliness
 baalite
 beylik
 bouillons
-boedromion
 bovovaccine
 bifurcation
 ballottine
