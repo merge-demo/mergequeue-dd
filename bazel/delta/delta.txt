@@ -17863,7 +17863,6 @@ demure
 drinkable
 darrell
 devaluations
-ductor
 demonstrability
 ductules
 drawlatch
@@ -17924,6 +17923,7 @@ deterministically
 deteriorations
 duenesses
 discandy
+ductor
 disserted
 droyl
 duer
