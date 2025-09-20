@@ -5981,6 +5981,7 @@ alkes
 agnathostomata
 advenient
 agnatical
+alcabala
 ascended
 amoreuxia
 abatable
@@ -7944,7 +7945,6 @@ agatiform
 algarroba
 antennarius
 alpestrian
-alcabala
 algarrobilla
 antimethodicalness
 absented
