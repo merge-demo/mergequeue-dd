@@ -6504,6 +6504,7 @@ ally
 abasio
 ailurophilic
 affirmation
+antisnob
 akinesic
 anhalonidine
 atangle
@@ -13340,7 +13341,6 @@ annihil
 amphierotic
 avengement
 agramed
-antisnob
 annihilationistic
 annihilationistical
 altimetry
