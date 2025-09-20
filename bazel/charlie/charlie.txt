@@ -19625,7 +19625,6 @@ congresswoman
 colters
 chasid
 coltishly
-coltlike
 calicos
 clubbier
 coltsfoot
@@ -30959,6 +30958,7 @@ cotranslator
 currack
 cumal
 cytozoic
+coltlike
 caterpillarlike
 cumaphyte
 cumaphytic
