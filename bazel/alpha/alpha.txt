@@ -3889,7 +3889,6 @@ administrates
 alabastrons
 administrational
 administrative
-affixion
 administratively
 administratrices
 aetobatus
@@ -17134,6 +17133,7 @@ apophyseal
 anatifa
 apophysis
 autopsying
+affixion
 ailurophobia
 apophlegm
 appointe
