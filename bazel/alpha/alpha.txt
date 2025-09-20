@@ -9870,7 +9870,6 @@ antares
 absorptance
 antisepticise
 adirondack
-armatured
 aperu
 agrufe
 albinuria
@@ -21485,6 +21484,7 @@ annexes
 aspredo
 apostoless
 arctamerican
+armatured
 apathy
 anticytolysin
 asprout
