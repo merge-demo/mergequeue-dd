@@ -1613,7 +1613,6 @@ belat
 biradial
 britches
 burgher
-burgundies
 binate
 bedpans
 ballista
@@ -16913,6 +16912,7 @@ bonhomously
 barometrograph
 bowedness
 bouvier
+burgundies
 blazoner
 beeping
 bunching
