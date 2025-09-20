@@ -11012,7 +11012,6 @@ chirrup
 captions
 chirrupy
 chirrupper
-combustor
 chirt
 chirurgeon
 crimean
@@ -18117,6 +18116,7 @@ chiromancy
 condensational
 carats
 calisaya
+combustor
 cheepily
 cellated
 coenamourment
