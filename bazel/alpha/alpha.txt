@@ -6931,6 +6931,7 @@ akhissar
 agaricin
 abnerval
 akhundzada
+auscultative
 afterfermentation
 auxotox
 abantes
@@ -16167,7 +16168,6 @@ acetometer
 antitypous
 asphalt
 anthochlor
-auscultative
 antitonic
 altschin
 antiferment
