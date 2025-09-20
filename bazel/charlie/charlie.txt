@@ -11580,6 +11580,7 @@ cental
 cace
 choledochostomies
 chukars
+congelation
 closured
 choledochotomies
 choicier
@@ -25673,7 +25674,6 @@ correspond
 charcutiers
 correspondence
 correspondency
-congelation
 correspondent
 composedness
 correspondential
