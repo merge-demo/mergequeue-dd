@@ -11305,7 +11305,6 @@ chlorofluorocarbon
 chlorofluoromethane
 ceylanite
 chloroformate
-capillarectasia
 chloroformic
 conged
 crapaudine
@@ -26209,6 +26208,7 @@ costed
 consultatory
 clutters
 costellate
+capillarectasia
 collectible
 cravenness
 creepiest
