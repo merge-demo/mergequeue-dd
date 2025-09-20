@@ -15599,6 +15599,7 @@ athyreosis
 actipylea
 apodeme
 algesimeter
+argilliferous
 antipeduncular
 algebra
 atlantica
@@ -19349,7 +19350,6 @@ amphipodiform
 awarder
 argillic
 aspalathus
-argilliferous
 apperception
 archoptoma
 aridest
