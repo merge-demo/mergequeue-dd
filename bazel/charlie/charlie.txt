@@ -12859,6 +12859,7 @@ crawlways
 corrodible
 catallum
 churchyards
+croupal
 churchier
 chuckholes
 chiroptera
@@ -20072,7 +20073,6 @@ creepie
 caudata
 cuttle
 commark
-croupal
 chunam
 coinheres
 cyclohexanol

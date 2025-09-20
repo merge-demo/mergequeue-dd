@@ -5069,7 +5069,6 @@ acidophil
 aworth
 affectibility
 affecting
-antitangent
 amygdaloncus
 adlerian
 apostasies
@@ -10349,6 +10348,7 @@ aposiopestic
 amianthus
 autumn
 aisles
+antitangent
 amiantuses
 amyatonic
 amic
