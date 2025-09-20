@@ -1856,7 +1856,6 @@ bowlike
 brainish
 behatted
 blet
-belamcanda
 bindings
 brigading
 banders
@@ -5684,6 +5683,7 @@ buzzardly
 benzacridine
 blemishing
 belies
+belamcanda
 believability
 believer
 barring
