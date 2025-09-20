@@ -8474,7 +8474,6 @@ chamorro
 copalcocote
 chromotherapist
 cherished
-claires
 chamos
 chamotte
 cynosura
@@ -22034,6 +22033,7 @@ confidentialness
 cormorants
 confidently
 confidentness
+claires
 confider
 confiders
 confiding
