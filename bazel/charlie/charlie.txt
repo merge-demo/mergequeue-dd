@@ -5348,7 +5348,6 @@ copatentee
 chromotropic
 crinicultural
 claustrophobia
-cyborg
 cinemograph
 corncob
 crummies
@@ -11530,6 +11529,7 @@ cosmopolitanisation
 cholangiography
 compleat
 commercialization
+cyborg
 caschielawis
 colpheg
 cholate
