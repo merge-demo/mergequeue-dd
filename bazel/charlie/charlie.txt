@@ -1412,6 +1412,7 @@ calyptriform
 coracoscapular
 canarsee
 ceriornis
+chalybite
 carnosin
 calisayas
 calistheneum
@@ -8292,7 +8293,6 @@ councillary
 chalder
 coholder
 chalybeate
-chalybite
 chalice
 cages
 chancelry
