@@ -1032,6 +1032,7 @@ abt
 abterminal
 argemone
 antarctalia
+aerobacteriologically
 archreactionary
 aphelion
 apocalyptism
@@ -17260,7 +17261,6 @@ ares
 aerophagy
 apollonistic
 arias
-aerobacteriologically
 agoramania
 aliment
 acronych
