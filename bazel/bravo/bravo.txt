@@ -9173,6 +9173,7 @@ benzothiopyran
 brumal
 bipetalous
 bellic
+biotins
 bucciniform
 bibliographer
 brended
@@ -12655,7 +12656,6 @@ bullwort
 buhrs
 bestraddling
 blancher
-biotins
 beachcomber
 bonilass
 benefactresses
