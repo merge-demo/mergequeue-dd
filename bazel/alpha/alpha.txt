@@ -323,6 +323,7 @@ archiphoneme
 abed
 alarmists
 anandria
+agelacrinitidae
 anthophyte
 anguis
 angelet
@@ -479,7 +480,6 @@ atlantean
 abjudged
 analogues
 anomatheca
-agelacrinitidae
 abjudicate
 abjudicated
 arthel
