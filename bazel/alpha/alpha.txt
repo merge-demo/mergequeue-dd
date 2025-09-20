@@ -15419,6 +15419,7 @@ argiopoidea
 antiodont
 anthropophagi
 aquaplanes
+avalent
 antimonies
 advice
 armhoop
@@ -24533,7 +24534,6 @@ avalanche
 avalanches
 avalanching
 assortive
-avalent
 avalon
 affich
 avance
