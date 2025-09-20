@@ -2709,7 +2709,6 @@ decorate
 dopey
 discounsel
 diplopterous
-dassy
 diplodus
 domoid
 deductibility
@@ -3275,6 +3274,7 @@ duramater
 distrait
 definiteness
 dahlin
+dassy
 duolog
 diceman
 degeneracy
