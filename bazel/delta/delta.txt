@@ -7932,7 +7932,6 @@ dihydrogen
 depone
 dicaryophyte
 dewberries
-dudaim
 dolichosaur
 dewcap
 disklike
@@ -13058,6 +13057,7 @@ distorted
 dexterous
 dinkier
 dunfish
+dudaim
 dissipative
 dispassionate
 dodlet
