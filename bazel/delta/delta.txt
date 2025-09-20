@@ -902,7 +902,6 @@ dimatis
 dacryopyorrhea
 dantology
 dashpots
-dowers
 dextrin
 dewitt
 daschagga
@@ -3558,6 +3557,7 @@ diereses
 dripping
 distater
 decasemic
+dowers
 dorsomedian
 desiderative
 dinornithiformes
