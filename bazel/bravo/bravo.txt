@@ -32,7 +32,6 @@ babblative
 benzoxyphenanthrene
 bracketwise
 babblers
-bodement
 beneficiation
 bethroot
 brawlier
@@ -12614,6 +12613,7 @@ baguets
 brasque
 beleaguerment
 blubberhead
+bodement
 bumming
 bulged
 basinlike
