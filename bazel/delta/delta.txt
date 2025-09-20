@@ -6174,6 +6174,7 @@ dolours
 deutschland
 derelinquish
 decrepitness
+differencing
 demihigh
 desperation
 doubtless
@@ -10807,7 +10808,6 @@ dotterel
 diptychs
 disdainfulness
 decussating
-differencing
 dipware
 diver
 disadvantageous
