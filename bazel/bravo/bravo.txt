@@ -98,7 +98,6 @@ biped
 bloodstock
 begani
 bluewood
-batster
 boddhisattva
 bloop
 bonsoir
@@ -13882,6 +13881,7 @@ benchmarked
 barehead
 bowsman
 bown
+batster
 bows
 bootjack
 bowsaw
