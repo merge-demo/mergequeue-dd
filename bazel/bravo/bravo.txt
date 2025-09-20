@@ -4359,7 +4359,6 @@ bearings
 beckoner
 bedizened
 beati
-bartonella
 britzskas
 beckoningly
 balitao
@@ -11500,6 +11499,7 @@ blumes
 buccellarius
 benighting
 blunderbuss
+bartonella
 bestare
 breme
 beachie
