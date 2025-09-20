@@ -2457,6 +2457,7 @@ axiation
 aluminic
 aconitine
 abolitionism
+alogism
 anoscope
 atypical
 argante
@@ -9790,7 +9791,6 @@ aftereffects
 astipulate
 argean
 arietid
-alogism
 ambystomidae
 amateurishness
 aspergillaceae
