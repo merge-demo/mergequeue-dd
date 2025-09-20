@@ -4741,6 +4741,7 @@ deputize
 duello
 demitted
 dilutive
+dedecorous
 duties
 demiurgeous
 downswings
@@ -16101,7 +16102,6 @@ doddypoll
 doubleyou
 doublelunged
 doits
-dedecorous
 dilettantist
 deceive
 disturn
