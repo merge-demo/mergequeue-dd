@@ -12522,7 +12522,6 @@ artophophoria
 anthodium
 arsenicize
 akoasma
-archines
 ameliorated
 antipopular
 angeleyes
@@ -19702,6 +19701,7 @@ amphibichnite
 armamentarium
 autoskeleton
 antigalactic
+archines
 audiometry
 avigators
 aminovaleric
