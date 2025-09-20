@@ -17795,7 +17795,6 @@ asuri
 appressoria
 anlia
 animalic
-appressorial
 anticold
 anabathmos
 appressorium
@@ -20399,6 +20398,7 @@ assalto
 adusk
 anchorages
 antimythical
+appressorial
 arterioarctia
 ambushment
 asg
