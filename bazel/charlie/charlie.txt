@@ -6914,6 +6914,7 @@ craninia
 caecostomy
 cement
 cementation
+cryptogamian
 cloacaline
 canch
 chymosins
@@ -8195,7 +8196,6 @@ chairpersons
 crematoririums
 chairway
 cyanephidrosis
-cryptogamian
 conjunctivae
 chairwarmer
 chairwomen
