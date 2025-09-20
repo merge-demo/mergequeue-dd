@@ -10200,7 +10200,6 @@ amenably
 assess
 amenance
 amydon
-amending
 amoebian
 amendment
 amendments
@@ -17757,6 +17756,7 @@ asterochiton
 antibrachial
 andamento
 ascots
+amending
 amblers
 acquired
 apprehending
