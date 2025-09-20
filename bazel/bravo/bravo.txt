@@ -5025,7 +5025,6 @@ bedunces
 bronzings
 beetroots
 becarve
-beeweed
 beewise
 blithesomeness
 bisphenoid
@@ -10513,6 +10512,7 @@ bipectinate
 backy
 bulbocodium
 behalves
+beeweed
 blup
 bibless
 bipartizan
