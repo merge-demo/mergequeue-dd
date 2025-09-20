@@ -8625,6 +8625,7 @@ contester
 chylothorax
 carrion
 craggier
+cymas
 consumpt
 contradictious
 cymaphen
@@ -29895,7 +29896,6 @@ chromatographic
 crosslike
 cinnamoyl
 crossline
-cymas
 crosslink
 crossness
 caesardom
