@@ -14986,7 +14986,6 @@ chromoplasm
 chloritize
 counterparallel
 crossjack
-closehearted
 citreous
 citric
 citril
@@ -17272,6 +17271,7 @@ cassoulet
 coalfitter
 cyanines
 coalholes
+closehearted
 coaly
 conduced
 caixinha
