@@ -5425,6 +5425,7 @@ donataries
 droughtier
 decan
 decard
+douras
 dryopteris
 ductus
 denuder
@@ -16421,7 +16422,6 @@ deep
 disquisitional
 disaccharide
 devout
-douras
 deglutitive
 dislustred
 dispersal
