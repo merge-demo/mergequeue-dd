@@ -3209,6 +3209,7 @@ cumly
 capital
 chevronny
 capitaled
+communicators
 capitalised
 capitalising
 clayier
@@ -20374,7 +20375,6 @@ cercospora
 curchy
 command
 communicatory
-communicators
 communionable
 cornrows
 caracoled
