@@ -12740,7 +12740,6 @@ daut
 disruptability
 deadline
 disroot
-depreciating
 disobeys
 diastasic
 diphenol
@@ -15228,6 +15227,7 @@ defense
 daceloninae
 demographist
 dyaus
+depreciating
 deponent
 dialogued
 dagbamba
