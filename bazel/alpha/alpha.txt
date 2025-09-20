@@ -17808,6 +17808,7 @@ augurous
 appropinquate
 appropinquation
 animalistic
+arrayals
 amalgamation
 appropinquity
 arrogantness
@@ -20043,7 +20044,6 @@ accessors
 array
 arrayal
 archmystagogue
-arrayals
 arraign
 arraignable
 atroce

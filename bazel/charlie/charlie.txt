@@ -1154,7 +1154,6 @@ calculist
 coxcomical
 comically
 christs
-celluloses
 calculuses
 conchology
 caldaria
@@ -3777,6 +3776,7 @@ carbolizing
 caladium
 chrisma
 carbomethoxyl
+celluloses
 cantus
 carbon
 carbona
