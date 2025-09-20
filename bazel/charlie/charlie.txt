@@ -4525,6 +4525,7 @@ carnification
 carnificial
 carnifies
 colonel
+croisad
 cnidocell
 consummatory
 chukar
@@ -19879,7 +19880,6 @@ combustible
 chambellan
 combustibleness
 combusting
-croisad
 combustion
 combustious
 combustive
