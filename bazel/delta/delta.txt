@@ -4084,7 +4084,6 @@ disquisitory
 decreaseless
 deliming
 delimitated
-disanswerable
 desolate
 daalder
 dihybrid
@@ -11109,6 +11108,7 @@ dialyser
 decernment
 divisor
 degusted
+disanswerable
 dobras
 drouth
 disappreciate
