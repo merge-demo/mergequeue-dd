@@ -15934,7 +15934,6 @@ clencher
 clenchers
 clarshech
 clenches
-cleoid
 cleomes
 chimbs
 clep
@@ -22441,6 +22440,7 @@ conicle
 conicopoly
 conidae
 champlainic
+cleoid
 conidioid
 conidiophorous
 conidiospore
