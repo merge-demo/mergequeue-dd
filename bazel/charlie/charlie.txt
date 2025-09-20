@@ -2314,6 +2314,7 @@ cylindrocellular
 cumin
 calinda
 circumfuse
+cresphontes
 convertors
 ccw
 canamo
@@ -4722,7 +4723,6 @@ carpocerite
 carpocratian
 carpogam
 carpogamy
-cresphontes
 clippingly
 cariniform
 choanoflagellata
