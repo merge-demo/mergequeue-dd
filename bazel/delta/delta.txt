@@ -7563,7 +7563,6 @@ donator
 decocainize
 dumfounding
 diazotize
-deuteranomaly
 deuteranope
 daphnia
 deuterate
@@ -10112,6 +10111,7 @@ dynamitism
 dynamos
 dialycarpous
 dinanderie
+deuteranomaly
 disfrocks
 dobrao
 dinantian
