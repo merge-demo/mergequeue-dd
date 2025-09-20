@@ -8982,6 +8982,7 @@ areological
 abdicator
 acuminating
 adenalgy
+ardu
 antiabrasion
 alluringly
 alluringness
@@ -19119,7 +19120,6 @@ adrent
 agriotype
 ardour
 ardours
-ardu
 adonian
 aerosiderolite
 amygdophenin

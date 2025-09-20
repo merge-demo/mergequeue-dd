@@ -605,6 +605,7 @@ commentarial
 clavicytherium
 caenozoic
 caeoma
+chessel
 cero
 caeomas
 clara
@@ -21006,7 +21007,6 @@ comproduce
 cookless
 crowflower
 compromised
-chessel
 cuticle
 cysticercoidal
 clunisian
