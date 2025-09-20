@@ -11362,7 +11362,6 @@ belve
 besmokes
 breadthways
 bluebelled
-bepistoled
 bons
 bescorches
 bitingness
@@ -18069,6 +18068,7 @@ boned
 butanols
 bind
 budders
+bepistoled
 bergander
 blitzkrieging
 benzenyl
