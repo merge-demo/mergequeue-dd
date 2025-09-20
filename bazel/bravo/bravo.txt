@@ -1550,6 +1550,7 @@ bootlegger
 bedaubed
 balladizing
 bales
+beothuk
 belongings
 bichromated
 babbit
@@ -13410,7 +13411,6 @@ brining
 blackcap
 bookdealer
 babyhood
-beothuk
 bunched
 botling
 bidders
