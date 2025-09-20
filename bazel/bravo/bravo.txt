@@ -850,6 +850,7 @@ bothway
 brecciation
 blubbing
 bushed
+befretting
 baga
 benzenoid
 bloman
@@ -5167,7 +5168,6 @@ ballup
 bluebead
 bordereau
 breedbate
-befretting
 befriended
 blennocele
 bejabers
