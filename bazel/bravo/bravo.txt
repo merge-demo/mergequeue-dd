@@ -2177,7 +2177,6 @@ boundness
 baptizer
 blurping
 bobsledder
-baptizing
 bedward
 batwoman
 blepharodiastasis
@@ -16911,6 +16910,7 @@ beauetry
 biochore
 bimotor
 bulbously
+baptizing
 bigoted
 bonhomously
 barometrograph
