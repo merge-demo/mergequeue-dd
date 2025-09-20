@@ -2284,7 +2284,6 @@ disdain
 disthroning
 deflex
 durian
-douser
 domineerer
 demnition
 dowset
@@ -18322,6 +18321,7 @@ duodynatron
 dynamogenic
 decryptograph
 decretory
+douser
 dunster
 discussants
 dematerialization
