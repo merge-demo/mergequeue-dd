@@ -2877,7 +2877,6 @@ brushland
 barraging
 boydekyn
 boobery
-beele
 battologist
 braca
 battener
@@ -5875,6 +5874,7 @@ ballader
 blisses
 babist
 belostomatidae
+beele
 bouillabaisse
 belostomidae
 bruta
