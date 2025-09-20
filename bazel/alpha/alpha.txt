@@ -13450,6 +13450,7 @@ addresser
 annumerate
 aboundingly
 ascidia
+arthromere
 annunciade
 arthropod
 annunciating
@@ -20511,7 +20512,6 @@ arthrogryposis
 arthrolith
 aedegi
 antiangular
-arthromere
 arthromeric
 arthrometer
 afterplay
