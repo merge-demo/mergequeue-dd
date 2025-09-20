@@ -4426,7 +4426,6 @@ courages
 curie
 capitatim
 carloading
-combatants
 carlock
 carlos
 cannaled
@@ -25650,6 +25649,7 @@ convincers
 cyanogenic
 circumvolant
 correctory
+combatants
 chignon
 centals
 constitutive
