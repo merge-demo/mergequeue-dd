@@ -2973,7 +2973,6 @@ deepener
 dolomitizing
 dochmius
 deeper
-dealings
 dangleberries
 dzerin
 drageoir
@@ -13042,6 +13041,7 @@ dairymaids
 dispark
 declarer
 diplosphenal
+dealings
 dormice
 dwang
 distorted
