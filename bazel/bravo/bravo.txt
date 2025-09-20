@@ -3109,6 +3109,7 @@ bedabbles
 barbuts
 bignou
 bealach
+beworn
 barques
 bonitas
 boithrin
@@ -7555,7 +7556,6 @@ balloonflower
 bewizard
 bimolecular
 beeyard
-beworn
 borne
 butanones
 bugseed
