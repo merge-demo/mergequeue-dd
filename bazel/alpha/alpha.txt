@@ -2913,6 +2913,7 @@ alleviator
 aciculum
 antiphon
 antimeson
+asterin
 aland
 actinomeric
 aruncus
@@ -7543,7 +7544,6 @@ aberroscope
 autoprothesis
 alcoholimeter
 antipleion
-asterin
 annihilability
 alcoholised
 aortectasis
