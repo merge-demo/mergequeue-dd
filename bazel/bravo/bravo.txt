@@ -1885,7 +1885,6 @@ bushie
 butterman
 byrewards
 bandied
-bilinear
 bandikai
 baggywrinkle
 batrachoplasty
@@ -12479,6 +12478,7 @@ berrettino
 bromobenzene
 barcarolle
 binocularly
+bilinear
 biennially
 basiotripsy
 bloomerism
