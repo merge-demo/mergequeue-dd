@@ -5432,6 +5432,7 @@ concaves
 casuals
 casualty
 casuariiformes
+chondrarsenite
 chloramide
 casuarina
 celeomorph
@@ -11695,7 +11696,6 @@ complications
 coassistant
 commissionary
 chondral
-chondrarsenite
 cholesteric
 calcitrant
 chondre
