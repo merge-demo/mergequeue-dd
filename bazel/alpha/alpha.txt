@@ -16184,7 +16184,6 @@ arborvitae
 amylamine
 analgias
 asahel
-anastigmatic
 ad
 acetanilide
 ariki
@@ -21759,6 +21758,7 @@ assman
 antiproductively
 associable
 associableness
+anastigmatic
 associated
 aboudikro
 apostle
