@@ -22016,7 +22016,6 @@ cosmecology
 copout
 coresort
 confidants
-centaurs
 counterproductivity
 coseismic
 confidence
@@ -27731,6 +27730,7 @@ cowpoxes
 consortium
 chuprassi
 cowry
+centaurs
 cowrie
 cherokee
 cowries
