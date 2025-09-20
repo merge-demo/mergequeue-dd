@@ -20055,7 +20055,6 @@ amateurism
 antiozonant
 anodon
 arraigned
-aerosats
 arraigning
 attractions
 alpines
@@ -23966,6 +23965,7 @@ autodidactically
 accoyed
 albumenised
 autodynes
+aerosats
 autodrome
 aegises
 anabaena
