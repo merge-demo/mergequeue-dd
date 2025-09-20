@@ -16337,7 +16337,6 @@ abogado
 acroterteria
 acrochordidae
 anuretic
-anury
 alose
 anuria
 anuric
@@ -20199,6 +20198,7 @@ aleutian
 achromatiaceae
 absolving
 arrogator
+anury
 adsignification
 aknee
 arroyos
