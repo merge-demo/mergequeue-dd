@@ -1010,6 +1010,7 @@ avellaneous
 anesthesiologist
 animators
 anglicanize
+acridine
 antirentism
 antiperiodic
 absurder
@@ -7382,7 +7383,6 @@ albuminize
 albuminized
 archabomination
 attemptive
-acridine
 anchovies
 albuminofibrin
 albuminoid
