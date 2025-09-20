@@ -150,6 +150,7 @@ banister
 booboos
 bursati
 belick
+barograms
 basidiocarp
 bedumbing
 beeheaded
@@ -11305,7 +11306,6 @@ blowouts
 brats
 boarwood
 branniest
-barograms
 boneyard
 biologism
 blowse
