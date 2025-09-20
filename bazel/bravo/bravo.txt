@@ -4020,7 +4020,6 @@ beakers
 barre
 boltheads
 boschveld
-beakiron
 brutalization
 barms
 beaks
@@ -4684,6 +4683,7 @@ basseted
 bedlar
 banyans
 bazoo
+beakiron
 bunted
 blackseed
 barytocalcite
