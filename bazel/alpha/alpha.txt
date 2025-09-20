@@ -11102,6 +11102,7 @@ amphicarpium
 aluconidae
 arendator
 arbustum
+artefact
 acoustical
 amphichrom
 amphichromy
@@ -21325,7 +21326,6 @@ asperate
 adulterers
 andrewartha
 aphthoid
-artefact
 azarole
 antitegula
 asperge
