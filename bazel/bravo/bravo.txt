@@ -7883,7 +7883,6 @@ barff
 barricadoing
 bulbomembranous
 bemedalled
-byzantium
 bepimpled
 beards
 bargains
@@ -17859,6 +17858,7 @@ boltstrake
 biassed
 busheled
 bookman
+byzantium
 beauship
 bushelers
 bolshies
