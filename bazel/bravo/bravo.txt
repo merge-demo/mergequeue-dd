@@ -6518,7 +6518,6 @@ bournous
 bagattino
 baseballer
 berdache
-battuta
 bahuts
 bashawism
 byreman
@@ -9128,6 +9127,7 @@ boiler
 brothered
 biotransformation
 bedstock
+battuta
 birdnest
 bromines
 bethabara
