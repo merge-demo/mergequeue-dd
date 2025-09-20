@@ -10317,7 +10317,6 @@ ametoecious
 absurdum
 aurigid
 aculeolus
-ametrope
 antshrike
 antonymies
 ametropia
@@ -20440,6 +20439,7 @@ archetype
 anathema
 automatically
 allegorisation
+ametrope
 adventuring
 artesian
 aforesaid
