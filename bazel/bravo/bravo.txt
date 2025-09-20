@@ -11495,7 +11495,6 @@ bluggy
 bispore
 blastomycotic
 bluish
-blumes
 buccellarius
 benighting
 blunderbuss
@@ -13601,6 +13600,7 @@ berbers
 brin
 bordar
 brassicaceous
+blumes
 balklines
 bornyl
 boreades
