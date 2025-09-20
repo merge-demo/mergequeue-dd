@@ -11319,7 +11319,6 @@ consultations
 chloroid
 curably
 chloroma
-cooptative
 copelidine
 chaneled
 campoody
@@ -11596,6 +11595,7 @@ choleine
 cholelith
 conchotome
 cholelithic
+cooptative
 cholelithotomy
 clovery
 cuprous
