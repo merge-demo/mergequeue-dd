@@ -18644,6 +18644,7 @@ apotropaism
 alebench
 angioneoplasm
 anteriors
+abanga
 archenia
 arrenotoky
 ailantine
@@ -21034,7 +21035,6 @@ autotomy
 atomicism
 amyotrophic
 alighted
-abanga
 anglification
 actos
 accountant
