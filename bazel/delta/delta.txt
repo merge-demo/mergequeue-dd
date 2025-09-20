@@ -4760,7 +4760,6 @@ dorsicollar
 diphenoxylate
 diminutivize
 defoliates
-doeskins
 designingly
 daybreak
 dreidels
@@ -16922,6 +16921,7 @@ dozes
 depreciations
 drawoff
 decadent
+doeskins
 dispersible
 demicaponier
 distomatosis
