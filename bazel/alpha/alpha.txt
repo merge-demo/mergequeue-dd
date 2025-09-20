@@ -10938,7 +10938,6 @@ amorph
 athelia
 amorpha
 ascensiontide
-anarthropodous
 amorphia
 aerobion
 abyssobenthonic
@@ -24069,6 +24068,7 @@ autohemolytic
 autohemorrhage
 autohexaploid
 astuciously
+anarthropodous
 anthesterin
 acetylthymol
 arbutuses
