@@ -9762,7 +9762,6 @@ composal
 crazes
 chekist
 connaraceae
-chekker
 collegers
 chelate
 chelated
@@ -14411,6 +14410,7 @@ circumventing
 ceratiasis
 coking
 circumventor
+chekker
 conveyorized
 ceriomyces
 carposporangial
