@@ -3596,6 +3596,7 @@ bonagh
 bosn
 bathometry
 boomkins
+barrelsful
 bathophobia
 bathos
 brach
@@ -17756,7 +17757,6 @@ baldachini
 breakback
 bheesties
 burroweed
-barrelsful
 burrows
 burrstone
 bude
