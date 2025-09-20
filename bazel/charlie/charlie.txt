@@ -5802,7 +5802,6 @@ catenate
 crooisite
 catenating
 catenation
-catenative
 capomo
 compositorial
 catenoid
@@ -18148,6 +18147,7 @@ compactile
 claytonia
 coannexing
 coenocentrum
+catenative
 coenocytic
 carson
 condemnation
