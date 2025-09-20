@@ -3977,7 +3977,6 @@ agrief
 antihypertensives
 antilyssic
 antenna
-anabasis
 acrasia
 arithmogram
 aquatinter
@@ -11621,6 +11620,7 @@ arbitrators
 anagrammatizing
 ates
 allochiria
+anabasis
 adventist
 ageless
 anahau
