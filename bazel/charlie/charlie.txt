@@ -5052,6 +5052,7 @@ cascadable
 coupes
 crotaline
 cilectomy
+carnivaller
 cavae
 cascaded
 cascadia
@@ -16335,7 +16336,6 @@ clypeastridea
 clypeastrina
 clypeastroid
 canulating
-carnivaller
 caroa
 clypeate
 conspicuous
