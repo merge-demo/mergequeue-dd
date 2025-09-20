@@ -7867,6 +7867,7 @@ anticynic
 addlepatedness
 amphiploid
 alexandrine
+allower
 alexandrite
 apexing
 anostosis
@@ -8938,7 +8939,6 @@ allowed
 asserters
 acquiescing
 aftermarriage
-allower
 asteism
 acylamido
 alcahest

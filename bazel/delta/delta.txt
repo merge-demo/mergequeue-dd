@@ -2355,7 +2355,6 @@ decerning
 determinant
 dummied
 dysodile
-downgraded
 decertation
 discriminate
 databases
@@ -8777,6 +8776,7 @@ devolute
 dichogamy
 doodle
 densify
+downgraded
 diatreme
 distilery
 decorably
