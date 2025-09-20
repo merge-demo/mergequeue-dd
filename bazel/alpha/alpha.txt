@@ -20496,6 +20496,7 @@ assimilations
 arthrodiran
 amniote
 accumb
+atenism
 arthrodirous
 atlantes
 anurous
@@ -22431,7 +22432,6 @@ annals
 ammiaceae
 aten
 antiparticle
-atenism
 anon
 anole
 actuators
