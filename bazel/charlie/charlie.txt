@@ -25049,7 +25049,6 @@ connection
 coreigner
 coreigns
 curriculums
-corejoice
 corelates
 chemosurgical
 corelative
@@ -31418,6 +31417,7 @@ chondrules
 canoed
 curlews
 cyanemia
+corejoice
 curlicue
 choriambize
 cosmogonist
