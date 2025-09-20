@@ -2130,7 +2130,6 @@ definitizing
 doses
 dynasts
 dissyllabism
-decameral
 dandy
 daintify
 doline
@@ -15597,6 +15596,7 @@ dehumanize
 disposers
 dondaine
 desertedly
+decameral
 decoke
 drawly
 done
