@@ -4526,7 +4526,6 @@ demy
 disvalued
 demiangel
 dazzlingness
-dinornithes
 deradelphus
 delegatus
 denda
@@ -16409,6 +16408,7 @@ dalai
 divergently
 daviely
 dolt
+dinornithes
 downsizing
 defensible
 dichord
