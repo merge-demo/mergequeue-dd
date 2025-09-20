@@ -13976,7 +13976,6 @@ acraturesis
 antennular
 antiegoistically
 antennule
-antenor
 appositely
 antenumber
 adrostal
@@ -19711,6 +19710,7 @@ armchair
 aethers
 armenoid
 ast
+antenor
 armchaired
 acetabular
 atrail
