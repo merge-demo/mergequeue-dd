@@ -13208,7 +13208,6 @@ appliably
 atonality
 anitos
 anywhen
-advertize
 ascill
 anywhence
 aggregational
@@ -14752,6 +14751,7 @@ anticlassical
 apprehend
 antiaphthic
 aburagiri
+advertize
 ankaratrite
 ambassadress
 anticlergy
