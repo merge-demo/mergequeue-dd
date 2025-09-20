@@ -8656,6 +8656,7 @@ dexies
 disfavored
 deactivator
 dicerion
+disharmonising
 dietzeite
 diarticular
 duvetyne
@@ -12398,7 +12399,6 @@ dendrium
 duplexer
 drias
 disharmonised
-disharmonising
 dissecting
 deflexion
 dowing
