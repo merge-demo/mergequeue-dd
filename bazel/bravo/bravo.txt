@@ -1494,6 +1494,7 @@ bigwiggedness
 bluestocking
 boarishly
 bices
+barb
 balkiest
 berskin
 boohooing
@@ -5601,7 +5602,6 @@ belate
 befan
 belauded
 burgh
-barb
 becuffed
 brumaire
 billyer
