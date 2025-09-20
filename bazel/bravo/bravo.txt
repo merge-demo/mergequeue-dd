@@ -3905,7 +3905,6 @@ beltian
 binode
 bigotedness
 bassly
-burn
 bedspreads
 beliquor
 balaniferous
@@ -6731,6 +6730,7 @@ balustrades
 bid
 batten
 berthed
+burn
 birdeye
 buprestidan
 bradylalia
