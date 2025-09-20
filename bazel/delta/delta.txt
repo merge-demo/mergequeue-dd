@@ -5460,7 +5460,6 @@ dueled
 deodorizes
 deontologist
 dibutyrate
-deoppilant
 deceives
 detectably
 deoppilate
@@ -15174,6 +15173,7 @@ dogget
 dottrels
 dorlot
 dermaptera
+deoppilant
 doghouse
 donning
 discardment
