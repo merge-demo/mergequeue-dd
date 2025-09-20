@@ -6087,7 +6087,6 @@ celiotomy
 corrobori
 chimaeroidei
 carinae
-cattycornered
 cattyman
 cirl
 contributively
@@ -13788,6 +13787,7 @@ cacosplanchnia
 cynegild
 conspurcate
 cedared
+cattycornered
 cinemagoer
 cryptocommercial
 cinemagoers
