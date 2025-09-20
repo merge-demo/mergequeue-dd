@@ -7924,7 +7924,6 @@ archhouse
 algaeological
 acephalism
 apostolicalness
-azygomatous
 acetose
 advisory
 ankerhold
@@ -20870,6 +20869,7 @@ accomplishable
 ascertainably
 ascescency
 almshouse
+azygomatous
 amphophilous
 asceticism
 ascetta
