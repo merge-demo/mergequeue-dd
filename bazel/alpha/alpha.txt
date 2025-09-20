@@ -3335,7 +3335,6 @@ akrabattine
 additory
 additum
 algology
-acetimeter
 algometer
 addle
 arthritic
@@ -12892,6 +12891,7 @@ adjuvants
 aslop
 anhydridization
 antisimoniacal
+acetimeter
 anhydridize
 anhydroglocose
 androgonia
