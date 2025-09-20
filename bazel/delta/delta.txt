@@ -9640,7 +9640,6 @@ discipleship
 dishumour
 dowy
 dihybridism
-dihybrids
 disfunctions
 drizzle
 deathlike
@@ -15325,6 +15324,7 @@ decore
 dracaenaceae
 dolichosauria
 dolioform
+dihybrids
 dogdom
 dabblings
 discomforts
