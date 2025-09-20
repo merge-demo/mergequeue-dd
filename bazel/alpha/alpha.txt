@@ -12868,6 +12868,7 @@ arrowy
 anhedral
 anhedron
 anhelation
+afforcing
 anhelose
 aerotaxis
 amulla
@@ -21091,7 +21092,6 @@ ashimmer
 apostacy
 ashing
 acanthous
-afforcing
 ashipboard
 ashir
 archoplasma
