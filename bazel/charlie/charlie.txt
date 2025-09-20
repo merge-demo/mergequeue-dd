@@ -12105,7 +12105,6 @@ clubmonger
 culturist
 chowanoc
 chowchows
-chromosomal
 chowhound
 coapprehend
 cyclopaedically
@@ -28008,6 +28007,7 @@ crambus
 cramel
 corsie
 crammel
+chromosomal
 consolidating
 crammer
 crammers
