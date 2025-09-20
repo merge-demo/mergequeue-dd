@@ -16167,7 +16167,6 @@ bobbling
 browntail
 belgravia
 brownweed
-bobolinks
 blabbed
 byproduct
 blennorrhagia
@@ -17236,6 +17235,7 @@ boutel
 bipolarize
 bucoliast
 bouchette
+bobolinks
 bunches
 bunchily
 bunchiness
