@@ -14341,7 +14341,6 @@ catarrhinian
 coarse
 chanties
 cleanhandedness
-carpals
 conferring
 cevadilla
 conamed
@@ -26443,6 +26442,7 @@ couther
 cots
 cephalomelus
 crub
+carpals
 cotsetland
 counterfactually
 cotswold
