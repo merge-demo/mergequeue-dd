@@ -24539,6 +24539,7 @@ corrupable
 copeman
 chessman
 copemate
+centration
 copending
 colonialist
 clinquant
@@ -30030,7 +30031,6 @@ cumbersomely
 croute
 cotice
 corrente
-centration
 carnivorism
 chattanoogan
 crowbait
