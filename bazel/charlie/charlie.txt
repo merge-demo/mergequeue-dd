@@ -3798,6 +3798,7 @@ coenotype
 carbonemia
 chemiphotic
 carse
+cruiserweight
 convalescent
 cotset
 cacophonical
@@ -21778,7 +21779,6 @@ condoled
 condolence
 calyptro
 condolent
-cruiserweight
 coaxers
 colonic
 coleuses
