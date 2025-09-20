@@ -17422,7 +17422,6 @@ doughman
 derivability
 deinodontidae
 dillydallies
-depurge
 deciatine
 dusts
 declined
@@ -18032,6 +18031,7 @@ dearn
 dulcigenic
 dulciloquent
 delouses
+depurge
 diamagnetism
 diplex
 denitrated
