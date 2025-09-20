@@ -6090,7 +6090,6 @@ cowpea
 catti
 circularizer
 chromophobe
-copernicans
 celiotomy
 cadged
 corrobori
@@ -26633,6 +26632,7 @@ costrels
 chessart
 compilation
 calcaneotibial
+copernicans
 chancefully
 chirre
 compatibly
