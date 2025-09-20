@@ -8694,6 +8694,7 @@ choroidal
 chibol
 channelled
 channelling
+cephalocyst
 commiseratingly
 channelure
 cestus
@@ -12323,7 +12324,6 @@ christians
 christicide
 chiromyidae
 circulate
-cephalocyst
 christies
 christlessness
 comprehensive
