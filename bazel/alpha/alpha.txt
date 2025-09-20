@@ -10057,7 +10057,6 @@ anatomising
 acrasy
 amoeboidism
 ambulancer
-acenesthesia
 ambulated
 alternanthera
 atropinism
@@ -25398,6 +25397,7 @@ autecisms
 ampyces
 azured
 acronyx
+acenesthesia
 azureness
 antiparagraphic
 antifeudalist
