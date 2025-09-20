@@ -6518,7 +6518,6 @@ doxological
 descends
 deviability
 dialectic
-dynel
 descension
 disagreer
 descensive
@@ -16238,6 +16237,7 @@ dullnesses
 delph
 domable
 decrypted
+dynel
 decalescence
 dualist
 disseizee
