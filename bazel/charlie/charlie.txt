@@ -15138,6 +15138,7 @@ conidia
 clade
 casabas
 cladocarpous
+cropped
 cladocera
 clavicornes
 collarband
@@ -25088,7 +25089,6 @@ capsulae
 caviler
 chatillon
 connotes
-cropped
 coinstantaneous
 corequisite
 corer
