@@ -2358,6 +2358,7 @@ databases
 dissociant
 daphnid
 devocalising
+densitometers
 decerebrating
 daikon
 dechemicalize
@@ -4916,7 +4917,6 @@ disgospelize
 demonology
 demonologically
 duteously
-densitometers
 devolutive
 demonomist
 demonopolize
