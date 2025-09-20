@@ -7911,7 +7911,6 @@ cestodes
 copatron
 compete
 coronize
-capitulary
 carouses
 cestoids
 cestraction
@@ -27248,6 +27247,7 @@ cephalanthous
 chlorophane
 crowstepped
 countrifiedness
+capitulary
 camphenes
 compester
 countryfiedness
