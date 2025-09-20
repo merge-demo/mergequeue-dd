@@ -5560,6 +5560,7 @@ antiedemic
 antinaturalist
 ashamedness
 aminoacetone
+antiholiday
 aganice
 ambrosia
 azoxazole
@@ -7932,7 +7933,6 @@ advisory
 ankerhold
 acronycally
 amplification
-antiholiday
 algal
 algalia
 alcoholization
