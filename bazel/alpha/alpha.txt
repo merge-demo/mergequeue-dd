@@ -24053,7 +24053,6 @@ albumenization
 amphistylic
 autogram
 adhamant
-abaculi
 autographer
 antidiffuser
 ammoreslinol
@@ -25103,6 +25102,7 @@ axinite
 alimentiveness
 antiascetic
 alant
+abaculi
 axiological
 archarios
 acoustician
