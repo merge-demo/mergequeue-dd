@@ -7683,7 +7683,6 @@ abreuvoir
 alea
 aleak
 aleatory
-accusor
 aleatoric
 aquae
 analphabetical
@@ -13828,6 +13827,7 @@ actressy
 antapexes
 antapodosis
 allopolyploid
+accusor
 antaranga
 antiphonical
 ampalaya
