@@ -12391,6 +12391,7 @@ dielectrics
 discharged
 disclaimed
 digestor
+damndests
 dissettlement
 differentiates
 declare
@@ -16067,7 +16068,6 @@ divinail
 divel
 demolisher
 destinies
-damndests
 disinflation
 doggoneder
 distressedly
