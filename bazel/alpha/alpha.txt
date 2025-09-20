@@ -12246,6 +12246,7 @@ androgynia
 angiostomy
 androgone
 acrotomous
+antlerite
 andromache
 andromaque
 arborizes
@@ -13518,7 +13519,6 @@ anogenital
 anogra
 abp
 askings
-antlerite
 anointed
 arthritism
 austere
