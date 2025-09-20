@@ -9969,7 +9969,6 @@ bivocal
 bicylindrical
 beseem
 bossism
-bombings
 befog
 bivoluminous
 bivouaced
@@ -11005,6 +11004,7 @@ barlow
 bicuspids
 blithesomely
 bkgd
+bombings
 benzotriazine
 bradykinetic
 boffolas
