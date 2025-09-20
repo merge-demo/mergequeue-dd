@@ -1344,7 +1344,6 @@ deselecting
 dauke
 degrader
 dumba
-dorsigerous
 delegations
 departure
 daundering
@@ -11328,6 +11327,7 @@ digue
 discarnate
 duskier
 discusser
+dorsigerous
 disadvantagedness
 durukuli
 diptyca
