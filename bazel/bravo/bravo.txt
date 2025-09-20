@@ -2909,7 +2909,6 @@ bebuttoned
 beglew
 bedwards
 beartongue
-bandcutter
 blennometritis
 bonair
 bankweed
@@ -5862,6 +5861,7 @@ brogans
 belonging
 bailiffship
 belongs
+bandcutter
 bakuba
 bombycina
 banderillero
