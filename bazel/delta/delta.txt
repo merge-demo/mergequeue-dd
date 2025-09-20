@@ -12383,6 +12383,7 @@ dutchess
 detracted
 digammate
 dactyl
+datable
 distrained
 dithyrambically
 dromaeognathous
@@ -17920,7 +17921,6 @@ deteriorations
 duenesses
 discandy
 disserted
-datable
 droyl
 duer
 downsome
