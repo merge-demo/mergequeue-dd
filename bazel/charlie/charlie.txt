@@ -12352,6 +12352,7 @@ corticopeduncular
 cocurator
 chestfuls
 cryptocephala
+cerebralgia
 chromaphore
 catacomb
 chromas
@@ -16896,7 +16897,6 @@ clubfooted
 clubhand
 capotastos
 carpellum
-cerebralgia
 clubhaul
 correctant
 confirmity
