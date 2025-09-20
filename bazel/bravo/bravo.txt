@@ -1975,7 +1975,6 @@ bange
 biblically
 brachydactyl
 bulbous
-bombard
 bafaro
 basilicas
 bangkok
@@ -16016,6 +16015,7 @@ brailler
 beacons
 blotting
 bravadoed
+bombard
 broomstraw
 bonelessness
 befret
