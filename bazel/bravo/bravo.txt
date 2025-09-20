@@ -6177,7 +6177,6 @@ buzzed
 benighter
 barked
 beleaguerer
-backhanding
 basidiolichenes
 breedling
 benin
@@ -8351,6 +8350,7 @@ blighia
 blackjacks
 bonamano
 bemuddled
+backhanding
 brulot
 bankside
 batatilla
