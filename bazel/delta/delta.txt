@@ -998,7 +998,6 @@ democratical
 disavowedly
 dekadarchy
 daringness
-dit
 darings
 darius
 doubleprecision
@@ -3108,6 +3107,7 @@ duplicia
 downhill
 defeated
 directs
+dit
 deodorant
 diluviate
 disgout
