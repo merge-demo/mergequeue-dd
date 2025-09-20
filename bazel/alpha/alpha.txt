@@ -14710,7 +14710,6 @@ anchoring
 anticyclolysis
 anticyclones
 anticyclonically
-abaculi
 allodesmism
 anticynical
 asway
@@ -24053,6 +24052,7 @@ albumenization
 amphistylic
 autogram
 adhamant
+abaculi
 autographer
 antidiffuser
 ammoreslinol
