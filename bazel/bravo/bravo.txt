@@ -2202,6 +2202,7 @@ buxaceae
 bontebok
 baghla
 bodword
+bromoauric
 blockade
 berrichon
 bostonite
@@ -16057,7 +16058,6 @@ breweries
 bitstocks
 boeotic
 bedesmen
-bromoauric
 bioclean
 bastard
 balletomane
