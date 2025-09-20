@@ -1608,6 +1608,7 @@ dairyman
 debused
 diedric
 deadpanned
+doorcase
 deadpans
 deforced
 dipaschal
@@ -9722,7 +9723,6 @@ disfiguration
 durwaun
 dikdik
 dialysate
-doorcase
 disposableness
 diploidion
 dipneusti
