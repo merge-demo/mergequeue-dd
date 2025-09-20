@@ -3699,7 +3699,6 @@ battered
 breck
 bowelless
 batterman
-bullockman
 bepinch
 bwana
 batty
@@ -5812,6 +5811,7 @@ bestrews
 blares
 botanizer
 boor
+bullockman
 beadier
 boldoine
 boozily
