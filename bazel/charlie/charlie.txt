@@ -5046,6 +5046,7 @@ cocaigne
 crowsteps
 cancriform
 chlamydomonadaceae
+chalkpit
 casave
 cascabel
 coestate
@@ -8329,7 +8330,6 @@ chalkone
 chalkos
 compressing
 chalkotheke
-chalkpit
 chalkrail
 commandry
 circumflect
