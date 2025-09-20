@@ -14875,7 +14875,6 @@ bronchoscopy
 bakelite
 baldie
 burgus
-bandsmen
 begulfing
 breasthook
 bumpee
@@ -18034,6 +18033,7 @@ bilaminate
 blepharosphincterectomy
 busulfans
 bughouse
+bandsmen
 barbedness
 bibliophily
 backspringing
