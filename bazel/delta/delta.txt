@@ -5575,7 +5575,6 @@ depends
 dallack
 decretals
 dispersed
-dukeship
 dowp
 disemplaned
 doronicum
@@ -7065,6 +7064,7 @@ disjointed
 despumation
 dealing
 desquamating
+dukeship
 doublehandedness
 desquamatory
 decivilization
