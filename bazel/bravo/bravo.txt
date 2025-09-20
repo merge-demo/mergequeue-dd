@@ -4965,6 +4965,7 @@ bibation
 bindweb
 bedsheet
 ballonette
+blastomycosis
 byte
 bridoons
 boodling
@@ -14363,7 +14364,6 @@ brachiferous
 bensel
 bestial
 baradari
-blastomycosis
 bignonia
 bragozzo
 brainily
