@@ -27490,7 +27490,6 @@ cathisma
 cozeys
 clitellar
 clavier
-cuban
 covariate
 covariates
 covassal
@@ -29436,6 +29435,7 @@ crystalloidal
 crystallomagnetic
 comet
 cravers
+cuban
 crystallomancy
 crystallometry
 continuist
