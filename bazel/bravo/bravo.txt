@@ -3920,7 +3920,6 @@ bch
 begins
 borsholder
 becoward
-bchs
 ballotage
 bd
 boracium
@@ -7971,6 +7970,7 @@ bichord
 borazons
 bioxalate
 bellworts
+bchs
 batholith
 bicyanide
 bicyclers
