@@ -4589,7 +4589,6 @@ caroluses
 carom
 carombolette
 caromel
-chromic
 caroming
 centriscid
 cutout
@@ -7375,6 +7374,7 @@ cephalodymus
 cephalodiscid
 cephalodiscida
 cephalodiscus
+chromic
 curtains
 chrysanthemin
 cephalodium
