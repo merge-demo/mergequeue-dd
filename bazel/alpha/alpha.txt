@@ -5353,7 +5353,6 @@ aesculus
 aspersoria
 afterdeck
 adipomata
-aftereffect
 autologous
 afterform
 aevum
@@ -5812,6 +5811,7 @@ acropetal
 approximant
 archt
 aghan
+aftereffect
 aghas
 aghori
 allottee
