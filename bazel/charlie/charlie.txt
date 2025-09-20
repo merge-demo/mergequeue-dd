@@ -15918,7 +15918,6 @@ cercaria
 calcedon
 clinium
 camauro
-cleithral
 charivaris
 cannabinaceae
 choree
@@ -24959,6 +24958,7 @@ cordal
 cordate
 catawamptious
 castoff
+cleithral
 cordeau
 cordel
 comae
