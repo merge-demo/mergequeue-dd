@@ -17656,6 +17656,7 @@ atopy
 antirusts
 agapornis
 appointers
+apotropaic
 analysand
 appointing
 augmentation
@@ -20356,7 +20357,6 @@ aftaba
 arteriac
 artistes
 allomorphic
-apotropaic
 apprecate
 autoptically
 arterialize
