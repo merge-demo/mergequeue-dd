@@ -3614,7 +3614,6 @@ bazigar
 babas
 bepray
 ballyragged
-blepharostat
 bridelace
 banilad
 bellicosely
@@ -6699,6 +6698,7 @@ billowiness
 bedscrew
 basipterygial
 boteler
+blepharostat
 bumpier
 busulfan
 bosquet
