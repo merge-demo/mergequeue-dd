@@ -12816,7 +12816,6 @@ anticoagulating
 anthropomorphisms
 antilegalist
 assimilable
-apterygidae
 almose
 anguliferous
 athelings
@@ -19054,6 +19053,7 @@ arctosis
 acetylasalicylic
 allituric
 arctostaphylos
+apterygidae
 askers
 aftercause
 autooxidation
