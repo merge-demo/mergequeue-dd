@@ -9811,7 +9811,6 @@ auricled
 amativeness
 arcing
 artificious
-abandonee
 archaeology
 andoke
 abu
@@ -18896,6 +18895,7 @@ apprising
 amaryllis
 archmonarch
 aristocraticalness
+abandonee
 anguish
 archmugwump
 astaticism
