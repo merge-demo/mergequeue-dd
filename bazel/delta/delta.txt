@@ -3683,7 +3683,6 @@ delapse
 dehydrochlorinase
 dulciloquy
 dowlas
-dehydrochlorinate
 daytale
 dehydrocorticosterone
 drabble
@@ -10984,6 +10983,7 @@ deminude
 dasypus
 dropvie
 downgrade
+dehydrochlorinate
 damnosa
 duettist
 deconventionalize
