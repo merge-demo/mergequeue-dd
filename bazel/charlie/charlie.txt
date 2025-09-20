@@ -7974,6 +7974,7 @@ contes
 cf
 cfd
 ch
+chantress
 colloquized
 catchweed
 chaa
@@ -8303,7 +8304,6 @@ caravan
 campfire
 cephalohumeralis
 cytologist
-chantress
 courtyard
 chalina
 colonisation
