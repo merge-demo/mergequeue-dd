@@ -10403,6 +10403,7 @@ dustbin
 discourtship
 dioxid
 drabler
+doleance
 disfavors
 dioxides
 dioxids
@@ -15288,7 +15289,6 @@ dolcino
 dididae
 disenmesh
 disbalance
-doleance
 delectably
 daimonic
 directory
