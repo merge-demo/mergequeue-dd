@@ -8851,7 +8851,6 @@ bungaloid
 berakot
 biocenology
 bactriticone
-bewitchedness
 bulgar
 burgraviate
 basoga
@@ -16632,6 +16631,7 @@ buckras
 bathroom
 bucks
 blinders
+bewitchedness
 bucksaw
 bids
 bistorta
