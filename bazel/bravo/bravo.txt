@@ -3465,7 +3465,6 @@ biserially
 basto
 baguios
 bucklandite
-bellybutton
 beshamed
 bovine
 basural
@@ -7069,6 +7068,7 @@ bef
 bespotting
 bespouse
 booties
+bellybutton
 backsets
 brashest
 ballute
