@@ -11003,7 +11003,6 @@ disaffirmation
 dills
 desorption
 disaffirming
-depigment
 decapoda
 dulcinea
 disafforestment
@@ -11285,6 +11284,7 @@ decrescendos
 dim
 dissweeten
 diazo
+depigment
 detoxifies
 deckers
 devitrifiable
