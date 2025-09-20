@@ -1020,7 +1020,6 @@ deprogrammings
 dogana
 daffling
 dypnone
-diplomaing
 dolorimetric
 dissembled
 distichously
@@ -7810,6 +7809,7 @@ dogmatization
 desulphurized
 dikaryon
 diverticle
+diplomaing
 direption
 desiccative
 devourer
