@@ -5831,7 +5831,6 @@ affordable
 angor
 attain
 appomattox
-arioso
 agility
 auxotrophic
 allegedly
@@ -8574,6 +8573,7 @@ amnesiacs
 arcubos
 allemand
 allene
+arioso
 autocatalyses
 alleniate
 allentato
