@@ -11183,7 +11183,6 @@ curtation
 caperwort
 chilopodous
 cartilage
-counterrecoil
 chloranemic
 chuffs
 chloranhydride
@@ -13871,6 +13870,7 @@ crashers
 chowderhead
 cinerator
 cinereal
+counterrecoil
 cinerin
 cinerous
 catalysis
