@@ -11104,7 +11104,6 @@ cowshot
 chaum
 cosovereign
 chorogi
-controllableness
 chivaree
 compear
 chivareing
@@ -23822,6 +23821,7 @@ contrapunto
 cohunes
 contraregularity
 centrisciform
+controllableness
 conductimeter
 contraremonstrance
 contrariant
