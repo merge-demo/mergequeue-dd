@@ -14174,7 +14174,6 @@ bandoleers
 backsight
 bloodstroke
 bradydactylia
-bepowder
 birdfarms
 brigs
 bewaste
@@ -14853,6 +14852,7 @@ biophilous
 babooism
 bugologist
 basils
+bepowder
 breakthrough
 bayoneted
 bibliophage
