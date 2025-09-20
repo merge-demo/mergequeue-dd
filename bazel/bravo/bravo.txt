@@ -10061,7 +10061,6 @@ beamish
 blackamoors
 blackbine
 befrets
-bursas
 bassoons
 bescorching
 barabara
@@ -15583,6 +15582,7 @@ blasphemies
 bolide
 bauxitite
 bundlet
+bursas
 bludger
 bluster
 bluchers
