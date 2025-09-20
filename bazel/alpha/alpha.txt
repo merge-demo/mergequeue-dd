@@ -1075,6 +1075,7 @@ aswarm
 abune
 abura
 ausubo
+artifactually
 annoyancer
 aburban
 amphodelite
@@ -16686,7 +16687,6 @@ anecdotalism
 abos
 actuator
 aphorizes
-artifactually
 ancienter
 approve
 anlet
