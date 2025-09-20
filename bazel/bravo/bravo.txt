@@ -2377,7 +2377,6 @@ bebeeru
 batterfang
 banshie
 bendell
-beylical
 brakemen
 barcoo
 bemoisten
@@ -4040,6 +4039,7 @@ bovoid
 beefeaters
 bearcats
 bottlefuls
+beylical
 bskt
 brachioradial
 beamroom
