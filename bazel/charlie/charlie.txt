@@ -9944,6 +9944,7 @@ chavantean
 chemotic
 cephalotaceous
 confluences
+cylindrelloid
 chemotrophic
 chemotropically
 chempaduk
@@ -13486,7 +13487,6 @@ colorationally
 ciliiform
 cylinder
 cylindrella
-cylindrelloid
 cryptographic
 cylindrenchyma
 cylindricity
