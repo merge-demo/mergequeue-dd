@@ -5252,7 +5252,6 @@ bronzed
 braccate
 biogeochemistry
 bundlings
-barytones
 belated
 bigot
 burrier
@@ -15016,6 +15015,7 @@ basilidianism
 bastarda
 besiclometer
 batodendron
+barytones
 baltimorite
 blousons
 begot
