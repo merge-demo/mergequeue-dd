@@ -12734,7 +12734,6 @@ depurate
 drink
 dustcoat
 dacryoadenitis
-divel
 dialysing
 decodings
 dolabriform
@@ -16062,6 +16061,7 @@ doto
 devocalize
 dolorific
 divinail
+divel
 demolisher
 destinies
 damndests
