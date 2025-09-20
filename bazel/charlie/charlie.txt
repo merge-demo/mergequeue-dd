@@ -20121,7 +20121,6 @@ coaming
 commender
 craftsman
 commending
-commendment
 commensal
 chemurgies
 cadmus
@@ -31015,6 +31014,7 @@ chant
 chagrin
 clead
 cursed
+commendment
 ceriops
 clairaudiently
 cuminal
