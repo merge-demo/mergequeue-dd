@@ -2640,7 +2640,6 @@ diddler
 decian
 dozers
 dorbug
-decompensating
 drainless
 decompensations
 dasylirion
@@ -16544,6 +16543,7 @@ domesticities
 denarinarii
 diagramming
 dermatoneurology
+decompensating
 disquiparant
 deodorizing
 dracone
