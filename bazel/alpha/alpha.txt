@@ -5749,6 +5749,7 @@ agglutogenic
 avoure
 aggrades
 accademia
+anent
 atrocha
 anthropopithecus
 ayatollah
@@ -15711,7 +15712,6 @@ antiplurality
 antipodal
 antipode
 antipodic
-anent
 argufied
 antipodist
 auriculo
