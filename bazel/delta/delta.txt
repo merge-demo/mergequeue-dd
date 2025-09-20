@@ -11226,7 +11226,6 @@ diascordium
 dionysiacally
 dazingly
 dratted
-delirifacient
 disbelieves
 daubier
 dendropogon
@@ -15764,6 +15763,7 @@ dunce
 despondency
 didrachma
 diurnule
+delirifacient
 decollator
 dopped
 detractiveness
