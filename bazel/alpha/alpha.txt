@@ -3175,6 +3175,7 @@ amalgamators
 adai
 arrestors
 amplect
+affatuate
 abiogenous
 adays
 agrestal
@@ -5509,7 +5510,6 @@ augmentive
 anticensorious
 against
 avellano
-affatuate
 antilens
 againward
 ardeid
