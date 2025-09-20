@@ -7730,6 +7730,7 @@ charkhas
 capromys
 ceroplasty
 challie
+chessman
 ceroplastic
 coelosperm
 ceroplastics
@@ -24544,7 +24545,6 @@ copeia
 copelata
 corrupable
 copeman
-chessman
 copemate
 centration
 copending
