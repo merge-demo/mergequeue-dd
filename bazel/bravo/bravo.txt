@@ -9723,7 +9723,6 @@ beerothite
 barbre
 bistres
 bloodstone
-boltmaking
 boeotarch
 brights
 brushers
@@ -16720,6 +16719,7 @@ brachycephaly
 bacterioid
 bicolligate
 buffable
+boltmaking
 buffalo
 borrichia
 brutely
