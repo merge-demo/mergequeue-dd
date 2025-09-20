@@ -13199,7 +13199,6 @@ bangtail
 bedecking
 brachycephalize
 bourlaw
-bowtel
 borwort
 bloodthirst
 battlepiece
@@ -13616,6 +13615,7 @@ bricker
 bakeshop
 bemuddle
 blowsy
+bowtel
 batteried
 begladding
 beclouded
