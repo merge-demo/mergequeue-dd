@@ -1355,6 +1355,7 @@ demissive
 depasturation
 dwarfing
 draftsperson
+dunkle
 dulcetness
 dompt
 dauntingly
@@ -12127,7 +12128,6 @@ downshifting
 disestablismentarian
 digladiated
 drapers
-dunkle
 dialogism
 disallow
 dispeace
