@@ -4035,7 +4035,6 @@ butled
 beambird
 beeve
 bedrock
-boti
 burglarising
 beamers
 ballonet
@@ -15131,6 +15130,7 @@ bactericidin
 brushman
 babi
 butterflower
+boti
 bankruptship
 brickbat
 buttonholed
