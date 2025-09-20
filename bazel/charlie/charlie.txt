@@ -8463,6 +8463,7 @@ checkerboarded
 confiscator
 choribi
 cuttable
+cubicle
 coinheritor
 cumbers
 chamoisite
@@ -29118,7 +29119,6 @@ candystick
 candock
 cityless
 chanfron
-cubicle
 curavecan
 cryoscopic
 colauxe
