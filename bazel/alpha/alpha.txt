@@ -6167,6 +6167,7 @@ antisepsin
 aerage
 apolline
 anamorphoses
+anteact
 anacoluttha
 anticlassicism
 arsonium
@@ -13850,7 +13851,6 @@ athamantin
 ante
 axers
 adenoviral
-anteact
 arsenillo
 anteambulate
 anteambulation
