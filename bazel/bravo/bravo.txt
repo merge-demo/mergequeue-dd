@@ -1736,7 +1736,6 @@ bimotored
 baloskion
 bulbels
 belittled
-balsamation
 byssolite
 bookrest
 beetrooty
@@ -10828,6 +10827,7 @@ blethe
 buttals
 bromomethane
 brackened
+balsamation
 blethered
 bedevilled
 befurred
