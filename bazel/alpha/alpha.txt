@@ -11388,7 +11388,6 @@ amusement
 alodiality
 agglomerant
 ascospore
-amusers
 attractors
 abbatical
 amulet
@@ -18019,6 +18018,7 @@ acardia
 autolytic
 aquarius
 aurists
+amusers
 acaudate
 astint
 automorphism
