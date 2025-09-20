@@ -10828,7 +10828,6 @@ diluteness
 diseur
 directionalize
 directionally
-dottiness
 dhan
 directly
 dijudicating
@@ -14801,6 +14800,7 @@ diabaterial
 desirefulness
 direx
 dain
+dottiness
 demiwivern
 dinheiro
 denticular
