@@ -7537,7 +7537,6 @@ bewilderedly
 bemadams
 bewrite
 boasting
-bibliopegic
 bribri
 bridgeway
 bibliotaphe
@@ -7935,6 +7934,7 @@ bicameralism
 blandiloquious
 borderside
 bedunced
+bibliopegic
 bename
 brouille
 bocce
