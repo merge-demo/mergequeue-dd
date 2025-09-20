@@ -9145,6 +9145,7 @@ didelphidae
 dingdong
 didelphoid
 disinclines
+dishorn
 derisory
 detriment
 disdiaclasis
@@ -12474,7 +12475,6 @@ dewclawed
 diastataxic
 dischurch
 desulfurate
-dishorn
 dislocable
 demarcated
 decentred
