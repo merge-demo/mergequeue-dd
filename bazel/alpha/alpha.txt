@@ -1889,6 +1889,7 @@ acetylizer
 acetylizing
 aporetic
 acetylperoxide
+alascan
 antienvironmentalist
 acetylphenylhydrazine
 affinite
@@ -13145,7 +13146,6 @@ antimerger
 amphistyly
 ailuropus
 anorexic
-alascan
 aquilawood
 anisomyodous
 anisopetalous
