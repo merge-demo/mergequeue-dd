@@ -8260,6 +8260,7 @@ cadalene
 chalcocite
 compotatory
 chalcogen
+consonantal
 chalcogenide
 coenaculum
 comas
@@ -23074,7 +23075,6 @@ companioned
 camels
 consonance
 consonancy
-consonantal
 consonantalize
 compurgatory
 chlorpheniramine
