@@ -407,7 +407,6 @@ dawdlers
 drinkers
 defension
 deployable
-drumbledore
 disembargoing
 dottore
 discompt
@@ -14083,6 +14082,7 @@ diplexer
 districting
 disharmonizing
 defoaming
+drumbledore
 decarnate
 dishabited
 dodecahedrons
