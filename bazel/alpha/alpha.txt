@@ -145,7 +145,6 @@ alloyed
 axles
 alef
 apar
-abattised
 area
 abattises
 antiracism
@@ -8885,6 +8884,7 @@ allotypes
 archidiaconal
 archispore
 allotypy
+abattised
 antipapist
 angelon
 annulata
