@@ -18938,7 +18938,6 @@ asinine
 archpolitician
 archprelate
 archprelatic
-adjudicator
 archprelatical
 alkalimetry
 apishness
@@ -22482,6 +22481,7 @@ athenaeums
 anisopia
 atheneum
 aerates
+adjudicator
 annalism
 alpinisms
 agnition
