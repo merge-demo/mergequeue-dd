@@ -8587,6 +8587,7 @@ companias
 chanciness
 calthrops
 chinks
+checkrower
 chancing
 cobbling
 coins
@@ -9548,7 +9549,6 @@ checkrope
 cumulant
 conoy
 checkrowed
-checkrower
 collyrium
 checkrowing
 consummatively
