@@ -8878,6 +8878,7 @@ allothogenic
 astrakanite
 allotypes
 archidiaconal
+archispore
 allotypy
 antipapist
 angelon
@@ -22891,7 +22892,6 @@ alfet
 antedated
 arbitrement
 aldermanship
-archispore
 attacus
 amphibians
 attagen
