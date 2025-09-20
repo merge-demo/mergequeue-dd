@@ -7063,7 +7063,6 @@ centennial
 centennially
 corroborant
 centennials
-caribes
 caisson
 chisedec
 centerable
@@ -9281,6 +9280,7 @@ cerned
 chyme
 cheekbone
 clathraceous
+caribes
 craunch
 cocainizing
 cryonic

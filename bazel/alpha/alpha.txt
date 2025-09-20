@@ -7133,7 +7133,6 @@ asseveratingly
 allopalladium
 alarodian
 alarum
-alarumed
 antiloimic
 alaruming
 arugola
@@ -9181,6 +9180,7 @@ aloid
 aloin
 aloins
 acidoid
+alarumed
 alois
 aloysia
 apepsy
