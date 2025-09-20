@@ -2288,6 +2288,7 @@ baister
 butterine
 barbecuer
 barbellula
+bromize
 bipunctate
 bowwood
 belabor
@@ -10330,7 +10331,6 @@ blakeite
 bargepole
 billot
 bumps
-bromize
 bounderish
 bewrought
 bamboozlers
