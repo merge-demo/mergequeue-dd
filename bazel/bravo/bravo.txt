@@ -4796,6 +4796,7 @@ buskins
 bustard
 billycan
 becrusts
+betrace
 bacchantes
 bourgeon
 blushingly
@@ -16348,7 +16349,6 @@ bladesmith
 bestick
 beltways
 buttons
-betrace
 brolly
 bewraps
 bouffage
