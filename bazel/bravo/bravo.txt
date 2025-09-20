@@ -3803,6 +3803,7 @@ beamman
 bicondylar
 bluffing
 baumier
+bernacle
 beguile
 baure
 bausond
@@ -6662,7 +6663,6 @@ brakesmen
 bentincks
 bandpass
 burrowers
-bernacle
 bernardine
 bonneter
 bernicia
