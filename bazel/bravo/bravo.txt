@@ -4859,7 +4859,6 @@ balistarius
 bloodedness
 bistered
 beefalos
-bedriveling
 bossship
 bilimbis
 blackheartedly
@@ -9871,6 +9870,7 @@ buhl
 biotite
 barrenly
 balsamically
+bedriveling
 bable
 bitterroot
 backfall
