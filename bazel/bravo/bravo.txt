@@ -5710,6 +5710,7 @@ bedsheets
 barrator
 blastophthoria
 burnettize
+buckler
 ballerinas
 bifurcous
 bamboozled
@@ -11155,7 +11156,6 @@ blooding
 bestain
 blunker
 brawniest
-buckler
 burglarise
 benevolently
 bloodlusting
