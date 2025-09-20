@@ -8488,7 +8488,6 @@ allatrate
 abaction
 ainus
 alkoxid
-allectory
 architectonically
 allegata
 allegations
@@ -11002,6 +11001,7 @@ ampelosicyos
 ariosi
 ampelotherapy
 abbasside
+allectory
 aventurin
 amper
 amatory
