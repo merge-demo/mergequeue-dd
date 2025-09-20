@@ -2762,7 +2762,6 @@ dryopithecid
 draughtiness
 dian
 delvers
-desulphur
 dryopithecus
 deiform
 dairymen
@@ -10373,6 +10372,7 @@ digress
 dioramic
 diecious
 durions
+desulphur
 duplet
 demoses
 distraint
