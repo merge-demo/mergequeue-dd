@@ -6976,6 +6976,7 @@ demonisms
 disshroud
 deerdrive
 despisingly
+deoppilative
 deepens
 draco
 despite
@@ -16206,7 +16207,6 @@ disaffections
 diplozoon
 deaning
 disfrocked
-deoppilative
 decorously
 defectology
 douma
