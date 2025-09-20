@@ -4625,7 +4625,6 @@ dupes
 demimonde
 depictors
 disseise
-demineralization
 dovetail
 dermatosclerosis
 demineralized
@@ -12639,6 +12638,7 @@ discourage
 dunlin
 duntle
 daredevils
+demineralization
 drate
 delegant
 doomsman
