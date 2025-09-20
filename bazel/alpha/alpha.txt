@@ -9591,6 +9591,7 @@ alveoli
 arrojadite
 accidie
 alveoliform
+azymite
 aduncated
 aquatints
 auditorially
@@ -25271,7 +25272,6 @@ activating
 afrikanderism
 aphid
 azimino
-azymite
 azimuth
 aulete
 azimuths
