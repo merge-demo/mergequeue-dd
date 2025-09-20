@@ -8740,7 +8740,6 @@ adaptionism
 alcoves
 allochlorophyll
 antigropelos
-arracks
 acquaintance
 allochroic
 allochthon
@@ -14417,6 +14416,7 @@ accreditee
 accoutred
 anthropophagite
 animotheism
+arracks
 anthropophagize
 anthropophilous
 anthropophobia
