@@ -2965,7 +2965,6 @@ abidingly
 amenity
 associators
 actinophorous
-anthrarufin
 arsono
 amberous
 antidicomarianite
@@ -24302,6 +24301,7 @@ autorhythmus
 aselgeia
 authorly
 amaroidal
+anthrarufin
 ariocarpus
 atopen
 autorotational
