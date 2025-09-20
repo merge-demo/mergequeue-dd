@@ -6307,7 +6307,6 @@ dechloridize
 dindon
 dermatoplasm
 diapositive
-dictyostelic
 dualities
 dermatoplastic
 deluminize
@@ -12578,6 +12577,7 @@ disinflationary
 disthroned
 droitural
 disingenuous
+dictyostelic
 debauchment
 dropsically
 diners
