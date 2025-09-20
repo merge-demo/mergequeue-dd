@@ -12212,6 +12212,7 @@ disambiguates
 displeasant
 dichocarpism
 drunk
+discording
 dermataneuria
 dysphonic
 disflesh
@@ -18636,7 +18637,6 @@ dutching
 dutchmen
 degreeless
 duty
-discording
 dutiability
 disdains
 dystonias

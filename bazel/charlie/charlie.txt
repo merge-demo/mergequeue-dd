@@ -11160,7 +11160,6 @@ cervelats
 chloasma
 cephalorachidian
 chloracne
-criminaldom
 chloragogue
 carcharodon
 charitative
@@ -14333,6 +14332,7 @@ cleanable
 clavierist
 circumpose
 condite
+criminaldom
 circumquaque
 circumradii
 circumradius
