@@ -10994,6 +10994,7 @@ dills
 desorption
 decapoda
 dulcinea
+damnonii
 disafforestment
 dehair
 dispiece
@@ -15359,7 +15360,6 @@ dollishness
 devolatilized
 deemstership
 dolcian
-damnonii
 delimit
 dassies
 dix
