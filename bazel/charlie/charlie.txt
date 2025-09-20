@@ -12282,7 +12282,6 @@ compensative
 christed
 christen
 christendie
-christendom
 christener
 christeners
 costander
@@ -31725,6 +31724,7 @@ cusser
 cacothes
 caselessly
 congenerous
+christendom
 cusses
 castilian
 crooken
