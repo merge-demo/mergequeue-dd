@@ -13247,7 +13247,6 @@ barrio
 binocle
 bosporanic
 bossage
-bothros
 boastful
 bructeri
 bossdoms
@@ -17322,6 +17321,7 @@ beshield
 bitterbump
 breadthen
 busser
+bothros
 blepharosyndesmitis
 brownish
 babongo
