@@ -3435,7 +3435,6 @@ adipsous
 azole
 ascesis
 assedat
-abbogada
 arabicize
 akenbold
 amphibion
@@ -20603,6 +20602,7 @@ amphisbaenic
 agrostographic
 alwise
 alberich
+abbogada
 abelonian
 aizoon
 antecessor
