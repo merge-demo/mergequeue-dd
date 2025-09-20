@@ -16142,7 +16142,6 @@ cliffweed
 clift
 clifty
 crystallitis
-clarify
 climaciaceae
 crawtae
 copple
@@ -27122,6 +27121,7 @@ corabeca
 chengal
 crossbanded
 chittered
+clarify
 counterstimulate
 counterstimulation
 counterstimulus
