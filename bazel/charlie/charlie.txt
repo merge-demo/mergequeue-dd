@@ -9328,6 +9328,7 @@ chauffeurship
 concussation
 civy
 carcoon
+calciphilic
 cerris
 cystidean
 compendency
@@ -12408,7 +12409,6 @@ chromatoscopy
 circumduct
 chromatosis
 chromaturia
-calciphilic
 chromazurine
 complication
 clangorousness
