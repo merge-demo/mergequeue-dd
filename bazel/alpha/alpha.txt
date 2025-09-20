@@ -11606,6 +11606,7 @@ armorbearer
 acacatechin
 ablator
 amphipneusta
+angiospermous
 acnodes
 aurification
 anagogic
@@ -22348,7 +22349,6 @@ ataraxia
 ancilia
 affectlessness
 atatschite
-angiospermous
 ataunt
 ataunto
 antivirotic
