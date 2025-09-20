@@ -8235,7 +8235,6 @@ dactylic
 downlie
 drabbets
 diacranterian
-dicyema
 deflagrating
 diacromyodi
 deformism
@@ -12811,6 +12810,7 @@ diffusedness
 deferral
 dismay
 diathermancy
+dicyema
 doubty
 degame
 damner
