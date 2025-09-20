@@ -1529,6 +1529,7 @@ biunique
 ballad
 bartholinitis
 beflounce
+beerhouses
 bespottedness
 beglad
 bemadamed
@@ -4939,7 +4940,6 @@ benweed
 beglide
 bedeswoman
 beezer
-beerhouses
 beladied
 burgage
 boldu
