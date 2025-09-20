@@ -9945,7 +9945,6 @@ dewey
 duka
 dimes
 dimetallic
-dimeter
 dermatauxe
 deftness
 discotheques
@@ -12734,6 +12733,7 @@ drawshave
 dikage
 disliker
 dubhgall
+dimeter
 depurate
 drink
 dustcoat
