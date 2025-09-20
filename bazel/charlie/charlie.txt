@@ -5937,7 +5937,6 @@ cheetahs
 cartopper
 cathetusti
 cathy
-cathine
 cathinine
 cathion
 cathodal
@@ -9866,6 +9865,7 @@ chemisorb
 cardiotherapy
 commendator
 cholecystogastrostomy
+cathine
 carid
 copouts
 copperytailed
