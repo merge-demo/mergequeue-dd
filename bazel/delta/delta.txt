@@ -1610,7 +1610,6 @@ diedric
 deadpanned
 deadpans
 deforced
-deadwork
 dipaschal
 deration
 demurely
@@ -9081,6 +9080,7 @@ dicoumarin
 depravate
 dermatoplast
 dicoumarol
+deadwork
 dicranaceous
 dextrinous
 diverter
