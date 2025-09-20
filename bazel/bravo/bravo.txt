@@ -2610,6 +2610,7 @@ bears
 brittlely
 bewitchment
 brusquerie
+brachycerous
 brutified
 batful
 bridgelike
@@ -6818,7 +6819,6 @@ bescutcheon
 brotherred
 bondservant
 basalia
-brachycerous
 bolas
 beseeches
 bisannual
