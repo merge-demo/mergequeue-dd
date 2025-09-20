@@ -2099,7 +2099,6 @@ dimedon
 decaying
 dopamines
 diety
-degusted
 defoil
 dummy
 destour
@@ -11116,6 +11115,7 @@ denumerability
 dialyser
 decernment
 divisor
+degusted
 dobras
 drouth
 disappreciate
