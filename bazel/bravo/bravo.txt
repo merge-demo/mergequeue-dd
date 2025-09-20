@@ -11246,7 +11246,6 @@ banefully
 burez
 blasts
 businesslike
-beguilements
 brightening
 benday
 bertrand
@@ -11344,6 +11343,7 @@ bludgeons
 bejewel
 besoothe
 benmost
+beguilements
 bakeapple
 bendingly
 blockmaking
