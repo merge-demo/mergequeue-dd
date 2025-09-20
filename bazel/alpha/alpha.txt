@@ -6191,7 +6191,6 @@ acraldehyde
 amoeban
 appomatox
 agriological
-antiochene
 animate
 agriot
 allotypical
@@ -18504,6 +18503,7 @@ airbags
 archaeotherium
 archai
 anthropologic
+antiochene
 acing
 anisol
 apogaic
