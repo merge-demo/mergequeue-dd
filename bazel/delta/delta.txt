@@ -1444,6 +1444,7 @@ disoccident
 deprest
 disfoliaged
 dispenditure
+defecting
 daunomycin
 dawnward
 dud
@@ -7479,7 +7480,6 @@ diglottism
 detrimentally
 dowage
 deviate
-defecting
 dancer
 deepgoing
 disseised

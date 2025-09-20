@@ -25151,7 +25151,6 @@ centesimate
 clinocephalus
 coriariaceae
 coriaus
-cheeter
 corybant
 constructionism
 corybantian
@@ -26461,6 +26460,7 @@ chuckstone
 congealing
 coopt
 corotating
+cheeter
 cottager
 cottars
 cahuy
