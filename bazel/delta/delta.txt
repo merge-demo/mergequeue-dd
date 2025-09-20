@@ -10546,7 +10546,6 @@ dauw
 dyssodia
 diplocardiac
 diplocarpon
-discoidea
 diplocephalus
 drearisomeness
 dbrn
@@ -13218,6 +13217,7 @@ dechloridizing
 decelerometer
 distils
 decertificaton
+discoidea
 disreverence
 draughts
 displeasures
