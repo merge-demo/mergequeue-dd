@@ -6231,7 +6231,6 @@ beys
 basketballs
 burghs
 bosomer
-betsey
 burelage
 burying
 benthamism
@@ -16428,6 +16427,7 @@ budzat
 bandeaux
 blindstitch
 belaites
+betsey
 bruteness
 brutify
 bipolar
