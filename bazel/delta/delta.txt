@@ -1259,6 +1259,7 @@ datelining
 dengue
 datemark
 dentalise
+detache
 drivelers
 durational
 daterman
@@ -6582,7 +6583,6 @@ dhooti
 delimits
 desegmentation
 dynamiters
-detache
 deal
 dactylics
 disordination
