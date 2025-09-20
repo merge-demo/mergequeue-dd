@@ -5895,6 +5895,7 @@ cathartics
 cloaked
 cosingular
 chistera
+conoscente
 courtesy
 conicality
 cathartides
@@ -8564,7 +8565,6 @@ capillaire
 calathidium
 chancemen
 corance
-conoscente
 cinematographer
 circumspheral
 chancer
