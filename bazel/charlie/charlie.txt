@@ -14697,6 +14697,7 @@ cystosarcoma
 cyanogenetic
 cystoschisis
 cariole
+comparting
 cystose
 conurbations
 clayman
@@ -18923,7 +18924,6 @@ cavil
 crystosphene
 colilysin
 caddied
-comparting
 campestral
 coagel
 comported
