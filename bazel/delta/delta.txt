@@ -5438,7 +5438,6 @@ deodoriser
 deodorization
 darsonvalism
 displumes
-deodorize
 disquiparation
 dueled
 deodorizes
@@ -14227,6 +14226,7 @@ dangerous
 deirdre
 diswashing
 diswere
+deodorize
 debatable
 debriefings
 duenas
