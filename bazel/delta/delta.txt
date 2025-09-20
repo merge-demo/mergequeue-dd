@@ -8844,7 +8844,6 @@ deliberates
 deterring
 drachmas
 decemvirate
-distasting
 dibbled
 dybbuk
 dominantly
@@ -9437,6 +9436,7 @@ diffusibleness
 diffusing
 didric
 dari
+distasting
 deuteranomalous
 dereling
 dowerless
