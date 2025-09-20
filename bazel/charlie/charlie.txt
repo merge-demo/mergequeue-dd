@@ -2983,6 +2983,7 @@ conquerableness
 candiot
 cantilating
 cantilene
+caravelle
 cantilever
 cantilevered
 cantily
@@ -17387,7 +17388,6 @@ coarticulation
 coassert
 chlorellaceae
 chasm
-caravelle
 crownland
 chemigraph
 cimline
