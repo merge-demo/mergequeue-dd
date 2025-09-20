@@ -2246,7 +2246,6 @@ begladded
 broma
 blesboks
 blateroon
-brigid
 bannerwise
 biasing
 branchiopallial
@@ -16112,6 +16111,7 @@ baiter
 browet
 brander
 bristletail
+brigid
 becrimed
 blastular
 beagle
