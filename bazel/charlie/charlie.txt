@@ -8381,6 +8381,7 @@ chalumeau
 collegium
 capercailye
 completively
+competitor
 chalumeaux
 chalutzim
 chama
@@ -20684,7 +20685,6 @@ congreve
 competitive
 cinchonized
 competitiveness
-competitor
 conjugal
 cascol
 challengee
