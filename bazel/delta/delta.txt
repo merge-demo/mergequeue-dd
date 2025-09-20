@@ -2462,7 +2462,6 @@ drepane
 deciphering
 demonocracy
 debars
-dunghill
 destrudo
 diphase
 diplodocus
@@ -13091,6 +13090,7 @@ decapodan
 dory
 disboscation
 decliners
+dunghill
 dragster
 debagged
 dogmouth
