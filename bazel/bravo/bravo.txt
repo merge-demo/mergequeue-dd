@@ -11567,7 +11567,6 @@ byronism
 brogger
 blush
 blushed
-banga
 bandannas
 blushfully
 blandfordia
@@ -12367,6 +12366,7 @@ belfather
 blackgum
 beswarmed
 bombardelle
+banga
 beloveds
 bon
 backrope
