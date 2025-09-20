@@ -1666,7 +1666,6 @@ bibliothetic
 balibuntl
 ballotist
 batell
-borocaine
 ballots
 backlotter
 baronage
@@ -6592,6 +6591,7 @@ berycomorphi
 bemixes
 burlies
 berigora
+borocaine
 beryl
 beryllonate
 berimed
