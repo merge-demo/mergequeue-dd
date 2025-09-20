@@ -2781,7 +2781,6 @@ deflectable
 dichotriaene
 decresc
 delphinus
-duodecahedron
 deknight
 devas
 draftees
@@ -9514,6 +9513,7 @@ dodecadrachm
 digestively
 dewormed
 distaff
+duodecahedron
 digestiveness
 dipteroi
 doornails
