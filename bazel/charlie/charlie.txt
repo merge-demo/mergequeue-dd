@@ -7091,7 +7091,6 @@ centerpunch
 crackdown
 centesimal
 centesimation
-crosscurrented
 catalpa
 caelus
 colloidality
@@ -12789,6 +12788,7 @@ chumpaka
 cyclopedic
 concomitate
 chumpiness
+crosscurrented
 cystiferous
 chumpish
 chumps
