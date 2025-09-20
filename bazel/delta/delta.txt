@@ -8779,6 +8779,7 @@ dullardness
 death
 droners
 dialoguer
+dinarchy
 deuterodome
 deducted
 diapering
@@ -17465,7 +17466,6 @@ dropt
 dropwort
 dogal
 doohickeys
-dinarchy
 diener
 droseraceous
 deliquate
