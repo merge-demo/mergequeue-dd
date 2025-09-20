@@ -8502,6 +8502,7 @@ directionize
 dodecyl
 downgrades
 diamondback
+disulphone
 drawl
 diplomatize
 debaucher
@@ -11865,7 +11866,6 @@ decuss
 dacryosyrinx
 drumfires
 dampproof
-disulphone
 dromical
 dioctahedral
 diminutions
