@@ -10345,7 +10345,6 @@ dioptrate
 dragoon
 dupla
 divinizes
-dioptrical
 diopsidae
 daroo
 dioramas
@@ -13672,6 +13671,7 @@ duecento
 disulphuric
 decals
 dialkyl
+dioptrical
 danegeld
 derelict
 donates
