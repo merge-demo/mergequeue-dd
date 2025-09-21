@@ -2527,6 +2527,7 @@ beflowers
 bretwaldaship
 bariatrics
 baric
+benzdifuran
 barycenter
 bemused
 burmite
@@ -5566,7 +5567,6 @@ brushmaking
 burgonets
 braunschweiger
 bruscus
-benzdifuran
 backsaws
 blobbed
 behalf
