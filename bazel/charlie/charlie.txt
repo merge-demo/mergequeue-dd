@@ -3041,6 +3041,7 @@ canulae
 canulas
 canulates
 comatic
+cubicontravariant
 coalier
 canun
 coumarouna
@@ -14568,7 +14569,6 @@ consoler
 continuantly
 cogitating
 cista
-cubicontravariant
 cystalgia
 commatism
 cysteamine
