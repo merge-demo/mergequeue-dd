@@ -6793,6 +6793,7 @@ blackmailed
 bacteriotoxic
 benignancy
 benkulen
+balantidial
 buicks
 bescourge
 baboos
@@ -17070,7 +17071,6 @@ butomus
 bilsteds
 ballogan
 benzoylformic
-balantidial
 brachiopod
 bearship
 buckramed
