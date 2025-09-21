@@ -4061,7 +4061,6 @@ cacorrhinia
 casuist
 capitate
 chughole
-cardinalis
 cichlids
 caddies
 coruscative
@@ -15236,6 +15235,7 @@ curtailments
 copetitioner
 clairseach
 carpetwork
+cardinalis
 cloisteral
 compresses
 cecca

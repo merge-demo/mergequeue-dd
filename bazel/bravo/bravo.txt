@@ -2363,7 +2363,6 @@ bullpout
 barhopped
 becut
 barcella
-biopic
 barcelona
 blank
 bejabbers
@@ -6752,6 +6751,7 @@ brusqueness
 blae
 benzoylglycine
 bronzelike
+biopic
 bilic
 berwick
 boldness
