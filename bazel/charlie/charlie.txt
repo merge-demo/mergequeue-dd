@@ -8776,7 +8776,6 @@ concubinal
 cryptovolcanic
 coccolithophorid
 chapelled
-cimnel
 capitaliser
 chapelling
 commonplaces
@@ -22913,6 +22912,7 @@ conservacy
 conservancy
 culicoides
 coutelle
+cimnel
 conservant
 catfaces
 circumcise

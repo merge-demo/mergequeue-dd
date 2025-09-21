@@ -2894,6 +2894,7 @@ bestride
 badinage
 barratries
 becrawls
+bonitas
 barratrously
 barrelage
 barreleyes
@@ -3108,7 +3109,6 @@ bignou
 bealach
 beworn
 barques
-bonitas
 boithrin
 bootlegged
 butylene
