@@ -1634,6 +1634,7 @@ deairs
 didascaly
 drupelet
 depositories
+deuteranomalous
 dealbate
 drawer
 depolarisation
@@ -9433,7 +9434,6 @@ diffusing
 didric
 dari
 distasting
-deuteranomalous
 dereling
 dowerless
 derout
