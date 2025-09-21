@@ -3690,7 +3690,6 @@ caravanserial
 companeros
 confuse
 caravels
-cosen
 caraway
 caraways
 carbachol
@@ -5169,6 +5168,7 @@ cartes
 complimentally
 casimiroa
 chorizontic
+cosen
 curarine
 casinet
 charet
