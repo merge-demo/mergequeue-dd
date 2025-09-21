@@ -3040,7 +3040,6 @@ digitizer
 doohickus
 dentaria
 demivambrace
-dentiscalp
 daddock
 degradand
 defaces
@@ -15740,6 +15739,7 @@ delacerate
 didascaliae
 diobely
 dracunculus
+dentiscalp
 devilishly
 doozies
 dronel
