@@ -194,6 +194,7 @@ baccalaureate
 baccara
 baroques
 bdrm
+butlerism
 bedin
 bristleless
 bipartition
@@ -5768,7 +5769,6 @@ bugled
 bascule
 bimillenium
 biremes
-butlerism
 bandstop
 biotomy
 bellyached
