@@ -5069,7 +5069,6 @@ doomwatcher
 dendraxon
 decolorizer
 delightsome
-dubious
 dendritic
 dendritical
 diminishes
@@ -11277,6 +11276,7 @@ depigment
 detoxifies
 deckers
 devitrifiable
+dubious
 despoliation
 damnatory
 dunnaging
