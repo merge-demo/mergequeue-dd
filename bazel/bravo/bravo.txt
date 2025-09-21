@@ -3787,6 +3787,7 @@ beauish
 befleck
 birde
 brawer
+burleycue
 brutus
 bauhinias
 barrington
@@ -17638,7 +17639,6 @@ breislakite
 bemajesty
 baghdad
 bordage
-burleycue
 betokening
 blisterous
 boviculture
