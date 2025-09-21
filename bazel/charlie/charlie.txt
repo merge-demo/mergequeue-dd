@@ -3470,7 +3470,6 @@ collocalia
 caff
 cognizers
 capsuliferous
-cheloniid
 capsuliform
 circumcision
 capsuling
@@ -26417,6 +26416,7 @@ cotoros
 cellulase
 calligraph
 cotorture
+cheloniid
 corymbosely
 chorography
 crowbars

@@ -9137,7 +9137,6 @@ dormins
 didder
 diddy
 doublehung
-detailed
 disciflorous
 dispunct
 dichoptic
@@ -16367,6 +16366,7 @@ downlink
 discharacter
 downness
 dissidently
+detailed
 dvaita
 downpipe
 downplay
