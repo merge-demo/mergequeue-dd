@@ -9520,7 +9520,6 @@ aluminas
 alumines
 archicontinent
 aluminiferous
-amarvel
 aluminyl
 aponeurorrhaphy
 abbreviature
@@ -19546,6 +19545,7 @@ ariot
 antimonium
 anglophilia
 aculeiform
+amarvel
 arising
 amidone
 alterius
