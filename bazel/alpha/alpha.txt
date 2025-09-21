@@ -1749,6 +1749,7 @@ acellular
 acemila
 antilepton
 ahaaina
+ascertainer
 acerb
 acromioscapular
 auditorily
@@ -5542,7 +5543,6 @@ agamian
 appendicitis
 angels
 antitemperance
-ascertainer
 afloat
 ambilian
 agamically
