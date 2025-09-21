@@ -12979,6 +12979,7 @@ bathless
 bombastical
 bailli
 brigadiers
+bytownite
 beelike
 befountained
 barmaid
@@ -15417,7 +15418,6 @@ boons
 babiana
 blastulas
 biferous
-bytownite
 buy
 brinies
 bemuck
