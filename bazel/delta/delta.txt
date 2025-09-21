@@ -6256,7 +6256,6 @@ duchesnea
 dissipators
 deutobromide
 dermatomere
-despectant
 dermatomyces
 delocalizing
 dipteraceous
@@ -9498,6 +9497,7 @@ diathermanous
 delirant
 digestible
 digestibleness
+despectant
 delphinite
 digestibly
 delesseriaceae
