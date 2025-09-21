@@ -3827,6 +3827,7 @@ bungwall
 bauxitic
 bavette
 baviaantje
+buffbar
 bulldogism
 breakbones
 billers
@@ -13255,7 +13256,6 @@ butchered
 basiarachnoiditis
 bosselation
 bolti
-buffbar
 broadest
 bogomil
 bosset
