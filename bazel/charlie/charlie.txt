@@ -8481,7 +8481,6 @@ chamotte
 cynosura
 cauligenous
 champagneless
-champagning
 chockman
 champagnize
 charterage
@@ -10334,6 +10333,7 @@ coelevate
 chickell
 chicken
 chainsmen
+champagning
 chickenberry
 counterpole
 citoyens
