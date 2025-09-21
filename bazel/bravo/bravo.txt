@@ -2114,7 +2114,6 @@ brouillon
 bantayan
 bidstand
 bergamiol
-badiaga
 bantamize
 bismar
 bregmata
@@ -17230,6 +17229,7 @@ breastwood
 bun
 bathochromatism
 benzotrifluoride
+badiaga
 bonduc
 buddling
 boutel
