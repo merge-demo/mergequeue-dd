@@ -16476,6 +16476,7 @@ absolutive
 abiogenesis
 acolytes
 apatela
+auscultate
 agrimonies
 adenomata
 anthropomorphise
@@ -24908,7 +24909,6 @@ ameristic
 assoria
 automotor
 awane
-auscultate
 ankylose
 adroit
 awkwardish
