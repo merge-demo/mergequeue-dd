@@ -12430,7 +12430,6 @@ chromidiosome
 carolers
 cartsale
 chromidium
-chromidrosis
 cymes
 chromyl
 chroming
@@ -13481,6 +13480,7 @@ cilia
 cassumunar
 cloakedly
 ciliate
+chromidrosis
 ciliated
 ciliately
 cryptogramma
