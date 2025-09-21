@@ -13847,7 +13847,6 @@ aerosiderite
 auditioning
 antarctical
 aryepiglottic
-adrenotropic
 ablatively
 antarctogaea
 amphitropal
@@ -23127,6 +23126,7 @@ adipogenous
 attractor
 accroach
 asterias
+adrenotropic
 apneumatic
 alligate
 acardite
