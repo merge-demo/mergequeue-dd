@@ -4938,7 +4938,6 @@ coctile
 catwood
 cartogram
 criniger
-chromatophilous
 comminate
 cypseli
 cartographical
@@ -15142,6 +15141,7 @@ casabas
 cladocarpous
 cropped
 cladocera
+chromatophilous
 clavicornes
 collarband
 commissionerships
