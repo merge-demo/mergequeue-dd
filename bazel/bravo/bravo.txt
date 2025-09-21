@@ -7430,7 +7430,6 @@ bowyers
 boothage
 bistre
 bleariest
-betwine
 betwixt
 brachypodine
 bronzesmith
@@ -9137,6 +9136,7 @@ bodacious
 brimfulness
 booed
 biparasitic
+betwine
 bobsleding
 boudoirs
 babblesome
