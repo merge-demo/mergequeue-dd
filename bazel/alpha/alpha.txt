@@ -8729,6 +8729,7 @@ astound
 assumable
 allanturic
 allen
+alder
 amyclas
 antevocalic
 arrayment
@@ -20584,7 +20585,6 @@ aleuroscope
 anthesteriac
 astragalonavicular
 associate
-alder
 anionically
 angami
 articularly
