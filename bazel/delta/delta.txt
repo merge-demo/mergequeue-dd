@@ -7376,7 +7376,6 @@ didine
 duplification
 disgraceful
 detecters
-doe
 dunnest
 deputise
 dissolution
@@ -8460,6 +8459,7 @@ demipremiss
 diabetophobia
 daboia
 dialogizing
+doe
 dorsiventrally
 dials
 donnerd
