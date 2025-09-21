@@ -16464,7 +16464,6 @@ connellite
 celliform
 cholonan
 ceruminous
-cowage
 cutlets
 circulable
 ceriferous
@@ -24621,6 +24620,7 @@ carbonate
 covillea
 chiggak
 cypripedium
+cowage
 copingstone
 chaplainry
 copiopia
