@@ -7565,6 +7565,7 @@ cyclanthaceae
 chariotry
 calystegia
 cerebellifugal
+corpses
 catholicist
 cerebellorubral
 cerebellum
@@ -25599,7 +25600,6 @@ corporosity
 corps
 crusting
 corpse
-corpses
 creeshy
 corpsy
 corpsman
