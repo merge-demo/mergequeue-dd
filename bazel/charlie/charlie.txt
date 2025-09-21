@@ -2724,7 +2724,6 @@ clarigation
 cinerama
 calipash
 cannach
-comedietta
 catamounts
 convented
 cannat
@@ -13053,6 +13052,7 @@ cyanophoric
 colossean
 cookstove
 cyanoplastid
+comedietta
 cyanoplatinite
 cyanose
 contraposit
