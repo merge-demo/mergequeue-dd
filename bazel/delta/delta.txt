@@ -5147,7 +5147,6 @@ diallages
 disprobabilize
 dadoed
 denebola
-disburdened
 denervation
 denes
 diacetamide
@@ -18044,6 +18043,7 @@ disrated
 disquisitionary
 damping
 dulcitude
+disburdened
 dacryocystalgia
 duteous
 dutuburi
