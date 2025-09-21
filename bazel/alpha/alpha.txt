@@ -8646,6 +8646,7 @@ allies
 alligated
 acceders
 anabrosis
+apostolici
 activators
 arctoid
 alligatorfish
@@ -22156,7 +22157,6 @@ albuminolysis
 alternately
 antitragi
 assorts
-apostolici
 antipoints
 astringents
 astringer
