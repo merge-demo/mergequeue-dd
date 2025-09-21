@@ -196,6 +196,7 @@ dealfish
 daemons
 daemonurgist
 devotement
+dithered
 dequeued
 dechlorination
 diabolize
@@ -447,7 +448,6 @@ darwan
 decorticator
 disobedient
 devaluate
-dithered
 dorsoanterior
 didonia
 demonic
