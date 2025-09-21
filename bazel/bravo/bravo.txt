@@ -1420,7 +1420,6 @@ butterhead
 bulter
 baldrib
 bibliognost
-balds
 baculums
 bale
 backjoint
@@ -3554,6 +3553,7 @@ bodybuilders
 bevel
 bathymetrical
 bathing
+balds
 bastinadoes
 bathyplankton
 bairnteam
