@@ -3552,6 +3552,7 @@ destituting
 degener
 declaredness
 diereses
+discasing
 dripping
 distater
 decasemic
@@ -11330,7 +11331,6 @@ disadvantagedness
 durukuli
 diptyca
 discases
-discasing
 discatter
 dribs
 deadheartedly
