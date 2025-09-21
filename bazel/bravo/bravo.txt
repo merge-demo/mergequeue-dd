@@ -115,6 +115,7 @@ banditry
 biforine
 boatbuilding
 brachycephales
+bandster
 barn
 baconic
 bludgeoned
@@ -4437,7 +4438,6 @@ becoresh
 bouchee
 bankruptly
 biurea
-bandster
 becram
 bindingly
 barbone
