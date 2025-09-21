@@ -7682,7 +7682,6 @@ developable
 dealer
 deflocculation
 didinium
-distorters
 dorsalis
 demisacrilege
 diptycas
@@ -15826,6 +15825,7 @@ dorsomedial
 daimiate
 dandriff
 diaxonic
+distorters
 dithyrambus
 disyntheme
 dicht
