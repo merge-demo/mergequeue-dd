@@ -2526,7 +2526,6 @@ bryophytic
 beflowers
 bretwaldaship
 bariatrics
-baric
 barycenter
 bemused
 burmite
@@ -7677,6 +7676,7 @@ bullaries
 bradycardic
 bheestie
 beblot
+baric
 begorra
 bespangles
 bibliomanianism
