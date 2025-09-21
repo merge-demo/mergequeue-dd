@@ -8884,7 +8884,6 @@ barbarousness
 bronchopneumonia
 barstool
 biocoenotic
-biodegradability
 biodegradable
 becassocked
 burlecue
@@ -9806,6 +9805,7 @@ birthplaces
 blubbery
 brail
 basilar
+biodegradability
 bisegment
 blackfellow
 bullnecked
