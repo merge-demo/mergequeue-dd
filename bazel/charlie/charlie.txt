@@ -14359,7 +14359,6 @@ condescend
 circumscribed
 collapsed
 crayfish
-circumscriptions
 circumsinous
 circumsolar
 collow
@@ -29912,6 +29911,7 @@ crossopt
 carposporangia
 crossopterygii
 chromonema
+circumscriptions
 circumscribing
 contrahent
 crossovers
