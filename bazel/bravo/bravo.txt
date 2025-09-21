@@ -1653,6 +1653,7 @@ ballota
 burnies
 billbergia
 boyarism
+bemuzzled
 blier
 boc
 benzothiodiazole
@@ -17687,7 +17688,6 @@ blunderings
 blowproof
 besnowing
 barbicanage
-bemuzzled
 bott
 baskonize
 buckeens
