@@ -2537,7 +2537,6 @@ candlelighting
 candlelit
 coituses
 cranemen
-candlemas
 childproof
 cacqueteuse
 candlepins
@@ -27626,6 +27625,7 @@ cowardy
 chrobat
 cowardish
 chionophobia
+candlemas
 chuffiest
 coecum
 cowardly
