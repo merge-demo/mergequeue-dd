@@ -240,6 +240,7 @@ auctorial
 achariaceous
 abbreviation
 abbreviators
+apikoros
 accreditable
 abc
 abcissa
@@ -13609,7 +13610,6 @@ aspergilloses
 apogamic
 anoncillo
 anonym
-apikoros
 anonymously
 anoopsia
 anophele
