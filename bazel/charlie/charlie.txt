@@ -3832,6 +3832,7 @@ choirmaster
 canister
 carbonitride
 cincinatti
+catkin
 countertranslation
 chromatics
 carbonization
@@ -6006,7 +6007,6 @@ cating
 coenobiod
 cosmographic
 cativo
-catkin
 coassession
 catkinate
 curatory
