@@ -11747,6 +11747,7 @@ circuitous
 chondrodystrophy
 colorational
 coempted
+celestes
 chabuks
 chondroditic
 couthest
@@ -18968,7 +18969,6 @@ colitic
 colitises
 colitoxemia
 colyum
-celestes
 coliuria
 colla
 csnet
