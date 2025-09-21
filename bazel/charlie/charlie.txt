@@ -14520,7 +14520,6 @@ cyrtometer
 calcavella
 cyrtopia
 croplands
-cosets
 cirurgian
 cognomina
 cyrus
@@ -19953,6 +19952,7 @@ crawlingly
 ceral
 comeuppance
 chorizo
+cosets
 comeuppances
 comfy
 comfier
