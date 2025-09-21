@@ -3972,6 +3972,7 @@ blusht
 brand
 beaching
 beachman
+bonnwis
 buenas
 blinky
 bugbeardom
@@ -12572,7 +12573,6 @@ bezzant
 bonnocks
 benzyl
 besom
-bonnwis
 bonorum
 baser
 bisector
