@@ -5556,7 +5556,6 @@ agrostographies
 ashine
 antiedemic
 antinaturalist
-ashamedness
 aminoacetone
 antiholiday
 aganice
@@ -16286,6 +16285,7 @@ ascogonia
 adramelech
 antonym
 antonymy
+ashamedness
 antonyms
 agglutinability
 appointed
