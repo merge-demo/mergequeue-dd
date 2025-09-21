@@ -1089,7 +1089,6 @@ columella
 calcinosis
 calciobiotite
 calcioferrite
-calcioscheelite
 calciphylactic
 calciphylaxis
 conceivableness
@@ -21647,6 +21646,7 @@ cringers
 clarkeite
 cheerless
 compactedly
+calcioscheelite
 cady
 cobbly
 concussions

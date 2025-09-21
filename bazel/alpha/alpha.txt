@@ -18892,7 +18892,6 @@ actiniform
 archmocker
 anastomosed
 antidicomarian
-algol
 antewar
 aluminoferric
 apprising
@@ -24586,6 +24585,7 @@ antiknocks
 anurans
 avena
 avenant
+algol
 acenaphthylene
 apodeipna
 ailie
