@@ -8824,7 +8824,6 @@ boehmeria
 bombycids
 branks
 bible
-binotonous
 bedeck
 blastomyces
 boilerman
@@ -15678,6 +15677,7 @@ bicolor
 brogue
 beblooded
 basiparachromatin
+binotonous
 broguer
 batrachophagous
 brogueries
