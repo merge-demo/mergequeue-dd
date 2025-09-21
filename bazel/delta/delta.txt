@@ -5884,7 +5884,6 @@ despots
 deckhouses
 dinglebird
 drago
-depreciation
 dredgings
 dacoity
 depreciative
@@ -10653,6 +10652,7 @@ discoveries
 dioc
 deathliness
 diplopod
+depreciation
 diplopoda
 discorrespondent
 delocalization
