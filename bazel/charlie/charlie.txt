@@ -10107,6 +10107,7 @@ chessist
 chessner
 chessom
 claves
+ceca
 chesstree
 cerias
 clammersome
@@ -11231,7 +11232,6 @@ crocodiloid
 chalcid
 coalfishes
 calderon
-ceca
 codettas
 canaut
 cibarial
