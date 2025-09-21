@@ -2737,6 +2737,7 @@ donas
 diagrams
 decorum
 dirige
+delegates
 daddies
 drawhorse
 decousu
@@ -3988,7 +3989,6 @@ dhooras
 dextro
 disposal
 demonetisation
-delegates
 demeore
 dermatosis
 dermographism
