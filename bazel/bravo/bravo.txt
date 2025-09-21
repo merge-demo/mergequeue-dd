@@ -5267,7 +5267,6 @@ beadroll
 burglary
 bemoil
 bargee
-bellevue
 broadband
 boltonia
 biscuitmaker
@@ -8868,6 +8867,7 @@ barkle
 biocidal
 bichos
 biocide
+bellevue
 bioclimatic
 bowwoman
 bioclimatician
