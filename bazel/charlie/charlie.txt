@@ -3428,7 +3428,6 @@ chiastolite
 capris
 capeadors
 caprizant
-caldron
 chorussing
 camptodrome
 chavender
@@ -7064,6 +7063,7 @@ centennially
 corroborant
 centennials
 caribes
+caldron
 caisson
 chisedec
 centerable

@@ -8610,7 +8610,6 @@ brightsomeness
 bryales
 benzo
 blechnum
-basigenic
 baronizing
 brie
 balladeroyal
@@ -13884,6 +13883,7 @@ bowsman
 bown
 batster
 bows
+basigenic
 bootjack
 bowsaw
 bowsed
