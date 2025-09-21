@@ -9990,6 +9990,7 @@ anisette
 amboceptoid
 adelpholite
 amidohexose
+argestes
 aspirin
 aggadic
 adjutage
@@ -15328,7 +15329,6 @@ antimelancholic
 antimensia
 antiburgher
 aggravable
-argestes
 anconitis
 archisperm
 angulosity
