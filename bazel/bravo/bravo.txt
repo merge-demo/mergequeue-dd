@@ -12510,6 +12510,7 @@ borrows
 bannimus
 beaus
 bedposts
+belimousined
 burseeds
 biham
 bibacious
@@ -13937,7 +13938,6 @@ beatitude
 boxman
 bickiron
 boxroom
-belimousined
 bromatium
 brame
 barwise
