@@ -10256,7 +10256,6 @@ autographism
 aerobacteriology
 antihemoglobin
 afacing
-academician
 acutilinguae
 angiotonase
 antidancing
@@ -11533,6 +11532,7 @@ anacreon
 archurger
 anacreontically
 analgene
+academician
 athens
 anacrogynae
 amba
