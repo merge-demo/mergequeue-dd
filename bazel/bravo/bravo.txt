@@ -6746,7 +6746,6 @@ bullarium
 butanone
 beachy
 birse
-ber
 beruffed
 brusqueness
 blae
@@ -8758,6 +8757,7 @@ bines
 bridebed
 becks
 bimarine
+ber
 briss
 bineweed
 bibliothec
