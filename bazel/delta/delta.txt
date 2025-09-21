@@ -7626,6 +7626,7 @@ danli
 dancy
 diverging
 dingily
+declensions
 dustmen
 dolphin
 deutoplastic
@@ -8334,7 +8335,6 @@ dyak
 defensively
 denouement
 dapper
-declensions
 decomposed
 duskly
 demasted
