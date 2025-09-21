@@ -1991,7 +1991,6 @@ debusing
 danger
 deerdog
 dawdle
-disseize
 downline
 dedans
 dyadically
@@ -5435,6 +5434,7 @@ darsonvalism
 displumes
 disquiparation
 dueled
+disseize
 deodorizes
 deontologist
 dibutyrate

@@ -7595,7 +7595,6 @@ cava
 citrulline
 cosmolabe
 corydaline
-cophouse
 cerebrifugal
 campshed
 cartoonists
@@ -10295,6 +10294,7 @@ carnalities
 cnidocyst
 committer
 cantharidin
+cophouse
 chicest
 coccidioidomycosis
 chicha
