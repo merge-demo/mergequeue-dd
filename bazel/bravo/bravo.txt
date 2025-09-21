@@ -7429,6 +7429,7 @@ bonytail
 bowyers
 boothage
 bistre
+boyaux
 bleariest
 betwine
 betwixt
@@ -12018,7 +12019,6 @@ blowzing
 bumboatmen
 beakerful
 bluesman
-boyaux
 bronchostomies
 boldface
 bicentenaries
