@@ -6591,6 +6591,7 @@ bambinos
 burnings
 biurate
 barpost
+bordage
 berycomorphi
 bemixes
 burlies
@@ -17637,7 +17638,6 @@ birgus
 breislakite
 bemajesty
 baghdad
-bordage
 burleycue
 betokening
 blisterous
