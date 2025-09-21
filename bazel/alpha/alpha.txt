@@ -15767,7 +15767,6 @@ antiprelatic
 arbitrations
 archils
 astrophotometry
-anno
 arni
 antiprime
 antiprinciple
@@ -25091,6 +25090,7 @@ axillar
 argyrite
 ascender
 antiketogen
+anno
 axillaries
 axillars
 aconitic

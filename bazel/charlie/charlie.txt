@@ -6470,7 +6470,6 @@ cavyyard
 caviled
 churching
 compellent
-canmaker
 conciliarism
 cirrhosed
 cavilers
@@ -9323,6 +9322,7 @@ chaudfroid
 chalkworker
 chauffage
 coddlers
+canmaker
 chauffer
 classist
 consuete
