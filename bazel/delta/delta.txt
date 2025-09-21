@@ -8112,7 +8112,6 @@ dioscuri
 duckish
 dehydrating
 dhaw
-dactylar
 dialleli
 didromies
 derfness
@@ -10315,6 +10314,7 @@ dipropellant
 decisive
 ding
 demurrers
+dactylar
 diagrammers
 ditton
 drunkly
