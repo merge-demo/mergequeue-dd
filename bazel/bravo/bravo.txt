@@ -3857,7 +3857,6 @@ birthbed
 bullpouts
 babus
 blackrag
-bugology
 bawdrics
 bawdries
 boreal
@@ -7006,6 +7005,7 @@ bedazzlement
 bespangling
 bespate
 bridgetin
+bugology
 brickbatted
 bloodleaf
 burushaski
