@@ -7293,6 +7293,7 @@ bethorns
 befogs
 blackbirds
 backsaw
+bashara
 bamboche
 backstab
 bethump
@@ -14710,7 +14711,6 @@ bolides
 bisectional
 bima
 baetzner
-bashara
 brawlingly
 bearbind
 brawlsome
