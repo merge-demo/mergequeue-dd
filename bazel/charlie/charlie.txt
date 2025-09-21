@@ -3685,6 +3685,7 @@ caravans
 caravansary
 caravansaries
 caravanserai
+chilicothe
 chromoxylography
 caravanserial
 companeros
@@ -20460,7 +20461,6 @@ comoedia
 comoedus
 comolecule
 carbonite
-chilicothe
 conformate
 crassness
 comose

@@ -15947,7 +15947,6 @@ dorsoscapular
 dermatrophy
 diablotin
 droich
-dysmenorrhoeal
 dulcimer
 dialdehyde
 diastomatic
@@ -17234,6 +17233,7 @@ discourser
 drylots
 dynamists
 drilvis
+dysmenorrhoeal
 dryness
 dam
 decahydrate
