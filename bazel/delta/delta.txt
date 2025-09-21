@@ -16630,7 +16630,6 @@ diacritics
 disbanding
 dodecarchy
 deutoscolex
-dietic
 dishallow
 doctorly
 draggletailed
@@ -18363,6 +18362,7 @@ dyestuff
 disorganizes
 depthless
 datableness
+dietic
 dithalous
 diallelon
 dexterical

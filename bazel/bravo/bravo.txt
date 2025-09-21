@@ -2635,6 +2635,7 @@ barkless
 battening
 barkometer
 bescorch
+beefburger
 batrachite
 beeth
 bedtimes
@@ -6949,7 +6950,6 @@ besmirchers
 bioreaction
 bankfull
 bleeders
-beefburger
 barricades
 basilian
 breathtaking
