@@ -4962,7 +4962,6 @@ duffy
 dicrostonyx
 defiled
 duranta
-demoralized
 duodecimfid
 donnas
 decemviral
@@ -12300,6 +12299,7 @@ disgracer
 dipicrate
 disenchanted
 delicacies
+demoralized
 disgracious
 demilawyer
 diplegias
