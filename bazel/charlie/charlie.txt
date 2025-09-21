@@ -4320,6 +4320,7 @@ caricologist
 carucage
 cowlstaff
 clanjamfray
+catechisms
 caricous
 craker
 canacuas
@@ -11825,7 +11826,6 @@ contradictories
 camber
 cyclopedia
 crapshooters
-catechisms
 chopdar
 cyprinoidea
 connation
