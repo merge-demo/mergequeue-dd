@@ -2923,7 +2923,6 @@ aland
 actinomeric
 aruncus
 amphinucleus
-anisated
 agnatha
 axseed
 actinometrical
@@ -25138,6 +25137,7 @@ axite
 allantoides
 axites
 ate
+anisated
 axle
 appendice
 aphanipterous
