@@ -6742,7 +6742,6 @@ dogy
 decontaminative
 dramming
 desucration
-desilicify
 desilicified
 desiliconization
 dribbed
@@ -16312,6 +16311,7 @@ distilled
 debilities
 divinyl
 disabling
+desilicify
 downcome
 dipsey
 dorsal
