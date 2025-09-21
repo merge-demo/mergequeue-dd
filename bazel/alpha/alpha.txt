@@ -3475,6 +3475,7 @@ apocrypha
 adenodynia
 apotheces
 asses
+araneology
 assacu
 arcade
 aggelation
@@ -15227,7 +15228,6 @@ agathosma
 abwatt
 antiking
 aposematic
-araneology
 anthropomorphize
 antikings
 ambitioning
