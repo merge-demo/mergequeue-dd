@@ -10274,6 +10274,7 @@ demandingly
 downfold
 disclout
 duodenal
+dipleurule
 disagreeance
 demonograph
 dioicousness
@@ -13961,7 +13962,6 @@ diactin
 diablo
 daubreelite
 dichroism
-dipleurule
 deys
 distomatous
 daubed
