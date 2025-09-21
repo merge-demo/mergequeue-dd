@@ -6262,6 +6262,7 @@ auctioning
 aguavina
 actinologous
 archsacrificer
+alectoria
 agudist
 aphodius
 arsonite
@@ -7704,7 +7705,6 @@ amber
 accorders
 alecost
 aecidioform
-alectoria
 alectorides
 aprosopia
 arbors
