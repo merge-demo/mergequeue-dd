@@ -11212,6 +11212,7 @@ disbrain
 dani
 dock
 disbeliefs
+drillman
 diswit
 dodgiest
 diagonalizable
@@ -17229,7 +17230,6 @@ dactylically
 devarshi
 dermophytic
 drilling
-drillman
 discourser
 drylots
 dynamists
