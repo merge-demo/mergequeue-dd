@@ -4069,6 +4069,7 @@ anacoustic
 adoptianism
 accordance
 adopting
+alarbus
 anaerobies
 adoption
 antedate
@@ -16419,7 +16420,6 @@ apaesthetic
 astronautic
 apaesthetize
 articulatory
-alarbus
 apagoge
 anophthalmus
 apagogic
