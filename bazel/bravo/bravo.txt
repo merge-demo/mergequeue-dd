@@ -85,7 +85,6 @@ bulwarks
 baccarat
 barbwire
 bori
-barkened
 backstretch
 becked
 barytas
@@ -14548,6 +14547,7 @@ balon
 blume
 burled
 buri
+barkened
 boyar
 boardroom
 bansalague

@@ -427,7 +427,6 @@ cactuslike
 cassavas
 cacuminal
 catheretic
-cacuminous
 cacur
 cad
 catholic
@@ -19688,6 +19687,7 @@ creophagist
 columbine
 covin
 climactic
+cacuminous
 chamfrons
 cusp
 crocky
