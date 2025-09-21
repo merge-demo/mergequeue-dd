@@ -2595,6 +2595,7 @@ bedevils
 barytocelestite
 barytone
 bergere
+bleachworks
 bears
 brittlely
 bewitchment
@@ -10607,7 +10608,6 @@ bleacherite
 braye
 boardy
 bleachyard
-bleachworks
 bhalu
 bearableness
 balanophoraceae
