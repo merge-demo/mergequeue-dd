@@ -7559,6 +7559,7 @@ daphnia
 deuterate
 deuteration
 denucleate
+doleritic
 demarcator
 disenchain
 datura
@@ -10600,7 +10601,6 @@ daintifying
 domitable
 dolven
 dishes
-doleritic
 drudger
 diplomates
 diplomatically
