@@ -553,7 +553,6 @@ confort
 caduac
 cruiseway
 commilitant
-catalineta
 caducean
 catechistic
 caducecei
@@ -4501,6 +4500,7 @@ cracklings
 coroner
 chartula
 coacervating
+catalineta
 caribal
 citoler
 carnets
