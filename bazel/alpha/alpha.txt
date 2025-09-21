@@ -20211,6 +20211,7 @@ airline
 apostolate
 apparently
 arenarious
+astronomical
 arrosive
 anglophilic
 aleuritic
@@ -22274,7 +22275,6 @@ astronomy
 aeschynomene
 actorship
 aphototropism
-astronomical
 afterrider
 astronomize
 anaphalantiasis
