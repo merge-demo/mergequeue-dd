@@ -16204,6 +16204,7 @@ alphabetizing
 assuagement
 atherinidae
 antitropic
+asexualize
 additament
 anhematosis
 acecaffin
@@ -17539,7 +17540,6 @@ arseniosiderite
 advisership
 apioidal
 antiagglutination
-asexualize
 agouta
 appestat
 angiocarpic
