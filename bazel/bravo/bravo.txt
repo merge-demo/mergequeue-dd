@@ -12329,7 +12329,6 @@ bacchantic
 blan
 beefsteaks
 bobfly
-brimful
 baste
 broideries
 bombing
@@ -17027,6 +17026,7 @@ bibliomanian
 beseeming
 bullfighters
 beckoners
+brimful
 bullfinches
 brantails
 bullflower
