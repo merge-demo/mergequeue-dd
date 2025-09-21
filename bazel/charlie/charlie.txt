@@ -6134,7 +6134,6 @@ coordinated
 correlativeness
 crosstied
 circumjacencies
-ceraunoscope
 cupolas
 catwalk
 chancier
@@ -11303,6 +11302,7 @@ chlorodizing
 corylopsis
 cradlers
 chloroethene
+ceraunoscope
 charting
 chlorofluorocarbon
 chlorofluoromethane
