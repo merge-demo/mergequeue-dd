@@ -3519,6 +3519,7 @@ dibenzyl
 drainpipes
 displants
 dermatotome
+decking
 drawbeam
 defuze
 dolman
@@ -4726,7 +4727,6 @@ dedecorous
 duties
 demiurgeous
 downswings
-decking
 diacaustic
 derealization
 dreadlessly
