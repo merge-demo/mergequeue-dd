@@ -2185,7 +2185,6 @@ camptonite
 camptosorus
 cabaan
 campus
-chromatic
 chatelain
 colonette
 campusses
@@ -9004,6 +9003,7 @@ chariotman
 cyamoid
 collegiately
 cumarin
+chromatic
 catechetic
 cauldrons
 chaplaincy
