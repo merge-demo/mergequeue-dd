@@ -26,7 +26,6 @@ beads
 babbittry
 balancement
 biverbal
-brachydomal
 brutalizes
 babblative
 benzoxyphenanthrene
@@ -725,6 +724,7 @@ blossomhead
 bransles
 berrendo
 badger
+brachydomal
 breeches
 backyard
 bookings
