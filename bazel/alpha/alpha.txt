@@ -799,7 +799,6 @@ amphicyrtous
 abscission
 absconce
 arris
-abscond
 anteport
 absconded
 anther
@@ -2097,6 +2096,7 @@ acholous
 absolutistically
 arsylene
 ariste
+abscond
 acholuric
 alguazil
 anourous
