@@ -2146,6 +2146,7 @@ dissyllabize
 decamethonium
 dominator
 decancellated
+diphthongizing
 dermatalgia
 debaser
 drillable
@@ -10495,7 +10496,6 @@ defyingly
 dunny
 daglock
 diphthongize
-diphthongizing
 doorknob
 discompliance
 daubentoniidae

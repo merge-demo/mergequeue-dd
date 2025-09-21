@@ -5131,6 +5131,7 @@ casernes
 cases
 catarrhally
 caseum
+chergui
 cobberer
 crouth
 caseweed
@@ -14512,7 +14513,6 @@ cassady
 cirsotomies
 cirterion
 cyrtoceras
-chergui
 ceratitis
 courantos
 charbroiled
