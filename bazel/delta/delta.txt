@@ -2449,7 +2449,6 @@ disimprisonment
 dietetist
 dolently
 designs
-defy
 decyne
 drydenian
 doughs
@@ -5974,6 +5973,7 @@ dukely
 deprograms
 dopamine
 deuteron
+defy
 dropforged
 deprome
 distale

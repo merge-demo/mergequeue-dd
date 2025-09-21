@@ -5464,7 +5464,6 @@ alation
 adiated
 afunctional
 anticorrosion
-afwillite
 amita
 afzelia
 adjustable
@@ -8455,6 +8454,7 @@ allagostemonous
 allah
 astrophysicist
 austafrican
+afwillite
 allay
 allayers
 allaying
