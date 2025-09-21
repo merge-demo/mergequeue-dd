@@ -4106,6 +4106,7 @@ beslimer
 birthroot
 behears
 bombazette
+bisimine
 beggarwoman
 bedrenched
 bras
@@ -5069,7 +5070,6 @@ beyship
 bison
 bleinerite
 befittingly
-bisimine
 blacklead
 baselines
 befittingness

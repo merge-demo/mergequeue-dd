@@ -1725,7 +1725,6 @@ depressiveness
 dornecks
 deasil
 dearness
-deaspirate
 deuterocone
 drecks
 debilitant
@@ -9601,6 +9600,7 @@ dignitarian
 discuss
 dreamy
 demophoon
+deaspirate
 doubloons
 dignities
 drunks
