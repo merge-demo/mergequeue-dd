@@ -8352,6 +8352,7 @@ brulot
 bankside
 batatilla
 belard
+bullnoses
 bywords
 buzukis
 beatster
@@ -17089,7 +17090,6 @@ bulletproof
 bellicose
 bullnose
 beggingly
-bullnoses
 bhara
 brachialgia
 beduins
