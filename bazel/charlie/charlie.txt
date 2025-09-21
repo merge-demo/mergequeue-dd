@@ -15335,7 +15335,6 @@ clandestine
 clandestinely
 clandestineness
 clanfellow
-circumstanced
 caddo
 cisternal
 compatriot
@@ -29775,6 +29774,7 @@ cronyism
 catholicity
 caulote
 contraindication
+circumstanced
 comorado
 colleagued
 chimerically

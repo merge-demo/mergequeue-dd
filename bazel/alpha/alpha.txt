@@ -2720,6 +2720,7 @@ acroliths
 antiferromagnetic
 acrologism
 austronesian
+ascupart
 amaxomania
 agraffee
 acquirer
@@ -25173,7 +25174,6 @@ axonolipous
 amirate
 axonometric
 asprete
-ascupart
 adviceful
 abusiveness
 axonophora
