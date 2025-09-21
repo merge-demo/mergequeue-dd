@@ -2336,7 +2336,6 @@ bracero
 bibliopolar
 bluetick
 barbiturism
-barreler
 benzoperoxide
 badarrah
 borid
@@ -16968,6 +16967,7 @@ barosinusitis
 bullamacow
 boorga
 bullate
+barreler
 bullback
 bullbaiting
 belduque
