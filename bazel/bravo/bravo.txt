@@ -9785,6 +9785,7 @@ brands
 begums
 bites
 birefringent
+bonang
 bebat
 bitewing
 barmfel
@@ -12374,7 +12375,6 @@ bonacis
 beefin
 bonaire
 bromeigon
-bonang
 bonapartism
 bigotries
 betterly
