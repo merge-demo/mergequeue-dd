@@ -12622,7 +12622,6 @@ brios
 bonzer
 betattered
 betided
-beaklike
 bewrayed
 bhumidar
 birdied
@@ -16836,6 +16835,7 @@ burrah
 bituminous
 bugout
 bugs
+beaklike
 bino
 bugweed
 blacktopped
