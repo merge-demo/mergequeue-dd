@@ -16523,7 +16523,6 @@ ached
 alleger
 aperitif
 apers
-aquamanile
 arsonation
 anticlassically
 asyndeta
@@ -25100,6 +25099,7 @@ axing
 anagenesis
 acrosarc
 axinite
+aquamanile
 alimentiveness
 antiascetic
 alant
