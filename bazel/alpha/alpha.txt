@@ -995,7 +995,6 @@ absinthial
 aerohydrous
 acetylcholinesterase
 assignations
-antiwit
 apiology
 avenary
 abstrusity
@@ -4154,6 +4153,7 @@ ammonolysis
 anaspida
 albuminosis
 adrenocorticotropic
+antiwit
 anthracolithic
 albacores
 astructive
