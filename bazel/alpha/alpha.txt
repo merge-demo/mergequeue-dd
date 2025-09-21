@@ -11879,7 +11879,6 @@ armagnac
 anarthrosis
 abrazite
 anarthrously
-anarthrousness
 avionics
 anas
 athumia
@@ -23500,6 +23499,7 @@ aurate
 aureate
 attendant
 allosaur
+anarthrousness
 alkylene
 axels
 aurelia
