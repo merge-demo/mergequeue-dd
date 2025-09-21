@@ -8493,6 +8493,7 @@ directionize
 dodecyl
 downgrades
 diamondback
+disenchantress
 disulphone
 drawl
 diplomatize
@@ -12006,7 +12007,6 @@ dowd
 dermitis
 dimolecular
 dansy
-disenchantress
 duckwing
 depluming
 difforme
