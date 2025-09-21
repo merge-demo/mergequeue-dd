@@ -6445,7 +6445,6 @@ cavernal
 cavernlike
 cavernous
 cocamine
-cavernously
 cavernulous
 caves
 cavetti
@@ -8385,6 +8384,7 @@ chalumeaux
 chalutzim
 chama
 chondroplastic
+cavernously
 chamacea
 coenoblast
 complicate

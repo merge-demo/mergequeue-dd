@@ -4055,6 +4055,7 @@ bedeafen
 brooked
 beancod
 bater
+beroidae
 beanery
 beanfeast
 besqueeze
@@ -6679,7 +6680,6 @@ benetting
 bokharan
 bushranging
 barotaxis
-beroidae
 bathmotropic
 berossos
 buildup
