@@ -4904,6 +4904,7 @@ demonizes
 demonizing
 drame
 dailies
+dewaters
 detecting
 demonography
 demonographies
@@ -7908,7 +7909,6 @@ disenshroud
 diffluence
 despair
 dissipate
-dewaters
 drofland
 disard
 desmocyte
