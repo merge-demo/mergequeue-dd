@@ -5893,7 +5893,6 @@ bejant
 belter
 baccillla
 billet
-ballistic
 bemadam
 bolter
 bestrowing
@@ -9851,6 +9850,7 @@ bitterbloom
 bearcat
 bitterbur
 bitterender
+ballistic
 biologically
 ballooning
 bemingling
