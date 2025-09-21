@@ -2246,7 +2246,6 @@ blesboks
 blateroon
 bannerwise
 biasing
-branchiopallial
 bowing
 bats
 belavendered
@@ -18001,6 +18000,7 @@ bafyot
 bepaw
 basifying
 bottler
+branchiopallial
 busthead
 barberries
 baryte
