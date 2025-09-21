@@ -8305,6 +8305,7 @@ chalicotheriidae
 caravan
 campfire
 cephalohumeralis
+conscriptionist
 cytologist
 courtyard
 chalina
@@ -12921,7 +12922,6 @@ convolutional
 claviol
 coenure
 churred
-conscriptionist
 cervix
 churrigueresco
 churrip
