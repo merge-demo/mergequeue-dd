@@ -4298,7 +4298,6 @@ carica
 caricaceae
 caricaceous
 cotemporaneous
-carcinology
 cattleya
 caricatura
 caricature
@@ -30355,6 +30354,7 @@ crustaceological
 codicils
 cosmical
 cattishness
+carcinology
 clearstories
 curitis
 circulator

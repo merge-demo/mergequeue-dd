@@ -15842,7 +15842,6 @@ bereft
 bronchadenitis
 bluebeard
 bullshot
-bimetallistic
 brooding
 buckteeth
 botswana
@@ -15959,6 +15958,7 @@ bannered
 bombo
 bronzewing
 bio
+bimetallistic
 bcd
 bestrid
 blitzbuggy
