@@ -3090,6 +3090,7 @@ broomcorn
 brochures
 beachboys
 bating
+bakership
 badminton
 barware
 boneblack
@@ -10775,7 +10776,6 @@ batyphone
 bienvenu
 banjorine
 bephilter
-bakership
 boul
 briquets
 bavin
