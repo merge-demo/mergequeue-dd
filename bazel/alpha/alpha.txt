@@ -13004,7 +13004,6 @@ allorrhythmic
 animatedly
 actionable
 animaters
-animating
 animation
 admirability
 amoks
@@ -15708,6 +15707,7 @@ antiplanet
 almochoden
 antiplastic
 advocation
+animating
 anethum
 antiplurality
 antipodal
