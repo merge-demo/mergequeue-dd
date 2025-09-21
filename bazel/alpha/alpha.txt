@@ -859,7 +859,6 @@ absoil
 absterging
 antient
 amphitron
-artou
 absolent
 azophosphin
 apophlegmatic
@@ -21406,6 +21405,7 @@ anticritique
 assuaged
 actinula
 attidae
+artou
 antimonopolism
 adiphenine
 arthemis

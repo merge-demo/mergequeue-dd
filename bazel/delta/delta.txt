@@ -490,6 +490,7 @@ deplorer
 disthrall
 disinhabit
 daswen
+diploidic
 daytide
 daunder
 dressily
@@ -10586,7 +10587,6 @@ division
 decoctible
 diegesis
 demounts
-diploidic
 discanonized
 dunderbolt
 dominus
