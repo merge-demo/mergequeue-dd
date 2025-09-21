@@ -8591,6 +8591,7 @@ agrise
 allergenic
 abouchement
 allergenicity
+amphidiarthrosis
 arrhythmous
 atheology
 actinopod
@@ -11131,7 +11132,6 @@ amphophile
 amphidetic
 autoclaved
 affecter
-amphidiarthrosis
 assimilator
 archduchy
 aryans

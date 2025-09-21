@@ -2006,7 +2006,6 @@ crossgrainedness
 chirimoya
 contradictorily
 conolophus
-camouflagic
 coincidence
 chalazae
 companionship
@@ -4001,6 +4000,7 @@ cardiac
 copihues
 calfs
 cardiacal
+camouflagic
 carbosilicate
 cestui
 cleronomy
