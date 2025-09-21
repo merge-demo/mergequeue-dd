@@ -930,6 +930,7 @@ dipnoi
 densus
 dominating
 dodecanesian
+domed
 dereferences
 decapsulate
 dromiceius
@@ -8662,7 +8663,6 @@ dato
 diaschisma
 dentulous
 delfs
-domed
 didactyl
 dissection
 dyassic
