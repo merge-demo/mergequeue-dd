@@ -18311,7 +18311,6 @@ coffeeberries
 concocts
 cistophorus
 cocreates
-cohosting
 concessionary
 coffeegrower
 cantinas
@@ -26315,6 +26314,7 @@ coleopterous
 colymbiform
 collisional
 cotabulate
+cohosting
 carya
 cotarius
 calander
