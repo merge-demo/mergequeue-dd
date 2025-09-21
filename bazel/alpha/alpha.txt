@@ -4576,6 +4576,7 @@ aeolia
 ated
 aeolic
 adoptees
+anecdotist
 alluvial
 alveolarly
 abrachia
@@ -9567,7 +9568,6 @@ alurgite
 autocephalic
 alvah
 almoin
-anecdotist
 assailment
 antisialic
 alveary
