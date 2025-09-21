@@ -803,7 +803,6 @@ boothose
 batrachophobia
 braky
 blake
-boltage
 baffies
 bacalao
 balefulness
@@ -16262,6 +16261,7 @@ bemoaner
 bangup
 bkpt
 bioelectronics
+boltage
 borrowed
 boryl
 branchipus
