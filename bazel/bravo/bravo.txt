@@ -2896,6 +2896,7 @@ barratries
 becrawls
 barratrously
 barrelage
+bezante
 barreleyes
 bookend
 batuque
@@ -7749,7 +7750,6 @@ bradypepsy
 berain
 bottomchrome
 balantidium
-bezante
 biallyl
 bellum
 birchman
