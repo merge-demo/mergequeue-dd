@@ -762,6 +762,7 @@ bearcoot
 badiner
 badinerie
 bilo
+bines
 badious
 betrays
 blandiloquence
@@ -8754,7 +8755,6 @@ bromos
 backrests
 binervate
 benders
-bines
 bridebed
 becks
 bimarine
