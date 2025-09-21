@@ -5942,6 +5942,7 @@ disentraced
 defeatee
 depreter
 dagged
+dougl
 deprivable
 dissuasory
 departements
@@ -9751,7 +9752,6 @@ disablers
 detin
 diprismatic
 doggery
-dougl
 derivatively
 disregardful
 dimethyl
