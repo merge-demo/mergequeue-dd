@@ -6152,6 +6152,7 @@ battledore
 braced
 baffy
 boneen
+bezante
 benet
 beneventan
 backfilled
@@ -7749,7 +7750,6 @@ bradypepsy
 berain
 bottomchrome
 balantidium
-bezante
 biallyl
 bellum
 birchman
