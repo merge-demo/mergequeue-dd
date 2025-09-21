@@ -12363,7 +12363,6 @@ conjunction
 chromates
 cacciatora
 chrysomonadine
-chromatically
 carcinogen
 chromatician
 calorimeters
@@ -31079,6 +31078,7 @@ countershading
 chawed
 cunabular
 cunarder
+chromatically
 cunctation
 cunctative
 coredeems
