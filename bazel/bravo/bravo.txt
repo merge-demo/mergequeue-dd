@@ -13967,7 +13967,6 @@ blindfolder
 bloviates
 ballet
 brabble
-bicycling
 bowmaker
 boxmaking
 bitterer
@@ -16308,6 +16307,7 @@ brunnichia
 benchlet
 barred
 bumpingly
+bicycling
 blastocheme
 butyrolactone
 beclose

@@ -852,6 +852,7 @@ cs
 cayuca
 chinless
 commendador
+cistori
 cosmothetic
 cayuga
 cayugan
@@ -14698,7 +14699,6 @@ cystoptosis
 conestoga
 cystoradiography
 cairo
-cistori
 cystosarcoma
 cyanogenetic
 cystoschisis
