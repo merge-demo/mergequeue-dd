@@ -5794,7 +5794,6 @@ colorlessness
 chaffier
 cabezone
 catella
-conferruminate
 catena
 catenae
 catenane
@@ -26256,6 +26255,7 @@ cant
 casern
 carmel
 cyclostomate
+conferruminate
 cheung
 costochondral
 copyboys
