@@ -6822,7 +6822,6 @@ dreadfuls
 decayed
 devchar
 demiwolf
-debone
 desmidiology
 dandyishy
 dolichoblond
@@ -8044,6 +8043,7 @@ duodecuple
 dudeens
 dataset
 disallowance
+debone
 dismembered
 disconnecting
 doggess

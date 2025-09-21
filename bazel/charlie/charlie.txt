@@ -7028,6 +7028,7 @@ coolies
 chock
 centaur
 centaurdom
+chameleonize
 capers
 cuvette
 centaurea
@@ -11659,7 +11660,6 @@ cholla
 cryogen
 chollas
 choller
-chameleonize
 claries
 chinchiness
 corruptness
