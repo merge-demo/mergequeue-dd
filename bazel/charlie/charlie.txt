@@ -18281,7 +18281,6 @@ coexerting
 clomps
 condescends
 coexerts
-coexistence
 countermessage
 comicodidactic
 coexisting
@@ -25270,6 +25269,7 @@ cormogen
 cormophyta
 challa
 corn
+coexistence
 cochin
 cornada
 cornage
