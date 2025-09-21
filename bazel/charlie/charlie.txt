@@ -12164,7 +12164,6 @@ coronet
 chrysalida
 chrysalidal
 chrysaline
-chromophilous
 chrysalis
 compress
 caducity
@@ -27086,6 +27085,7 @@ countersense
 countershade
 clione
 chasms
+chromophilous
 clinologic
 configurable
 countershine
