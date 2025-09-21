@@ -3657,6 +3657,7 @@ cognates
 carapax
 climacterial
 coachable
+claymores
 cineastes
 clawlike
 contrapuntal
@@ -18049,7 +18050,6 @@ chipboard
 compiled
 coelococcus
 charioteers
-claymores
 crawlie
 cornerman
 corinthians
