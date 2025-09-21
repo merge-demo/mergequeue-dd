@@ -3191,7 +3191,6 @@ deferrized
 demain
 defervescent
 dadburned
-disauthenticate
 dentilingual
 dodoma
 defendants
@@ -11950,6 +11949,7 @@ dentifrices
 dissolvable
 disembitter
 dagestan
+disauthenticate
 domicils
 drawliest
 diesels
