@@ -10752,6 +10752,7 @@ alterer
 ammonitoid
 ammonitoidea
 affording
+ashamedly
 abecedary
 ammocoetiform
 apraxic
@@ -24682,7 +24683,6 @@ aviaries
 anahita
 aviarist
 anteceding
-ashamedly
 accosted
 adyta
 airest
