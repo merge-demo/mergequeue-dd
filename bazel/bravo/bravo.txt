@@ -3060,7 +3060,6 @@ buxeous
 bartree
 beetmister
 banakite
-baruch
 bitten
 briery
 batlon
@@ -4122,6 +4121,7 @@ bearhug
 babirousa
 bearhugs
 buccal
+baruch
 bearish
 bigoniac
 bronchoscopic
