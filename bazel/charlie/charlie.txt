@@ -2925,7 +2925,6 @@ coluber
 cryptoprocta
 cantering
 canthal
-curling
 cantharic
 cantharidae
 cake
@@ -14584,6 +14583,7 @@ cysted
 cysteinic
 cysteins
 cyclolith
+curling
 cosmologic
 cistercian
 concretionary
