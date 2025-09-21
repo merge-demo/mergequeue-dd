@@ -16502,7 +16502,6 @@ celebrious
 chimane
 cursores
 clobber
-charneco
 connarus
 cleeking
 clobbered
@@ -17845,6 +17844,7 @@ codebooks
 codebreaker
 codebtor
 chinotti
+charneco
 coenures
 cavettos
 coz
