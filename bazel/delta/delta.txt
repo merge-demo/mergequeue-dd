@@ -4366,7 +4366,6 @@ demal
 daylit
 diode
 districtly
-deavely
 demanded
 dewer
 danize
@@ -11083,6 +11082,7 @@ diakinesis
 dicier
 disconnection
 disconcertedness
+deavely
 dealates
 diamagnetically
 droning

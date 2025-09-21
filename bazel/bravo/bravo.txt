@@ -8526,7 +8526,6 @@ buckwashing
 bushveld
 botaurus
 brachiolarian
-baar
 barih
 botryomycotic
 bejeweling
@@ -11281,6 +11280,7 @@ bronchoesophagoscopy
 blancard
 belowground
 beshackle
+baar
 blowholes
 bajardo
 blowie
