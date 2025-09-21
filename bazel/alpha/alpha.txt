@@ -10947,7 +10947,6 @@ armorician
 agouti
 amorphously
 affirmatory
-artisanal
 amorphus
 amort
 amuguis
@@ -14833,6 +14832,7 @@ anticonservativeness
 arrand
 auricularis
 achromatopsia
+artisanal
 anadrom
 apagoges
 ardass

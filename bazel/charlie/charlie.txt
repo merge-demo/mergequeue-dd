@@ -7023,7 +7023,6 @@ censusing
 centage
 cavort
 ceratostomataceae
-cornbole
 coolies
 chock
 centaur
@@ -9317,6 +9316,7 @@ chaucerian
 chauchat
 carline
 cuorin
+cornbole
 caligation
 conjunctive
 chaudfroid
