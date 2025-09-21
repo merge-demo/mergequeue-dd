@@ -14770,6 +14770,7 @@ comber
 citherns
 clavering
 cithers
+clairseach
 cithren
 condign
 city
@@ -15234,7 +15235,6 @@ conforms
 cade
 curtailments
 copetitioner
-clairseach
 carpetwork
 cloisteral
 compresses
