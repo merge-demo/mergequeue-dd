@@ -23668,7 +23668,6 @@ cassiaceae
 capfuls
 civilization
 contise
-cognoscenti
 ceratocricoid
 contoid
 choledocholithotripsy
@@ -31927,6 +31926,7 @@ coleopttera
 cotyledonar
 channeller
 czardas
+cognoscenti
 czardoms
 czarevitch
 czarevna
