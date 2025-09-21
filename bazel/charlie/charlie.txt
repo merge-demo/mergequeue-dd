@@ -3582,7 +3582,6 @@ cotrespasser
 caraboa
 caraboid
 caracara
-carack
 caracoa
 cumanagoto
 curtaxe
@@ -8660,6 +8659,7 @@ curtness
 complementaries
 cohesionless
 cuissard
+carack
 changeovers
 chiefs
 capilliculture
