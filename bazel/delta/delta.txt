@@ -14054,7 +14054,6 @@ distribute
 dolichocephalic
 dandriffs
 distributer
-deglute
 distributing
 doohickey
 distribution
@@ -14181,6 +14180,7 @@ deleter
 doeling
 depreciatingly
 drolly
+deglute
 deteriorism
 devilled
 denim

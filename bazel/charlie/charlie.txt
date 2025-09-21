@@ -6860,7 +6860,6 @@ chromatophorous
 cellulosing
 cellulosity
 correllated
-cellulosities
 combined
 canhoop
 committedness
@@ -24026,6 +24025,7 @@ cinque
 conveyors
 campanili
 centervelic
+cellulosities
 chakras
 convenances
 convene
