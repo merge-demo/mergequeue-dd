@@ -5702,7 +5702,6 @@ copperheads
 catchweight
 catchword
 catchwork
-cabasset
 catclaw
 cate
 cityful
@@ -15318,6 +15317,7 @@ collembolan
 clamourist
 coadmired
 cellaret
+cabasset
 congous
 clamourous
 checkrow
