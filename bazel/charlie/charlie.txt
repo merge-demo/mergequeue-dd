@@ -5305,6 +5305,7 @@ castanea
 chewy
 crescentic
 cylindroconical
+chrestomathics
 castanean
 cynarctomachy
 cyrillaceous
@@ -31253,7 +31254,6 @@ catalexes
 communicability
 crocoites
 canids
-chrestomathics
 chopboat
 communisation
 curate
