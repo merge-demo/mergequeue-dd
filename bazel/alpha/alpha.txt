@@ -8093,7 +8093,6 @@ alicoche
 altiscope
 alicula
 anomies
-aliculae
 advisably
 alidad
 archilochian
@@ -10354,6 +10353,7 @@ amiantuses
 amyatonic
 amic
 assumpt
+aliculae
 amicability
 amicabilities
 amicably
