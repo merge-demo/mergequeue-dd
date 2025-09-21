@@ -9142,7 +9142,6 @@ diddy
 doublehung
 detailed
 disciflorous
-dispunct
 dichoptic
 demission
 didelphidae
@@ -9256,6 +9255,7 @@ discounsel
 deaminization
 dielectric
 disparately
+dispunct
 dismerit
 depender
 devolve
