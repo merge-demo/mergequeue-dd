@@ -2285,6 +2285,7 @@ aftercare
 artifact
 acylamino
 acylated
+antiplanet
 awalt
 apeptic
 alizari
@@ -15706,7 +15707,6 @@ armors
 acatharsy
 antipyrotic
 aglobulism
-antiplanet
 almochoden
 antiplastic
 advocation
