@@ -2855,7 +2855,6 @@ deprived
 demented
 diorthosis
 deathling
-decurrences
 defeminising
 dihysteria
 directed
@@ -8896,6 +8895,7 @@ dicastic
 diccon
 depolariser
 domines
+decurrences
 digitaria
 dermatitis
 dewlike
