@@ -15428,7 +15428,6 @@ clapwort
 cpd
 culbuter
 candescently
-cosmographist
 calipering
 claques
 claqueur
@@ -18625,6 +18624,7 @@ chronosemic
 clysis
 cohosted
 cohosts
+cosmographist
 chevrons
 cohune
 choloidic
