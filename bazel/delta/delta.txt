@@ -3989,6 +3989,7 @@ dextro
 disposal
 demonetisation
 delegates
+dextrorse
 demeore
 dermatosis
 dermographism
@@ -8613,7 +8614,6 @@ discolored
 deathin
 douanier
 dehydrant
-dextrorse
 duckhouse
 dogtoothing
 dyarchies
