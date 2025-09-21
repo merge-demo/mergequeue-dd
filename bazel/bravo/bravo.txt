@@ -14167,6 +14167,7 @@ bromaurate
 bleu
 bluebottles
 boogie
+blender
 boutiques
 bandoleers
 backsight
@@ -14654,7 +14655,6 @@ beatas
 brassish
 bound
 brutter
-blender
 bridemaiden
 blunderer
 bucked
