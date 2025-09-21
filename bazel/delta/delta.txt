@@ -8266,7 +8266,6 @@ debouche
 diadochic
 diadochite
 drawability
-dethroner
 diadochokinesia
 diadoumenos
 drumbeat
@@ -15578,6 +15577,7 @@ drag
 diapery
 donable
 druses
+dethroner
 dracin
 detergence
 discodactyl
