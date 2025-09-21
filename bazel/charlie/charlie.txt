@@ -8045,7 +8045,6 @@ chaetodon
 chaetodont
 capercally
 chaetodontidae
-chaetognatha
 crandall
 cityscape
 chaetophobia
@@ -20792,6 +20791,7 @@ chapin
 chylify
 cyanopsia
 crengle
+chaetognatha
 chelidonate
 cheloid
 carvy
