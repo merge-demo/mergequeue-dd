@@ -13719,6 +13719,7 @@ dataflow
 devastatingly
 disproval
 discoidal
+devitrification
 disrespect
 dolichocephaly
 diatoms
@@ -17973,7 +17974,6 @@ dreggiest
 distempering
 duftite
 disamenity
-devitrification
 dugento
 dactylous
 deuteronomic
