@@ -14896,7 +14896,6 @@ abranchialism
 anticlinorium
 anticritical
 alamoth
-anticritically
 astrose
 apetalousness
 attestant
@@ -20921,6 +20920,7 @@ aircheck
 arraignment
 asclepiadean
 aff
+anticritically
 asclepiadic
 autosender
 asclepian
