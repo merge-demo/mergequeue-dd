@@ -3794,6 +3794,7 @@ dangerful
 donkey
 download
 dialyzator
+delegacy
 disjecting
 dropped
 despatched
@@ -4576,7 +4577,6 @@ datums
 drabbled
 daedalus
 dactylioglyphic
-delegacy
 dotier
 demihagbut
 demihaque
