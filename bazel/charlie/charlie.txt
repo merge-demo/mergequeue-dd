@@ -10394,6 +10394,7 @@ chief
 chiefage
 chiefery
 chiefest
+caryophyllene
 cervalet
 conveyorizer
 chiefish
@@ -16781,7 +16782,6 @@ cuticularization
 cloturing
 candidate
 clotweed
-caryophyllene
 collin
 cloudberry
 crotalidae
