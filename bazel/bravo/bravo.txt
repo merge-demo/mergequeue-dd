@@ -9504,7 +9504,6 @@ besputter
 boarfish
 bisagre
 basidium
-bisayan
 buccaro
 bisalt
 bicircular
@@ -10937,6 +10936,7 @@ blinkards
 bowses
 basta
 bacach
+bisayan
 begass
 beckets
 bemires
