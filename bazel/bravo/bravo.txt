@@ -6963,6 +6963,7 @@ besmudges
 boud
 baalist
 boninesses
+battiness
 bedrugging
 bespouses
 benzines
@@ -9777,7 +9778,6 @@ brassica
 bromouracil
 biters
 bullyable
-battiness
 bagmen
 backache
 barbing

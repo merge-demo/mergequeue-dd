@@ -7932,6 +7932,7 @@ distractile
 dogteeth
 drillet
 deweylite
+disconsideration
 dooryard
 dissymmetrical
 demisovereign
@@ -11603,7 +11604,6 @@ devillike
 disconsent
 dithering
 discerpibility
-disconsideration
 discoursers
 dispeopling
 digester
