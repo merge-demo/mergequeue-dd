@@ -4560,7 +4560,6 @@ beau
 bedazzles
 baptise
 bespray
-borrovian
 bedbugs
 bladelike
 birdclapper
@@ -17731,6 +17730,7 @@ binomialism
 burping
 bepainted
 baldicoot
+borrovian
 beslaved
 burps
 burrbark
