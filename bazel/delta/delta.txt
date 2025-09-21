@@ -5851,6 +5851,7 @@ depots
 dasyure
 deprave
 disanagrammatize
+duddies
 depravedness
 doxologizing
 dreidel
@@ -11941,7 +11942,6 @@ disbloom
 discriminatorily
 disembarks
 declassifications
-duddies
 dentifrices
 dissolvable
 disembitter
