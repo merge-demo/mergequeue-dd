@@ -25319,7 +25319,6 @@ cellular
 cyclotrons
 cornelia
 concessioner
-cornell
 corneosclerotic
 cirsectomy
 campesinos
@@ -29344,6 +29343,7 @@ cannele
 cryptozygosity
 caddised
 cryptozygous
+cornell
 crozle
 chanter
 chorographic

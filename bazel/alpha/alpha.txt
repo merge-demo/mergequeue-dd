@@ -9907,7 +9907,6 @@ almira
 americomania
 anticipator
 arousing
-abatic
 ambigu
 ambiguity
 arkansite
@@ -12749,6 +12748,7 @@ acinetaria
 amphiprostyle
 adenine
 anglophilism
+abatic
 anglophobia
 adduced
 aerolite
