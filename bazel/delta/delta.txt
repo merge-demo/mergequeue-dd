@@ -2513,7 +2513,6 @@ druith
 decemdentate
 dipper
 discursive
-declarators
 dotted
 divulgater
 disregarder
@@ -12180,6 +12179,7 @@ deucing
 dehusk
 doom
 diacetine
+declarators
 dha
 detoxifying
 distorting
