@@ -14958,7 +14958,6 @@ anemotropic
 austroriparian
 aflush
 applied
-antiecclesiastic
 analcimes
 abaci
 axofugal
@@ -16482,6 +16481,7 @@ anthropomorphise
 appredicate
 allotrylic
 apathaton
+antiecclesiastic
 amerciament
 apathetically
 alaudine

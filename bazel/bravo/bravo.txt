@@ -7695,6 +7695,7 @@ boondocks
 bhindi
 bucketmaking
 bhishti
+byrnie
 bhistie
 bhisties
 berake
@@ -9433,7 +9434,6 @@ bipunctal
 barbarian
 bagrationite
 birn
-byrnie
 biotope
 battlefront
 bisulphide
