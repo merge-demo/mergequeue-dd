@@ -11453,7 +11453,6 @@ chine
 chocolates
 chocolatiere
 chicories
-cobras
 concentred
 choctaw
 choga
@@ -14602,6 +14601,7 @@ cystic
 cabuja
 ceratostomella
 conchoidal
+cobras
 cysticerci
 chondrule
 cylindrite
