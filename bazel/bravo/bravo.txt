@@ -6722,6 +6722,7 @@ berhyme
 bestials
 belauds
 bert
+barouchet
 blowhole
 berteroa
 barse
@@ -11104,7 +11105,6 @@ biotaxy
 blockiest
 bevelling
 bields
-barouchet
 blocking
 benzimidazole
 broil
