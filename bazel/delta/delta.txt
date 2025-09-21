@@ -11972,7 +11972,6 @@ deputizes
 descry
 dewater
 dilacerate
-deduced
 deleading
 direfulness
 diseme
@@ -14924,6 +14923,7 @@ drinkably
 disbosoms
 denigratory
 docudramas
+deduced
 driftweed
 document
 dos
