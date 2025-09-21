@@ -8350,6 +8350,7 @@ dialectal
 duadic
 draftier
 duim
+durgan
 darkishness
 ditrigonally
 dugal
@@ -17910,7 +17911,6 @@ displeased
 duelers
 duelistic
 disinfest
-durgan
 dinks
 dayflowers
 docible
