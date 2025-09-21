@@ -4471,7 +4471,6 @@ bryony
 bastardise
 bae
 bedwarfed
-barbarea
 bulbiform
 blastoff
 basellaceous
@@ -15779,6 +15778,7 @@ bryozoa
 biphasic
 bromes
 berg
+barbarea
 bossboy
 blitzed
 basan
