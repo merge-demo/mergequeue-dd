@@ -8038,6 +8038,7 @@ ballets
 brachygnathism
 brawned
 browband
+boosters
 bedizen
 bicorn
 bourrelet
@@ -17744,7 +17745,6 @@ burrheaded
 baroneted
 blinkered
 backing
-boosters
 bullyrags
 bounce
 burrock
