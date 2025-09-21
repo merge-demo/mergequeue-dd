@@ -11192,7 +11192,6 @@ dustups
 devitalizes
 desmarestiaceous
 dottily
-devicefulness
 duraplasty
 distressful
 doggone
@@ -11664,6 +11663,7 @@ dirigomotor
 discordancies
 discordant
 discordantness
+devicefulness
 distributution
 discorded
 dotishness
