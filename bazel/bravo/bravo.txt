@@ -3749,6 +3749,7 @@ byronish
 bibelot
 begger
 bobflies
+bullan
 burratine
 blastomeric
 batwing
@@ -7686,7 +7687,6 @@ bathyscaphe
 bittock
 brakehand
 babhan
-bullan
 brocard
 bitriseptate
 burntly
