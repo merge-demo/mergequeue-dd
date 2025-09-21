@@ -1497,7 +1497,6 @@ bigwiggedness
 bluestocking
 boarishly
 bices
-barb
 balkiest
 berskin
 boohooing
@@ -15813,6 +15812,7 @@ beshower
 bethumb
 barbaralalia
 bandalore
+barb
 bromized
 bonnily
 bearberries
