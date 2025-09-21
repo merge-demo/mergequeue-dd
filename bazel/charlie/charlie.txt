@@ -1980,7 +1980,6 @@ camisoles
 colluvies
 cyanospiza
 copperproof
-chlamydobacteriaceae
 camla
 camlet
 camleting
@@ -28528,6 +28527,7 @@ creditless
 cinematographical
 creditor
 curial
+chlamydobacteriaceae
 creditress
 copepodous
 creditrix
