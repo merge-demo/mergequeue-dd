@@ -4953,7 +4953,6 @@ chrysomonadina
 cassettes
 cartouche
 castigable
-curmudgeon
 cust
 costrel
 chiclero
@@ -26043,6 +26042,7 @@ chasuble
 cosymmedian
 compurgator
 cosinage
+curmudgeon
 culverineer
 cladogenous
 cosiness
