@@ -6400,7 +6400,6 @@ desmology
 dillisk
 donation
 derotremata
-destinate
 denization
 demarcate
 dewans
@@ -13084,6 +13083,7 @@ decimalised
 delaw
 daulias
 decapodan
+destinate
 dory
 disboscation
 decliners
