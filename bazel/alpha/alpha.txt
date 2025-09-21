@@ -9602,6 +9602,7 @@ achene
 albacea
 abnormalised
 alveololingual
+amphithura
 alveolosubnasal
 antagonising
 alveolus
@@ -11236,7 +11237,6 @@ alimentativeness
 alterant
 amphithyra
 ana
-amphithura
 amphipnous
 ayuntamientos
 autoclasis
