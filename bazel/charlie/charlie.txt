@@ -4132,6 +4132,7 @@ cardiospermum
 celts
 cardiosphygmogram
 cheetie
+crany
 cardiosphygmograph
 cardiotherapies
 caddow
@@ -28072,7 +28073,6 @@ cranet
 craneway
 chorologist
 consonantalized
-crany
 caliber
 cariacine
 carchariid
