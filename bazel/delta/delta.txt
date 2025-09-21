@@ -775,6 +775,7 @@ dandizette
 diagraming
 dayflies
 decasyllabic
+donec
 deedfully
 destains
 demurrages
@@ -15833,7 +15834,6 @@ delays
 doggedly
 dogshore
 demeter
-donec
 daylilies
 deperm
 decries

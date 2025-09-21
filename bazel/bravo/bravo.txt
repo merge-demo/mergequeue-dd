@@ -14014,7 +14014,6 @@ bowerly
 brachialis
 blindstory
 bubas
-bedangled
 beachfront
 brachiator
 brachycephali
@@ -16365,6 +16364,7 @@ bises
 bullhorn
 bellwood
 butterers
+bedangled
 bronchopathy
 borneo
 brushpopper
