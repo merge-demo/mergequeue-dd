@@ -8209,7 +8209,6 @@ accusably
 alined
 antagonized
 anaxial
-archdeaconry
 arianism
 airmass
 anapnoeic
@@ -18957,6 +18956,7 @@ aetheogam
 anlagen
 archprimate
 acupuncture
+archdeaconry
 artotyrite
 archpuritan
 acroataxia
