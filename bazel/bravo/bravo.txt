@@ -3295,7 +3295,6 @@ barklyite
 babbler
 bloodiest
 babbittian
-basions
 backstabbed
 bronzes
 balche
@@ -12321,6 +12320,7 @@ bagpiper
 basihyal
 blacky
 bombilation
+basions
 bombilla
 bluefins
 bonifaces
