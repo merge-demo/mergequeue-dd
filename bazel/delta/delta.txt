@@ -6265,7 +6265,6 @@ despectant
 dermatomyces
 delocalizing
 dipteraceous
-dignity
 diplokaryon
 doldrums
 dermatoneurosis
@@ -15033,6 +15032,7 @@ dissections
 dodos
 duali
 decoloriser
+dignity
 dermatoid
 disarmer
 dimerism
