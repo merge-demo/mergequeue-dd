@@ -2371,7 +2371,6 @@ dechlorinated
 dee
 depersonalizes
 dentalgia
-dustband
 discocarp
 diplographic
 demibrute
@@ -17828,6 +17827,7 @@ ducking
 desexing
 dragbolt
 ducklet
+dustband
 discontentments
 ducklings
 deservingly
