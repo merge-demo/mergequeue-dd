@@ -10611,7 +10611,6 @@ dhoolies
 djinn
 dolour
 diplomatist
-domer
 diphthongized
 discogastrula
 diplomatology
@@ -12042,6 +12041,7 @@ disclamation
 dipsades
 defiable
 disengaging
+domer
 disenjoyment
 dictyogenous
 diaspidinae
