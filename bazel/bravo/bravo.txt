@@ -2385,7 +2385,6 @@ bagasse
 bobtails
 bedgowns
 bardesanite
-bedell
 bardess
 bushbeck
 balantidiasis
@@ -8289,6 +8288,7 @@ bigemina
 bennettitales
 bronchophonic
 broommaking
+bedell
 babite
 berberian
 broomtail
