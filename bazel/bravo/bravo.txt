@@ -2684,7 +2684,6 @@ besnivel
 burnettizing
 birefractive
 boraxes
-beakhead
 brachyprosopic
 betweenbrain
 beelzebub
@@ -8647,6 +8646,7 @@ betray
 bhikhari
 baxterian
 bilos
+beakhead
 biloxi
 barbells
 bitterish
