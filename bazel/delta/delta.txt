@@ -3846,7 +3846,6 @@ dissceptred
 decorationist
 dissipatedness
 deipnophobia
-defectively
 disaccharidase
 disembarkations
 disprized
@@ -15477,6 +15476,7 @@ demicivilized
 detainer
 demoralisation
 domiciled
+defectively
 dissipator
 domiciles
 domiciliated
