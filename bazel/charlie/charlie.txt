@@ -11951,6 +11951,7 @@ capparid
 calculabilities
 crestfallenness
 cohanim
+customized
 cymbaline
 choreoid
 crocidolite
@@ -31771,7 +31772,6 @@ customing
 cotery
 customization
 customizations
-customized
 customizer
 customizers
 complotted
