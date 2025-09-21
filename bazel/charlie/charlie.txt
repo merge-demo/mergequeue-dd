@@ -5801,7 +5801,6 @@ catena
 catenae
 catenane
 cremates
-claybanks
 catenarian
 chevener
 catenas
@@ -7304,6 +7303,7 @@ coincidental
 cannabism
 coroners
 ceorl
+claybanks
 cholangioitis
 crisis
 chiru
