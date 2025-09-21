@@ -11409,7 +11409,6 @@ cabrioles
 chlortetracycline
 coercers
 chondriosome
-confuting
 cho
 complete
 choak
@@ -19235,6 +19234,7 @@ collocutor
 cogitations
 caracaras
 collodion
+confuting
 crushproof
 collodionization
 chouses
