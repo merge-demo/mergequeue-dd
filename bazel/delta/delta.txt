@@ -16903,7 +16903,6 @@ drawgate
 dishonorary
 drawings
 distempered
-diaceturia
 dissociable
 dephlegmate
 dendrodus
@@ -17574,6 +17573,7 @@ drouked
 druidisms
 dorsibranchiate
 diencephalic
+diaceturia
 druids
 dissimulations
 demihag

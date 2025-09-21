@@ -13324,6 +13324,7 @@ bridechamber
 botanist
 botanize
 brushmen
+beastlings
 bipectinated
 boswellizing
 brachioradialis
@@ -13474,7 +13475,6 @@ bilocellate
 bepun
 burberry
 blizzardous
-beastlings
 bottlenose
 bottlers
 bottlestone
