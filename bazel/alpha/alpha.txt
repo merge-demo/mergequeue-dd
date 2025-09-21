@@ -3989,6 +3989,7 @@ aquatinter
 anthophobia
 admonitive
 adder
+antrorsely
 angarias
 arabana
 arousers
@@ -16303,7 +16304,6 @@ actuated
 astonishingly
 antrophose
 antrorse
-antrorsely
 antroscope
 attenuates
 axfetch
