@@ -3301,7 +3301,6 @@ capocchia
 capoche
 crouche
 chrysomelidae
-chitlins
 chelates
 caponata
 costuming
@@ -30080,6 +30079,7 @@ conductors
 centuried
 crowfeet
 creditability
+chitlins
 crowhop
 cushewbird
 christdom

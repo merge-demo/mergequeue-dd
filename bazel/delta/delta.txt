@@ -2250,7 +2250,6 @@ disunionist
 diallyl
 doddery
 dentist
-doweling
 danic
 deckie
 denaturised
@@ -8129,6 +8128,7 @@ dotless
 dysautonomia
 disciplines
 delhi
+doweling
 dehypnotizing
 descaled
 drossel
