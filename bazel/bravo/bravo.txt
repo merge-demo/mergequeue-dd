@@ -4902,7 +4902,6 @@ betanaphthol
 begild
 blasphemously
 brachyura
-barytons
 bioclimatologies
 boyardism
 beekeepers
@@ -6587,6 +6586,7 @@ biospheres
 berycid
 berycidae
 baratte
+barytons
 bambinos
 burnings
 biurate
