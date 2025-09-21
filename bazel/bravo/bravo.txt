@@ -3861,6 +3861,7 @@ bugology
 bawdrics
 bawdries
 boreal
+banterer
 bodock
 boiling
 buriable
@@ -5422,7 +5423,6 @@ basebred
 beheader
 beheira
 beachward
-banterer
 buffaloback
 bulletmaking
 boardmanship

@@ -1745,7 +1745,6 @@ clapper
 calvarium
 calved
 calvin
-cithern
 commutators
 comdr
 controlment
@@ -4502,6 +4501,7 @@ cracklings
 coroner
 chartula
 coacervating
+cithern
 caribal
 citoler
 carnets
