@@ -5388,7 +5388,6 @@ butcher
 behallow
 bowldering
 bemedaled
-betwit
 behammer
 breads
 behap
@@ -7453,6 +7452,7 @@ barbets
 bluebirds
 blastocolla
 balsamweed
+betwit
 brasenia
 bespin
 betask
