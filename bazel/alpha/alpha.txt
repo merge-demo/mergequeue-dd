@@ -5469,6 +5469,7 @@ amita
 afzelia
 adjustable
 alimonied
+ancony
 apeak
 auspiciously
 antilopinae
@@ -12120,7 +12121,6 @@ acroa
 anconas
 atticized
 anconeus
-ancony
 acanthodii
 anconoid
 anserin
