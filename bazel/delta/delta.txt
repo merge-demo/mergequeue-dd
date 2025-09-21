@@ -7338,7 +7338,6 @@ diphthongia
 diphthongization
 disaggregated
 diapausing
-determinately
 dirtiness
 darbs
 deticked
@@ -18544,6 +18543,7 @@ disorganizers
 dualism
 diffusivity
 duressor
+determinately
 drivage
 desulfurization
 diazohydroxide
