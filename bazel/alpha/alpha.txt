@@ -2516,7 +2516,6 @@ asymmetrocarpous
 acetochloral
 acquaintancy
 archbishop
-adorsed
 aspiratory
 aerographic
 adffrozen
@@ -12535,6 +12534,7 @@ amb
 angelicalness
 angelicic
 angelicness
+adorsed
 ascan
 attestive
 angelico
