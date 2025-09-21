@@ -3201,7 +3201,6 @@ adamellite
 actorish
 allosyndesis
 antihierarchic
-adamine
 arborescence
 adamite
 anselmian
@@ -25318,6 +25317,7 @@ azohumic
 azoic
 appellancy
 azoles
+adamine
 azon
 ambreate
 adrenal
