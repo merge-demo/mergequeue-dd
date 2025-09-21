@@ -6558,7 +6558,6 @@ apodeictical
 antiskeptical
 appaloosa
 alcelaphine
-aubrey
 archking
 allures
 assessing
@@ -20810,6 +20809,7 @@ apulian
 aerodynamicist
 assuefaction
 anticlassicalness
+aubrey
 ascarid
 amytal
 ascaridae
