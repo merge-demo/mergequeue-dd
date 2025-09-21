@@ -3542,7 +3542,6 @@ bellower
 baryons
 bimini
 benincasa
-bore
 brainteasers
 beuniformed
 brahmanists
@@ -17081,6 +17080,7 @@ butyrate
 bronchoscope
 beautiful
 blarina
+bore
 bals
 bine
 bar
