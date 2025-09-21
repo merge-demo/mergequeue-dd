@@ -2861,6 +2861,7 @@ canopying
 covets
 cours
 canopus
+cicone
 concatenation
 coercion
 chairlady
@@ -13405,7 +13406,6 @@ cyclotosaurus
 cyclotrimethylenetrinitramine
 cyclotron
 consolatorily
-cicone
 coconino
 camerate
 ciconiiformes
