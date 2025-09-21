@@ -2999,6 +2999,7 @@ bimillenary
 beforested
 burrel
 baleare
+badgering
 barroom
 barruly
 berrugate
@@ -15265,7 +15266,6 @@ blunders
 brandless
 bagatelles
 bonnetless
-badgering
 bustian
 beanballs
 beslings

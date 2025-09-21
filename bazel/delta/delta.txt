@@ -1159,7 +1159,6 @@ dashplate
 derms
 designer
 disacquaint
-dimmet
 dropflower
 deda
 dianilid
@@ -1484,6 +1483,7 @@ delicatessen
 dazy
 dazzle
 disseizor
+dimmet
 discomedusan
 discriminative
 dasypaedal
