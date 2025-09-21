@@ -6786,6 +6786,7 @@ desirer
 dimerous
 daira
 dodecahedric
+dibromobenzene
 deadbeat
 deftnesses
 desires
@@ -12485,7 +12486,6 @@ dux
 dagon
 dephlogistication
 diseuses
-dibromobenzene
 doglegged
 dard
 disoccupying

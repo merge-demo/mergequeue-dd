@@ -3073,7 +3073,6 @@ bunion
 baleful
 brainwashing
 bimetal
-beeswings
 batiked
 bejelled
 bakerite
@@ -13884,6 +13883,7 @@ bowsman
 bown
 batster
 bows
+beeswings
 bootjack
 bowsaw
 bowsed
