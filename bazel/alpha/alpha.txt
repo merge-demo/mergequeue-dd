@@ -5882,6 +5882,7 @@ accreted
 affiances
 acquiesced
 aversation
+amperometer
 allamanda
 aretalogy
 autophotoelectric
@@ -15625,7 +15626,6 @@ antiperistalsis
 antiperistatic
 apaches
 antiperistatical
-amperometer
 antiperspirant
 apochromatism
 allodification

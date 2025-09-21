@@ -2855,7 +2855,6 @@ bilaterally
 bulgarians
 barracouta
 bicep
-blanketless
 benedictus
 barrad
 bridebowl
@@ -7895,6 +7894,7 @@ brambleberries
 breviature
 bicentrically
 becudgeled
+blanketless
 bibliopolically
 bootlegs
 bibliopolist
