@@ -3895,7 +3895,6 @@ administrates
 alabastrons
 administrational
 administrative
-administratively
 administratrices
 aetobatus
 alhambraic
@@ -10354,6 +10353,7 @@ antitangent
 amiantuses
 amyatonic
 amic
+administratively
 assumpt
 amicability
 amicabilities
