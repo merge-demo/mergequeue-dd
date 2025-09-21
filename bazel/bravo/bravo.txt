@@ -5442,6 +5442,7 @@ beehouse
 borotungstic
 bromopicrin
 behymn
+besaiel
 bruit
 brutes
 behither
@@ -13843,7 +13844,6 @@ bookwise
 blenniid
 browman
 burettes
-besaiel
 blindages
 bulbourethral
 bottomrying
