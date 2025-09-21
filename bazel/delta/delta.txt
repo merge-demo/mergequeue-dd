@@ -1424,6 +1424,7 @@ dichotomized
 damnit
 dich
 demythify
+driftless
 dawk
 dogly
 dehydrogenates
@@ -3782,7 +3783,6 @@ dreamsiness
 disunities
 deigned
 distrainable
-driftless
 dinocerata
 dismayingness
 depositors
