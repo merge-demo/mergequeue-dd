@@ -6219,7 +6219,6 @@ birdseyes
 bourse
 bentgrass
 broilery
-beshames
 brachycatalectic
 benthal
 boatside
@@ -13246,6 +13245,7 @@ binocle
 bosporanic
 bossage
 boastful
+beshames
 bructeri
 bossdoms
 burghal
