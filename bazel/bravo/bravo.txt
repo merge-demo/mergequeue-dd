@@ -13833,7 +13833,6 @@ bisks
 bergsonian
 baptizes
 bastiles
-byres
 blasters
 broadtail
 bowerwoman
@@ -15244,6 +15243,7 @@ bridie
 biological
 barhal
 bridlers
+byres
 blepharitic
 boredom
 blurt

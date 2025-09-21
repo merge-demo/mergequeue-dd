@@ -8653,7 +8653,6 @@ canccelli
 commissaryship
 concocting
 changeful
-changefully
 copolymerism
 cynosural
 curtness
@@ -27620,6 +27619,7 @@ cypressroot
 cheliceral
 coumalin
 chesteine
+changefully
 caesuras
 cowages
 cowardy
