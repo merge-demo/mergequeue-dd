@@ -7104,7 +7104,6 @@ bellhanger
 banger
 bushwah
 biarticulated
-belligerencies
 bestiarianism
 bacteriemia
 bernicles
@@ -11788,6 +11787,7 @@ batrachians
 buckwheat
 bouquets
 backfield
+belligerencies
 bocasin
 barbellulate
 bookshops
