@@ -19233,6 +19233,7 @@ aho
 arthrobranchia
 arithmetics
 arrayer
+assessed
 acolytus
 ambrosian
 assyriological
@@ -21656,7 +21657,6 @@ anionics
 antifertilizer
 anagogically
 agrope
-assessed
 assession
 antiliturgically
 assessment

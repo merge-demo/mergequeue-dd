@@ -9457,7 +9457,6 @@ bdellostoma
 birses
 bellowsmaking
 badenite
-byrsonima
 barracks
 birthed
 bamming
@@ -9991,6 +9990,7 @@ bixaceae
 bixaceous
 balteus
 bougies
+byrsonima
 bruxism
 blondeness
 brabagious
