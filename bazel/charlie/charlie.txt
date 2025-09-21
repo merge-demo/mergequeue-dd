@@ -21710,7 +21710,6 @@ condiddle
 cooly
 condiddlement
 condiddling
-circumscript
 consternated
 condignity
 condignly
@@ -27090,6 +27089,7 @@ clinologic
 configurable
 countershine
 canfields
+circumscript
 chemosorptive
 copaiye
 countershock

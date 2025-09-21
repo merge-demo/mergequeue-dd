@@ -18862,7 +18862,6 @@ alday
 alphabetary
 architricline
 archaeostomatous
-auxotroph
 archival
 archivault
 archiver
@@ -21893,6 +21892,7 @@ astay
 acceptive
 anisometropic
 accrete
+auxotroph
 agricultor
 astare
 auteurism
