@@ -9497,6 +9497,7 @@ checkbits
 checkbook
 chachalaca
 climatically
+concorrezanes
 chaetites
 checker
 checkerbelly
@@ -11631,7 +11632,6 @@ cancrophagous
 cholerophobia
 cholestanol
 christianize
-concorrezanes
 cholesteatomatous
 cholesteremia
 charoset

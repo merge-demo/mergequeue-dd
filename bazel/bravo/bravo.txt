@@ -2462,6 +2462,7 @@ balbutient
 batino
 bubbletop
 brendan
+beanbags
 biscuit
 bromelin
 barandos
@@ -14109,7 +14110,6 @@ brachystomatous
 brachystomous
 buckety
 bbl
-beanbags
 briard
 backwrap
 bassnesses
