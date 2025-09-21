@@ -19775,7 +19775,6 @@ cohesion
 chlordan
 comanches
 comandantes
-comandanti
 cutis
 cinematics
 comandra
@@ -25404,6 +25403,7 @@ cornishman
 cornless
 cornloft
 cornmeal
+comandanti
 ceramicist
 cachetic
 contumaciousness
