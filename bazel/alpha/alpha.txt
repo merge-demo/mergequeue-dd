@@ -15335,7 +15335,6 @@ angulosity
 antimere
 antimerging
 antimerina
-antimerism
 archetypically
 antimetathetic
 areca
@@ -16882,6 +16881,7 @@ apneumonous
 agrammatical
 apneusis
 apneustic
+antimerism
 apnoea
 abominating
 adiaphoretic
