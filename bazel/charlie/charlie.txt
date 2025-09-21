@@ -1052,7 +1052,6 @@ cordials
 creeling
 calcicolous
 calcicosis
-collyrie
 calciferol
 cowcatcher
 crocko
@@ -22872,6 +22871,7 @@ caulicles
 consentable
 consentaneous
 consentaneousness
+collyrie
 consecutives
 circumspectness
 cabinetwork
