@@ -6432,6 +6432,7 @@ bepile
 bediapers
 balneotherapy
 bolo
+brachia
 bumbled
 bipyramidal
 beliing
@@ -14688,7 +14689,6 @@ bravade
 bronchophthisis
 bennet
 beanstalks
-brachia
 betelnut
 blackmailing
 brazened
