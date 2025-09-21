@@ -1302,6 +1302,7 @@ calycinal
 chondromalacia
 calycine
 calderium
+circularity
 capitulatory
 cabellerote
 curveted
@@ -14915,7 +14916,6 @@ cachucho
 condominate
 cytopathologically
 complish
-circularity
 cytopenia
 cytophagic
 cytophagous
