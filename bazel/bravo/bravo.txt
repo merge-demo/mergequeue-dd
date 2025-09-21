@@ -759,7 +759,6 @@ boric
 badinages
 bitstock
 bearcoot
-badiner
 badinerie
 bilo
 badious
@@ -6236,6 +6235,7 @@ bagfuls
 benthonic
 bevors
 benthoscope
+badiner
 bioenergetics
 bemoat
 benthoses
