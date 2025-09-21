@@ -5135,6 +5135,7 @@ cobberer
 crouth
 caseweed
 caseworks
+comicoprosaic
 caseworm
 cashableness
 chylifactive
@@ -5515,7 +5516,6 @@ catakinetic
 catakinomeric
 catalatic
 cycledom
-comicoprosaic
 catalepsis
 catalexis
 cystopyelonephritis
