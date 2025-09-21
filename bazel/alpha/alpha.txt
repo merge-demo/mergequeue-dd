@@ -480,6 +480,7 @@ atlantean
 abjudged
 analogues
 anomatheca
+adjutory
 abjudicate
 abjudicated
 arthel
@@ -3836,7 +3837,6 @@ aqueity
 assonantly
 austerlitz
 apologer
-adjutory
 ahistoric
 adjutorious
 adjutrice
