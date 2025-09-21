@@ -7032,7 +7032,6 @@ alabastrites
 ascenders
 alabastrums
 alange
-aethrioscope
 alack
 amole
 abrook
@@ -17358,6 +17357,7 @@ athyris
 appalling
 assigneeship
 adverbial
+aethrioscope
 apreynte
 amigas
 alcalzar
