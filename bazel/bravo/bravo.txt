@@ -7379,7 +7379,6 @@ bivouacks
 beatable
 bushelled
 baldnesses
-bettermost
 bedeviling
 bulbar
 bumptiously
@@ -8490,6 +8489,7 @@ bemusk
 bilingually
 balks
 biscanism
+bettermost
 bijoux
 blackboards
 bronchography
