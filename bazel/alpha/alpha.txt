@@ -12780,6 +12780,7 @@ angsts
 anisospore
 aldolase
 ananite
+acanthi
 anguillaria
 autochthony
 arabite
@@ -24043,7 +24044,6 @@ autoimmunizing
 acrorrheuma
 aecia
 anachronisms
-acanthi
 ambulators
 autognostic
 articulus

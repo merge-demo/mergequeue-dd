@@ -1343,6 +1343,7 @@ bottine
 balantidic
 balaos
 brothellike
+blackguardry
 barbed
 balases
 balat
@@ -1912,7 +1913,6 @@ barometry
 bando
 bell
 bodiced
-blackguardry
 bubonalgia
 besmirches
 bandanas
