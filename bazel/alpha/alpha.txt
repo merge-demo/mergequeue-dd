@@ -5492,7 +5492,6 @@ apicial
 ascalabota
 atopies
 almeidina
-arecaceous
 amoebas
 aminoaciduria
 agag
@@ -7925,6 +7924,7 @@ anthosiderite
 autoconverter
 alga
 algaecide
+arecaceous
 archhouse
 algaeological
 acephalism
