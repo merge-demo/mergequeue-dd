@@ -1991,7 +1991,6 @@ anatomism
 act
 alkalinising
 acheat
-altitudinal
 acheiria
 acidulousness
 antidromic
@@ -12617,6 +12616,7 @@ angiography
 angiohemophilia
 anachronously
 angioid
+altitudinal
 amentum
 angiokeratoma
 apocopation
