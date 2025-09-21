@@ -9254,7 +9254,6 @@ deaminization
 dielectric
 disparately
 dismerit
-depender
 devolve
 delphacidae
 decreptitude
@@ -10897,6 +10896,7 @@ dematerialize
 disguisable
 damns
 drudging
+depender
 dirtied
 dirtying
 dirtily
