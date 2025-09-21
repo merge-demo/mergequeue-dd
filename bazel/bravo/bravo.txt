@@ -224,7 +224,6 @@ behowling
 bradyesthesia
 banditries
 beslimed
-brainpower
 bostons
 biofog
 bandlimits
@@ -13191,6 +13190,7 @@ bullhorns
 brightened
 brat
 baronize
+brainpower
 bangtail
 bedecking
 brachycephalize
