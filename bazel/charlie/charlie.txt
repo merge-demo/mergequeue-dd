@@ -10270,7 +10270,6 @@ cyanauric
 conusee
 clumsily
 colonoscopy
-chibouks
 chibouque
 chowchow
 chica
@@ -31662,6 +31661,7 @@ corselets
 cuscutaceous
 compressingly
 coagmentation
+chibouks
 cusecs
 cush
 cushag
