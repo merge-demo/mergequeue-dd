@@ -74,7 +74,6 @@ bayoneteer
 blepharoblennorrhea
 balanite
 bakshish
-ballfield
 babelize
 bummock
 belinda
@@ -10856,6 +10855,7 @@ baltimorean
 bestowing
 bribetaker
 bezazzes
+ballfield
 burroughs
 bouzouki
 batiker

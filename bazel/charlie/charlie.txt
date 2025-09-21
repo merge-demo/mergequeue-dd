@@ -1120,6 +1120,7 @@ culturology
 calcsinter
 chemicoluminescence
 chinnam
+casual
 cranioclasis
 canephori
 calcspar
@@ -17358,7 +17359,6 @@ coappearing
 contaminable
 chardock
 colloids
-casual
 coapprentice
 caraipe
 corporately
