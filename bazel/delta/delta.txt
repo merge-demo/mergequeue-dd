@@ -9100,7 +9100,6 @@ dermatophobia
 defigure
 domic
 dysplasia
-dictionarian
 dorsoabdominal
 dispensers
 didactylous
@@ -13283,6 +13282,7 @@ daylily
 dispossed
 debates
 distrusted
+dictionarian
 doughtiness
 dadding
 desmotropic
