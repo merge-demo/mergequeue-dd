@@ -12163,7 +12163,6 @@ colophonium
 coronet
 chrysalida
 chrysalidal
-chrysaline
 chromophilous
 chrysalis
 compress
@@ -15930,6 +15929,7 @@ cleistogeny
 cercaria
 calcedon
 clinium
+chrysaline
 camauro
 charivaris
 cannabinaceae

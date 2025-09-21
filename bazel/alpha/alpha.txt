@@ -3414,7 +3414,6 @@ ajivas
 adelantado
 adelante
 aircoaches
-alectryon
 apetalae
 acceptation
 antiquate
@@ -17313,6 +17312,7 @@ applot
 airship
 antiarchi
 apothegmatically
+alectryon
 apothegmatist
 autojigger
 apothegmatize
