@@ -6112,7 +6112,6 @@ antlerless
 aylet
 antiarcha
 agraria
-achromatophil
 aerotactic
 antitrinitarian
 aorticorenal
@@ -10850,6 +10849,7 @@ antisocially
 anguishes
 aggregatory
 athyrid
+achromatophil
 amperometric
 anubis
 airbrick
