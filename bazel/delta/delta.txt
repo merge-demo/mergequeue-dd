@@ -4563,6 +4563,7 @@ dunbird
 detroiter
 desugarize
 doting
+degusted
 dicolic
 disclosing
 dendrite
@@ -11099,7 +11100,6 @@ denumerability
 dialyser
 decernment
 divisor
-degusted
 disanswerable
 dobras
 drouth

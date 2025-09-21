@@ -1583,6 +1583,7 @@ cajolingly
 cyathophylloid
 chroococcaceae
 charontas
+cyanoderma
 courtrooms
 collectibles
 coatrooms
@@ -13021,7 +13022,6 @@ cyanochroia
 cyanocobalamin
 cyanocobalamine
 constat
-cyanoderma
 catchland
 cantrap
 catamnestic
