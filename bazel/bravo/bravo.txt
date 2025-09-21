@@ -7360,7 +7360,6 @@ blackfish
 betread
 burglarproofed
 betrend
-braveries
 betrothing
 betrousered
 betrust
@@ -11119,6 +11118,7 @@ beddings
 bedawn
 boehmite
 bathyal
+braveries
 barra
 blockship
 blodite
