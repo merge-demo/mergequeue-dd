@@ -3998,7 +3998,6 @@ adnascent
 adnation
 ametabolian
 adjudicates
-apparation
 autarchical
 acroceridae
 aerenterectasia
@@ -14484,6 +14483,7 @@ anthropogeographer
 autocue
 antischolastically
 antiamusement
+apparation
 aurichalcite
 arisaid
 ascertainment
