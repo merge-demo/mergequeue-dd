@@ -2307,7 +2307,6 @@ betterness
 bebite
 backyards
 barbero
-benzoles
 bubaline
 braggers
 bushwhack
@@ -12055,6 +12054,7 @@ bestializing
 boyology
 battiest
 breechloader
+benzoles
 boyship
 boisterous
 bundobust
