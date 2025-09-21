@@ -7116,7 +7116,6 @@ calcedony
 cendre
 centiles
 catamited
-coagule
 clunker
 cadent
 centiloquy
@@ -11569,6 +11568,7 @@ cholecystography
 cholecystokinin
 cyclazocine
 cholecystolithiasis
+coagule
 cholecystostomy
 calceus
 cholecystotomy
