@@ -800,7 +800,6 @@ abscission
 absconce
 arris
 abscond
-anteport
 absconded
 anther
 apperceptive
@@ -11991,6 +11990,7 @@ anatreptic
 acosmist
 anatripsis
 accoucheuse
+anteport
 anatripsology
 antimagistratical
 aerotechnics

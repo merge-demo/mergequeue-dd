@@ -18991,6 +18991,7 @@ clothworker
 collaborator
 collaborators
 closehauled
+circuitor
 cosigner
 calligrapher
 colladas
@@ -28304,7 +28305,6 @@ capmaker
 cravats
 cloning
 chytra
-circuitor
 crave
 craven
 churchmen
