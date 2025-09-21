@@ -369,6 +369,7 @@ cacomorphia
 ceramography
 confabulation
 centinel
+cabman
 chrysin
 cacoon
 chologenetic
@@ -3477,7 +3478,6 @@ capsuling
 clamer
 capsulitis
 capsulizing
-cabman
 capsulogenous
 cacozeal
 cataphyllum

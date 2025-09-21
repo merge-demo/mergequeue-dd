@@ -5507,6 +5507,7 @@ bagatine
 baklava
 bemurmured
 blotted
+becomes
 beisance
 blintz
 bergsonism
@@ -13500,7 +13501,6 @@ basementward
 boundly
 bricken
 bargainable
-becomes
 bottstick
 botuliform
 botulins
