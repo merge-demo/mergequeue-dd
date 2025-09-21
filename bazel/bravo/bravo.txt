@@ -3419,6 +3419,7 @@ bedsores
 blaine
 bastardised
 burnishable
+botrydium
 blather
 blackbeetle
 bastardized
@@ -17765,7 +17766,6 @@ bibliograph
 bambini
 bursae
 bursary
-botrydium
 backstroked
 bazzite
 bacterizing
