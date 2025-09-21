@@ -6607,6 +6607,7 @@ conveyable
 conquests
 convolvement
 cedars
+cookers
 cochairman
 cedarwood
 ceded
@@ -12874,7 +12875,6 @@ cirrhopod
 cladine
 ceratitidae
 cosmogonic
-cookers
 churchscot
 churchway
 churchward
