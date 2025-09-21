@@ -11634,6 +11634,7 @@ bromal
 boathouse
 backbends
 batable
+bardolphian
 boffos
 baccare
 bistipuled
@@ -11806,7 +11807,6 @@ burdeners
 byrl
 behavioristic
 briony
-bardolphian
 bock
 barvel
 burbankian
