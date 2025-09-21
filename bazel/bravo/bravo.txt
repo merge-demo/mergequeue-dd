@@ -3156,6 +3156,7 @@ boteroll
 bulkheads
 bifurcates
 biuniquely
+biniou
 basenesses
 bunda
 basenji
@@ -8771,7 +8772,6 @@ binh
 bounden
 bini
 barycentric
-biniou
 binitarianism
 bubonic
 bink
