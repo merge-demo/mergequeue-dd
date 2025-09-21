@@ -16564,7 +16564,6 @@ bunkoing
 burros
 bloomy
 buchnerite
-balconette
 buchonite
 bawled
 bearpaw
@@ -18307,6 +18306,7 @@ bennis
 bowlegs
 buttony
 bluenosed
+balconette
 brink
 brandyman
 buttoning
