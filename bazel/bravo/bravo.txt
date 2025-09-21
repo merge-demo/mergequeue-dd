@@ -3250,7 +3250,6 @@ balak
 backtrail
 begunk
 beautifying
-bote
 babbling
 bandora
 beriberi
@@ -16841,6 +16840,7 @@ bugweed
 blacktopped
 bugwort
 biographic
+bote
 baliti
 berceuse
 blackbeard
