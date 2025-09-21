@@ -3474,7 +3474,6 @@ cheloniid
 capsuliform
 circumcision
 capsuling
-clamer
 capsulitis
 capsulizing
 cabman
@@ -4019,6 +4018,7 @@ cardialgia
 calla
 cardiameter
 countably
+clamer
 chlorotic
 cutthroat
 cunners
