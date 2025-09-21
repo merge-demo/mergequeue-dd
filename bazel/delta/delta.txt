@@ -10025,6 +10025,7 @@ devulgarize
 dreaming
 dolerites
 dirigent
+deflagrates
 dimple
 diplomas
 demihake
@@ -17752,7 +17753,6 @@ dietotoxicity
 dichondra
 dietotoxic
 dubitably
-deflagrates
 deice
 discoloring
 drachmal
