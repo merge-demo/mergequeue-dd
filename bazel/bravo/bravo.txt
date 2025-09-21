@@ -7649,7 +7649,6 @@ bhagat
 bissonata
 bromonaphthalene
 bhagavat
-balladling
 bivouacking
 bisellia
 bridewain
@@ -13102,6 +13101,7 @@ backfurrow
 baalath
 bodyguard
 bacterioscopist
+balladling
 brahui
 bregmatic
 bilging

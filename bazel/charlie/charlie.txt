@@ -10700,7 +10700,6 @@ carpellary
 calciclase
 chytridial
 cantharidated
-chimneyless
 chimneyman
 canton
 chimneypiece
@@ -10913,6 +10912,7 @@ chlorotrifluoroethylene
 chirmed
 chirming
 chirms
+chimneyless
 crumena
 chirocosmetics
 chirogymnast
