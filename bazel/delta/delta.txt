@@ -1874,6 +1874,7 @@ deblai
 deblock
 distingue
 dragooned
+delirifacient
 disappointer
 danged
 depiction
@@ -15765,7 +15766,6 @@ dunce
 despondency
 didrachma
 diurnule
-delirifacient
 decollator
 dopped
 detractiveness
