@@ -4831,6 +4831,7 @@ beechen
 bejuggle
 breakstone
 biscuitmaking
+bashes
 bloomage
 bomarea
 broadsiding
@@ -8275,7 +8276,6 @@ bigaroons
 beak
 bookling
 byzantinism
-bashes
 brecciation
 behaviours
 braula
