@@ -17104,7 +17104,6 @@ amoebiasis
 apomecometer
 aoli
 athletocracy
-arimathaean
 agrafe
 adoxa
 apomixis
@@ -21192,6 +21191,7 @@ alizarin
 asymptote
 assyriology
 ambrosias
+arimathaean
 accompletive
 asymptotes
 asymptotically
