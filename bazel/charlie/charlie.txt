@@ -15742,6 +15742,7 @@ clavicotomy
 clavicular
 clavicularium
 claviculate
+convertiplane
 chrysohermidin
 cardioid
 chirotype
@@ -24140,7 +24141,6 @@ centerwise
 coassignee
 chedites
 conformation
-convertiplane
 coroun
 convertise
 convertism
