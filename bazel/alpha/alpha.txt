@@ -8807,7 +8807,6 @@ anisidin
 allomorphite
 advertisable
 allonym
-allonymously
 allonyms
 accepts
 allonomous
@@ -10113,6 +10112,7 @@ autodialer
 abastardize
 arcocentrous
 amchoor
+allonymously
 almacenista
 antipsychiatry
 amphisbaena
