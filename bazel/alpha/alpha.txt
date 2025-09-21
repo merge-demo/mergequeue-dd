@@ -2721,7 +2721,6 @@ antiferromagnetic
 acrologism
 austronesian
 amaxomania
-agraffee
 acquirer
 acromastitis
 antiscience
@@ -12910,6 +12909,7 @@ ancillas
 assagaiing
 anakinetic
 afforestment
+agraffee
 aradid
 anhysteretic
 agrologist
