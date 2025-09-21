@@ -6900,6 +6900,7 @@ appendectomies
 adhibited
 anammonid
 antalgesic
+acholoe
 aphonia
 asporogenous
 alacrify
@@ -13965,7 +13966,6 @@ antemingent
 antemundane
 antenave
 antennae
-acholoe
 antennary
 amazers
 antennariid
