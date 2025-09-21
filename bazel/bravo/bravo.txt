@@ -11598,6 +11598,7 @@ boatloads
 boardly
 bedrapes
 buceros
+bagnet
 broodsac
 britzka
 boardwalks
@@ -14392,7 +14393,6 @@ behoving
 barnstorm
 belieffulness
 boggiest
-bagnet
 buckberry
 brainstems
 brainstormer
