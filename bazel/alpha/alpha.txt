@@ -2436,7 +2436,6 @@ austrasian
 absciss
 amidate
 acoma
-arthropleura
 antluetic
 aurophore
 acomia
@@ -10452,6 +10451,7 @@ amygdala
 amygdalaceous
 animated
 amygdalase
+arthropleura
 alcuinian
 amygdalic
 aequian
