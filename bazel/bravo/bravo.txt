@@ -1790,6 +1790,7 @@ bypath
 bumblingly
 bamboozles
 briars
+birdseyes
 brambles
 bilanders
 brachman
@@ -6215,7 +6216,6 @@ belorussian
 benshi
 benson
 bostrychid
-birdseyes
 bourse
 bentgrass
 broilery

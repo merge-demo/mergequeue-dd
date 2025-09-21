@@ -7592,6 +7592,7 @@ antichresis
 aldebaran
 autoplastic
 arbours
+alligatorfish
 anticonvulsive
 ariettes
 authoresses
@@ -8648,7 +8649,6 @@ acceders
 anabrosis
 activators
 arctoid
-alligatorfish
 aromatically
 alligatorfishes
 aphicide
