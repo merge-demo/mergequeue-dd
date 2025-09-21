@@ -5332,7 +5332,6 @@ alpian
 anele
 afterburning
 auripigment
-abigail
 aftercast
 aftercataract
 afterclause
@@ -23508,6 +23507,7 @@ arables
 aureocasidium
 aureole
 airlift
+abigail
 aureoled
 audaciously
 auresca
