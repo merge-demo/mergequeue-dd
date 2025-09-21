@@ -1077,7 +1077,6 @@ dampening
 dorsomesal
 darsonval
 deontology
-dartagnan
 dogmatism
 dongolese
 darters
@@ -11962,6 +11961,7 @@ dowdies
 deliciate
 disemboweling
 delundung
+dartagnan
 dynamical
 disembowelments
 disparition
