@@ -25620,7 +25620,6 @@ confinedness
 completed
 corpuscularity
 corpusculous
-contortive
 concedes
 chairlift
 corradial
@@ -29192,6 +29191,7 @@ coupled
 cryptoagnostic
 countercharge
 clamored
+contortive
 cynogenealogist
 cryptoanalysis
 cryptoanalytically

@@ -5316,7 +5316,6 @@ distitle
 disannuls
 defiant
 dentatoserrate
-decennary
 disputable
 dentatosinuate
 diethylacetal
@@ -13067,6 +13066,7 @@ deicidal
 decanol
 darics
 drakestone
+decennary
 dispatch
 divine
 deccennia
