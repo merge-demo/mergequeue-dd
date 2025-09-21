@@ -1026,7 +1026,6 @@ barmecidal
 balcony
 birotation
 bail
-bringer
 barfs
 boordly
 bezazz
@@ -6818,6 +6817,7 @@ bluegills
 birlers
 bentinck
 bookward
+bringer
 bendel
 beastie
 bridelope
