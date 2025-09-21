@@ -4529,7 +4529,6 @@ disjointedly
 duomachy
 developmentist
 dramatised
-dislocatory
 dulnesses
 desiderated
 deception
@@ -6321,6 +6320,7 @@ dephlegmatory
 dermenchysis
 delacrimation
 dermestid
+dislocatory
 decoupage
 dextrogyration
 deject
