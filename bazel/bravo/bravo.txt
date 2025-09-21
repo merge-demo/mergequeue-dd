@@ -1371,7 +1371,6 @@ brooklet
 brayed
 butterbump
 betwixen
-balconies
 baldachin
 bhaiachari
 becarpets
@@ -6641,6 +6640,7 @@ beeishness
 brontosaurus
 bathe
 bermensch
+balconies
 bermes
 battens
 benedictive
