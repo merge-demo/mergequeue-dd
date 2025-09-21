@@ -7314,7 +7314,6 @@ baith
 banishments
 betoss
 blindfolds
-betime
 blotching
 blowzy
 betinge
@@ -10162,6 +10161,7 @@ bendsome
 beseechers
 beclamored
 beachcombing
+betime
 beaneries
 boastings
 bieennia

@@ -10840,7 +10840,6 @@ directors
 directorships
 dementate
 disjection
-deboist
 daedaleous
 dianetics
 desugared
@@ -14848,6 +14847,7 @@ desertion
 diocesian
 dockets
 dyphone
+deboist
 dockhand
 depilatories
 dockhouse
