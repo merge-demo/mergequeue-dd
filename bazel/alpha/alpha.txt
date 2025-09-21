@@ -3586,7 +3586,6 @@ afterpressure
 affectionate
 adevism
 adfected
-aquariist
 aburabozu
 adfluxion
 acceptingly
@@ -22746,6 +22745,7 @@ arioi
 anodizing
 aniseroot
 ampullate
+aquariist
 alcatras
 adjudger
 archelaus
