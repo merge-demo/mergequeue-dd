@@ -1560,7 +1560,6 @@ behinds
 baronetised
 beeherd
 boarder
-boatsetter
 blastemata
 bersiamite
 branchiate
@@ -10211,6 +10210,7 @@ beggiatoaceous
 bilged
 broomwort
 blackpatch
+boatsetter
 beavering
 batara
 brominism
