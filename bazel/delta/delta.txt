@@ -3042,6 +3042,7 @@ doohickus
 dentaria
 demivambrace
 dentiscalp
+desmosite
 daddock
 degradand
 defaces
@@ -16951,7 +16952,6 @@ dreadable
 daftnesses
 dreaded
 dorothea
-desmosite
 disadventurous
 docudrama
 disentailment
