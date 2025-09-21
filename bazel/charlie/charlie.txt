@@ -12682,6 +12682,7 @@ canioned
 cider
 cargued
 comedown
+craniopathic
 chuckingly
 chucklehead
 complection
@@ -28124,7 +28125,6 @@ craniometry
 championship
 capronyl
 craniometrist
-craniopathic
 code
 craniorhachischisis
 countercheck
