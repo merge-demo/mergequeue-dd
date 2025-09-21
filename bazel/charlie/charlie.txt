@@ -3755,7 +3755,6 @@ cardiotrophia
 cysticarpic
 carbohydraturia
 chalkier
-chorioid
 carbohydride
 carboy
 comate
@@ -16316,6 +16315,7 @@ cubatory
 citronize
 cuties
 copsewooded
+chorioid
 clinting
 catheters
 creodonts
