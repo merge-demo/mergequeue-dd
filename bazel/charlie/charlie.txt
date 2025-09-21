@@ -12163,6 +12163,7 @@ colophonium
 coronet
 chrysalida
 chrysalidal
+consolidation
 chrysaline
 chromophilous
 chrysalis
@@ -23058,7 +23059,6 @@ copist
 consoles
 consolidated
 carboxyls
-consolidation
 consolidations
 cyanopathic
 consolidative
