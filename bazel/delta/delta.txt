@@ -10789,7 +10789,6 @@ dipstick
 deceitful
 department
 divinization
-dipterygian
 discontiguous
 dipterocarp
 dipterocarpaceae
@@ -14434,6 +14433,7 @@ daredevilism
 diversiflorate
 diversiform
 dachshunde
+dipterygian
 dhoul
 deindividuate
 dyssynergia
