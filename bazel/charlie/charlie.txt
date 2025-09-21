@@ -14323,7 +14323,6 @@ circumpacific
 circulet
 ciliectomy
 circumpallial
-constrained
 catapuce
 circumplanetary
 crone
@@ -19923,6 +19922,7 @@ catacumbal
 cassareep
 comely
 coursings
+constrained
 comelier
 comeling
 comendite
