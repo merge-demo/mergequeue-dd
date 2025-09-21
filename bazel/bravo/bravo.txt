@@ -1200,6 +1200,7 @@ balusters
 bakal
 bipupillate
 barsac
+bolometer
 blepharocera
 biasteric
 bajoire
@@ -5959,7 +5960,6 @@ bemean
 bementite
 bemete
 bedawee
-bolometer
 bimillennia
 busybodies
 bemadden
