@@ -3982,6 +3982,7 @@ claiborne
 cowpox
 cardamom
 cicatrise
+choromania
 centenary
 cardamons
 centriscus
@@ -29963,7 +29964,6 @@ calydon
 composting
 conserves
 craniotomies
-choromania
 crotaphite
 cratered
 candlenut
