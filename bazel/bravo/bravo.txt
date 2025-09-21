@@ -782,6 +782,7 @@ boisterously
 bunker
 beeline
 biometrical
+bonteboks
 bethorn
 becker
 beryllosis
@@ -12595,7 +12596,6 @@ bonspell
 buttresses
 barnacling
 balate
-bonteboks
 beatniks
 beggarwise
 beryline
