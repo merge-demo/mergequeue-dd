@@ -25603,7 +25603,6 @@ corpses
 creeshy
 corpsy
 corpsman
-corpulences
 coprah
 crewman
 clankum
@@ -29312,6 +29311,7 @@ cryptophyceae
 cryptophytic
 corporealize
 cryptophthalmos
+corpulences
 catkins
 counterdemand
 countian
