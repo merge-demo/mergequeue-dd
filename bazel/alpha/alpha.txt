@@ -7928,6 +7928,7 @@ autoconverter
 alga
 algaecide
 archhouse
+abeyant
 algaeological
 acephalism
 apostolicalness
@@ -25291,7 +25292,6 @@ antihumbuggist
 adenofibroma
 autobasidium
 alligating
-abeyant
 astrochemist
 archetypally
 arteriorrhaphy
