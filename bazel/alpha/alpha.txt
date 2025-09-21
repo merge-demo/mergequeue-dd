@@ -7817,6 +7817,7 @@ aletocyte
 autochromy
 anticombination
 appliers
+amoeboid
 aldehydrol
 anoplotherium
 anthoclinium
@@ -16363,7 +16364,6 @@ aoul
 antioxidant
 ampholyte
 anxiousness
-amoeboid
 antifogmatic
 agalactia
 aob
