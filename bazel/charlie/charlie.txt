@@ -2258,7 +2258,6 @@ canakin
 canakins
 carvist
 canal
-cypseloid
 canalatura
 completer
 cerebbella
@@ -16223,6 +16222,7 @@ cenanthous
 charmingly
 chela
 clinchingly
+cypseloid
 capkin
 chargeability
 cathedratical
