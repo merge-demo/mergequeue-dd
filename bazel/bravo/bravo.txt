@@ -2280,7 +2280,6 @@ butterine
 barbecuer
 barbellula
 bromize
-bipunctate
 bowwood
 belabor
 bared
@@ -4395,6 +4394,7 @@ befleas
 belchers
 brazenness
 bumpology
+bipunctate
 becloaks
 blackfriars
 blowiness

@@ -11685,6 +11685,7 @@ compeers
 chirrups
 creekstuff
 cholum
+cheekily
 clavicor
 cicatrisation
 cladistic
@@ -15694,7 +15695,6 @@ chiasmodontid
 coppers
 cirrigrade
 clausule
-cheekily
 clausure
 claut
 clavacin
