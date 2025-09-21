@@ -2863,6 +2863,7 @@ attrahent
 agpaite
 axisymmetric
 apogeal
+aeropathy
 allheals
 appendages
 allophanic
@@ -4855,7 +4856,6 @@ armrest
 amphisbaenid
 auriculate
 admissibleness
-aeropathy
 arriero
 agenize
 aerope

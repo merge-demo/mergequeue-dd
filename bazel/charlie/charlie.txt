@@ -8976,7 +8976,6 @@ charged
 cupping
 chargee
 cataphasia
-contingent
 chargeful
 chargeless
 charger
@@ -9978,6 +9977,7 @@ chenfish
 californiana
 cheveron
 chenille
+contingent
 cascado
 consumable
 cadencies
