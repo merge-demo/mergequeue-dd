@@ -4510,7 +4510,6 @@ dibbling
 dampcourse
 demethylate
 demetricize
-deceits
 deficiently
 dangerously
 diceplay
@@ -12050,6 +12049,7 @@ diaglyptic
 daywrit
 datch
 donut
+deceits
 deacon
 disensanity
 deadliest

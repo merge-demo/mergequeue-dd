@@ -9308,7 +9308,6 @@ alpieu
 alpine
 appointive
 alpinesque
-anachronistical
 alpinia
 alfilerilla
 annularity
@@ -12075,6 +12074,7 @@ anchorlike
 auriculae
 abrotanum
 asthmatically
+anachronistical
 anchoveta
 anchusa
 argumentatively
