@@ -15087,7 +15087,6 @@ agilely
 aftereye
 antilabor
 antiforeignism
-afrown
 antiformin
 animater
 acanthocephalan
@@ -19195,6 +19194,7 @@ aftertaste
 areometrical
 arbutus
 anthologizer
+afrown
 antivirus
 abducting
 areopagite
