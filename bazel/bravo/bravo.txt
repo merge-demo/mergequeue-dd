@@ -15265,7 +15265,6 @@ blunders
 brandless
 bagatelles
 bonnetless
-badgering
 bustian
 beanballs
 beslings
@@ -17522,6 +17521,7 @@ blayne
 blore
 bugle
 burgau
+badgering
 bullyragging
 braconidae
 benzidins
