@@ -7124,6 +7124,7 @@ cumaldehyde
 caliculus
 centimetre
 correspondencies
+caducity
 cullion
 centimo
 centimos
@@ -12167,7 +12168,6 @@ chrysaline
 chromophilous
 chrysalis
 compress
-caducity
 chrysalises
 cardiaplegia
 chrysaloid
