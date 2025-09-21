@@ -13760,7 +13760,6 @@ bushment
 brazes
 bootlickers
 barguests
-blungers
 burker
 brunion
 baddishly
@@ -17858,6 +17857,7 @@ bushelers
 bolshies
 barrulety
 busheling
+blungers
 belabour
 balt
 bushelling
