@@ -11077,6 +11077,7 @@ chitosan
 carcinomatoid
 caconymic
 committeeism
+cuneator
 chloridation
 chitosans
 chitose
@@ -12445,7 +12446,6 @@ chromium
 chromiums
 chromize
 crocard
-cuneator
 chromized
 comportance
 chores
