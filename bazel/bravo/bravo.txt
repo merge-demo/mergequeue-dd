@@ -442,7 +442,6 @@ bandobust
 beerhouse
 borecole
 backscraper
-bannack
 bumbo
 begalls
 backstrap
@@ -10452,6 +10451,7 @@ bismarckian
 blastemal
 bemaster
 bopyrid
+bannack
 boating
 benvenuto
 blaster

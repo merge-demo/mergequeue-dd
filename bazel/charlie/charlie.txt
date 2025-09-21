@@ -3005,7 +3005,6 @@ carretela
 capiteaux
 convokes
 colander
-cantonal
 cantonalism
 crapelike
 cantoner
@@ -29373,6 +29372,7 @@ crispers
 craaled
 crispest
 colorblind
+cantonal
 crispier
 concentrative
 cryptophyte
