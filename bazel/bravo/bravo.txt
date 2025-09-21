@@ -7685,6 +7685,7 @@ blondest
 bathyscaphe
 bittock
 brakehand
+bourder
 babhan
 bullan
 brocard
@@ -13680,7 +13681,6 @@ bourree
 bided
 billyo
 basibranchiate
-bourder
 buchanan
 beknotted
 bleary
