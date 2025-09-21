@@ -13708,7 +13708,6 @@ braccio
 benefited
 billetwood
 balneatory
-balun
 biles
 boutefeu
 blackings
@@ -15360,6 +15359,7 @@ breadberry
 bodoni
 babyish
 buccinum
+balun
 bereaved
 batonnier
 bystander
