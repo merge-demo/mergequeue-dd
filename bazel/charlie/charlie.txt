@@ -7794,7 +7794,6 @@ cerulein
 cache
 ceruleite
 ceruleolactite
-clangour
 cravenette
 confesses
 ceruleous
@@ -29303,6 +29302,7 @@ clairecolle
 cryptonymous
 cryptoperthite
 cuttoo
+clangour
 countrymen
 ctenii
 cryptophagidae
