@@ -8805,7 +8805,6 @@ dehumidify
 diffident
 diazoimide
 dyschroia
-daleman
 dixieland
 daltonian
 deigns
@@ -13262,6 +13261,7 @@ demotist
 diacetate
 decumani
 desoxyribonuclease
+daleman
 dapples
 dineric
 dysuria
