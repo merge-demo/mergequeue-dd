@@ -4637,7 +4637,6 @@ beyrichite
 bordereaux
 birlings
 brininess
-bedimple
 bedimpling
 bulllike
 bluegown
@@ -17701,6 +17700,7 @@ burnishing
 bookbindery
 baneberries
 brulzies
+bedimple
 belibeled
 bejumbled
 burnoosed

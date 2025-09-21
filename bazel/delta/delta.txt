@@ -10870,6 +10870,7 @@ dwarfest
 desktop
 dirgeman
 debts
+driftfish
 dustyfoot
 dirgy
 dematiaceae
@@ -17189,7 +17190,6 @@ driftbolt
 disallowing
 duller
 danaid
-driftfish
 decadentism
 drawknot
 defectiveness
