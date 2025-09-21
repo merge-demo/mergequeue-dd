@@ -27104,6 +27104,7 @@ countersign
 calfbound
 countersigns
 clarencieux
+counterweights
 countersympathy
 carburet
 countersink
@@ -27217,7 +27218,6 @@ chlorhydrate
 catbird
 coetus
 counterweigh
-counterweights
 counterwheel
 counterwilling
 cheeseboard
