@@ -6449,7 +6449,6 @@ aiguilles
 atropia
 av
 aiguillette
-anthropoids
 aquiline
 antinuke
 aik
@@ -12717,6 +12716,7 @@ anglice
 anglicisation
 anticatalytic
 apolysin
+anthropoids
 anthelices
 anatabine
 averroism
