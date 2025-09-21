@@ -8875,7 +8875,6 @@ annihilated
 allothigenic
 allothimorph
 allothimorphic
-amphisbaenae
 aisle
 allothogenic
 astrakanite
@@ -20024,6 +20023,7 @@ auteciousness
 abidance
 arpeggios
 arterialised
+amphisbaenae
 aleph
 arpen
 arpents
