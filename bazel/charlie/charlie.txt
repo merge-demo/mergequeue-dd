@@ -2904,7 +2904,6 @@ calyptoblastic
 cantatas
 cantation
 cantatrice
-coverts
 chorioids
 cantdog
 cantdogs
@@ -11312,6 +11311,7 @@ capillarectasia
 chloroformic
 conged
 crapaudine
+coverts
 cubica
 chromicizing
 chloroformization
