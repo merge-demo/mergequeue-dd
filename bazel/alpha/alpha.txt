@@ -6914,7 +6914,6 @@ asporogenous
 alacrify
 ameiotic
 allocation
-analogue
 aphanite
 ambulacriform
 allonge
@@ -24435,6 +24434,7 @@ amphoras
 argalis
 azines
 artier
+analogue
 appeased
 algomian
 alkalinization
