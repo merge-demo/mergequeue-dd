@@ -5281,7 +5281,6 @@ deligated
 dytiscidae
 disburdens
 defat
-degasifier
 diatomaceoid
 detestable
 detinue
@@ -14911,6 +14910,7 @@ dissociation
 doctrinarity
 dehydrogenating
 dotant
+degasifier
 designate
 dopa
 doctrinate
