@@ -13460,6 +13460,7 @@ bednights
 bitterbrush
 bawdship
 bissext
+broadswords
 begotten
 boughed
 bogeying
@@ -16230,7 +16231,6 @@ brownwort
 bollworms
 biovular
 balistid
-broadswords
 bicarb
 bdft
 bothies
