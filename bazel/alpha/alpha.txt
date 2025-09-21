@@ -4657,7 +4657,6 @@ acutifoliate
 aerifies
 antiparabemata
 adjustoring
-aeriform
 accinge
 abasement
 azygous
@@ -7239,6 +7238,7 @@ alienate
 albetad
 arilli
 albi
+aeriform
 amidoxy
 albian
 albicans

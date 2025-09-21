@@ -2831,6 +2831,7 @@ diskos
 discordia
 denicotinized
 discussive
+diapir
 dittologies
 depriver
 disposure
@@ -10931,7 +10932,6 @@ dishboard
 defeasance
 disabuse
 disbursement
-diapir
 dazzlement
 deafens
 dannock
