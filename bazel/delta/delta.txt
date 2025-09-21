@@ -2139,7 +2139,6 @@ defter
 demoded
 doab
 disnest
-diagnostics
 dolomite
 despoilment
 dissyllabize
@@ -6975,6 +6974,7 @@ disshroud
 deerdrive
 despisingly
 deoppilative
+diagnostics
 deepens
 draco
 despite
