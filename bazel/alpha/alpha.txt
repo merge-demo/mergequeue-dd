@@ -4630,7 +4630,6 @@ acyclically
 alcae
 affy
 adroop
-abstr
 aerations
 azurine
 aery
@@ -12716,6 +12715,7 @@ abscise
 anglice
 anglicisation
 anticatalytic
+abstr
 apolysin
 anthelices
 anatabine
