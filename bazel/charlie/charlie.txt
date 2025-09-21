@@ -4842,7 +4842,6 @@ crosshatched
 carritches
 carriwitchet
 carroch
-carped
 connivers
 carromatas
 carromed
@@ -11461,6 +11460,7 @@ chogak
 chogset
 cussed
 choy
+carped
 choiceful
 cantatrici
 consumers

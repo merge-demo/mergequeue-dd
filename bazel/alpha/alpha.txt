@@ -10473,7 +10473,6 @@ affirmative
 amygdules
 amigos
 amiidae
-amyl
 amylan
 attomy
 anorthographically
@@ -24914,6 +24913,7 @@ adroit
 awkwardish
 antilogarithmic
 axmaker
+amyl
 awarders
 autostage
 ablaqueate
