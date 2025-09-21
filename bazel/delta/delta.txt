@@ -5216,6 +5216,7 @@ distortedness
 distemperature
 diaphote
 desmosis
+dispositioned
 dislike
 deputy
 dismisses
@@ -12097,7 +12098,6 @@ designlessly
 defecator
 disentrail
 disentrainment
-dispositioned
 disentrance
 discostate
 dyophysitism
