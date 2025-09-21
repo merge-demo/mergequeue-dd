@@ -12605,7 +12605,6 @@ busy
 bioherms
 baguets
 brasque
-beleaguerment
 blubberhead
 bodement
 bumming
@@ -12764,6 +12763,7 @@ booksellerism
 banderilleros
 bookselling
 bescreened
+beleaguerment
 borg
 beeware
 bothriums
