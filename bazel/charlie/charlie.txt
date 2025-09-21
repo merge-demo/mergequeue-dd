@@ -3099,7 +3099,6 @@ coldness
 can
 capacitive
 cenotaphies
-coordinately
 commanders
 counterjumper
 cyclopes
@@ -18748,6 +18747,7 @@ coinsuring
 chremzel
 cointense
 cocanucos
+coordinately
 codesigns
 crafty
 conourish
