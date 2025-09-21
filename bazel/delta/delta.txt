@@ -1121,7 +1121,6 @@ drabbish
 dash
 designado
 doctorization
-diathesic
 detests
 demagnetisable
 dehydrogenize
@@ -5328,6 +5327,7 @@ diatomacean
 decimalized
 demibombard
 dysteleology
+diathesic
 displant
 decerebrated
 deadheadism
