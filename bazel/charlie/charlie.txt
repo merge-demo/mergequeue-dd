@@ -2571,7 +2571,6 @@ candollea
 candolleaceae
 candolleaceous
 catalufas
-carangid
 chlorotrifluoromethane
 catalan
 cytoblastemic
@@ -30607,6 +30606,7 @@ coralroot
 case
 cachila
 cucule
+carangid
 caryocar
 chorook
 choregraphic

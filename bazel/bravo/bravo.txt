@@ -1445,7 +1445,6 @@ balestra
 barringer
 bookmarks
 bops
-bedazzled
 bedye
 barbascos
 brankier
@@ -3077,6 +3076,7 @@ beeswings
 batiked
 bejelled
 bakerite
+bedazzled
 ballon
 brahman
 blencorn
