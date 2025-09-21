@@ -12241,6 +12241,7 @@ androgenous
 ammochryse
 anisylidene
 androgyn
+artlike
 androgynal
 arillode
 androgyne
@@ -20681,7 +20682,6 @@ antisophistry
 afterattack
 amaga
 astrantia
-artlike
 artocarpaceae
 anisalcohol
 artocarpous
