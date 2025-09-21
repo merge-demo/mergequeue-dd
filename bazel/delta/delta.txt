@@ -11087,7 +11087,6 @@ dealates
 diamagnetically
 droning
 disformity
-denotativeness
 deltas
 defatted
 drugstores
@@ -16597,6 +16596,7 @@ dictum
 draftings
 dragnet
 diesinker
+denotativeness
 disinterred
 dallop
 dendrodont
