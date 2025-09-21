@@ -9259,7 +9259,6 @@ devolve
 delphacidae
 decreptitude
 debarkation
-disilluded
 disestablishmentarianism
 deterge
 divined
@@ -17746,6 +17745,7 @@ discriminateness
 disenthroning
 durries
 disembodies
+disilluded
 derivate
 deportees
 dietotoxicity
