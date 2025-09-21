@@ -15818,7 +15818,6 @@ cleanup
 conveniently
 chelaship
 colonized
-clearable
 chlorion
 clearage
 clearances
@@ -16694,6 +16693,7 @@ colombier
 conceitedness
 cedric
 climbing
+clearable
 cypselidae
 closeouts
 closer
