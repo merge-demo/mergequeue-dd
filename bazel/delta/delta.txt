@@ -2587,7 +2587,6 @@ draffy
 dacoitage
 dita
 diadema
-distinguishing
 disinformation
 duplicitas
 decoll
@@ -6280,6 +6279,7 @@ dehydrators
 dedolence
 disgrace
 decongested
+distinguishing
 dechloridize
 dindon
 dermatoplasm
