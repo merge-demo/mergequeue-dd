@@ -11828,7 +11828,6 @@ dormitary
 discrowns
 doa
 daydreamed
-devitalised
 defibrillate
 defiler
 discruciate
@@ -12585,6 +12584,7 @@ djagatay
 dorsoventral
 disinsure
 draftswomanship
+devitalised
 demandingness
 daffed
 departmentalized
