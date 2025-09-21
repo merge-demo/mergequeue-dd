@@ -9527,6 +9527,7 @@ bracon
 biscuitroot
 burnets
 biscuits
+brandisher
 bhutia
 bonfires
 bromides
@@ -9668,7 +9669,6 @@ brichette
 beefheaded
 bioflavonoid
 biophysiography
-brandisher
 breakages
 bigwiggism
 bankbook
