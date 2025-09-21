@@ -12292,7 +12292,6 @@ betrayer
 bramantesque
 bombline
 bartholomewtide
-bowdrill
 bombast
 bezzi
 boterol
@@ -16147,6 +16146,7 @@ bandboxy
 blackit
 boxhauls
 bereavements
+bowdrill
 bloodguilt
 bimillenial
 brassy
