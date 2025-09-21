@@ -10964,6 +10964,7 @@ disadvance
 deposito
 dreamingful
 dhamnoo
+dioxin
 donned
 dustuck
 demisavage
@@ -15622,7 +15623,6 @@ dilate
 dement
 donk
 dolor
-dioxin
 doloriferous
 donkeyman
 decahedra
