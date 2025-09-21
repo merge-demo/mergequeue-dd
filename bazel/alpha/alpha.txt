@@ -5879,7 +5879,6 @@ akoulalion
 aestuous
 aposaturn
 accreted
-affiances
 acquiesced
 aversation
 allamanda
@@ -8943,6 +8942,7 @@ alcahest
 alloxan
 arsenicalism
 anthesis
+affiances
 anthracoid
 alloxuraemia
 abord
