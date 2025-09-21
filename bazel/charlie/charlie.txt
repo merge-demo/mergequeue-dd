@@ -25767,6 +25767,7 @@ cepa
 cofound
 corrosibleness
 coeltera
+crawley
 corrosived
 clairschach
 corrosively
@@ -28337,7 +28338,6 @@ corroborator
 crawfishing
 corviform
 crawl
-crawley
 crunch
 chaptalized
 contributing
