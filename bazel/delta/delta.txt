@@ -2848,7 +2848,6 @@ dishwatery
 devotions
 drail
 dronet
-didunculidae
 decurion
 dispensatories
 deprived
@@ -11596,6 +11595,7 @@ duppy
 dependableness
 disconnectedness
 disconnector
+didunculidae
 dhurnas
 demicannon
 denotable
