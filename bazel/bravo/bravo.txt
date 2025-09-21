@@ -1692,7 +1692,6 @@ breechcloths
 babblish
 balmarcodes
 balmawhapple
-betokens
 brunneous
 bradypode
 berm
@@ -13550,6 +13549,7 @@ barhop
 bouffant
 brontesque
 barristers
+betokens
 bratina
 botulin
 breasting
