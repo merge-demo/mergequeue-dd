@@ -6661,6 +6661,7 @@ bionic
 berchemia
 bioacoustics
 brakesmen
+biforate
 bentincks
 bandpass
 burrowers
@@ -12918,7 +12919,6 @@ bedspread
 bellite
 bitterblain
 boothes
-biforate
 baseball
 bearfoot
 bialy
