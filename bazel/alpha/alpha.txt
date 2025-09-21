@@ -3836,7 +3836,6 @@ aqueity
 assonantly
 austerlitz
 apologer
-adjutory
 ahistoric
 adjutorious
 adjutrice
@@ -22499,6 +22498,7 @@ antihormone
 athermanous
 athermic
 atherogenesis
+adjutory
 agricole
 atheroma
 aerobic

@@ -2484,7 +2484,6 @@ beechwoods
 balducta
 baiza
 bedark
-barge
 bargelike
 breeks
 besteading
@@ -2950,6 +2949,7 @@ blocklayer
 barrets
 bimbo
 boundaries
+barge
 boobishness
 blobby
 barricaded
