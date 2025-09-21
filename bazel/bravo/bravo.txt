@@ -5961,6 +5961,7 @@ bementite
 bemete
 bedawee
 bolometer
+biphenylene
 bimillennia
 busybodies
 bemadden
@@ -9180,7 +9181,6 @@ bucciniform
 bibliographer
 brended
 bobbinet
-biphenylene
 blini
 biphenol
 berrying
