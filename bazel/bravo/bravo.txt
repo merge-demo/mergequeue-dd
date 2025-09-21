@@ -4665,7 +4665,6 @@ bedlamitish
 bedub
 bucephalus
 bibliogenesis
-bedewing
 bloomeria
 blennorrhinia
 berinse
@@ -9855,6 +9854,7 @@ biologically
 ballooning
 bemingling
 bismer
+bedewing
 bewhisper
 bait
 besought
