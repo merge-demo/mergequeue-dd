@@ -10274,6 +10274,7 @@ chibouks
 chibouque
 chowchow
 chica
+carbuncle
 carmines
 compleated
 chicago
@@ -29937,7 +29938,6 @@ criticasterism
 cetid
 cress
 calcification
-carbuncle
 cemeterial
 cuscutaceae
 coliplication
