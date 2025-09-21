@@ -3290,6 +3290,7 @@ dullery
 dishexecontahedroid
 deplorable
 dreamtide
+ditetragonal
 definitor
 daisy
 deutschemark
@@ -18218,7 +18219,6 @@ deedful
 depersonalize
 delights
 delinquently
-ditetragonal
 dentatocostate
 dermatorrhoea
 despatchers
