@@ -4397,7 +4397,6 @@ dolomites
 daphnaceae
 demarcations
 demarcatordemarcators
-disks
 demarchy
 dowse
 divelling
@@ -12679,6 +12678,7 @@ disfavour
 dinitrobenzene
 demesnes
 demi
+disks
 dissolute
 disleafed
 dermatophone
