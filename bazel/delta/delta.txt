@@ -2862,7 +2862,6 @@ directed
 degratia
 duopolies
 decurvature
-decus
 decarbonizing
 dispensing
 decussate
@@ -13821,6 +13820,7 @@ distaste
 defoliators
 delayage
 deriv
+decus
 derogatively
 dysphemia
 defeminize
