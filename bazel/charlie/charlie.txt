@@ -3125,7 +3125,6 @@ chequerboard
 capeadores
 capel
 chiastoneury
-capelan
 capelans
 cornette
 capelins
@@ -12115,6 +12114,7 @@ culturist
 chowanoc
 chowchows
 chowhound
+capelan
 coapprehend
 cyclopaedically
 cledonism

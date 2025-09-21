@@ -2838,7 +2838,6 @@ ablactation
 aviatorial
 acrotism
 acrotrophic
-acrotrophoneurosis
 assary
 acta
 asylums
@@ -13067,6 +13066,7 @@ anisaldehyde
 araks
 airmanship
 anucleate
+acrotrophoneurosis
 antiphysician
 anisandrous
 aberrant
