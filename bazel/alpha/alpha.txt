@@ -12026,7 +12026,6 @@ aestus
 administrate
 atmospherium
 antiphagocytic
-alternaria
 assistive
 ancestorially
 alcoholisation
@@ -20736,6 +20735,7 @@ annectent
 arfvedsonite
 avulsed
 arx
+alternaria
 apportions
 ascaridol
 amputator
