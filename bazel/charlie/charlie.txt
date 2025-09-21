@@ -6965,6 +6965,7 @@ cenesthesis
 cottierism
 cletch
 crowdedness
+circumambiency
 confects
 combination
 caky
@@ -14196,7 +14197,6 @@ catatonia
 circulators
 circulus
 cavaedium
-circumambiency
 circumambient
 circumambulate
 circumambulated

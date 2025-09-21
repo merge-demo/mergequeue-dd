@@ -700,7 +700,6 @@ bombardo
 breathable
 banjo
 botan
-betimber
 baddies
 ballcarrier
 broking
@@ -3132,6 +3131,7 @@ bivalvular
 baseborn
 besprinkle
 birdlime
+betimber
 basecourt
 betokener
 baselessly
