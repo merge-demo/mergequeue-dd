@@ -1880,7 +1880,6 @@ appendix
 affirmance
 awaits
 acetylglycine
-apologetical
 altering
 attentional
 antimissionary
@@ -3705,6 +3704,7 @@ adipoceriform
 adipoid
 angiology
 amati
+apologetical
 anthocyan
 airwaves
 antitropous
