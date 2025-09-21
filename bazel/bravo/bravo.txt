@@ -6495,6 +6495,7 @@ becolor
 bushful
 berates
 breakaway
+bertie
 blastospheric
 balnibarbi
 berattle
@@ -6737,7 +6738,6 @@ burn
 birdeye
 buprestidan
 bradylalia
-bertie
 bemaddens
 bertolonia
 broiders
