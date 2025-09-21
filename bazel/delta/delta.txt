@@ -1746,7 +1746,6 @@ dittology
 deathify
 discreteness
 dispensible
-dicentra
 diobol
 densifier
 deterioration
@@ -5211,6 +5210,7 @@ dryopes
 disseminated
 dioscorein
 distortedness
+dicentra
 distemperature
 diaphote
 desmosis

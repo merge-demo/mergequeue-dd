@@ -8602,7 +8602,6 @@ bethrall
 blackthorns
 bartram
 billionism
-billionth
 brethel
 bilander
 bonitos
@@ -13229,6 +13228,7 @@ battlewise
 bifer
 barundi
 bosom
+billionth
 blemmyes
 botryoidal
 beading
