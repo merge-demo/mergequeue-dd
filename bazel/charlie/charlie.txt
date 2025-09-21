@@ -6380,7 +6380,6 @@ ciboules
 cavayard
 cavalcades
 cardinalist
-curarizes
 cavalier
 cavaliere
 cloxacillin
@@ -31806,6 +31805,7 @@ caryopses
 clamjamphrie
 cumshaws
 clymenia
+curarizes
 cutcherry
 cutdowns
 citation

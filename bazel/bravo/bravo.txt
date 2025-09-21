@@ -7260,7 +7260,6 @@ billfishes
 blunter
 boletaceous
 bannet
-bigly
 bugi
 beperiwigged
 bethesda
@@ -17784,6 +17783,7 @@ bilicyanin
 bodhi
 brachistocephalous
 blushless
+bigly
 bluntishness
 berengarian
 berkowitz
