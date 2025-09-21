@@ -16668,6 +16668,7 @@ coriandrol
 cloque
 curlpaper
 cloques
+cocoawood
 canoodle
 carnivalesque
 cathodically
@@ -17771,7 +17772,6 @@ campuses
 compositor
 chasing
 cocoas
-cocoawood
 churchgoing
 cocobola
 cocobolas
