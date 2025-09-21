@@ -12798,7 +12798,6 @@ balan
 boolya
 braiding
 barrelhouse
-basigamy
 boomable
 boo
 beggarman
@@ -17183,6 +17182,7 @@ bumfuzzle
 baubles
 bothridiums
 blastocarpous
+basigamy
 berretta
 bedlamized
 beman
