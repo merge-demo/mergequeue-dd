@@ -6141,7 +6141,6 @@ deratized
 derats
 doloroso
 deratted
-dispond
 deratting
 draperies
 dissector
@@ -7310,6 +7309,7 @@ deuce
 daftar
 data
 dear
+dispond
 durham
 diamondlike
 deteriorative
