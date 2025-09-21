@@ -2495,7 +2495,6 @@ dispassioned
 diatropism
 dresser
 dilaters
-decibar
 dorsale
 decretively
 derivational
@@ -14016,6 +14015,7 @@ dioscorea
 dibromide
 druxiness
 desmoid
+decibar
 decolonise
 drabbet
 detainable
