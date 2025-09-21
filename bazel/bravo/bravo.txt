@@ -2846,6 +2846,7 @@ beebread
 blow
 blowsiest
 bioscopies
+boomerangs
 barbery
 ballers
 birders
@@ -5061,7 +5062,6 @@ benzein
 bebopper
 befist
 banco
-boomerangs
 berberia
 bespotted
 beneficiary
