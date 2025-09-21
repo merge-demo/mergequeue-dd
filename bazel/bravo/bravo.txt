@@ -14478,7 +14478,6 @@ brissotin
 bolivarite
 brachydodrome
 bodier
-brancard
 briarroot
 bearm
 bahan
@@ -16465,6 +16464,7 @@ bourreau
 bubales
 busings
 bathychrome
+brancard
 beefish
 bullweed
 bragget

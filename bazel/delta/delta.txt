@@ -14772,6 +14772,7 @@ definitiones
 defensibleness
 dehydrogenising
 despumate
+distilleries
 dobby
 distender
 dobos
@@ -15407,7 +15408,6 @@ dolphins
 discountenance
 drop
 design
-distilleries
 dismit
 daggy
 decanters
