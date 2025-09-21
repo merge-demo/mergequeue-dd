@@ -18261,7 +18261,6 @@ cephalotome
 coetaneous
 coeternity
 crystalize
-crankplate
 coeval
 correspondentship
 craftier
@@ -18956,6 +18955,7 @@ colinus
 carolina
 calypsist
 colyonic
+crankplate
 coliphage
 colipuncture
 coliseum
