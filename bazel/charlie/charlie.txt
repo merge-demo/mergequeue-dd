@@ -13477,7 +13477,6 @@ cartesianism
 cilery
 corsetless
 cilia
-cassumunar
 cloakedly
 ciliate
 ciliated
@@ -29324,6 +29323,7 @@ catalogs
 cryptoproselyte
 cryptorchis
 curara
+cassumunar
 corebox
 cryptorchism
 consolidationist

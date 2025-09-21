@@ -1635,7 +1635,6 @@ drupelet
 depositories
 dealbate
 drawer
-depolarisation
 decriminalize
 diodes
 damagingly
@@ -14179,6 +14178,7 @@ diastatically
 dermatomic
 deleter
 doeling
+depolarisation
 depreciatingly
 drolly
 deteriorism
