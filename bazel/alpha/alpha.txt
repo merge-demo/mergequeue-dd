@@ -4964,6 +4964,7 @@ aprosopous
 astigmat
 aesthesodic
 allaeanthus
+antienzymic
 audivision
 amberfishes
 aesthetes
@@ -17571,7 +17572,6 @@ actinians
 agrostis
 agathology
 appl
-antienzymic
 applanation
 applaudable
 araneiformes
