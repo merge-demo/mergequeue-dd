@@ -10163,6 +10163,7 @@ drahthaar
 devicefully
 deathblow
 dues
+disseason
 diverticulate
 ductal
 defogging
@@ -13511,7 +13512,6 @@ deceivance
 deconvolution
 denaturized
 disagio
-disseason
 disgood
 diphyodont
 dismemberment

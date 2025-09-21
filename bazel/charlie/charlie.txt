@@ -11240,6 +11240,7 @@ chloridellidae
 coattail
 chlorides
 covers
+cursorary
 chloridic
 chloridized
 compaternity
@@ -31530,7 +31531,6 @@ cycad
 conveyal
 cursives
 chromosomes
-cursorary
 cundite
 cursory
 cuproid
