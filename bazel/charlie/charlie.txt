@@ -422,6 +422,7 @@ communications
 cactoid
 cactus
 civilisable
+chlordans
 chancered
 cactuslike
 cassavas
@@ -11203,7 +11204,6 @@ chloranthus
 chemoreceptivities
 chlorcosane
 care
-chlordans
 costotransversal
 chloremia
 corrupt
