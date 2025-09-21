@@ -18558,7 +18558,6 @@ cessations
 cursor
 coheiress
 cannabine
-cushing
 catchiest
 clericalize
 coracomorphic
@@ -29167,6 +29166,7 @@ caracolite
 cystomatous
 caridomorpha
 cripplingly
+cushing
 calories
 cryptaesthesia
 cisternae
