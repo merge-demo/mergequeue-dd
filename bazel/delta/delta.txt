@@ -1930,6 +1930,7 @@ dekaparsec
 deciphers
 doura
 debriefing
+diselenid
 dowser
 daiquiris
 dabchicks
@@ -12134,7 +12135,6 @@ disallow
 dispeace
 dp
 dorbie
-diselenid
 devilkin
 detailedly
 disparager

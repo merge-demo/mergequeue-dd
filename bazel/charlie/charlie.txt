@@ -15558,7 +15558,6 @@ ccoya
 colocasia
 clasmatocytic
 coventries
-clasmatosis
 cuitle
 clasped
 cinevariety
@@ -22512,6 +22511,7 @@ coniroster
 conirostral
 cotbetty
 cheechako
+clasmatosis
 conisance
 cinnamonroot
 conite
