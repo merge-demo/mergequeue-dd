@@ -8094,6 +8094,7 @@ cymbalist
 campylospermous
 coexert
 chaffery
+chort
 colloquiquia
 carcanets
 costarring
@@ -12058,7 +12059,6 @@ coprostasis
 catlin
 choroti
 chorous
-chort
 chortle
 chondrodite
 chortlers
