@@ -7870,6 +7870,7 @@ aggravations
 antiexpansionist
 anticynic
 addlepatedness
+anointment
 amphiploid
 alexandrine
 allower
@@ -13525,7 +13526,6 @@ anointed
 arthritism
 austere
 amination
-anointment
 aponeurotic
 anticosmetic
 anointments
