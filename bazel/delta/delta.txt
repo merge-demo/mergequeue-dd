@@ -9735,7 +9735,6 @@ dilatate
 dilatative
 demesgnes
 demimentoniere
-deemphasis
 distillations
 durometer
 drivingly
@@ -14986,6 +14985,7 @@ disciplelike
 deadishness
 dodecapartite
 dodecaphonic
+deemphasis
 dodecaphonism
 demibastion
 diazoamine

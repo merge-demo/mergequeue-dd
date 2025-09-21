@@ -15833,6 +15833,7 @@ anacreontic
 aceanthrenequinone
 abundantia
 antiqueness
+atavistically
 antiquing
 admittible
 antiquum
@@ -18635,7 +18636,6 @@ amative
 achromatocyte
 archegosaurus
 anorak
-atavistically
 auletrides
 adolescently
 archelenis
