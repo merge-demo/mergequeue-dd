@@ -10880,6 +10880,7 @@ apulse
 approvedness
 amoebobacterieae
 amoebocyte
+autophone
 antispiritualist
 amoebogeniae
 artilleryship
@@ -15893,7 +15894,6 @@ adaptedness
 astor
 appreciations
 autotrophically
-autophone
 antireflexive
 antireligion
 archaical
