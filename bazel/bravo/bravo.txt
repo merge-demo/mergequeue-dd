@@ -1842,7 +1842,6 @@ bilgy
 bearded
 basketmaker
 bandeau
-blueline
 bancus
 bathonian
 backstabber
@@ -16585,6 +16584,7 @@ blocage
 banquetings
 busby
 buckeyed
+blueline
 befringed
 bushfighter
 briquetted
