@@ -5026,7 +5026,6 @@ aetobatidae
 ancien
 aphoria
 agrapha
-aetomorphae
 actinocarpic
 almohade
 aettekees
@@ -22722,6 +22721,7 @@ affected
 atonalistic
 awacs
 atone
+aetomorphae
 atoned
 alcali
 atones
