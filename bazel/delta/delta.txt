@@ -15956,7 +15956,6 @@ depreciant
 devilship
 dioptrics
 disrating
-disregardant
 dhourras
 defecated
 daft
@@ -17295,6 +17294,7 @@ drivership
 dmarche
 demirobe
 dittoed
+disregardant
 disulfate
 desolater
 decrepitation

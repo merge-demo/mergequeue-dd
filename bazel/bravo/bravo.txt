@@ -1372,6 +1372,7 @@ brayed
 butterbump
 betwixen
 balconies
+bides
 baldachin
 bhaiachari
 becarpets
@@ -17463,7 +17464,6 @@ buggies
 blabs
 baguio
 bulbocapnine
-bides
 bee
 bobadilish
 burro
