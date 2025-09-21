@@ -2635,6 +2635,7 @@ acrylics
 arietta
 appointer
 auriculoid
+agnathic
 autolithography
 agonistically
 appleringie
@@ -5975,7 +5976,6 @@ aglucon
 anucleated
 agminated
 agnails
-agnathic
 alkes
 agnathostomata
 advenient
