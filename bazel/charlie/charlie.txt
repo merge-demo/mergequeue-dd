@@ -28482,7 +28482,6 @@ curiousest
 caecectomy
 creatureling
 chirper
-carapo
 creatureship
 conversibility
 creaturize
@@ -31286,6 +31285,7 @@ cribbled
 catatonias
 curby
 counterdefender
+carapo
 crumblier
 curbings
 coelomocoela
