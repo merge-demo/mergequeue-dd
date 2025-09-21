@@ -7426,7 +7426,6 @@ anywhither
 alca
 acetal
 acrasida
-autodermic
 aquamanale
 arianize
 ajar
@@ -8779,6 +8778,7 @@ assassinator
 anguimorpha
 alloerotism
 allogene
+autodermic
 allogeneic
 agenesias
 argolid
