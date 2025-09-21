@@ -7218,7 +7218,6 @@ diphtherial
 duodenate
 diemaking
 detaches
-demijohns
 demulsifying
 deterrents
 detailing
@@ -17311,6 +17310,7 @@ deadlocks
 dressmake
 dureresque
 deuteragonist
+demijohns
 drizzly
 drizzlier
 drizzliest
