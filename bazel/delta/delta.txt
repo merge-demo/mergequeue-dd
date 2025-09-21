@@ -3479,6 +3479,7 @@ desaturate
 descensory
 desiccated
 desmomyaria
+disseminative
 dufoil
 drapery
 drowsiest
@@ -13539,7 +13540,6 @@ distributival
 darlings
 digredient
 depeopling
-disseminative
 dissension
 disaffirming
 drang
