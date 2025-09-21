@@ -3711,6 +3711,7 @@ dehorn
 didepside
 dealbuminize
 dolcan
+discardable
 desmose
 dreadful
 distilment
@@ -14212,7 +14213,6 @@ disvisage
 disyoked
 dungari
 doublet
-discardable
 dragoons
 disvisor
 disjudication
