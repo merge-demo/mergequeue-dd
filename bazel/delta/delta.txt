@@ -3859,6 +3859,7 @@ deiseal
 disquieting
 deistical
 dressages
+dullard
 dayglows
 discastle
 driftwood
@@ -18053,7 +18054,6 @@ dicebox
 dislocations
 drooper
 duler
-dullard
 dipotassium
 dicarboxylate
 dorsi
