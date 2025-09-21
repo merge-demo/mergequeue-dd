@@ -5194,7 +5194,6 @@ boxberries
 befuddling
 beautyship
 booted
-ballistophobia
 bumpkinet
 berating
 bullae
@@ -8119,6 +8118,7 @@ bellboys
 byrlaw
 beltmaker
 bloodhound
+ballistophobia
 bidiagonal
 bahnung
 befouls

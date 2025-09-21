@@ -14289,7 +14289,6 @@ cypripedin
 circumlocutionist
 centrisms
 circumlocutions
-circumlocutory
 circumlunar
 cotraitor
 crepeier
@@ -25042,6 +25041,7 @@ counterinvestment
 coreceiver
 corecipient
 chital
+circumlocutory
 corectome
 cardiomotility
 corectomy
