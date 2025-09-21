@@ -1517,6 +1517,7 @@ disengaged
 duststorm
 didymis
 duppies
+drilling
 dinkey
 doarium
 deked
@@ -17228,7 +17229,6 @@ dipygi
 dactylically
 devarshi
 dermophytic
-drilling
 drillman
 discourser
 drylots
