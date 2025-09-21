@@ -1261,7 +1261,6 @@ calfskin
 creatural
 calgary
 caliban
-cunea
 calaverite
 ciphony
 compulsatory
@@ -24106,6 +24105,7 @@ cystoplasty
 conversazione
 chloroiodide
 calm
+cunea
 cowbell
 cometarium
 conversed
