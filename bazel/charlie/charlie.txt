@@ -18573,6 +18573,7 @@ canonise
 cronk
 curr
 coherence
+churchanity
 containment
 cinenchyma
 coherent
@@ -28486,7 +28487,6 @@ carapo
 creatureship
 conversibility
 creaturize
-churchanity
 creaze
 crebricostate
 chinar
