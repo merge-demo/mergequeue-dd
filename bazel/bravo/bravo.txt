@@ -1696,7 +1696,6 @@ betokens
 brunneous
 bradypode
 berm
-bastards
 benefits
 balmorals
 biforked
@@ -7418,6 +7417,7 @@ blitheful
 balconied
 bengals
 biomicroscope
+bastards
 besant
 befits
 backrest
