@@ -17857,7 +17857,6 @@ approximable
 alpinism
 approximal
 athreptic
-apochromatic
 achromoderma
 aglipayano
 approximants
@@ -17906,6 +17905,7 @@ aesculaceae
 antithetical
 april
 aquaria
+apochromatic
 aprilesque
 antipodean
 aprioristically

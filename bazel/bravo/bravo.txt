@@ -7189,7 +7189,6 @@ boninite
 bipont
 bestuds
 bobierrite
-basiliscine
 besully
 betrample
 beswarm
@@ -10161,6 +10160,7 @@ beglads
 bendsome
 beseechers
 beclamored
+basiliscine
 beachcombing
 beaneries
 boastings
