@@ -13619,7 +13619,6 @@ bounded
 bridgepot
 bushel
 beamed
-baxter
 barry
 binucleate
 burladero
@@ -18294,6 +18293,7 @@ button
 basaltoid
 buttonbush
 borealis
+baxter
 bivalve
 brushy
 bassets
