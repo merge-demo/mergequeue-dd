@@ -5559,7 +5559,6 @@ desireable
 depatriate
 detrains
 dkm
-dyscrase
 depeinct
 dependabilities
 dustfall
@@ -9322,6 +9321,7 @@ dekaliters
 disploded
 discutient
 deckedout
+dyscrase
 donatory
 dietitians
 dtset
