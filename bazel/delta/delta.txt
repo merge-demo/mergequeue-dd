@@ -4122,7 +4122,6 @@ dryrot
 doggerelled
 delinter
 deliquescing
-deliquiate
 deliquium
 demisolde
 demagnetised
@@ -4654,6 +4653,7 @@ diazid
 disputative
 dialogs
 deaness
+deliquiate
 disfunction
 decap
 dittoing
