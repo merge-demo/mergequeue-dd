@@ -942,6 +942,7 @@ britannica
 bakshaish
 bazookaman
 breezes
+bater
 bassalian
 bodstick
 barbeled
@@ -4054,7 +4055,6 @@ bribing
 bedeafen
 brooked
 beancod
-bater
 beanery
 beanfeast
 besqueeze
