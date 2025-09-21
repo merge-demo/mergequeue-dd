@@ -5842,7 +5842,6 @@ attorneyship
 amoebaea
 affectationist
 apathetical
-appraise
 avdp
 alloeosis
 archemastry
@@ -10700,6 +10699,7 @@ agency
 abhiseka
 audiovisuals
 ammocoetes
+appraise
 apocrisiary
 agglutinated
 alloantibody
