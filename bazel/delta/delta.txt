@@ -1484,7 +1484,6 @@ dazy
 dazzle
 disseizor
 discomedusan
-discriminative
 dasypaedal
 dissuasion
 discolorated
@@ -16848,6 +16847,7 @@ dayboy
 dravidic
 drightin
 diplomate
+discriminative
 developed
 despecificate
 disillusions
