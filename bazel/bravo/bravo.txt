@@ -2295,6 +2295,7 @@ barbequed
 barber
 bordrag
 blancmanger
+brevipennate
 blype
 bizet
 bauxites
@@ -3754,7 +3755,6 @@ blastomeric
 batwing
 baysmelt
 betatrons
-brevipennate
 busing
 balneal
 bajra

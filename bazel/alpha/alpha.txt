@@ -12378,7 +12378,6 @@ abrocoma
 apaturia
 attask
 adiapneustia
-anemotactic
 augurers
 anemotaxis
 anemotropism
@@ -19551,6 +19550,7 @@ amidone
 alterius
 arisard
 arise
+anemotactic
 athyrium
 account
 aas
