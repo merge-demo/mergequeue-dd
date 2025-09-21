@@ -1338,7 +1338,6 @@ daltonic
 deoxidizers
 demoted
 deludingly
-dozy
 deselecting
 dauke
 degrader
@@ -3633,6 +3632,7 @@ disgracing
 discontinuable
 decimalisation
 degraduate
+dozy
 degravate
 demipike
 depurition
