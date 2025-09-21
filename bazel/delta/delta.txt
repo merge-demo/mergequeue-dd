@@ -8733,6 +8733,7 @@ diathesis
 demean
 deliquesces
 danke
+dogger
 dirl
 diatoma
 diapase
@@ -12691,7 +12692,6 @@ deportable
 dotting
 deranges
 demiheavenly
-dogger
 doxologically
 daisycutter
 duane
