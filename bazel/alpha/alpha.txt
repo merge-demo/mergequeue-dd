@@ -8113,6 +8113,7 @@ acceleratory
 atwo
 actinobranchia
 ancylodactyla
+archrascal
 adipocyte
 aspersing
 anopsy
@@ -16707,7 +16708,6 @@ adlay
 anolyte
 aphrodision
 aphrodistic
-archrascal
 axiomatically
 agname
 acritol
