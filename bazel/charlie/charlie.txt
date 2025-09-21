@@ -23230,6 +23230,7 @@ crucifixion
 copulae
 commence
 cravatting
+chamade
 cellaring
 casusistry
 cystocyte
@@ -25958,7 +25959,6 @@ colonization
 corviser
 corvo
 coalescency
-chamade
 corvoid
 corvorant
 cantiga
