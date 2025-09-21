@@ -7355,7 +7355,6 @@ cephalobranchiata
 componendo
 controversialist
 chervonetz
-chronometrical
 cerusites
 carks
 comnenian
@@ -30531,6 +30530,7 @@ carbonic
 cubisms
 crucibulum
 cubistic
+chronometrical
 crankery
 cubists
 crociary
