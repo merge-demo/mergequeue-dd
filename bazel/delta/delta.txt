@@ -5697,6 +5697,7 @@ ducape
 depleted
 daftlike
 depletions
+dishabille
 danton
 depletive
 denutrition
@@ -12364,7 +12365,6 @@ dealated
 dumbwaiter
 daredeviltry
 desexed
-dishabille
 devilish
 dinomic
 decker
