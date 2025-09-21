@@ -5212,7 +5212,6 @@ bowla
 begad
 bedders
 blanky
-blinkering
 beworming
 basification
 blotless
@@ -9969,6 +9968,7 @@ burrhel
 bargainor
 biverb
 bedfast
+blinkering
 bivocal
 bicylindrical
 beseem
