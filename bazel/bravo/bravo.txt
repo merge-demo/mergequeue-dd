@@ -4006,7 +4006,6 @@ brevier
 beaked
 beakerman
 bipinnariae
-butterroot
 bountiful
 bunraku
 byegaein
@@ -10734,6 +10733,7 @@ behusband
 bebatter
 braeside
 brags
+butterroot
 blennosis
 bankroll
 beclart
