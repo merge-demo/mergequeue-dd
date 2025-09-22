@@ -884,7 +884,6 @@ gotha
 gametocyst
 glycoluril
 gametocyte
-gurrah
 grayout
 gametogenic
 gooseflesh
@@ -8683,6 +8682,7 @@ gynoecia
 glassworker
 goldenly
 girn
+gurrah
 greenbug
 grinner
 greencoat
