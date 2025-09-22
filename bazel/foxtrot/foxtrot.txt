@@ -5577,6 +5577,7 @@ froebelist
 fanaticized
 finjan
 forefeel
+flotative
 fossilation
 formulary
 fmt
@@ -8915,7 +8916,6 @@ flneuse
 favorableness
 foundrous
 farhands
-flotative
 foragers
 fount
 freshener

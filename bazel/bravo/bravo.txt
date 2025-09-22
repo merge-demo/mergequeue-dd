@@ -6572,6 +6572,7 @@ burnings
 biurate
 barpost
 berycomorphi
+boardmen
 bemixes
 burlies
 berigora
@@ -11801,7 +11802,6 @@ briony
 bock
 barvel
 burbankian
-boardmen
 bioresearch
 brainfag
 barrelet
