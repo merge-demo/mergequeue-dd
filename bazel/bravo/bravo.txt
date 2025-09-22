@@ -4766,7 +4766,6 @@ belast
 brachycardia
 bulchin
 brattie
-bog
 bedtime
 blameable
 brackens
@@ -9469,6 +9468,7 @@ bogier
 brisked
 brede
 brayera
+bog
 banyuls
 boarfishes
 besaint
