@@ -369,7 +369,6 @@ galactotrophy
 goodhumoredness
 grandeeism
 gynobasic
-gelded
 galangin
 golundauze
 gaoled
@@ -5443,6 +5442,7 @@ glaciating
 galet
 gemellus
 guipure
+gelded
 groundskeep
 glisk
 gapperi
