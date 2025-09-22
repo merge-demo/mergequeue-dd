@@ -6254,6 +6254,7 @@ beedom
 blawed
 benzalphenylhydrazone
 babelism
+brochophony
 braw
 benzamide
 benzoxate
@@ -15646,7 +15647,6 @@ bigfoot
 brambly
 bordelaise
 beclogged
-brochophony
 brocht
 brochure
 bathycentesis
