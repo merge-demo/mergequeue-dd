@@ -4512,7 +4512,6 @@ adjutator
 asidehand
 atomerg
 accessorii
-aedilian
 appetently
 aphetize
 arillodes
@@ -10720,6 +10719,7 @@ ammonia
 ammoniacs
 acrisius
 artly
+aedilian
 ankaramite
 apophylactic
 acrogens
