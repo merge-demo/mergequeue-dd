@@ -12407,7 +12407,6 @@ doliidae
 despairer
 dyspathy
 disguising
-dishclout
 dentolingual
 doubles
 disheartener
@@ -17208,6 +17207,7 @@ dislocated
 dichotic
 disenvelop
 diffusibility
+dishclout
 divagations
 distichlis
 debentureholder
