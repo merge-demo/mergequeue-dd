@@ -7609,7 +7609,6 @@ cyclitis
 celiopyosis
 chalk
 carduaceous
-cerebrometer
 cerebron
 chih
 cerebroparietal
@@ -29069,6 +29068,7 @@ chaussure
 crinklier
 czarisms
 concretization
+cerebrometer
 charmwise
 catherine
 campaniform
