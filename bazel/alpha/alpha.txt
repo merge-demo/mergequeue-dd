@@ -846,7 +846,6 @@ absinthismic
 absinthole
 angiohypertonia
 alachah
-anabong
 audiometric
 autor
 ascidium
@@ -5527,6 +5526,7 @@ antilens
 againward
 ardeid
 agal
+anabong
 agalactic
 appoggiaturas
 anisomelus
