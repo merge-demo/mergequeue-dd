@@ -8161,7 +8161,6 @@ baldpate
 bienly
 blockheadedness
 butylenes
-bedrabble
 browpost
 brahmi
 biens
@@ -8188,6 +8187,7 @@ baryes
 burden
 byeworkman
 bifaces
+bedrabble
 bifacial
 bifara
 bootleger
