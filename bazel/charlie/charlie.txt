@@ -15,6 +15,7 @@ chevance
 corkmaking
 caught
 cabaletta
+cognovit
 cestas
 cardplaying
 chertiest
@@ -18379,7 +18380,6 @@ cullied
 crackups
 cathedrals
 cofoundress
-cognovit
 confabulated
 connaraceous
 cecidium
