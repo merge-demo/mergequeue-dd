@@ -994,7 +994,6 @@ bayano
 birlie
 blabberer
 bourdon
-bayardly
 bordrage
 blinger
 baidarka
@@ -4182,6 +4181,7 @@ bellmen
 barometric
 beatnik
 bonged
+bayardly
 bixin
 befilleted
 brachet
