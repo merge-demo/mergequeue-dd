@@ -1769,7 +1769,6 @@ biretta
 bedraggling
 baldest
 balustrading
-bulbed
 balzarine
 blockhead
 bam
@@ -4513,6 +4512,7 @@ bedaggle
 berrybush
 beday
 barrack
+bulbed
 babul
 biddable
 benchmarking
