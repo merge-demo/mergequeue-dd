@@ -7671,7 +7671,6 @@ anthracomartian
 atrickle
 anglicism
 advocatess
-aldrovanda
 adequative
 aldus
 alumian
@@ -25191,6 +25190,7 @@ assentatorily
 alimentativeness
 atomists
 axopodium
+aldrovanda
 availment
 athetosis
 acoupe
