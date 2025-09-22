@@ -12479,7 +12479,6 @@ dard
 disoccupying
 deracinate
 dirigible
-declassifying
 dancette
 dishelms
 dexterity
@@ -18603,6 +18602,7 @@ devocalisation
 dianoetical
 dustcover
 dustee
+declassifying
 daube
 dispersant
 dusters
