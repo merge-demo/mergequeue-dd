@@ -16941,7 +16941,6 @@ chwas
 cheyney
 concremation
 clumber
-clump
 contemper
 caline
 cycadean
@@ -30276,6 +30275,7 @@ confused
 cepolidae
 codfishery
 crunched
+clump
 cruncher
 crunchers
 chooses
