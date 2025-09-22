@@ -12530,7 +12530,6 @@ batsmanship
 bacubert
 bud
 badmash
-bitterwood
 brashness
 bellwind
 brant
@@ -17872,6 +17871,7 @@ backslider
 bushgrass
 bowered
 bugseed
+bitterwood
 bushy
 bowerbird
 barton
