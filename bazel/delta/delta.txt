@@ -11816,7 +11816,6 @@ doa
 daydreamed
 devitalised
 defibrillate
-defiler
 discruciate
 drupelets
 damascenine
@@ -16704,6 +16703,7 @@ dexterousness
 drone
 defrays
 dragsters
+defiler
 doctoress
 dowily
 drayage
