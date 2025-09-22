@@ -4651,7 +4651,6 @@ debentured
 disavows
 disgust
 dackers
-disemburden
 dishtowel
 diazid
 disputative
@@ -18145,6 +18144,7 @@ dammed
 devisors
 diglottic
 driveboat
+disemburden
 disacidify
 druggeries
 dardic
