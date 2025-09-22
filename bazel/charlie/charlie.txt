@@ -5174,7 +5174,6 @@ castory
 cartes
 complimentally
 casimiroa
-chorizontic
 curarine
 casinet
 charet
@@ -17228,6 +17227,7 @@ coagriculturist
 calicular
 carryke
 connectibility
+chorizontic
 chrononomy
 countersea
 coagulability
