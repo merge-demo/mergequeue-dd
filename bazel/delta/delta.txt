@@ -6841,7 +6841,6 @@ dolichoblond
 definition
 disfranchisers
 desmine
-degenerates
 dextrocardial
 diarrhoetic
 diffidence
@@ -18294,6 +18293,7 @@ degasser
 dialyzability
 delicts
 digressions
+degenerates
 desultorily
 draftproof
 dunnish
