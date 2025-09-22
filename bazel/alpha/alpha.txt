@@ -12104,7 +12104,6 @@ ancistrocladaceous
 ancistroid
 ancodont
 aventurine
-animalism
 ancoly
 acceptavit
 ancome
@@ -16649,6 +16648,7 @@ avant
 amphigonia
 adultoid
 aphydrotropism
+animalism
 anticyclogenesis
 aphilanthropy
 aphylly
