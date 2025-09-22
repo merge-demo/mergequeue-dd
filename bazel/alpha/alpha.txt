@@ -12214,7 +12214,6 @@ armoniac
 aortolith
 andriana
 abnormally
-acquaintant
 astilbe
 awestrike
 apheses
@@ -12440,6 +12439,7 @@ antitrust
 aguamiel
 anergies
 anerythroplasia
+acquaintant
 antidorcas
 anes
 anesone
