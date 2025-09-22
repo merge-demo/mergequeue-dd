@@ -1533,7 +1533,6 @@ diddlers
 denture
 dieugard
 disesteemer
-dynamisms
 dupondius
 dittander
 deacons
@@ -3234,6 +3233,7 @@ doless
 distributors
 disputably
 diavolo
+dynamisms
 devonite
 definiens
 derencephalocele
