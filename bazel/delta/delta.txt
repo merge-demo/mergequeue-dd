@@ -3578,7 +3578,6 @@ duelist
 diopters
 duckbills
 dubbing
-deglycerin
 deglory
 depeculate
 demipremise
@@ -6018,6 +6017,7 @@ diagrammitically
 disconfirm
 diobols
 delimiting
+deglycerin
 disapprove
 doglike
 dermatonosus
