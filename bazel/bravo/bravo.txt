@@ -1573,7 +1573,6 @@ ballata
 batikulin
 ballatoon
 backcasts
-blazer
 burliest
 balled
 banderilla
@@ -10104,6 +10103,7 @@ barysilite
 bathochrome
 blues
 blackdamp
+blazer
 bismuthous
 belonesite
 backfatter
