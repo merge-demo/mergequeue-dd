@@ -6555,7 +6555,6 @@ appaloosa
 alcelaphine
 aubrey
 archking
-allures
 assessing
 apropos
 anthemene
@@ -24679,6 +24678,7 @@ avians
 abietin
 abreactions
 aviaries
+allures
 anahita
 aviarist
 anteceding
