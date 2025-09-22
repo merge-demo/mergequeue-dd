@@ -5105,7 +5105,6 @@ dendrodic
 dichotomize
 dendroeca
 drakes
-deportation
 degrade
 duplicating
 dendrohyrax
@@ -17446,6 +17445,7 @@ dressiness
 derogated
 decennia
 direction
+deportation
 dermoneurosis
 disjoinable
 demanding
