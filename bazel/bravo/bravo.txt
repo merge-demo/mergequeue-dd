@@ -6983,7 +6983,6 @@ bather
 boweled
 bombidae
 benote
-buddy
 bewhiskered
 barbute
 blaming
@@ -15067,6 +15066,7 @@ brevities
 byeworker
 boar
 ballastage
+buddy
 baw
 benting
 brewhouse
