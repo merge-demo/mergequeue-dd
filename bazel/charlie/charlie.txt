@@ -29028,6 +29028,7 @@ columbus
 chloryl
 crinatory
 cringeling
+coltlike
 checkstone
 cringes
 cubing
@@ -30965,7 +30966,6 @@ colberter
 currack
 cumal
 cytozoic
-coltlike
 caterpillarlike
 cumaphyte
 coagulations
