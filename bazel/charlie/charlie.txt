@@ -12437,7 +12437,6 @@ chromyl
 chroming
 chromiole
 chromism
-chromite
 catechiser
 chromitite
 conacre
@@ -18084,6 +18083,7 @@ calcaneal
 cysteine
 coemployment
 complexification
+chromite
 chuana
 churnings
 cheesy
