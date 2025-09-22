@@ -3298,6 +3298,7 @@ boobyism
 bookwork
 basipetal
 burdie
+bestick
 basipodite
 bipinnaria
 basipterygium
@@ -16342,7 +16343,6 @@ brushback
 butt
 borities
 bladesmith
-bestick
 beltways
 buttons
 brolly
