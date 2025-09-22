@@ -946,7 +946,6 @@ darac
 deficient
 diuturnal
 detachers
-directives
 dewed
 dures
 darb
@@ -14462,6 +14461,7 @@ diverticulitis
 dacyorrhea
 dermahemia
 declaring
+directives
 decarbonizer
 discomforting
 decane
