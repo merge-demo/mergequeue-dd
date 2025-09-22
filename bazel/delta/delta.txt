@@ -16549,7 +16549,6 @@ draegermen
 disregards
 dadder
 diadrom
-deoculate
 dihely
 decoctum
 deeply
@@ -16628,6 +16627,7 @@ dognaper
 dissimilarities
 diatonically
 disharmonic
+deoculate
 disco
 decompile
 disclaims
