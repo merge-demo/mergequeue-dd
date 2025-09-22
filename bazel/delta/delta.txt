@@ -6161,6 +6161,7 @@ derbend
 debauch
 deploringly
 dereferenced
+diffractiveness
 dereferencing
 dispensability
 deregulated
@@ -9407,7 +9408,6 @@ diviner
 deruralize
 dioscurian
 doubleted
-diffractiveness
 dyspnoic
 dist
 dely
