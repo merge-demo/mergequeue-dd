@@ -4185,6 +4185,7 @@ gimped
 gimpier
 guidable
 galactolytic
+gentleship
 gippers
 gliosa
 gigantosaurus
@@ -6566,7 +6567,6 @@ gurglets
 galipidine
 ghats
 glossological
-gentleship
 girlfriend
 glossary
 gangsterism
