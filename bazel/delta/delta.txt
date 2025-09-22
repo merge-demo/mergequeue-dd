@@ -3220,7 +3220,6 @@ depreciator
 dentololabial
 defilingly
 definably
-dull
 dumpish
 definedly
 deific
@@ -7808,6 +7807,7 @@ devourer
 diglyph
 devisor
 decrier
+dull
 dowie
 ductilizing
 daphnephoria
