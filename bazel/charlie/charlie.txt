@@ -4303,7 +4303,6 @@ caricaceous
 cotemporaneous
 carcinology
 cattleya
-caricatura
 caricature
 chud
 caricaturing
@@ -25551,6 +25550,7 @@ camelias
 corotate
 corotates
 corotomy
+caricatura
 commemorized
 coroutines
 clericum
