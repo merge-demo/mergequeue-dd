@@ -8590,6 +8590,7 @@ batteau
 botanies
 behind
 batchers
+brochure
 bethrall
 blackthorns
 bartram
@@ -15653,7 +15654,6 @@ brambly
 bordelaise
 beclogged
 brocht
-brochure
 bathycentesis
 babblishly
 buckers
