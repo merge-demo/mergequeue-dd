@@ -8557,7 +8557,6 @@ diaphysis
 demonomy
 dracontiasis
 druggists
-diaphones
 diaphony
 disclosures
 dignification
@@ -9666,6 +9665,7 @@ demitting
 dalasis
 dullification
 disasterly
+diaphones
 dowcet
 dinitrocellulose
 diiodoform

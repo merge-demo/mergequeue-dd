@@ -12262,7 +12262,6 @@ androphagous
 antipolitically
 adjective
 androphorous
-antipyryl
 alleviatory
 amenty
 androscoggin
@@ -19161,6 +19160,7 @@ anlas
 arenicola
 atechnic
 anagrammed
+antipyryl
 arenicolous
 awfullest
 antidominican
