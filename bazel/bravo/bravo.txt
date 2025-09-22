@@ -5825,6 +5825,7 @@ boulle
 bailiff
 bellota
 bidactyle
+brownwort
 beefs
 beerocracy
 bellowsful
@@ -16229,7 +16230,6 @@ backwash
 bruised
 burnweed
 backtrack
-brownwort
 bollworms
 biovular
 balistid
