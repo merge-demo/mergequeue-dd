@@ -6423,7 +6423,6 @@ aigialosaurus
 antasthenic
 aiglet
 alectoriae
-apprizer
 aphroditeum
 affirms
 adambulacral
@@ -17369,6 +17368,7 @@ app
 advancingly
 automower
 antimachine
+apprizer
 allylamine
 athyris
 appalling
