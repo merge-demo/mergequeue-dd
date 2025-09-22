@@ -5098,6 +5098,7 @@ barbarized
 boxhaul
 bestirred
 belching
+bakshished
 brachiate
 blandishments
 borderers
@@ -13964,7 +13965,6 @@ benedictine
 bismuthic
 booths
 bemeal
-bakshished
 bkg
 boer
 blindfolder
