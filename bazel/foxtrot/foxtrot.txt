@@ -1767,6 +1767,7 @@ forsterite
 farfet
 farsalah
 frize
+farming
 forlorn
 foundery
 frivolously
@@ -9469,7 +9470,6 @@ fumarates
 figboy
 fantasm
 featish
-farming
 frau
 forecastleman
 femininism
