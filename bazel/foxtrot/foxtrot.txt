@@ -9912,7 +9912,6 @@ foliaceousness
 fibrofatty
 freckly
 ferreters
-friendlessness
 fancier
 fornices
 fritts
@@ -10038,6 +10037,7 @@ fringetail
 foreplot
 fimbles
 farmerlike
+friendlessness
 frogskin
 fortune
 fibrocystoma
