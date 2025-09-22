@@ -1769,6 +1769,7 @@ deathtrap
 devocalization
 drof
 deathward
+dipteroi
 ductility
 dolldom
 dg
@@ -9499,7 +9500,6 @@ distaff
 diapedeses
 duodecahedron
 digestiveness
-dipteroi
 doornails
 doko
 dermad
