@@ -11374,7 +11374,6 @@ badinaged
 build
 brustling
 bibbed
-bibio
 bluecoated
 becquerelite
 bracherer
@@ -12605,6 +12604,7 @@ bagels
 broomstick
 busy
 bioherms
+bibio
 baguets
 brasque
 blubberhead
