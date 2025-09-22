@@ -26,7 +26,6 @@ deediest
 dabuh
 dachas
 dachshund
-dachshunds
 disaligning
 dural
 dacian
@@ -8763,6 +8762,7 @@ dittogram
 dispace
 dismalities
 diazin
+dachshunds
 drayman
 dullardness
 death
