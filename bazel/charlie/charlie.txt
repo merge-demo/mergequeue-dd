@@ -4309,6 +4309,7 @@ cotemporaneous
 carcinology
 cattleya
 caricature
+caprid
 chud
 caricaturing
 courtzilite
@@ -21627,7 +21628,6 @@ citrange
 coexclusive
 cottonless
 concubitancy
-caprid
 concubitous
 conculcate
 concupy
