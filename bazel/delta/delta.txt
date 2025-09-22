@@ -5049,7 +5049,6 @@ discide
 dictamen
 downdraft
 doand
-dextrocardia
 dialect
 darci
 dicaryotic
@@ -10938,6 +10937,7 @@ dromioid
 daimon
 devests
 diswarrening
+dextrocardia
 duretto
 dreepy
 doxographer
