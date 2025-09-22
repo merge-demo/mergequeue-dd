@@ -5775,7 +5775,6 @@ categories
 cardiazol
 cestodaria
 cannabins
-crinose
 categorise
 categorised
 cobwork
@@ -31827,6 +31826,7 @@ cluther
 costophrenic
 cuticolor
 cuticula
+crinose
 coelozoic
 credenzas
 cuticularize
