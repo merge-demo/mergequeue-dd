@@ -732,7 +732,6 @@ badgerer
 blundersome
 banana
 badgeringly
-bugles
 blepharophthalmia
 boyish
 badgerlike
@@ -17610,6 +17609,7 @@ biogenic
 belady
 blowier
 barrelfish
+bugles
 barolong
 bartends
 bellipotent
