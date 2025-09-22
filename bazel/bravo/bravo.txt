@@ -2349,7 +2349,6 @@ bullpout
 barhopped
 becut
 barcella
-biopic
 barcelona
 blank
 bejabbers
@@ -14612,6 +14611,7 @@ bronzing
 blackballing
 boxerism
 bigmouth
+biopic
 betusked
 blashy
 brasiletto
