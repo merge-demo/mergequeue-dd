@@ -4843,6 +4843,7 @@ beef
 battled
 baggala
 briar
+beerage
 beefalo
 basketweaving
 balistarius
@@ -9354,7 +9355,6 @@ binghi
 barny
 bluecaps
 birdseye
-beerage
 birdsnest
 bungfu
 bargehouse
