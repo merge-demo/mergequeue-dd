@@ -8295,7 +8295,6 @@ dizzy
 disputableness
 dactylose
 decursive
-diagonalization
 diagnosing
 dandyprat
 diagonals
@@ -13821,6 +13820,7 @@ distasteful
 diacoca
 dep
 defoliated
+diagonalization
 distastefulness
 denom
 dialling
