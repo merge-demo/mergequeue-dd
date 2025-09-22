@@ -7554,6 +7554,7 @@ banning
 baiera
 blue
 biographist
+boatlike
 beginners
 beworship
 bedare
@@ -14272,7 +14273,6 @@ braggier
 bontok
 bullpates
 bhotiya
-boatlike
 beamsman
 bloaters
 borocitrate
