@@ -5783,6 +5783,7 @@ docker
 depopulating
 dital
 deals
+dwindling
 doodler
 depopulation
 dunged
@@ -18681,4 +18682,3 @@ detersively
 designation
 dwarfs
 deports
-dwindling
