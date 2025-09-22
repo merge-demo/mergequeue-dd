@@ -1770,6 +1770,7 @@ drof
 deathward
 ductility
 dolldom
+dg
 docent
 distort
 diminuting
@@ -8339,7 +8340,6 @@ demasted
 divorcive
 dentelated
 decremented
-dg
 dialcohol
 decolourized
 disequalize
