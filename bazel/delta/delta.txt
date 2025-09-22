@@ -7249,7 +7249,6 @@ defoliating
 dimethylamino
 dalteen
 detected
-disenchantingly
 direful
 dominations
 detecter
@@ -11668,6 +11667,7 @@ disjoin
 diagramed
 dermatographia
 discountenances
+disenchantingly
 distastes
 dendrolite
 denize
