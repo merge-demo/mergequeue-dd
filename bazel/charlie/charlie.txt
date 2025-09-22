@@ -7630,6 +7630,7 @@ cementer
 calcarated
 cerebrospinal
 chaetotaxy
+comport
 cerebrospinant
 chickstone
 cerebrosuria
@@ -8412,7 +8413,6 @@ chambioa
 chambray
 colloquist
 calyciferous
-comport
 chambrays
 chambranle
 compulsions
