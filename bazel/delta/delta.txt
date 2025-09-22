@@ -9937,6 +9937,7 @@ dyspeptic
 dette
 diminuendoes
 degu
+deferment
 digitule
 discursus
 denticulation
@@ -14466,7 +14467,6 @@ dextrogyrous
 divertive
 deutovum
 diverts
-deferment
 daphnetin
 divested
 doradidae
