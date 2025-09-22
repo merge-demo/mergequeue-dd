@@ -1325,7 +1325,6 @@ acephalite
 altaian
 azote
 actinopoda
-ajitter
 aqueducts
 antiphilosophical
 accelerators
@@ -9874,6 +9873,7 @@ anomoeomery
 acinotubular
 acrodonts
 ambicoloration
+ajitter
 anticrisis
 anabohitsite
 annoyously
