@@ -10259,7 +10259,6 @@ dipleura
 diolefins
 damselfly
 dicynodon
-denary
 diomate
 diaconica
 dearly
@@ -12594,6 +12593,7 @@ dankness
 daud
 desertlike
 disintrench
+denary
 decagons
 deodorise
 dephase
