@@ -3628,6 +3628,7 @@ batistes
 beastly
 batlet
 batlike
+blastogenic
 brandyball
 buyides
 bewimple
@@ -10774,7 +10775,6 @@ bavin
 bridge
 baulkier
 birthrate
-blastogenic
 blocks
 belier
 blepharochromidrosis
