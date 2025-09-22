@@ -1254,7 +1254,6 @@ calepin
 cteniform
 centimes
 cupressinoxylon
-conviciate
 cowtown
 calf
 calfish
@@ -3227,6 +3226,7 @@ cynocrambaceae
 cit
 canalboat
 capitalistically
+conviciate
 capitalists
 capitalizable
 cubatures
