@@ -4642,6 +4642,7 @@ bulllike
 bluegown
 ballpoint
 bobsleds
+bikinied
 bathymetrically
 bunce
 busywork
@@ -8810,7 +8811,6 @@ blondness
 binomials
 betoya
 blunthead
-bikinied
 boehmeria
 bombycids
 branks
