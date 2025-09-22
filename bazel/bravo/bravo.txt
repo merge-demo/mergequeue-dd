@@ -3395,6 +3395,7 @@ bynin
 blastodermatic
 bassoonists
 bioelectrogenesis
+brightish
 blemished
 befortune
 blockades
@@ -15297,7 +15298,6 @@ boisseau
 bilharziasis
 besteaded
 brighten
-brightish
 brightsmith
 bressummer
 bescorched
