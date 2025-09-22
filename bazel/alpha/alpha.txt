@@ -234,7 +234,6 @@ adcon
 adenomyxoma
 abbreviatable
 actinochemical
-amentia
 anaqua
 auctorial
 achariaceous
@@ -24084,6 +24083,7 @@ autoimmunity
 archtraitor
 appledrone
 appealability
+amentia
 autoimmunize
 antireaction
 antimediaevalist
