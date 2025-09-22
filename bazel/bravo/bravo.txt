@@ -10659,7 +10659,6 @@ blellums
 blemishment
 blemmatrope
 breakfront
-bylining
 brooches
 blandisher
 bedarken
@@ -13227,6 +13226,7 @@ buggery
 bosniak
 brachypinacoidal
 battlewise
+bylining
 bifer
 barundi
 bosom
