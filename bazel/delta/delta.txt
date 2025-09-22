@@ -5175,7 +5175,6 @@ dustin
 defenselessness
 denicotinizes
 denied
-dens
 dramalogue
 downwith
 disguster
@@ -7749,6 +7748,7 @@ devildom
 dealerdom
 deviled
 dingdonged
+dens
 demigroat
 durgah
 demonically
