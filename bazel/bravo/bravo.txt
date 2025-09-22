@@ -8052,6 +8052,7 @@ bv
 bochur
 bicornous
 bagroom
+bioethic
 belligerents
 bicornuate
 bicornute
@@ -8907,7 +8908,6 @@ bloc
 byliner
 bioengineering
 basidiomycetes
-bioethic
 bullishly
 blueberries
 bioethics
