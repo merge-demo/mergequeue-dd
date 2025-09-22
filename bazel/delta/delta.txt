@@ -13334,6 +13334,7 @@ delayers
 deaconhood
 devocalise
 disputation
+depicter
 disconnected
 disannulment
 dodecaphonist
@@ -16444,7 +16445,6 @@ disparple
 domy
 daglocks
 densitometric
-depicter
 defrosted
 dogtrotted
 displacements
