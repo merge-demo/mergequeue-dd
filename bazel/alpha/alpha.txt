@@ -3252,7 +3252,6 @@ archpiece
 apostemation
 answerless
 arrogancy
-arabitol
 argosies
 antipoetical
 acerbates
@@ -13373,6 +13372,7 @@ arteriodialysis
 atomical
 armada
 azeotropism
+arabitol
 amputated
 aphidophagous
 addoom
