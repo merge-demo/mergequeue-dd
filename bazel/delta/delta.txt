@@ -2342,6 +2342,7 @@ dismayable
 deceptiveness
 decerebrate
 disfavourable
+deradenoncus
 demeriting
 decerning
 determinant
@@ -13753,7 +13754,6 @@ dissonancy
 dacryolin
 dissoul
 desultor
-deradenoncus
 dysspermatism
 disstate
 dissuaded
