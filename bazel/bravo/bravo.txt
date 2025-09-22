@@ -295,6 +295,7 @@ back
 burrknot
 backadation
 brumbies
+bulliform
 backare
 baal
 backpacker
@@ -9487,7 +9488,6 @@ births
 brontephobia
 bespreading
 bercelet
-bulliform
 birthstool
 birthwort
 blatancies
