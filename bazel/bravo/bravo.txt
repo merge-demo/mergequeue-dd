@@ -4827,7 +4827,6 @@ bamboozle
 belaud
 bolderian
 bitumen
-biguttate
 backspace
 burrowstown
 beef
@@ -17563,6 +17562,7 @@ bobbysocks
 baclin
 bellyer
 burghers
+biguttate
 burgraves
 biscuitlike
 bureaucratized
