@@ -7992,6 +7992,7 @@ aquo
 alcapton
 algiomuscular
 algodoncillo
+autodial
 algoesthesiometer
 annihilate
 aides
@@ -23946,7 +23947,6 @@ aviador
 acategorical
 alutaceous
 aardvark
-autodial
 autodialed
 azathioprine
 adience
