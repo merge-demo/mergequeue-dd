@@ -3076,6 +3076,7 @@ barwal
 benzophenoxazine
 boilerworks
 buscarle
+barmskin
 blacklegs
 broomcorn
 brochures
@@ -11236,7 +11237,6 @@ borghalpenny
 bisilicate
 buckets
 blankest
-barmskin
 bopyridae
 blottier
 bibliophilistic
