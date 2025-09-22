@@ -5288,7 +5288,6 @@ gangsters
 gammaroid
 goodman
 globularly
-gutturalism
 gingals
 glaived
 gourds
@@ -6442,6 +6441,7 @@ gannister
 gastraead
 guarded
 gie
+gutturalism
 guanare
 gapeworms
 gurry
