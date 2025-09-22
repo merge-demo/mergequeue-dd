@@ -5183,7 +5183,6 @@ brontograph
 befuddle
 befuddler
 biglandular
-bacillosis
 boxberries
 befuddling
 beautyship
@@ -16426,6 +16425,7 @@ blaws
 budzat
 bandeaux
 blindstitch
+bacillosis
 belaites
 betsey
 bruteness
