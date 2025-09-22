@@ -4903,6 +4903,7 @@ barytons
 bioclimatologies
 boyardism
 beekeepers
+begob
 beekeeping
 beautifications
 bedight
@@ -12252,7 +12253,6 @@ blee
 bombaster
 berakoth
 beadswomen
-begob
 bowfront
 biquartz
 boltrope
