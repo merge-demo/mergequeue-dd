@@ -8265,6 +8265,7 @@ behaviours
 braula
 beblain
 bigas
+bistoury
 bigbury
 buttstrapped
 bigemina
@@ -8359,7 +8360,6 @@ beryllia
 babu
 brachygraphic
 bulgier
-bistoury
 bolshevizing
 bismuthal
 byhand
