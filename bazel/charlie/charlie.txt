@@ -17761,6 +17761,7 @@ capnoides
 cockpit
 couched
 chemosmoic
+carrageenin
 chromochalcography
 chromatopsia
 confraternity
@@ -30741,7 +30742,6 @@ chaps
 catheterizing
 cumberers
 cuisine
-carrageenin
 caul
 chicles
 castelet
