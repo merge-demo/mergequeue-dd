@@ -3524,6 +3524,7 @@ batcher
 bogging
 bitterhearted
 barbered
+balsa
 bonaght
 bouchal
 blindfoldedly
@@ -14924,7 +14925,6 @@ bellmaking
 breathless
 breathseller
 breba
-balsa
 boatfalls
 breccial
 boatly
