@@ -5808,6 +5808,7 @@ aggressed
 altered
 abortus
 aliency
+antiunion
 antiarins
 acystia
 asyntactic
@@ -16219,7 +16220,6 @@ affray
 aperitive
 antigraft
 atlases
-antiunion
 antiuratic
 antiurease
 autotrepanation

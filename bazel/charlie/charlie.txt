@@ -15601,6 +15601,7 @@ churners
 classifying
 classiness
 citigrade
+counterfeits
 clues
 classists
 classmanship
@@ -26828,7 +26829,6 @@ cudava
 chromotype
 chittering
 chilopod
-counterfeits
 counterfessed
 counterflange
 cruzados
