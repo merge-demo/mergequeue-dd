@@ -11982,7 +11982,6 @@ disemployment
 disenable
 dudeen
 disharmony
-dissipating
 duplicates
 delved
 differen
@@ -16498,6 +16497,7 @@ defogger
 dwaible
 delirate
 drabbler
+dissipating
 datum
 dunnesses
 dacoities
