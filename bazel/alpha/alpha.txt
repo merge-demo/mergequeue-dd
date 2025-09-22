@@ -5878,7 +5878,6 @@ agamas
 anophthalmos
 agism
 arrowleaf
-arnoldist
 akoulalion
 aestuous
 aposaturn
@@ -11920,6 +11919,7 @@ anastate
 anastatus
 anastigmat
 aborning
+arnoldist
 aspis
 angiosclerosis
 acidity
