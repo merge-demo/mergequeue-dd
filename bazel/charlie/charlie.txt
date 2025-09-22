@@ -3438,7 +3438,6 @@ causeuse
 comprehends
 craniovertebral
 callidity
-capshore
 comd
 capsian
 ceruses
@@ -6807,6 +6806,7 @@ cellarmen
 casabe
 chirologies
 centennium
+capshore
 cellfalcicula
 concaveness
 cellist
