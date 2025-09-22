@@ -1351,7 +1351,6 @@ dipentine
 demissive
 depasturation
 dwarfing
-draftsperson
 dunkle
 dulcetness
 dompt
@@ -17623,6 +17622,7 @@ defeminisation
 disulphate
 denicotinizing
 drupa
+draftsperson
 dicyclist
 dysthyroidism
 drupel
