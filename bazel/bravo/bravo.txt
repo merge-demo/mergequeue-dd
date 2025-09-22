@@ -3447,7 +3447,6 @@ badgerly
 bastions
 bacilli
 batteryman
-barabbas
 biorgan
 bivoltine
 butylate
@@ -12305,6 +12304,7 @@ buckpot
 bombesins
 benzoglycolic
 brightsomeness
+barabbas
 bleaty
 boggin
 bagdi
