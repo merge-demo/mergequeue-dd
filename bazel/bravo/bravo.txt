@@ -2652,6 +2652,7 @@ barling
 balkline
 bortz
 bertholletia
+boyology
 barghest
 basiliscus
 barm
@@ -12045,7 +12046,6 @@ boyo
 besmearing
 bariatrician
 bestializing
-boyology
 battiest
 breechloader
 benzoles
