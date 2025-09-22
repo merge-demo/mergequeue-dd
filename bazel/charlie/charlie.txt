@@ -6526,6 +6526,7 @@ campanula
 confluence
 caxtonian
 crestfallen
+circumundulate
 caza
 cazimi
 clangored
@@ -17763,7 +17764,6 @@ carrageenin
 chromochalcography
 chromatopsia
 confraternity
-circumundulate
 cockroaches
 crax
 coexist
