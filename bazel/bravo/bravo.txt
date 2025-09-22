@@ -1889,6 +1889,7 @@ bevies
 batukite
 bishoplike
 bougeron
+bifilarly
 bandit
 beshrew
 bretwaldadom
@@ -8197,7 +8198,6 @@ bigwiggery
 bifilar
 bobbery
 brecciating
-bifilarly
 biflabellate
 bullheadedly
 bunkload
