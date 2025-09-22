@@ -7639,7 +7639,6 @@ colinear
 coiffing
 curettes
 concessionist
-centralizer
 ceremoniously
 confinements
 chrysoeriol
@@ -10381,6 +10380,7 @@ chide
 callid
 classing
 chided
+centralizer
 chiders
 cataphatic
 cedarbird
