@@ -456,7 +456,6 @@ gyms
 gemmation
 gerontogeous
 gonopoietic
-gerberas
 gastroanastomosis
 grubbier
 greenside
@@ -7486,6 +7485,7 @@ gatelike
 goliardery
 greenbone
 gorbellies
+gerberas
 gymnast
 governmental
 garageman
