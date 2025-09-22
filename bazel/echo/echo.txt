@@ -958,7 +958,6 @@ ecuadorian
 ecumenacy
 engraffing
 ecumenicism
-expulser
 ecus
 enosis
 epimeritic
@@ -8434,6 +8433,7 @@ earthmove
 etiolate
 eponymus
 epicier
+expulser
 elkhorn
 eroticomaniacal
 epopoeias
