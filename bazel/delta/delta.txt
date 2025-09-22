@@ -14347,7 +14347,6 @@ describable
 desensitize
 demoralizes
 diaporesis
-densimeter
 desoxyribose
 dishallucination
 decimestrial
@@ -16989,6 +16988,7 @@ dreamlikeness
 dobchick
 damboard
 diphylla
+densimeter
 dolcinist
 diarrheic
 disaffectation
