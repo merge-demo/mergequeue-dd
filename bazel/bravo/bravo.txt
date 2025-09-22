@@ -298,7 +298,6 @@ backare
 baal
 backpacker
 burdensomeness
-blowpoint
 beaune
 brachiocyllosis
 brahmism
@@ -15478,6 +15477,7 @@ briskest
 briskets
 boomable
 boarders
+blowpoint
 biedermeier
 bromlite
 bescent
