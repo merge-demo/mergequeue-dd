@@ -2752,6 +2752,7 @@ claviers
 coypu
 cereless
 cannibalized
+chaplin
 chimps
 cannibalizing
 coelomes
@@ -19910,7 +19911,6 @@ cincinnati
 comedian
 carassows
 comediant
-chaplin
 clinometer
 comedical
 comediette
