@@ -562,6 +562,7 @@ cruiseway
 commilitant
 caducean
 catechistic
+catechesis
 caducecei
 caducei
 cleptomania
@@ -5718,7 +5719,6 @@ catclaw
 cate
 cityful
 coronets
-catechesis
 conduceability
 cottony
 cheirosophy
