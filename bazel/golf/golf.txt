@@ -4595,7 +4595,6 @@ gourmandism
 gyrodactylidae
 glucagons
 gapa
-gaudeamus
 gyrodactylus
 grapeshot
 gustatorially
@@ -8790,6 +8789,7 @@ grossest
 gauntleting
 germain
 generalize
+gaudeamus
 griddler
 gastroschisis
 galleys
