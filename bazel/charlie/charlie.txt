@@ -4539,7 +4539,6 @@ carpologically
 carnival
 cacomixls
 carnivals
-carnivoracity
 carnivoral
 carnivore
 cordialness
@@ -12726,6 +12725,7 @@ charnels
 chueta
 compellation
 chufas
+carnivoracity
 cinenchymatous
 ceratomania
 crinite
