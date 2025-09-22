@@ -1939,6 +1939,7 @@ bagnio
 borecoles
 bioplast
 buttstrapping
+bewray
 brandishes
 bosquets
 babelish
@@ -16855,7 +16856,6 @@ bloodstained
 bockey
 batis
 begirded
-bewray
 bondelswarts
 bolag
 bedewoman
