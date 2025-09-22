@@ -2505,6 +2505,7 @@ antihalation
 autotomous
 acoustoelectric
 astr
+atrosanguineous
 acpt
 acquaint
 acquisible
@@ -6750,7 +6751,6 @@ airspeeds
 airstream
 aischrolatreia
 ankylurethria
-atrosanguineous
 archbishopric
 actionability
 adibasi
