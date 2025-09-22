@@ -805,7 +805,6 @@ bodieron
 bossing
 beduke
 baffleplate
-bewwept
 branchiopoo
 bibliophagist
 baffler
@@ -3121,6 +3120,7 @@ betokener
 baselessly
 bismarck
 beneficiating
+bewwept
 bloedite
 bustards
 boswellize
