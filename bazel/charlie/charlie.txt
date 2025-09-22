@@ -1723,6 +1723,7 @@ chalklike
 cecilia
 collectables
 coapprover
+canopied
 cheremissian
 cyclobutane
 coyer
@@ -2858,7 +2859,6 @@ canopy
 copesman
 calliope
 canopid
-canopied
 cataclysm
 canopies
 caffoline
