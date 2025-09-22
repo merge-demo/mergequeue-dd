@@ -2176,7 +2176,6 @@ circumfusile
 capotes
 campsheeting
 campsite
-cooperate
 compasser
 chugalugging
 carbocer
@@ -13928,6 +13927,7 @@ crosshackle
 chalicotherioid
 cynoclept
 cynocrambaceous
+cooperate
 cynodictis
 coreligionist
 costive
