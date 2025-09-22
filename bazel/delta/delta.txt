@@ -717,7 +717,6 @@ dusio
 dolefish
 drynesses
 danaine
-deflocculate
 dragshoe
 digitised
 dihydrocupreine
@@ -15967,6 +15966,7 @@ dorcatherium
 dosis
 dazzlers
 deepeningly
+deflocculate
 dacrycystalgia
 dossels
 decapodiform
