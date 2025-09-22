@@ -10552,7 +10552,6 @@ diatomaceous
 dioxane
 daggles
 discoblastula
-diplocoria
 diploe
 disbalancement
 demothball
@@ -17520,6 +17519,7 @@ decuplet
 dimwitted
 dusty
 drowte
+diplocoria
 dreads
 devoices
 densities
