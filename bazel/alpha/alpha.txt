@@ -7295,6 +7295,7 @@ aesthesis
 albion
 aider
 assertorical
+acanthocarpous
 allogamies
 anticathexis
 assessor
@@ -24047,7 +24048,6 @@ ambulators
 autognostic
 articulus
 averages
-acanthocarpous
 axopetal
 anticapitalistic
 arcosoliulia
