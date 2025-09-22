@@ -12955,6 +12955,7 @@ animable
 autocatharsis
 atrichia
 archaeopteris
+apanaging
 anatifae
 animacule
 animadversal
@@ -16439,7 +16440,6 @@ awm
 aquintocubital
 allozooid
 alouatta
-apanaging
 ammocoete
 accuser
 anguishously

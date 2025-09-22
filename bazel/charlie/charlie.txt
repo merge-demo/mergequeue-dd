@@ -9666,6 +9666,7 @@ cheesecloth
 cheesecloths
 caramba
 cognizably
+cachina
 concursus
 chapaties
 chocard
@@ -11984,7 +11985,6 @@ covalency
 collunarium
 chicadee
 consol
-cachina
 chorioallantoic
 chorioallantois
 cuneus
