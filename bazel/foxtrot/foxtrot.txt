@@ -1692,7 +1692,6 @@ fearingly
 ferineness
 fearless
 forehammer
-ferrament
 fleeching
 fingertip
 foreordaining
@@ -4758,6 +4757,7 @@ flagellated
 flagellations
 fieldstrip
 fingal
+ferrament
 footwalls
 feif
 filipino
