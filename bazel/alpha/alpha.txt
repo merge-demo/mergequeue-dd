@@ -10222,6 +10222,7 @@ ambones
 aments
 aproning
 addressability
+anglian
 amenuse
 anorthoclase
 adrenocortical
@@ -12699,7 +12700,6 @@ allays
 anglewise
 averrer
 anaretic
-anglian
 anglic
 anglicanisms
 antimonite
