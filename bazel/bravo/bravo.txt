@@ -994,7 +994,6 @@ bromocresol
 brigand
 bayano
 birlie
-bewitch
 blabberer
 bourdon
 bayardly
@@ -13241,6 +13240,7 @@ belion
 buzzers
 boxberry
 buggier
+bewitch
 belays
 barbels
 barrio
