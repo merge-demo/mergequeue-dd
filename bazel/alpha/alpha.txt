@@ -9974,6 +9974,7 @@ astral
 attesters
 amblotic
 anomaloscope
+advisiveness
 anythings
 ambo
 acanthin
@@ -11967,7 +11968,6 @@ anatomize
 anatomized
 accoucheurs
 anatomizer
-advisiveness
 anatomizing
 allegeable
 anatopism
