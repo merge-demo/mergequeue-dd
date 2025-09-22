@@ -13551,7 +13551,6 @@ cyma
 companionable
 cymae
 cymagraph
-cimaise
 coendure
 cicatriculae
 centare
@@ -17415,6 +17414,7 @@ cacheted
 cruder
 classicism
 cogons
+cimaise
 coastland
 couscouses
 coastlines
