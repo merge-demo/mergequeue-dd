@@ -3188,6 +3188,7 @@ antipolyneuritic
 adamantinoma
 adamantoblast
 aphoristic
+anecdotally
 antidromy
 archery
 atresic
@@ -23550,7 +23551,6 @@ auriculotemporal
 auriferous
 axlike
 aurify
-anecdotally
 autopepsia
 aceology
 agnoetism
