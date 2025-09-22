@@ -10666,7 +10666,6 @@ cantoning
 chimaphila
 consummates
 chymase
-callaloos
 curtelace
 chimb
 culicide
@@ -15970,6 +15969,7 @@ cliched
 clergess
 clergy
 clergyable
+callaloos
 cotoneaster
 clergylike
 clergymen
