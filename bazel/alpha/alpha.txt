@@ -3139,7 +3139,6 @@ aedine
 appendage
 axal
 acutilobate
-atterminal
 anapnometer
 alevins
 archibenthos
@@ -11926,6 +11925,7 @@ ankylosed
 anastomosing
 acrologic
 anastomus
+atterminal
 advocator
 anapaestical
 activital
