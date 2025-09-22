@@ -5738,6 +5738,7 @@ catechism
 catalyzator
 circumspective
 catechismal
+criminaldom
 catechistical
 catechization
 catechizer
@@ -14337,7 +14338,6 @@ cleanable
 clavierist
 circumpose
 condite
-criminaldom
 circumquaque
 circumradii
 circumradius
