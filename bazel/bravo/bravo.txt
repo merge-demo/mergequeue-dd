@@ -2041,7 +2041,6 @@ bollandist
 bankrupt
 bosporan
 brainstone
-burl
 balmy
 bankruptcy
 boltel
@@ -15902,6 +15901,7 @@ basques
 barr
 bronchoscopist
 backbear
+burl
 bellbottle
 bubbies
 bersaglieri
