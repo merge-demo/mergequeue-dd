@@ -1261,7 +1261,6 @@ datemark
 dentalise
 detache
 drivelers
-durational
 daterman
 diabolification
 dates
@@ -12626,6 +12625,7 @@ duntle
 daredevils
 demineralization
 drate
+durational
 delegant
 doomsman
 deregulation
