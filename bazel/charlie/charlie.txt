@@ -5313,6 +5313,7 @@ crinel
 castanea
 chewy
 crescentic
+coextensive
 cylindroconical
 chrestomathics
 castanean
@@ -22494,7 +22495,6 @@ colobin
 clammier
 canterbury
 coniine
-coextensive
 cormophyte
 coniines
 cybister
