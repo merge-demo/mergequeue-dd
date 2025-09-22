@@ -5561,7 +5561,6 @@ dependabilities
 dustfall
 disally
 depended
-dolichopellic
 dependence
 desensitizes
 dependency
@@ -10332,6 +10331,7 @@ dowsing
 dozened
 derelictly
 digress
+dolichopellic
 dioramic
 diecious
 durions
