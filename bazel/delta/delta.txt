@@ -5546,7 +5546,6 @@ departmentalised
 demihague
 diversities
 diffusiometer
-deadlatch
 dimmock
 departmentalism
 dorper
@@ -5890,6 +5889,7 @@ deponents
 deconcentrating
 decuries
 despots
+deadlatch
 deckhouses
 dinglebird
 drago
