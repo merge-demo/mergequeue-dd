@@ -11836,7 +11836,6 @@ catechisms
 chopdar
 cyprinoidea
 connation
-curialities
 crampits
 cornutos
 chopines
@@ -18601,6 +18600,7 @@ cutely
 collat
 conjunct
 cohibit
+curialities
 cohibition
 cestrum
 cohibitor
