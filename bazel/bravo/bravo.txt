@@ -7858,6 +7858,7 @@ bibbons
 barbitals
 browser
 boatloading
+biffin
 btu
 bunkery
 boscages
@@ -7948,7 +7949,6 @@ bohemianism
 biceps
 bedlight
 berhyming
-biffin
 beamingly
 bunemost
 bake
