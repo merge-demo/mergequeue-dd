@@ -8917,7 +8917,6 @@ favorableness
 foundrous
 farhands
 flotative
-foragers
 fount
 freshener
 flu
@@ -11160,6 +11159,7 @@ funereally
 fluvio
 fiddly
 force
+foragers
 figged
 frowy
 fungation
