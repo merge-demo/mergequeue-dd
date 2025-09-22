@@ -21471,6 +21471,7 @@ concitation
 cominform
 concite
 conclamation
+cavatina
 conger
 coccous
 courtships
@@ -30175,7 +30176,6 @@ cerotype
 cornuses
 conspirational
 cliffs
-cavatina
 cornhouse
 chondroglossus
 crucifixions
