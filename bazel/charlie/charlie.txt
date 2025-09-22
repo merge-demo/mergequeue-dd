@@ -803,6 +803,7 @@ corticole
 cailliach
 caimacam
 capitalizes
+chronometric
 choreograph
 cy
 clasts
@@ -10929,7 +10930,6 @@ cornu
 chirognomy
 crain
 cerebrates
-chronometric
 contd
 cimmaron
 chirograph
