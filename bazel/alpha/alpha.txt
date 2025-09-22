@@ -8327,7 +8327,6 @@ antiquer
 archology
 abiegh
 avenage
-alkalinizes
 arite
 acrolith
 araignee
@@ -15070,6 +15069,7 @@ antifelony
 antarctalian
 antifeminist
 antiferromagnetism
+alkalinizes
 antifertility
 accreditation
 archseducer
