@@ -12698,7 +12698,6 @@ angletouch
 anthraxylon
 angletwitch
 amadavats
-amphichrom
 achronism
 allays
 anglewise
@@ -21404,6 +21403,7 @@ android
 almeries
 acanthine
 anticritique
+amphichrom
 assuaged
 actinula
 attidae
