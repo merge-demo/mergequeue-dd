@@ -3259,7 +3259,6 @@ debbies
 diastem
 desisted
 decalin
-digs
 destiny
 domesticable
 dynamometry
@@ -12174,6 +12173,7 @@ dha
 detoxifying
 distorting
 discursion
+digs
 disfeaturement
 dialogised
 decertifying
