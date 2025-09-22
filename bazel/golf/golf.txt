@@ -5676,7 +5676,6 @@ glossemic
 glaciometer
 gorilline
 gesundheit
-gomavel
 glossies
 glossiest
 gybed
@@ -6106,6 +6105,7 @@ glaserian
 glycogenic
 gnotobiosis
 gnotobiotically
+gomavel
 galactorrhoea
 gnow
 guttulous

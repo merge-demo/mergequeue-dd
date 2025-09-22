@@ -10703,7 +10703,6 @@ ends
 entrada
 eugregarinida
 epithecicia
-entodermic
 eugubine
 entoderm
 epiphanised
@@ -13448,6 +13447,7 @@ extrusile
 exorate
 expropriator
 eringo
+entodermic
 epenthetic
 electrolyse
 equilibrize

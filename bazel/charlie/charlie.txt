@@ -19370,7 +19370,6 @@ cowpony
 colony
 colonial
 colonialised
-crabbier
 countering
 coresidence
 chelem
@@ -21754,6 +21753,7 @@ condiment
 condimentary
 cinerarias
 cheiromegaly
+crabbier
 coliseums
 condistillation
 complimentative
