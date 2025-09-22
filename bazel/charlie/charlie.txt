@@ -7075,7 +7075,6 @@ corbicula
 centerer
 cenobites
 compania
-cantilevers
 chelators
 colonus
 cranny
@@ -27779,6 +27778,7 @@ calceiform
 coxankylometer
 coxbones
 coxcomb
+cantilevers
 coxcombess
 catacaustic
 crookneck

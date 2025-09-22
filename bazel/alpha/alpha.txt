@@ -1764,7 +1764,6 @@ antieducationist
 amma
 astelic
 acephalina
-armpad
 acensuador
 auroauric
 aluminum
@@ -11706,6 +11705,7 @@ avulse
 antiaristocratic
 alypin
 analyzing
+armpad
 appetibility
 analkalinity
 anallantoidean
