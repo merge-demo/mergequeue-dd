@@ -4650,7 +4650,6 @@ disenthrall
 dysporomorph
 dejecting
 derere
-dactylosymphysis
 dellies
 disroof
 debentured
@@ -15230,6 +15229,7 @@ dulcity
 dugongs
 doilies
 degummed
+dactylosymphysis
 diaphragmed
 disallows
 dullpate
