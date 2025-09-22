@@ -2152,6 +2152,7 @@ campions
 calcaneus
 cample
 campimetry
+comfortress
 cordyline
 conchol
 cornamute
@@ -19979,7 +19980,6 @@ climatology
 comfortlessly
 comfortlessness
 cytologists
-comfortress
 comfortroot
 cuminyl
 cusso
