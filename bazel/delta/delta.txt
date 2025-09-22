@@ -8549,6 +8549,7 @@ demiplate
 diaphanometric
 dystomous
 dampishness
+dilactone
 debateful
 daimonion
 dewfall
@@ -9709,7 +9710,6 @@ diageotropy
 dilactic
 diastematomyelia
 dismeasured
-dilactone
 diuretically
 degentilize
 dispensive
