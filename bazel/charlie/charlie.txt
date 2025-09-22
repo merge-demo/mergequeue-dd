@@ -332,7 +332,6 @@ chinook
 cacodemonize
 cacodyl
 cedrium
-catnapers
 countermanding
 craney
 cornified
@@ -6812,6 +6811,7 @@ casabe
 chirologies
 centennium
 capshore
+catnapers
 cellfalcicula
 concaveness
 cellist
