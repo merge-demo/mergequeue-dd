@@ -4824,7 +4824,6 @@ carretera
 carreton
 cetaceous
 carry
-carriage
 clachans
 correctiveness
 copals
@@ -8115,6 +8114,7 @@ costlessly
 carnifying
 circumterrestrial
 chafing
+carriage
 chafted
 chimneylike
 cudgeller
