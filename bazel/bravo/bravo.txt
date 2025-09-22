@@ -12573,6 +12573,7 @@ benzyl
 besom
 bonnwis
 bonorum
+bouche
 baser
 bisector
 bagatelle
@@ -13280,7 +13281,6 @@ biblus
 bostonian
 banderillas
 burglar
-bouche
 bylawman
 bromide
 bullydom
