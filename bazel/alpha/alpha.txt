@@ -4861,7 +4861,6 @@ auriculate
 admissibleness
 aeropathy
 arriero
-agenize
 aerope
 aeroperitoneum
 anticipatorily
@@ -16138,6 +16137,7 @@ anaplasm
 angiomatous
 asservilize
 attestable
+agenize
 amasser
 anemometrograph
 afterschool
