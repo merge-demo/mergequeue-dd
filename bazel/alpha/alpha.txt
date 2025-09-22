@@ -10159,6 +10159,7 @@ alloying
 analcitite
 absorbition
 ameiva
+acle
 adj
 anhydrization
 asyllabia
@@ -19855,7 +19856,6 @@ aplopappus
 alunites
 apophyge
 artistically
-acle
 armouchiquois
 ammine
 armour
