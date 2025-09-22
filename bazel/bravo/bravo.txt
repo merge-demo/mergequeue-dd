@@ -5596,6 +5596,7 @@ brasiers
 bong
 botrycymose
 bocher
+boldoine
 buffa
 busks
 benjoin
@@ -5790,7 +5791,6 @@ blares
 botanizer
 boor
 beadier
-boldoine
 boozily
 bellyland
 bilateral
