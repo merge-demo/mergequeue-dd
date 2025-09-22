@@ -363,7 +363,6 @@ digitoplantar
 disbound
 daydreams
 dillydallied
-downslip
 describably
 daybreaks
 dreamt
@@ -4269,6 +4268,7 @@ doricism
 danseuses
 deltohedron
 dawen
+downslip
 dogvanes
 delubra
 deluce
