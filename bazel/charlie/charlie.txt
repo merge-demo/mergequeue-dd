@@ -16517,7 +16517,6 @@ clockmaker
 cryophorus
 crewer
 clocksmith
-carpospore
 clockwatcher
 clockwise
 clockworked
@@ -30472,6 +30471,7 @@ cuartel
 colicystopyelitis
 cuarteron
 channer
+carpospore
 collomia
 calcanea
 carfuffled
