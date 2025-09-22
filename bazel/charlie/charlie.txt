@@ -8556,6 +8556,7 @@ cardiacea
 chanceless
 columbid
 cestoda
+chirality
 copybook
 chancellors
 chancellorship
@@ -12008,7 +12009,6 @@ choripetalae
 chalahs
 choripetalous
 chasmy
-chirality
 cognizee
 chorisis
 callo
