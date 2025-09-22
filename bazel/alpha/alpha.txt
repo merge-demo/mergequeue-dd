@@ -1779,7 +1779,6 @@ adduct
 acephalus
 azotaemia
 atridean
-accorporate
 acequia
 acer
 acquisition
@@ -9179,6 +9178,7 @@ alogotrophy
 achromat
 aracanga
 arkose
+accorporate
 anthropic
 alderwoman
 aloid
