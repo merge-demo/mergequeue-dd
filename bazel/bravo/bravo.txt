@@ -3121,7 +3121,6 @@ bullring
 bloodcurdler
 bivalvular
 baseborn
-besprinkle
 birdlime
 basecourt
 betokener
@@ -8187,6 +8186,7 @@ bifara
 bootleger
 bedress
 befiddle
+besprinkle
 blewits
 bigwiggery
 bifilar
