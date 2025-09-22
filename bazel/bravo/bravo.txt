@@ -1269,7 +1269,6 @@ binit
 blindedly
 barrowful
 bendy
-barleys
 bottomer
 bruke
 bucketsful
@@ -2779,6 +2778,7 @@ behaviourally
 baronries
 briggs
 baroque
+barleys
 baconer
 buonamani
 bowsprits
