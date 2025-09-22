@@ -4312,6 +4312,7 @@ adv
 argue
 advaita
 advance
+abaissed
 advancedness
 apteryla
 antihemolytic
@@ -7562,7 +7563,6 @@ adaw
 antiromance
 alcoholmeter
 acroter
-abaissed
 alcoholometer
 apterygial
 alcoholometric
