@@ -19534,6 +19534,7 @@ chimaerid
 crosscurrents
 colorin
 coloring
+crannage
 clangful
 colorings
 count
@@ -28179,7 +28180,6 @@ crankshafts
 carapidae
 coadjutator
 corpulent
-crannage
 caesar
 crannel
 crannequin
