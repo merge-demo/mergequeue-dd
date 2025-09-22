@@ -2130,7 +2130,6 @@ globosity
 gaudete
 graced
 glycoluric
-gazellelike
 gazelline
 gaviae
 goodyism
@@ -5233,6 +5232,7 @@ gammer
 gluiest
 genial
 grenade
+gazellelike
 goatish
 gullet
 gelsemiums

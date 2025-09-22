@@ -1007,7 +1007,6 @@ conveyances
 craters
 cadges
 caggy
-capsulated
 courter
 cher
 compression
@@ -17740,6 +17739,7 @@ camelina
 cataleptic
 christmasberry
 curviform
+capsulated
 cyatheaceous
 colliding
 camouflaged
