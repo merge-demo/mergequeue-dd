@@ -2205,6 +2205,7 @@ dawns
 decarbonisation
 dulcianas
 decarbonise
+disownment
 dobsonfly
 ditching
 destine
@@ -2391,7 +2392,6 @@ dewclaw
 decidence
 dwyka
 deciders
-disownment
 disguisements
 dismantlement
 dayakker
