@@ -12799,7 +12799,6 @@ boolya
 braiding
 barrelhouse
 basigamy
-boomable
 boo
 beggarman
 blastodisc
@@ -15471,6 +15470,7 @@ bluehead
 bouget
 briskest
 briskets
+boomable
 boarders
 biedermeier
 bromlite
