@@ -5966,7 +5966,6 @@ destalinize
 discussible
 decalage
 dayfly
-deprogrammed
 drillstock
 dissimulator
 devonic
@@ -9297,6 +9296,7 @@ disploding
 dictatress
 dialogues
 dieters
+deprogrammed
 discriminal
 dysodontiasis
 decreation
