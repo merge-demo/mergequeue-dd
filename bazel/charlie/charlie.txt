@@ -7928,7 +7928,6 @@ cocytus
 chitinization
 cariform
 cetyl
-cebids
 chaetangium
 congregationally
 curdwort
@@ -9188,6 +9187,7 @@ chases
 chashitsu
 czaristic
 castigation
+cebids
 cotonia
 chasma
 chasmed
