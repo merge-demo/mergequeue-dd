@@ -10561,7 +10561,6 @@ blatting
 beplumed
 biblioclasm
 brinny
-boresomely
 brodie
 boundingly
 brethren
@@ -15058,6 +15057,7 @@ beaconwise
 bushhammer
 breviradiate
 blithely
+boresomely
 bawty
 battalia
 brevity
