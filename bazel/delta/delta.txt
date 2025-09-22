@@ -1064,7 +1064,6 @@ darndest
 diaulos
 dropwise
 daggled
-defaillance
 destandardize
 diacodium
 dutra
@@ -2427,6 +2426,7 @@ decimalizes
 deceived
 disaffiliation
 devisceration
+defaillance
 dracontites
 dysphagia
 decimates
