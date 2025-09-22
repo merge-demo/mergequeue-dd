@@ -18620,7 +18620,6 @@ chansonnette
 chilinidae
 callouses
 chibinite
-chronosemic
 clysis
 cohosted
 cohosts
@@ -21925,6 +21924,7 @@ confabulations
 claithes
 confabulator
 cassian
+chronosemic
 cytopharynges
 calypter
 caravanist
