@@ -8905,7 +8905,6 @@ embitter
 emeroids
 ergomaniac
 eragrostis
-electrophori
 eyers
 ergostat
 experimentally
@@ -14012,6 +14011,7 @@ eshin
 enripen
 embittered
 emulsin
+electrophori
 emmet
 extraspectral
 exordize
