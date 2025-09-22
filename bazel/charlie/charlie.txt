@@ -10092,7 +10092,6 @@ coleochaete
 chimney
 chesoun
 clypeus
-collab
 chessdom
 chesser
 chipyard
@@ -12573,6 +12572,7 @@ chronics
 craddy
 chronique
 contingency
+collab
 chronocarator
 cuckoldy
 chronocyclegraph
