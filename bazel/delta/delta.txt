@@ -6683,6 +6683,7 @@ diorite
 despisedness
 droiturel
 demoralizing
+daphnes
 dilatations
 dactylis
 dioptres
@@ -14052,7 +14053,6 @@ dehematize
 docksides
 dispensable
 deluging
-daphnes
 deprivation
 diabantite
 distributionist
