@@ -6589,6 +6589,7 @@ bodyhood
 bering
 butyrometric
 broughtas
+beneficiaire
 busto
 babbles
 bilestone
@@ -14299,7 +14300,6 @@ bouquiniste
 brushes
 bragly
 brevi
-beneficiaire
 broachers
 barefit
 benthos
