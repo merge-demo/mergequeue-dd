@@ -4743,7 +4743,6 @@ believableness
 baboons
 badmouth
 branchia
-bribe
 brazenface
 bikh
 broletto
@@ -6803,6 +6802,7 @@ bisannual
 bluegills
 birlers
 bentinck
+bribe
 bookward
 bendel
 beastie
