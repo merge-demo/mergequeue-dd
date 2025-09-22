@@ -14265,7 +14265,6 @@ aphorismos
 anthracothere
 anthracotherium
 acoustic
-anthracotic
 anthradiol
 anthraflavic
 autoecism
@@ -20067,6 +20066,7 @@ adverts
 antiozonant
 arraigned
 arraigning
+anthracotic
 attractions
 alpines
 aurophobia
