@@ -2728,7 +2728,6 @@ cannaceous
 celebrating
 chaquetas
 clarigation
-cinerama
 calipash
 cannach
 comedietta
@@ -8500,6 +8499,7 @@ champe
 cayuvava
 cynegetic
 cryptoanalytics
+cinerama
 cardinalate
 checke
 chalaze
