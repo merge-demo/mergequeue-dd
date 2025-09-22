@@ -3363,6 +3363,7 @@ chryslers
 chemotropism
 coenact
 cappings
+coxalgic
 coagencies
 capple
 chandu
@@ -15682,7 +15683,6 @@ claustrophilia
 coulters
 circumambulatory
 cann
-coxalgic
 chastely
 candidature
 clausula
