@@ -7569,7 +7569,6 @@ backened
 brandi
 beeper
 biking
-bankrolled
 borborygmic
 bullary
 boutre
@@ -16298,6 +16297,7 @@ bicuculline
 begrim
 biscayen
 blennymenitis
+bankrolled
 brunelliaceous
 brachytic
 battology
