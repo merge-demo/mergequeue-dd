@@ -1582,6 +1582,7 @@ glabellar
 gunreach
 grampus
 gonyoncus
+gallach
 goosegrass
 gunnar
 ghazism
@@ -7337,7 +7338,6 @@ gestor
 glomerule
 gilthead
 glyptograph
-gallach
 gynostemia
 goter
 gastromalacia
