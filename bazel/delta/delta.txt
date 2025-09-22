@@ -13879,6 +13879,7 @@ diagnoses
 deaf
 deckles
 dephased
+decerebration
 dod
 distil
 derisive
