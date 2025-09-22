@@ -11688,6 +11688,7 @@ choloscopy
 cholterheaded
 compeers
 chirrups
+cowling
 creekstuff
 cholum
 clavicor
@@ -24639,7 +24640,6 @@ copyreader
 curiosos
 copyrightable
 copis
-cowling
 chicnesses
 coattended
 caedmonic
