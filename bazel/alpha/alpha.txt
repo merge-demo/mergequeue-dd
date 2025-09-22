@@ -3980,6 +3980,7 @@ admonishingly
 affinal
 avgas
 anvil
+archimime
 anoopsias
 agrief
 antilyssic
@@ -9167,7 +9168,6 @@ achromatolysis
 ashot
 alogically
 achter
-archimime
 alogotrophy
 achromat
 aracanga
