@@ -22370,6 +22370,7 @@ conventionalise
 congolese
 carbazylic
 cynical
+confabbed
 coincline
 circumpolygon
 congoleum
@@ -22655,7 +22656,6 @@ chastiment
 connectable
 connectedly
 connecter
-confabbed
 chiaroscurist
 chamferer
 connecticut
