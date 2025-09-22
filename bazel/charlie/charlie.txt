@@ -4991,6 +4991,7 @@ caruncular
 cohue
 carunculated
 cullen
+corral
 cleverly
 cruche
 catchfly
@@ -27431,7 +27432,6 @@ cleuk
 couscousou
 cousinage
 chinchillette
-corral
 coffeehoused
 clake
 chivalrousness
