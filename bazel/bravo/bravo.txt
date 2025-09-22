@@ -1646,7 +1646,6 @@ balalaikas
 bickering
 bibitory
 brattier
-bullshitted
 ballot
 ballota
 burnies
@@ -5510,6 +5509,7 @@ bierstubes
 blowziest
 biopsies
 backslapping
+bullshitted
 blockline
 blindness
 breastfeeding
