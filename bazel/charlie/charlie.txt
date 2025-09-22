@@ -10921,7 +10921,6 @@ cryptographers
 cautel
 cornu
 chirognomy
-chirognomic
 crain
 cerebrates
 chronometric
@@ -16984,6 +16983,7 @@ clunter
 cystopus
 coutille
 clupanodonic
+chirognomic
 clupeid
 cahot
 clupeids
