@@ -6675,7 +6675,6 @@ enright
 enterotoxemia
 enterotoxication
 evenmindedness
-enlight
 equestrianize
 ecartes
 eclipser
@@ -12652,6 +12651,7 @@ exognathite
 expunges
 exogenetic
 enuretic
+enlight
 enkolpion
 exometritis
 elychnious

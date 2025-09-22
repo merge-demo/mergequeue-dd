@@ -4285,6 +4285,7 @@ firk
 febrifuges
 filacer
 facsimilist
+forjudge
 fleers
 fibroma
 fiancee
@@ -9337,7 +9338,6 @@ fewmets
 fromward
 ferromagnesian
 frangulic
-forjudge
 flichter
 fishless
 facelessness
