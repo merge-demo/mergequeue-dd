@@ -2905,6 +2905,7 @@ botanical
 bethumped
 beaconed
 bebuttoned
+barbers
 beglew
 bedwards
 beartongue
@@ -17432,7 +17433,6 @@ bonnie
 boring
 bantling
 bacitracin
-barbers
 bianco
 bracingly
 bopyrus
