@@ -17404,7 +17404,6 @@ apparentements
 animize
 airify
 anoxyscope
-appassionata
 adverbiality
 appd
 ariette
@@ -24612,6 +24611,7 @@ avenses
 areopagy
 aventails
 axiom
+appassionata
 absumption
 aerialness
 archimage
