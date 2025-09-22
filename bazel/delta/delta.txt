@@ -10266,7 +10266,6 @@ downfold
 disclout
 duodenal
 disagreeance
-demonograph
 dioicousness
 dipleura
 diolefins
@@ -16791,6 +16790,7 @@ distributedly
 drypoint
 disadvised
 dicey
+demonograph
 disclaimer
 dystocial
 disauthorize
