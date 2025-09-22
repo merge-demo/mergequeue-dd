@@ -5954,6 +5954,7 @@ astrionics
 asquare
 aglypha
 analogal
+appel
 articular
 algodonite
 aback
@@ -9903,7 +9904,6 @@ absurdest
 abounded
 automobility
 acrogamy
-appel
 almira
 americomania
 anticipator
