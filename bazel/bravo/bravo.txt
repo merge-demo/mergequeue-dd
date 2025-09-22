@@ -10719,7 +10719,6 @@ bharata
 budorcas
 barcone
 bangiaceous
-beggarism
 brinks
 blennophobia
 blennoptysis
@@ -12236,6 +12235,7 @@ birdbrained
 brake
 briefless
 byssiferous
+beggarism
 bolt
 boasters
 bregma
