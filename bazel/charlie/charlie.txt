@@ -8419,7 +8419,6 @@ chambrays
 chambranle
 compulsions
 caressive
-confected
 cresswort
 catchers
 chamecephaly
@@ -9032,6 +9031,7 @@ charlady
 charladies
 celestiality
 cookings
+confected
 charlatanic
 charlatanistic
 cgs
