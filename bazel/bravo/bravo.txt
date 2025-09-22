@@ -8012,7 +8012,6 @@ butties
 betrayal
 bicolors
 buddleias
-bicoloured
 biconcave
 bidder
 becousined
@@ -15410,6 +15409,7 @@ byssinosis
 beadledom
 bringers
 bodega
+bicoloured
 bringeth
 brushiness
 bandicoot
