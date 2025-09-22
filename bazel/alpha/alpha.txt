@@ -17617,7 +17617,6 @@ applewoman
 adopts
 apply
 adjacencies
-appliance
 apocentre
 appliances
 antiballistic
@@ -21648,6 +21647,7 @@ ascogenous
 annunciator
 asserts
 authorcraft
+appliance
 aphroditic
 assertum
 amynodont
