@@ -7159,7 +7159,6 @@ bimanual
 bedlamise
 bandaka
 brankiest
-boltcutter
 bestsellerdom
 bestuck
 borh
@@ -14717,6 +14716,7 @@ brawnedness
 brailles
 brawnily
 bloodsuckers
+boltcutter
 brune
 bismarckianism
 babel
