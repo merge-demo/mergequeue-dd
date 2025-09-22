@@ -11048,7 +11048,6 @@ chistka
 centrode
 chit
 cordoba
-controversial
 chuckled
 chitarra
 cothish
@@ -23457,6 +23456,7 @@ chemasthenia
 containerport
 copasetic
 calami
+controversial
 cecidologist
 containership
 centenarianism
