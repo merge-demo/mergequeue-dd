@@ -163,7 +163,6 @@ dimercurion
 deprivations
 dissatisfying
 droughty
-dado
 dimwittedly
 doltishly
 dadoes
@@ -15291,6 +15290,7 @@ dinosauric
 delsartian
 dolerophanite
 disproperty
+dado
 drainspout
 declinal
 dolichocephalize
