@@ -3791,6 +3791,7 @@ fiberware
 forebridge
 filmland
 filmmake
+flammeous
 filmogen
 festooning
 fixated
@@ -6882,7 +6883,6 @@ forebackwardly
 farmout
 farris
 febriferous
-flammeous
 fitly
 folklike
 feasible
