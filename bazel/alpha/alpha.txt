@@ -1770,7 +1770,6 @@ anastalsis
 antacrid
 afterage
 anthropomorphous
-adjutancies
 acephalist
 adumbratively
 assembles
@@ -14231,6 +14230,7 @@ apometabolism
 attractancy
 anthophora
 ancyloceras
+adjutancies
 awful
 acolyte
 anthotaxy
