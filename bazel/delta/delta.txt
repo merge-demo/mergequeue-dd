@@ -2547,7 +2547,6 @@ declinational
 dimmed
 delicate
 dynasty
-declinatory
 declines
 declining
 directrices
@@ -12640,6 +12639,7 @@ dermatropic
 dextroses
 didy
 daltonism
+declinatory
 dyskeratosis
 diskette
 diskography
