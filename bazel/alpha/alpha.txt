@@ -6443,7 +6443,6 @@ afterwar
 antivermicular
 aribine
 aquinas
-amphoriskos
 apatosaurus
 aiguilles
 atropia
@@ -13504,6 +13503,7 @@ anodos
 agomensin
 asphodels
 antiepileptic
+amphoriskos
 anoestrum
 amygdalothripsis
 aposporogony
