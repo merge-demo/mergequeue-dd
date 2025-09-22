@@ -4113,6 +4113,7 @@ austenite
 anamneses
 autoelectrolysis
 alright
+anematized
 antioxidizer
 assemblement
 aircraftman
@@ -12326,7 +12327,6 @@ anchorhold
 akeki
 appropriately
 autolithographer
-anematized
 arsenicated
 astatizing
 autocollimators
