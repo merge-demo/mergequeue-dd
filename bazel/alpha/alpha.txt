@@ -12117,7 +12117,6 @@ atticized
 anconeus
 ancony
 acanthodii
-anconoid
 anserin
 alumina
 argufiers
@@ -17421,6 +17420,7 @@ appearer
 appearers
 adamas
 acetylcholine
+anconoid
 appearing
 appears
 arsonic
