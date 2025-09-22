@@ -5541,7 +5541,6 @@ antespring
 arctically
 angulatosinuous
 adiposes
-adoptative
 adulter
 amphiploid
 awning
@@ -24389,6 +24388,7 @@ autosuppression
 antiserum
 autonavigators
 autoanticomplement
+adoptative
 autotetraploid
 autonegation
 artophoria
