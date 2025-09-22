@@ -552,7 +552,6 @@ blit
 backwardness
 bootboy
 blastema
-befriendment
 biggishness
 batrachium
 bandboxical
@@ -17053,6 +17052,7 @@ briared
 backheel
 bullies
 boddle
+befriendment
 broll
 bezaleel
 bombards
