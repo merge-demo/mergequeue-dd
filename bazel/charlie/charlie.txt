@@ -6707,7 +6707,6 @@ capicha
 cloamer
 caboclos
 cantrips
-chihuahuas
 celebrant
 celebrants
 celebrate
@@ -22126,6 +22125,7 @@ cokey
 conflate
 clarinos
 cumaceous
+chihuahuas
 confidant
 colyone
 conred
