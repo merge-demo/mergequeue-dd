@@ -10085,7 +10085,6 @@ articulators
 acetylacetonates
 astrachan
 antiscripturism
-artiad
 archive
 autophagous
 arrant
@@ -10393,6 +10392,7 @@ antoecian
 alloted
 affectum
 assurge
+artiad
 antireform
 argemony
 amidoacetic
