@@ -18993,6 +18993,7 @@ collaborator
 collaborators
 closehauled
 cosigner
+cooperating
 calligrapher
 colladas
 crematoria
@@ -29157,7 +29158,6 @@ characid
 crippleness
 cripples
 creaser
-cooperating
 capillarity
 coxarthropathy
 caracolite
