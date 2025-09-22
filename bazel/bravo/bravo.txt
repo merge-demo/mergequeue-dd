@@ -2292,7 +2292,6 @@ brushier
 botryomyces
 budgerygah
 betterness
-bebite
 backyards
 barbero
 bubaline
@@ -6583,6 +6582,7 @@ borocaine
 beryl
 beryllonate
 berimed
+bebite
 beseemly
 bodyhood
 bering
