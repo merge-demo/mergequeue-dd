@@ -2818,7 +2818,6 @@ baroquely
 bedabble
 bitis
 bipartisan
-bareheaded
 broomrape
 bulkiest
 baudery
@@ -14310,6 +14309,7 @@ brahmana
 balloonful
 bookboard
 bikini
+bareheaded
 buffoonesque
 bilskirnir
 budapest
