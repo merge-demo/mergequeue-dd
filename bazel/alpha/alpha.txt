@@ -6758,7 +6758,6 @@ archbishopric
 actionability
 adibasi
 ablepharia
-anthranil
 argyranthemous
 antivitalistic
 antierosive
@@ -25347,6 +25346,7 @@ answerable
 archipterygium
 aggressing
 antheming
+anthranil
 azotemias
 azotemic
 amphitheatered
