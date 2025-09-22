@@ -16420,7 +16420,6 @@ anack
 apabhramsa
 agrania
 acutorsion
-apache
 apachite
 animately
 anapeiratic
@@ -23368,6 +23367,7 @@ augmentedly
 anacrustic
 augmenters
 ayes
+apache
 augmentor
 augrim
 arguendo
