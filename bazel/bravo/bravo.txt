@@ -8182,6 +8182,7 @@ bootleger
 bedress
 befiddle
 besprinkle
+browpiece
 blewits
 bigwiggery
 bifilar
@@ -10910,7 +10911,6 @@ barleybrake
 biloquist
 barratry
 biclinia
-browpiece
 bottom
 blizzards
 bridleless
