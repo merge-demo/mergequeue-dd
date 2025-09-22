@@ -8031,6 +8031,7 @@ bayberry
 butcherous
 ballets
 brachygnathism
+blindfoldly
 brawned
 browband
 bedizen
@@ -11933,7 +11934,6 @@ bolivianos
 begirdling
 boggard
 biffs
-blindfoldly
 bogged
 boggier
 ballat
