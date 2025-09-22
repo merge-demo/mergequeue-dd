@@ -3743,6 +3743,7 @@ bobflies
 burratine
 blastomeric
 batwing
+bucchero
 baysmelt
 betatrons
 busing
@@ -5953,7 +5954,6 @@ biciliated
 berobed
 bucerotidae
 becovet
-bucchero
 bemoan
 buncal
 bookie
