@@ -9209,7 +9209,6 @@ beatless
 bacterioidal
 bedouinism
 bothersomeness
-biacuminate
 bracteiform
 bottonhook
 boonk
@@ -14124,6 +14123,7 @@ begoggled
 broccolis
 barbra
 brunetness
+biacuminate
 bullwhip
 belemnitidae
 brachium
