@@ -11881,6 +11881,7 @@ cranker
 covolume
 cathexes
 choral
+clerihews
 choralcelo
 carauna
 chorale
@@ -15985,7 +15986,6 @@ clerid
 ceder
 comfrey
 cholanic
-clerihews
 clerisies
 clawer
 cosine
