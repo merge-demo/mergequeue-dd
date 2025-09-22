@@ -4619,7 +4619,6 @@ boxiness
 bemisting
 bedighted
 breakthroughes
-bromhydric
 bedighting
 budgerigars
 bedimming
@@ -6848,6 +6847,7 @@ breediness
 betail
 beraking
 betta
+bromhydric
 bahai
 bismuths
 bagheli
