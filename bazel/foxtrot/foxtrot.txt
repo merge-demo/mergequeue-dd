@@ -9428,7 +9428,6 @@ foreteeth
 frary
 flouriness
 frolicly
-forlore
 frescoer
 fulsomeness
 fenman
@@ -9520,6 +9519,7 @@ frontways
 footling
 finiteness
 fringier
+forlore
 finiglacial
 fiador
 felicify
