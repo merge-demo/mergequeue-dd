@@ -11625,6 +11625,7 @@ anagrammatizing
 ates
 allochiria
 anabasis
+aurist
 adventist
 ageless
 anahau
@@ -23581,7 +23582,6 @@ antiboss
 auriscalp
 auriscope
 auriscopic
-aurist
 aurited
 ankee
 archimorphic

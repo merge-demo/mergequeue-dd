@@ -4009,7 +4009,6 @@ chanceries
 camomiles
 cardiagram
 cardiagraph
-cardiagraphy
 chiasma
 coevals
 comptonia
@@ -4041,6 +4040,7 @@ copromoter
 consociate
 criminalistician
 collops
+cardiagraphy
 calibrate
 cardiectasis
 conformance
