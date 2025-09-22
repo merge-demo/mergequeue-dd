@@ -1871,7 +1871,6 @@ catostomidae
 chaumer
 cajava
 campanology
-cambuca
 cambuscan
 camel
 comforted
@@ -8198,6 +8197,7 @@ chairway
 cyanephidrosis
 conjunctivae
 chairwarmer
+cambuca
 chairwomen
 chaises
 comfortabilities
