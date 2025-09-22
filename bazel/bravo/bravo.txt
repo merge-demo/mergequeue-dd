@@ -1073,6 +1073,7 @@ buzzards
 befreeze
 bailors
 birdlimed
+berberidaceous
 brittled
 boyer
 bestraddle
@@ -6509,7 +6510,6 @@ brutality
 befoulers
 bahima
 broils
-berberidaceous
 berberis
 berberry
 bitbrace
