@@ -6430,7 +6430,6 @@ frogeye
 fluoaluminate
 fainted
 frictionable
-flatcap
 fairs
 fibrinolysis
 fungi
@@ -6944,6 +6943,7 @@ feeblemindedness
 fumigants
 fungivorous
 fadeless
+flatcap
 fendy
 foisting
 feloniously

@@ -1632,7 +1632,6 @@ brachycephalous
 ballone
 birdcatching
 boiguacu
-brassards
 bewrays
 bacaba
 buddah
@@ -12977,6 +12976,7 @@ befountained
 barmaid
 biolith
 brideless
+brassards
 bituberculate
 bloomers
 bedirties
