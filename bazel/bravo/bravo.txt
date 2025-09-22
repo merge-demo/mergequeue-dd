@@ -9927,7 +9927,6 @@ bucking
 biologists
 bosonic
 bultong
-bryum
 balustraded
 buddled
 baresma
@@ -13784,6 +13783,7 @@ butterflyfishes
 bloodthirstily
 byelaws
 bromalbumin
+bryum
 bowdlerisation
 bezantee
 bejel
