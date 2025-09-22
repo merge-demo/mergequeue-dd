@@ -9737,7 +9737,6 @@ brigandish
 barbarious
 beanball
 bisubstitution
-babblingly
 bubblebow
 blandest
 bromatology
@@ -13008,6 +13007,7 @@ bugger
 bedamn
 bismuthate
 boran
+babblingly
 boranes
 bradyteleocinesia
 bursar
