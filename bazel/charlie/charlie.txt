@@ -847,7 +847,6 @@ conuropsis
 cays
 caisse
 caissons
-colligance
 charque
 caitiffs
 chamaesiphonaceae
@@ -21203,6 +21202,7 @@ colugos
 concealer
 consolatoriness
 conceals
+colligance
 coleopteran
 concededly
 couplets
