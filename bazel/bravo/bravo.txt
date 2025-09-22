@@ -2877,7 +2877,6 @@ bestride
 badinage
 barratries
 becrawls
-barratrously
 barrelage
 barreleyes
 bookend
@@ -8828,6 +8827,7 @@ biophysiologist
 bioassaying
 byplace
 blennorrheal
+barratrously
 bioastronautics
 belch
 brooming
