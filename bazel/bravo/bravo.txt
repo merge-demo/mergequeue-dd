@@ -1341,6 +1341,7 @@ brothellike
 barbed
 balases
 balat
+bedflower
 bibliophilist
 benzaldiphenyl
 balatte
@@ -5695,7 +5696,6 @@ bungler
 biliation
 buckjump
 buddhistic
-bedflower
 beetlehead
 balaghat
 biophysics
