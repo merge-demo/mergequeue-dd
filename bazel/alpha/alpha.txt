@@ -9233,6 +9233,7 @@ acclimatizable
 amphibiontic
 acerose
 alphabetic
+antilytic
 alphabetical
 akontae
 alphabetically
@@ -11489,7 +11490,6 @@ anacephalize
 amanitin
 agee
 aiery
-antilytic
 asininely
 anachromasis
 andorra

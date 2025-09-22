@@ -8083,7 +8083,6 @@ dispersion
 dumbhead
 despotically
 dimension
-distinctional
 disgavel
 dragaded
 dactylist
@@ -10782,6 +10781,7 @@ divinization
 dipterygian
 discontiguous
 dipterocarp
+distinctional
 dipterocarpaceae
 dartingly
 deportee
