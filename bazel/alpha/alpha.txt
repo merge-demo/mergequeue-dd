@@ -6434,7 +6434,6 @@ afterbeat
 aymaran
 astatizer
 askewness
-apterous
 afterwar
 antivermicular
 aribine
@@ -11787,6 +11786,7 @@ asteatosis
 anantherous
 ananthous
 anapaestically
+apterous
 abashments
 ataraxic
 aquaplaned
