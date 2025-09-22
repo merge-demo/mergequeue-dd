@@ -9864,7 +9864,6 @@ anciency
 ambergris
 ahchoo
 amberite
-amicron
 artiller
 arrival
 amenorrheic
@@ -16557,6 +16556,7 @@ antihumanism
 alopekai
 apnoeal
 agast
+amicron
 axoneure
 arpeggioed
 alioth
