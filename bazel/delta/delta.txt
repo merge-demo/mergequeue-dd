@@ -13415,7 +13415,6 @@ drumskin
 disregardfulness
 disregarding
 dingbat
-deforests
 dramatise
 disreport
 daring
@@ -13515,6 +13514,7 @@ dicta
 dortiship
 donorship
 disaccharose
+deforests
 dungeoner
 datasets
 disperse
