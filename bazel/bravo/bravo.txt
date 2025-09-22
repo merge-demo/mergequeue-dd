@@ -7346,7 +7346,6 @@ baudekins
 blackfish
 betread
 burglarproofed
-betrend
 braveries
 betrothing
 betrousered
@@ -9030,6 +9029,7 @@ bandagist
 buzzwords
 biorhythm
 batwomen
+betrend
 brainwashers
 butyrins
 biorhythmicity
