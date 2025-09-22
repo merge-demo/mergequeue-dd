@@ -7518,7 +7518,6 @@ apportionate
 alcyonacean
 apsidal
 alcyone
-alcyoniaceae
 alcyonic
 absorbencies
 alcyonium
@@ -24430,6 +24429,7 @@ amphoras
 argalis
 azines
 artier
+alcyoniaceae
 appeased
 algomian
 alkalinization
