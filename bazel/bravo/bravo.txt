@@ -4379,7 +4379,6 @@ brandering
 bkcy
 blubberer
 bedrivels
-brobdingnagian
 bookrests
 branchiogenous
 begloom
@@ -15299,6 +15298,7 @@ brighten
 brightsmith
 bressummer
 bescorched
+brobdingnagian
 banged
 berylate
 bandannaed
