@@ -8203,7 +8203,6 @@ discarnation
 diachronically
 dicranum
 diacid
-dimeters
 douziemes
 driven
 detachment
@@ -18454,6 +18453,7 @@ dogsbody
 duplicators
 duncehood
 devocalizing
+dimeters
 daidle
 ducatus
 dephysicalization
