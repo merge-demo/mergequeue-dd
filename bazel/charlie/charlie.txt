@@ -10955,6 +10955,7 @@ chiromantis
 chalcioecus
 caecum
 chironomid
+crottle
 chastised
 chaparajos
 coextensiveness
@@ -30000,7 +30001,6 @@ condue
 crotons
 crottal
 complaintive
-crottle
 crouched
 corbelling
 crouches
