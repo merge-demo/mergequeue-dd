@@ -7827,6 +7827,7 @@ bibliologies
 bismuthite
 buoyancies
 bepommel
+buckwagon
 bewhiten
 brachiation
 baldcrown
@@ -15929,7 +15930,6 @@ biflagelate
 bribeless
 banditti
 beholdingness
-buckwagon
 bishoprics
 bescribbled
 barrowist
