@@ -5336,6 +5336,7 @@ afterbreast
 alpian
 anele
 afterburning
+aspidate
 auripigment
 abigail
 aftercast
@@ -13451,7 +13452,6 @@ annullate
 annuller
 anguinidae
 annulment
-aspidate
 africander
 annuloid
 accustomed
