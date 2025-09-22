@@ -2326,6 +2326,7 @@ acinic
 aciniform
 anatomicophysiological
 aggrate
+assecure
 aedes
 acipenseroidei
 academies
@@ -21557,7 +21558,6 @@ askar
 amidoacetophenone
 assecuration
 anagua
-assecure
 assecution
 amend
 acaudal
