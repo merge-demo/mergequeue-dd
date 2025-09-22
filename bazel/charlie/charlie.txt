@@ -18187,7 +18187,6 @@ clever
 craneman
 coenomonoecism
 coenospecies
-coenospecifically
 classificational
 chicory
 coenotypic
@@ -30226,6 +30225,7 @@ caneton
 carmetta
 cruet
 cruety
+coenospecifically
 cordaitaceae
 cucurbit
 cruets
