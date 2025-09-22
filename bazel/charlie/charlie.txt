@@ -7486,7 +7486,6 @@ cartellist
 ceratonia
 confessory
 cicerones
-counterbrace
 chlorophyl
 ceria
 ceratophyllaceous
@@ -8670,6 +8669,7 @@ chiles
 changuina
 cruisingly
 conceptualizer
+counterbrace
 chankings
 caesurae
 cyanoacetic
