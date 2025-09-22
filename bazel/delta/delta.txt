@@ -3607,6 +3607,7 @@ diploic
 deglutition
 deglutitious
 degold
+disleal
 disillusionizer
 decathlon
 disinhibition
@@ -15431,7 +15432,6 @@ diffusiveness
 descendability
 domba
 dysphasic
-disleal
 depilous
 deglazing
 disbogue
