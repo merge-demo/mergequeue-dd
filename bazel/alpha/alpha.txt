@@ -6506,7 +6506,6 @@ actinometers
 ally
 abasio
 ailurophilic
-affirmation
 antisnob
 akinesic
 anhalonidine
@@ -7218,6 +7217,7 @@ anthropobiologist
 alberge
 actinonema
 additively
+affirmation
 angledozer
 ariosos
 agriology
