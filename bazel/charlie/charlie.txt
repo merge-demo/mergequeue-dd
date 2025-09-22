@@ -718,6 +718,7 @@ cocoa
 constitutions
 colonelship
 conductorship
+compellative
 cagework
 coordinators
 consonantising
@@ -25801,7 +25802,6 @@ corrugent
 cryptonym
 corrup
 carolinian
-compellative
 corruptedness
 cancelability
 cardiographs
