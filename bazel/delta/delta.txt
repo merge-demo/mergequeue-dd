@@ -6432,7 +6432,6 @@ deruinate
 decameronic
 dervishism
 des
-disaffiliated
 dispensative
 dependably
 detenues
@@ -14135,6 +14134,7 @@ decedent
 disulfuric
 desulfurated
 drakefly
+disaffiliated
 drawtube
 decrepit
 daybook
