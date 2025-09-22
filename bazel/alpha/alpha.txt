@@ -8968,6 +8968,7 @@ arval
 asyla
 allurement
 anisogamete
+araneidal
 aerosat
 anemonin
 actually
@@ -21824,7 +21825,6 @@ accessor
 aptate
 avantgarde
 assume
-araneidal
 apeirophobia
 apophis
 anthography
