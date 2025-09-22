@@ -2531,6 +2531,7 @@ commixes
 choanate
 collogued
 coral
+chiropterous
 collywest
 cayuses
 candlelight
@@ -18709,7 +18710,6 @@ coiner
 cordiality
 comparograph
 concoction
-chiropterous
 continentally
 coinfers
 collare
