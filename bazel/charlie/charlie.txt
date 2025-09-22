@@ -13691,7 +13691,6 @@ crotonic
 ciliophora
 carlet
 churchgoer
-corolline
 chagal
 circumventive
 cyanometry
@@ -25566,6 +25565,7 @@ corporalship
 corporas
 corporate
 clatters
+corolline
 christenmas
 corporateness
 corporationer
