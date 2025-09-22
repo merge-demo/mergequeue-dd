@@ -7600,7 +7600,6 @@ enfeoffs
 epicleidian
 essling
 effoliate
-ersar
 endamoebic
 edelweiss
 epiclinal
@@ -9427,6 +9426,7 @@ enaliosauria
 epistemonical
 exogamy
 effeminised
+ersar
 eggshell
 escheats
 eschel
