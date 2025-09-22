@@ -13016,7 +13016,6 @@ acipenseridae
 animatistic
 applaudingly
 animato
-anteva
 aidmen
 animes
 animi
@@ -20362,6 +20361,7 @@ antireformer
 artery
 augments
 associating
+anteva
 ariegite
 aftaba
 arteriac
