@@ -13944,7 +13944,6 @@ caviars
 cynognathus
 cynoid
 contributiveness
-coadjacently
 calombigas
 callicarpa
 cuitlateco
@@ -20813,6 +20812,7 @@ complexive
 chrematist
 cytoplast
 chefdoms
+coadjacently
 cerebropontile
 complexness
 complexometry
