@@ -3515,7 +3515,6 @@ balsa
 bonaght
 bouchal
 blindfoldedly
-bubos
 batete
 balotade
 byroads
@@ -9312,6 +9311,7 @@ breadwinners
 bushi
 boulimia
 ballistocardiograph
+bubos
 bonniness
 butter
 bottommost

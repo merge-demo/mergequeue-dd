@@ -4968,6 +4968,7 @@ cust
 chiclero
 curcuma
 canalman
+chemosynthetic
 conceptuality
 cartulary
 cartularies
@@ -9922,7 +9923,6 @@ contrabassoon
 chemoresistance
 chemoserotherapy
 chemosynthesis
-chemosynthetic
 chemosmotic
 consumptible
 clays
