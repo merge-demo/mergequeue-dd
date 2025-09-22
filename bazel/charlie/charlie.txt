@@ -25363,6 +25363,7 @@ coprolagnist
 cornetti
 cornettino
 cornettist
+coroutine
 cornetto
 caviares
 committent
@@ -30392,7 +30393,6 @@ crustific
 crustily
 crustose
 choloid
-coroutine
 caesarotomy
 carbonados
 crut

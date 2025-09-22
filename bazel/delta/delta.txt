@@ -1317,7 +1317,6 @@ denticulate
 droppy
 dumpings
 diapause
-diastaltic
 decoloured
 dobsons
 dinitro
@@ -11582,6 +11581,7 @@ duppy
 dependableness
 disconnectedness
 disconnector
+diastaltic
 dhurnas
 demicannon
 denotable
