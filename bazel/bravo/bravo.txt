@@ -12611,7 +12611,6 @@ basinlike
 bonxie
 blastostyle
 blancs
-barracoon
 bistriazole
 bleekbok
 bahuma
@@ -16062,6 +16061,7 @@ bioclean
 bastard
 balletomane
 borrowing
+barracoon
 bramblier
 brachylogies
 brothering
