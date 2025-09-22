@@ -7288,7 +7288,6 @@ desulfurize
 dephlegmator
 dentilation
 deter
-desertlike
 deselected
 dilettantship
 dinumeration
@@ -12614,6 +12613,7 @@ demilune
 disintoxication
 dankness
 daud
+desertlike
 disintrench
 decagons
 deodorise
