@@ -4856,7 +4856,6 @@ aeronomy
 aeronomic
 aeronomical
 anisogametic
-aeronomics
 antisymmetric
 armrest
 amphisbaenid
@@ -14283,6 +14282,7 @@ amelia
 algin
 axifugal
 astoundable
+aeronomics
 anthratriol
 anthrenus
 agriculturalists
