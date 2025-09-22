@@ -1811,7 +1811,6 @@ brainiest
 bancha
 bonhomie
 beslime
-bullose
 bialystoker
 bayed
 bandaging
@@ -5475,6 +5474,7 @@ babbled
 bilaminar
 boatswains
 beingness
+bullose
 brandade
 beethovian
 blacksmiths
