@@ -5396,7 +5396,6 @@ example
 elsewhither
 electronvolt
 endowment
-ectene
 excantation
 earthtongue
 endpoints
@@ -8616,6 +8615,7 @@ equilibriums
 equilobed
 etherialization
 equimodal
+ectene
 entoptoscopy
 eunomia
 espantoon
