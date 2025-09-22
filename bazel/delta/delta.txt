@@ -4878,6 +4878,7 @@ deepness
 dharna
 decadal
 deathcups
+distringas
 diestrum
 diglyphic
 disambiguation
@@ -14089,7 +14090,6 @@ deltarium
 dsr
 districts
 damsel
-distringas
 dishonesty
 dir
 descendents
