@@ -15361,6 +15361,7 @@ breaststroker
 breadberry
 bodoni
 babyish
+borrowed
 buccinum
 bereaved
 batonnier
@@ -16265,7 +16266,6 @@ bangup
 bkpt
 bioelectronics
 boltage
-borrowed
 boryl
 branchipus
 biosynthetic
