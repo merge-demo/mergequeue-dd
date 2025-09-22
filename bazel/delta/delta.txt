@@ -2807,7 +2807,6 @@ dasyus
 decrowning
 detenus
 dustier
-decubital
 daur
 desiring
 diaclasis
@@ -15468,6 +15467,7 @@ douzaines
 deciceronize
 detectivism
 degradation
+decubital
 domification
 distoma
 dissemblance
