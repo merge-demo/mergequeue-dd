@@ -11935,7 +11935,6 @@ cuchan
 chored
 cubiculum
 characteristical
-camata
 calculative
 culet
 crinkling
@@ -30564,6 +30563,7 @@ conopholis
 cuboidal
 cuneocuboid
 caldera
+camata
 cellarette
 cuboides
 charactonym
