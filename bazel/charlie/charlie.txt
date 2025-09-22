@@ -2071,7 +2071,6 @@ campanologists
 cytophysics
 ceilingward
 chieftaincies
-captivator
 centenar
 campanular
 circumvolve
@@ -23125,6 +23124,7 @@ cfm
 consoude
 ceratosa
 consound
+captivator
 conspecies
 crenotherapy
 cotula
