@@ -12396,7 +12396,6 @@ bowerlike
 bassariscus
 bonbon
 bossdom
-betsimisaraka
 badlands
 bobstay
 bicapitate
@@ -18031,6 +18030,7 @@ bustles
 biologize
 bustlingly
 bandmaster
+betsimisaraka
 bullweeds
 bloom
 bilaminate
