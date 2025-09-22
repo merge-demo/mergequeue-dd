@@ -17011,7 +17011,6 @@ despondent
 deadwood
 diplopodic
 dreariness
-davis
 defalcating
 doz
 dunkard
@@ -17160,6 +17159,7 @@ dingwall
 dashers
 drierman
 dogma
+davis
 decennials
 deafnesses
 desalinates
