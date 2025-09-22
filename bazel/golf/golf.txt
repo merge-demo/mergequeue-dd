@@ -3785,7 +3785,6 @@ grippal
 gaudily
 gouaree
 galactophlebitis
-gaul
 gygis
 gibstaff
 greyhound
@@ -7111,6 +7110,7 @@ gores
 goldenness
 guango
 gingerbready
+gaul
 giggler
 gastrotaxis
 gabbros
