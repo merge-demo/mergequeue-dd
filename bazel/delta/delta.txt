@@ -7695,6 +7695,7 @@ dekadrachm
 developing
 didelphis
 development
+demiurge
 depthlessness
 developmental
 decompressions
@@ -9521,7 +9522,6 @@ decelerator
 delfts
 dialysers
 derivation
-demiurge
 dights
 dextrocular
 deraigned
