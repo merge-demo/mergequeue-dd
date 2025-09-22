@@ -986,7 +986,6 @@ geanticline
 gubernia
 gesneraceae
 grece
-gandertmeeth
 gandharva
 grumblingly
 gurian
@@ -5684,6 +5683,7 @@ glossinas
 gertrude
 glowbard
 gurneyite
+gandertmeeth
 gerres
 gloveress
 guidership
