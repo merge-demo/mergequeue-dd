@@ -3879,7 +3879,6 @@ emitting
 entamebas
 electropathic
 endocrinologies
-echocardiogram
 engreen
 exogamic
 electrogalvanize
@@ -9443,6 +9442,7 @@ eschew
 exteriorizing
 eschewed
 expand
+echocardiogram
 ecbolics
 embedment
 erysiphe
