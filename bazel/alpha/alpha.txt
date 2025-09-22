@@ -6843,6 +6843,7 @@ annomination
 ajari
 arcae
 ajava
+antedorsal
 antipatharian
 airplane
 acumble
@@ -13929,7 +13930,6 @@ antedates
 astur
 antimission
 academize
-antedorsal
 antefact
 antefix
 antefurcae
