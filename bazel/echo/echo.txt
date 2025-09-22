@@ -7862,7 +7862,6 @@ exogonium
 entogastric
 egis
 excitor
-epihydric
 elaeagnaceae
 eunuchised
 endolaryngeal
@@ -13187,6 +13186,7 @@ endostracal
 echinopsine
 expiration
 exponentiation
+epihydric
 epaxial
 exotica
 eremophyte
