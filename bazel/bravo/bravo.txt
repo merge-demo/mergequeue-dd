@@ -3210,7 +3210,6 @@ bangwaketsi
 barotactic
 bifront
 belay
-brabant
 benomyls
 bauta
 beknave
@@ -7964,6 +7963,7 @@ bicyanide
 bicyclers
 banyai
 bocconia
+brabant
 braggery
 biopoesis
 burlesquer
