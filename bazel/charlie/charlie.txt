@@ -2181,6 +2181,7 @@ coronofacial
 cretinizing
 comacine
 campstool
+codamine
 camptonite
 camptosorus
 cabaan
@@ -31831,7 +31832,6 @@ credenzas
 cuticularize
 cuticulate
 chrysothamnus
-codamine
 cutiduris
 chorea
 cutin
