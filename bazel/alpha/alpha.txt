@@ -13875,7 +13875,6 @@ anomalurus
 aldamin
 acoup
 aht
-antebrachial
 aleuronat
 antebrachium
 amouret
@@ -15435,6 +15434,7 @@ antimonious
 anemoses
 antimoniuret
 antethem
+antebrachial
 acetabulum
 antimonopolization
 allantoidian
