@@ -653,7 +653,6 @@ bacteriostatically
 bivalvia
 bacteriotherapeutic
 bechances
-beletter
 bungles
 briguing
 battalions
@@ -10442,6 +10441,7 @@ biacuru
 blason
 blasphemed
 blasphemes
+beletter
 blasphemous
 bismarckian
 blastemal

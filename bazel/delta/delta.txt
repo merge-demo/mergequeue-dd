@@ -7986,7 +7986,6 @@ dedendum
 decemplicate
 derider
 dexterously
-dextrad
 dubitatively
 drogerman
 dovetailing
@@ -16572,6 +16571,7 @@ dodderer
 dithiol
 dignify
 distrix
+dextrad
 diagrammatic
 demoralise
 dictum
