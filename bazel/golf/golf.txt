@@ -7868,7 +7868,6 @@ gouged
 geochemistry
 guidelines
 graphitoidal
-granary
 greases
 glecoma
 gorst
@@ -8549,6 +8548,7 @@ glucose
 geometrizing
 graziers
 gravidate
+granary
 gomphosis
 gallberry
 grassland
