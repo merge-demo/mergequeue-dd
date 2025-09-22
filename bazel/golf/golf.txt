@@ -51,7 +51,6 @@ geometrine
 gelatinousness
 glucosidic
 goofball
-gatherum
 gibbon
 glauconia
 griller
@@ -5738,6 +5737,7 @@ grumes
 gloomy
 grapsoid
 gymnoplast
+gatherum
 gossypose
 gonotheca
 gingilis
