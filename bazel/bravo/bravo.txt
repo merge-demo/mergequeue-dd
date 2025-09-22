@@ -4602,6 +4602,7 @@ bedfellows
 buildable
 barlows
 bescorn
+belitter
 bedford
 bouilli
 brothier
@@ -9145,7 +9146,6 @@ bipartisanship
 bipartitely
 buffer
 bismuthide
-belitter
 berkeleyism
 bumbee
 bipaschal
