@@ -2258,6 +2258,7 @@ extensometer
 enciente
 embryony
 embraceable
+eradicably
 encoach
 ethnarchies
 endothys
@@ -7237,7 +7238,6 @@ electronegativity
 eoith
 eoiths
 entamebae
-eradicably
 enterally
 eolian
 eolopiles
