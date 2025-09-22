@@ -6000,6 +6000,7 @@ depsides
 discommoded
 dept
 diaschistic
+dearies
 depth
 droopy
 detonize
@@ -18279,7 +18280,6 @@ dabchick
 dinaric
 dissepimental
 daydreamt
-dearies
 decibels
 duckboards
 diseuse
