@@ -14915,7 +14915,6 @@ cachucho
 condominate
 cytopathologically
 complish
-circularity
 cytopenia
 cytophagic
 cytophagous
@@ -31479,6 +31478,7 @@ curricles
 chalcedonous
 curricling
 currycomb
+circularity
 compositional
 cartoon
 currycombing
