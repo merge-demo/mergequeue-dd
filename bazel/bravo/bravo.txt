@@ -8715,6 +8715,7 @@ bypast
 binaries
 bulginess
 berghaan
+biobibliography
 binaural
 binbashi
 birotatory
@@ -15109,7 +15110,6 @@ backslash
 bonelet
 bunsenite
 batwa
-biobibliography
 beaverroot
 borborygmus
 bellowsmaker
