@@ -13426,7 +13426,6 @@ cicutoxin
 clotures
 cid
 cidaris
-computerizing
 carbolating
 cablet
 cymols
@@ -30630,6 +30629,7 @@ cucurb
 compole
 cucurbita
 cucurbitaceous
+computerizing
 cucurbite
 clinicist
 cucurbitine
