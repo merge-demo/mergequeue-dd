@@ -16068,6 +16068,7 @@ camagon
 clianthus
 columned
 carageen
+cynography
 clich
 cliche
 cryopathy
@@ -16283,7 +16284,6 @@ celeriac
 clinohedrite
 cytogenesis
 compagination
-cynography
 clinohumite
 crumbled
 cowhide
