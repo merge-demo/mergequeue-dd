@@ -13595,7 +13595,6 @@ coworker
 coanimate
 cymbidium
 catchpollery
-copartner
 chignons
 cymbocephalous
 cymbopogon
@@ -18938,6 +18937,7 @@ cynocephalous
 cricetid
 cavil
 crystosphene
+copartner
 colilysin
 caddied
 campestral
