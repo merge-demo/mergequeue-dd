@@ -11894,7 +11894,6 @@ araphostic
 aralkylated
 awakenable
 anaseismic
-anasitch
 anaspalin
 albumenizer
 albite
@@ -14492,6 +14491,7 @@ antialdoxime
 anchorless
 anthropogeographer
 autocue
+anasitch
 antischolastically
 antiamusement
 apparation
