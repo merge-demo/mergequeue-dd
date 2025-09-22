@@ -2920,6 +2920,7 @@ depositional
 discrown
 diaphanotype
 describers
+destinezite
 denticeti
 decemfid
 deductio
@@ -7083,7 +7084,6 @@ dessertspoon
 designers
 distillage
 devotionist
-destinezite
 driveable
 dessous
 decreases
