@@ -187,7 +187,6 @@ bacca
 baccaceous
 boroughwide
 bipacks
-brachistochrone
 bibliopolism
 boh
 bayous
@@ -4071,6 +4070,7 @@ beanstalk
 begrain
 balladize
 boehmenist
+brachistochrone
 bestiaries
 broadax
 basinet
