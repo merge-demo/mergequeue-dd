@@ -6663,6 +6663,7 @@ desertlessly
 dungaree
 deserts
 deserve
+definability
 divertissant
 dustrags
 distinctio
@@ -11272,7 +11273,6 @@ denominationalist
 deictic
 duckpins
 divinistre
-definability
 diminutival
 deposure
 duncishly
