@@ -2211,7 +2211,6 @@ camshafts
 conflictingly
 camstane
 camstone
-canaliculization
 congeal
 camuning
 cholecystolithotripsy
@@ -11585,6 +11584,7 @@ connotively
 columniform
 choledochorrhaphy
 counteractor
+canaliculization
 cental
 cace
 choledochostomies
