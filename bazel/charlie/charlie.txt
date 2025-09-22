@@ -11949,7 +11949,6 @@ choreman
 choreographed
 choreographer
 choreographers
-choreographic
 chuzwi
 choreographically
 choreographing
@@ -26978,6 +26977,7 @@ counterpace
 concordist
 counterpane
 cheiceral
+choreographic
 counterpaned
 countersuggestion
 counterparry
