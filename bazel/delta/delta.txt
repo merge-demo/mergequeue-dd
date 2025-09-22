@@ -1647,6 +1647,7 @@ difficulty
 daylong
 dicers
 dimetrodon
+domesticize
 deodate
 devertebrated
 displeasurably
@@ -12748,7 +12749,6 @@ dodrans
 dorcas
 dupondii
 duellers
-domesticize
 deer
 dysneuria
 dislodged

@@ -3651,6 +3651,7 @@ biconjugate
 benzdioxazine
 balloonery
 bepierce
+bronchotetany
 batrachian
 bifrontal
 beady
@@ -6336,7 +6337,6 @@ bibliothecaire
 bavoso
 benzopyrazolone
 barquentine
-bronchotetany
 benzopyrene
 bourignonist
 burgonet
