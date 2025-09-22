@@ -4791,7 +4791,6 @@ buskins
 bustard
 billycan
 becrusts
-betrace
 bacchantes
 bourgeon
 blushingly
@@ -6839,6 +6838,7 @@ bund
 bozo
 besetters
 bricklayer
+betrace
 benzocoumaran
 blessed
 besew
