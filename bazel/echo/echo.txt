@@ -676,7 +676,6 @@ eclogic
 extraocular
 eclogite
 eucryptite
-eclosion
 emasculative
 eclosions
 ethel
@@ -5977,6 +5976,7 @@ eudemon
 ethrog
 equiexcellency
 expanding
+eclosion
 epilated
 enjoinders
 expatiatingly
