@@ -2244,6 +2244,7 @@ decasualized
 deadpanner
 didymous
 decathlons
+degree
 dolorimetry
 durocs
 define
@@ -4550,7 +4551,6 @@ destruction
 dragading
 dogberryism
 decartelize
-degree
 damsels
 disembody
 demidistance
