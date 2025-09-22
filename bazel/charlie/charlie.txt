@@ -1982,7 +1982,6 @@ cropshin
 contrast
 criticised
 cassique
-camises
 cytosin
 cautela
 complicacies
@@ -28496,6 +28495,7 @@ conversibility
 creaturize
 churchanity
 creaze
+camises
 crebricostate
 chinar
 crebrisulcate
