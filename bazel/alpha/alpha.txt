@@ -8806,7 +8806,6 @@ advertisable
 allonym
 allonymously
 allonyms
-accepts
 allonomous
 arithmetize
 apodan
@@ -18780,6 +18779,7 @@ archiheretical
 aldohexose
 archikaryon
 archilithic
+accepts
 archimagus
 augustan
 adenomas

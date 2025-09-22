@@ -405,7 +405,6 @@ dottore
 discompt
 ditches
 dehydrogenization
-daynet
 dihalid
 dainty
 decentralise
@@ -4624,6 +4623,7 @@ demimonde
 depictors
 disseise
 dovetail
+daynet
 dermatosclerosis
 demineralized
 downrightly
