@@ -8527,6 +8527,7 @@ foremisgiving
 fard
 fulgid
 farctate
+forks
 flacourtia
 fished
 flapped
@@ -10587,7 +10588,6 @@ fusileer
 froggier
 fluorimetry
 fragmental
-forks
 fluotitanic
 furfurals
 filiation
