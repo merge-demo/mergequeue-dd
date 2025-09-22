@@ -2688,7 +2688,6 @@ cankerberry
 conder
 cankereat
 cankered
-cankeredly
 chapeaux
 cording
 cubitopalmar
@@ -15793,6 +15792,7 @@ ciniphes
 cultistic
 consanguinity
 cateye
+cankeredly
 coiffeuse
 chainlet
 chevalier
