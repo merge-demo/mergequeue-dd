@@ -17312,7 +17312,6 @@ apothecial
 aesthetics
 aurichlorohydric
 apothecium
-antitrope
 areologic
 applot
 airship
@@ -23080,6 +23079,7 @@ animetta
 athrocyte
 aginners
 archencephala
+antitrope
 abnormalcy
 abstracts
 attitudinizer
