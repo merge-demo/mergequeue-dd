@@ -213,6 +213,7 @@ cheiroline
 cacam
 cottons
 cacara
+coadjacent
 chthonophagia
 cacatuidae
 cacatuinae
@@ -4070,7 +4071,6 @@ caddies
 coruscative
 cardiomegalia
 clerihew
-coadjacent
 cardinalitian
 claros
 cubed
