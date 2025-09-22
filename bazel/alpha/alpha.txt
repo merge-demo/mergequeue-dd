@@ -4962,7 +4962,6 @@ aesir
 almightiness
 aesop
 aesopian
-aprosopous
 astigmat
 aesthesodic
 allaeanthus
@@ -11153,6 +11152,7 @@ aerostat
 amphigam
 archpractice
 atoneness
+aprosopous
 amphigean
 amphigene
 albertin
