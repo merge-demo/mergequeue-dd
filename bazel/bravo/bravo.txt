@@ -5040,7 +5040,6 @@ bushmasters
 broiderer
 beverage
 befilmed
-banqueter
 befire
 burgherdom
 benzein
@@ -6011,6 +6010,7 @@ bataan
 boarskin
 binauricular
 bunkermen
+banqueter
 benchership
 bespete
 bodge
