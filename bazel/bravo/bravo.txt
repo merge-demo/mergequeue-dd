@@ -5909,6 +5909,7 @@ beltless
 benchmarks
 brickkiln
 biauriculate
+bandsmen
 belts
 bartlemy
 begster
@@ -18034,7 +18035,6 @@ bilaminate
 blepharosphincterectomy
 busulfans
 bughouse
-bandsmen
 barbedness
 bibliophily
 backspringing
