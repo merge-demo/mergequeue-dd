@@ -9540,6 +9540,7 @@ carriable
 commonize
 casehardens
 concionary
+cardines
 comprehensibility
 checkrein
 checkroll
@@ -23080,7 +23081,6 @@ consonancy
 consonantalize
 compurgatory
 chlorpheniramine
-cardines
 consonantic
 corneal
 cavalcade
