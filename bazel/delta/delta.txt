@@ -4826,6 +4826,7 @@ deaconing
 dipsas
 divots
 didus
+darg
 dadouchos
 diemaker
 dentalizing
@@ -16817,7 +16818,6 @@ depersonalised
 divulsive
 delphinoidea
 decastylos
-darg
 dactylus
 dodecagon
 decrials
