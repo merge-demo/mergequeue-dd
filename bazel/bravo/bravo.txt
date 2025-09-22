@@ -1395,6 +1395,7 @@ bulbul
 bruisewort
 boyos
 blots
+bottega
 baldhead
 baldheads
 bandager
@@ -17893,7 +17894,6 @@ bravoite
 bushless
 bareness
 blabbering
-bottega
 bayogoula
 bushmaker
 bakuninism
