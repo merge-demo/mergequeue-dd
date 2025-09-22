@@ -6441,7 +6441,6 @@ firring
 floretty
 fisherboat
 feltman
-froisse
 footbaths
 feneration
 fibromatoid
@@ -10415,6 +10414,7 @@ forcaria
 filesmith
 feudalistic
 fringeflower
+froisse
 fossified
 frictionlessly
 fountainously

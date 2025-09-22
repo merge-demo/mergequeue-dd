@@ -9829,7 +9829,6 @@ discriminated
 dudder
 dilo
 differentially
-dirity
 disenamour
 descendant
 dinosaur
@@ -15008,6 +15007,7 @@ destressed
 dodona
 devilmonger
 dodonean
+dirity
 dissections
 dodos
 duali
