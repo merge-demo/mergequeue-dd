@@ -7901,7 +7901,6 @@ catafalque
 cestode
 cestodes
 copatron
-compete
 coronize
 carouses
 cestoids
@@ -14956,6 +14955,7 @@ cerebroganglion
 chancery
 cytotaxis
 caback
+compete
 cytotaxonomy
 conky
 curvaceous
