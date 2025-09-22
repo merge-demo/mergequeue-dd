@@ -18343,7 +18343,6 @@ cancerite
 cadding
 cyeses
 cordoban
-cofferwork
 christology
 coffin
 copper
@@ -26753,6 +26752,7 @@ coappellee
 counterdance
 counterdeclaration
 cucumis
+cofferwork
 counterdemonstrate
 counterdesire
 counterdevelopment
