@@ -3337,6 +3337,7 @@ brontolith
 boller
 bollix
 burgoos
+bugbane
 berimes
 bronchobuster
 bedamning
@@ -16797,7 +16798,6 @@ bufotoxin
 biconcavity
 bugan
 brahm
-bugbane
 bliest
 beaume
 bimetallists
