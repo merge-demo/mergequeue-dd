@@ -25153,6 +25153,7 @@ connectant
 cycled
 carnac
 calabar
+countercharge
 centesimate
 clinocephalus
 coriariaceae
@@ -29194,7 +29195,6 @@ cryptical
 cryptically
 coupled
 cryptoagnostic
-countercharge
 clamored
 cynogenealogist
 cryptoanalysis
