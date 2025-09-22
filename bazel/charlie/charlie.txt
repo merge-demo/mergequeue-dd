@@ -15814,7 +15814,6 @@ chelaship
 colonized
 clearable
 chlorion
-clearage
 clearances
 chloro
 coteller
@@ -28790,6 +28789,7 @@ cloyed
 concumbency
 cassena
 countertail
+clearage
 cresselle
 cresset
 colima
