@@ -9577,6 +9577,7 @@ biol
 bisyllabism
 bishopstool
 bobbinets
+brotuliform
 bestir
 benison
 barterers
@@ -16086,7 +16087,6 @@ betweenwhiles
 brasseries
 bezaleelian
 bridget
-brotuliform
 brouette
 brougham
 bpt
