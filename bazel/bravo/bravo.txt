@@ -9478,6 +9478,7 @@ battlestead
 bogota
 blackened
 birthright
+bassetted
 baffeta
 births
 brontephobia
@@ -15969,7 +15970,6 @@ bio
 bcd
 bestrid
 blitzbuggy
-bassetted
 bawcocks
 befilth
 broo
