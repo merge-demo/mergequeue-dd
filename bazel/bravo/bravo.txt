@@ -2199,7 +2199,6 @@ berrichon
 bostonite
 barter
 bracery
-blowing
 barauna
 boneheadedness
 bromizing
@@ -3864,6 +3863,7 @@ bawl
 bevelment
 bawler
 brutalitarian
+blowing
 biti
 bimorph
 bandor
