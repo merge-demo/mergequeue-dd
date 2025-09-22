@@ -6513,7 +6513,6 @@ ailuropoda
 acestes
 ailurus
 ageustia
-appertinent
 atriensis
 azotin
 autotomized
@@ -18817,6 +18816,7 @@ auricle
 alumish
 archipallium
 agglutination
+appertinent
 appetizingly
 archipelagian
 antigens
