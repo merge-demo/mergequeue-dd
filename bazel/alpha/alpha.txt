@@ -12386,7 +12386,6 @@ armageddon
 attenuating
 agaric
 anepia
-anepigraphic
 androseme
 apodoses
 affectability
@@ -14648,6 +14647,7 @@ anticeremonious
 anteroom
 algaeologist
 acceptancy
+anepigraphic
 affectioned
 archgomeral
 anticeremoniously

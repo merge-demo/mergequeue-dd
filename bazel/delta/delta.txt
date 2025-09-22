@@ -1568,7 +1568,6 @@ denominant
 donatism
 deflower
 diosmosed
-diagenetic
 deadheartedness
 disagreeability
 drawback
@@ -8887,6 +8886,7 @@ diccon
 depolariser
 domines
 decurrences
+diagenetic
 digitaria
 dermatitis
 dewlike
