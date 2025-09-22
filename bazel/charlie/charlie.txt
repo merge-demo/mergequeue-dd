@@ -1123,6 +1123,7 @@ calcivorous
 creambush
 chapmanship
 cyclothure
+coraji
 calcographer
 calcography
 culturology
@@ -24868,7 +24869,6 @@ corah
 coraise
 cashless
 contourne
-coraji
 coralberries
 coproduct
 coralbush
