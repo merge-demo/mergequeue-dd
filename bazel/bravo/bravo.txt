@@ -3752,6 +3752,7 @@ baysmelt
 betatrons
 brevipennate
 busing
+barfly
 balneal
 bajra
 batz
@@ -18404,7 +18405,6 @@ bubber
 blirt
 benzoins
 briefcases
-barfly
 bvt
 bagwash
 bushelman
