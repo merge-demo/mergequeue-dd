@@ -7704,7 +7704,6 @@ aecidioform
 alectoria
 alectorides
 aprosopia
-arbors
 acyloins
 angiospermae
 amphibiological
@@ -17527,6 +17526,7 @@ adequacy
 appreciator
 almandite
 apperceptionism
+arbors
 apperceptionist
 annihilatory
 appersonification
