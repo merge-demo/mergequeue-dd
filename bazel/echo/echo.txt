@@ -4255,7 +4255,6 @@ enjoined
 extirpation
 epicarides
 ejectment
-exaltedness
 exothermic
 electrochemical
 entangle
@@ -5908,6 +5907,7 @@ effray
 educatee
 enjoyably
 enhypostasia
+exaltedness
 estmark
 electrotheraputically
 endolemma
