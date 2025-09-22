@@ -6286,7 +6286,6 @@ dermatoplasm
 diapositive
 dualities
 dermatoplastic
-deluminize
 despin
 delectible
 dodecylic
@@ -14950,6 +14949,7 @@ dependencies
 dialectologic
 dodded
 dodder
+deluminize
 dirhams
 differingly
 dormancy
