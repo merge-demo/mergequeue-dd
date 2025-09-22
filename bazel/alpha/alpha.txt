@@ -8073,7 +8073,6 @@ aqueousness
 arauan
 alicyclic
 actiniochrome
-allochroous
 adapting
 antidora
 antevenient
@@ -17025,6 +17024,7 @@ abscessroot
 avocets
 alliterated
 anisochromia
+allochroous
 aculeata
 apogeotropism
 autolaryngoscopy
