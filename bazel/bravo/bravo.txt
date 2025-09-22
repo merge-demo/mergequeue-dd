@@ -7429,6 +7429,7 @@ bever
 burses
 botas
 bevesseled
+bocoy
 barbets
 bluebirds
 blastocolla
@@ -11810,7 +11811,6 @@ bioresearch
 brainfag
 barrelet
 bigamists
-bocoy
 barebone
 billjim
 bryophyta
