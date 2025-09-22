@@ -3477,6 +3477,7 @@ desmomyaria
 dufoil
 drapery
 drowsiest
+delim
 defreeze
 defrocked
 dollishly
@@ -7521,7 +7522,6 @@ diastrophic
 diosma
 dunderpates
 dignosce
-delim
 demobbing
 disconnecter
 dashee
