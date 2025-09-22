@@ -5703,7 +5703,6 @@ balaghat
 biophysics
 busying
 briarberry
-biskop
 bellbinder
 bellbine
 bromacetanilide
@@ -5903,6 +5902,7 @@ bionomy
 broads
 bhungini
 begirdles
+biskop
 basommatophora
 bunolophodont
 belonoid
