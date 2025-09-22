@@ -3103,6 +3103,7 @@ deinosaur
 defeature
 denudational
 debted
+discoverer
 dowless
 daneflower
 defect
@@ -8861,7 +8862,6 @@ dibstone
 deis
 degustation
 disapprobatory
-discoverer
 dibutyrin
 debituminize
 deflexure
