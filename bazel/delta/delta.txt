@@ -6532,7 +6532,6 @@ describability
 diacritic
 daubries
 dockman
-degradedness
 disharmonise
 described
 dolous
@@ -17569,6 +17568,7 @@ dorsibranchiate
 diencephalic
 druids
 dissimulations
+degradedness
 demihag
 doctrinaire
 discrediting
