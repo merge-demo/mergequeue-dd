@@ -7947,7 +7947,6 @@ cetoniinae
 castigated
 chickadee
 criteriions
-cetorhinus
 cetotolite
 complaintful
 catheter
@@ -18137,6 +18136,7 @@ communality
 capouch
 cherty
 coenesthesia
+cetorhinus
 coenflame
 coengage
 cohibitive
