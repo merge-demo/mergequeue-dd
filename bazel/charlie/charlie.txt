@@ -9657,6 +9657,7 @@ cafuso
 corpuscles
 cheesebox
 cheeseburger
+caddice
 cheesecake
 crees
 compels
@@ -15828,7 +15829,6 @@ clearheadedness
 clearhearted
 chott
 chanson
-caddice
 congratulating
 clearish
 clearminded
