@@ -1876,6 +1876,7 @@ gambles
 gazehound
 growlery
 guffaw
+goblet
 gilgai
 geodic
 galacturia
@@ -2246,7 +2247,6 @@ gefulltefish
 galax
 gonidiogenous
 gehlenite
-goblet
 grunted
 geoplanidae
 glucokinase

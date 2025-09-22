@@ -1909,6 +1909,7 @@ celidography
 cotterite
 constant
 centralness
+coaltitude
 coyure
 cloghad
 castalia
@@ -17319,7 +17320,6 @@ chapelman
 cachucha
 cinematical
 coalternate
-coaltitude
 crocketed
 caltrop
 coambulant

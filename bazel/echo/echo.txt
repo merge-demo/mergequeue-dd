@@ -6547,6 +6547,7 @@ engorging
 edgewise
 entendre
 epidermophytosis
+euphorbia
 extravagating
 entente
 erythorbate
@@ -13730,7 +13731,6 @@ epicalyxes
 encephalomeningitis
 extinctions
 enantiopathic
-euphorbia
 extinctor
 ententophil
 etaballi
