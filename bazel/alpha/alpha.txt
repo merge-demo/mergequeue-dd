@@ -8468,6 +8468,7 @@ aquameter
 allantoidean
 allantoin
 anticonvellent
+anerethisia
 allantoinase
 ampullosity
 allantoinuria
@@ -9361,7 +9362,6 @@ alter
 antimediaevalism
 alterable
 altarpieces
-anerethisia
 alphabetize
 alterably
 archaeocyte
