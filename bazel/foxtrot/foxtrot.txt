@@ -1075,7 +1075,6 @@ floter
 foredestining
 furriery
 farolito
-flustration
 folkfree
 ferriages
 frontons
@@ -4747,6 +4746,7 @@ fulldo
 flag
 forestalment
 flammiferous
+flustration
 furloughing
 flagellariaceous
 fleecily
