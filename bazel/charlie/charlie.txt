@@ -2527,6 +2527,7 @@ candlebomb
 candlefish
 corporeal
 chaldaical
+crack
 candlefishes
 chicaning
 commixes
@@ -12380,7 +12381,6 @@ chromatype
 chromatist
 coracohyoid
 cholent
-crack
 chloroanaemia
 caudiform
 coroplasty
