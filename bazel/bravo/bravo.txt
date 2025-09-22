@@ -670,6 +670,7 @@ bronchiolitis
 bathyesthesia
 baculine
 barcas
+bovate
 brockets
 baculoid
 beek
@@ -13743,7 +13744,6 @@ bufflehorn
 banisher
 biperforate
 bicycled
-bovate
 besmirching
 biochemists
 bestrowed
