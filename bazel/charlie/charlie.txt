@@ -2528,6 +2528,7 @@ corporeal
 chaldaical
 crack
 candlefishes
+climates
 chicaning
 commixes
 choanate
@@ -16166,7 +16167,6 @@ climatal
 computably
 climatarchic
 climate
-climates
 corporatively
 cerenkov
 cestidae
