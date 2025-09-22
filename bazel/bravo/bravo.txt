@@ -843,7 +843,6 @@ bromelia
 battologizing
 baccalaureat
 bulliest
-bothway
 blubbing
 bushed
 befretting
@@ -1168,6 +1167,7 @@ burlers
 balladized
 beseech
 belemnid
+bothway
 bupleurol
 bile
 bajarigar
