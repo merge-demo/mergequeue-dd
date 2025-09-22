@@ -18428,7 +18428,6 @@ aphrodisian
 asself
 arborvitaes
 alehouses
-allotelluric
 arcticwards
 arrises
 attitudes
@@ -20662,6 +20661,7 @@ artist
 artistic
 atemoya
 ashiver
+allotelluric
 actinomyces
 aeroplankton
 appartement
