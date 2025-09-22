@@ -5233,7 +5233,6 @@ coachwood
 cassata
 coalitions
 concreted
-cassation
 caveats
 cerin
 cassegrain
@@ -7237,6 +7236,7 @@ cubicone
 cric
 crispen
 clubbability
+cassation
 coelodont
 contributorily
 centro
