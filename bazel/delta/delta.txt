@@ -28,6 +28,7 @@ dachas
 dachshund
 disaligning
 dural
+diplomat
 dacian
 dyce
 dacite
@@ -9315,7 +9316,6 @@ donatory
 dietitians
 dogfennel
 dtset
-diplomat
 detersive
 depletable
 dietrichite
