@@ -16915,6 +16915,7 @@ chiccory
 crucifyfying
 crosswort
 clubroom
+criminality
 casebooks
 clubroots
 countervaunt
@@ -28974,7 +28975,6 @@ cephalism
 chesterlite
 criminalistics
 cakewalks
-criminality
 circulatory
 confessant
 criminally
