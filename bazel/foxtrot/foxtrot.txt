@@ -6042,7 +6042,6 @@ farandine
 forethoughted
 flewed
 familiarize
-fateful
 floriation
 freet
 fertilize
@@ -9094,6 +9093,7 @@ fleabanes
 fourberie
 fedelini
 frisure
+fateful
 fenlander
 frankist
 forespeaker

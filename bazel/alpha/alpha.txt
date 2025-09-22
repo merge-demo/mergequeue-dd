@@ -2874,6 +2874,7 @@ actinic
 actinide
 akene
 axtree
+anacrotic
 aulostomi
 actiniomorpha
 antineutrality
@@ -11537,7 +11538,6 @@ athens
 anacrogynae
 amba
 anacrogynous
-anacrotic
 aerenchyma
 anacruses
 anacusic
