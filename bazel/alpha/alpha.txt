@@ -13816,6 +13816,7 @@ abmodality
 antalkalies
 aerophilately
 allothigenetic
+antilogic
 adelea
 antalkaline
 antalkalis
@@ -18686,7 +18687,6 @@ ameerates
 atreptic
 almaciga
 archetypes
-antilogic
 attributive
 aditus
 agnomical
