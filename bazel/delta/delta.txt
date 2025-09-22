@@ -8530,7 +8530,6 @@ dimnesses
 decarburize
 divinations
 deaccessioning
-diapedeses
 diapedetic
 daggletailed
 diapente
@@ -9501,6 +9500,7 @@ dodecadrachm
 digestively
 dewormed
 distaff
+diapedeses
 duodecahedron
 digestiveness
 dipteroi
