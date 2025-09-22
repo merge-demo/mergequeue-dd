@@ -7623,7 +7623,6 @@ cerebrosclerosis
 carburize
 cerebroscope
 cerebrose
-cyanoplatinous
 chargers
 calathisci
 cementer
@@ -9875,6 +9874,7 @@ chemistry
 chemists
 countess
 chemitypy
+cyanoplatinous
 cuppen
 clarice
 chancrous
