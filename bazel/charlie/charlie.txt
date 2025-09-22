@@ -580,7 +580,6 @@ chamaeprosopic
 capsicin
 cadweed
 chorioma
-circumvents
 competitorship
 cinerarium
 caracal
@@ -15670,6 +15669,7 @@ clausal
 clause
 clauses
 coattends
+circumvents
 craniotympanic
 cartilaginification
 clausthalite
