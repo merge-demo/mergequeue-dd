@@ -144,6 +144,7 @@ boolian
 bacin
 bourne
 botanomancy
+botryose
 bedrivelled
 banister
 booboos
@@ -10434,7 +10435,6 @@ bialys
 bridgetree
 begs
 blowth
-botryose
 blueweed
 boneset
 blarnid
