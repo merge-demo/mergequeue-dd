@@ -13024,7 +13024,6 @@ adornments
 animist
 aecium
 animistic
-articulare
 accretionary
 anesthetize
 amaltas
@@ -22399,6 +22398,7 @@ atelestite
 admittances
 attractively
 atelier
+articulare
 archetypical
 affeeror
 agentess
