@@ -3033,7 +3033,6 @@ desmosite
 daddock
 degradand
 defaces
-devide
 disennoble
 decongestive
 dwayberry
@@ -17351,6 +17350,7 @@ dorado
 drollishness
 dunkled
 denitrification
+devide
 dimin
 drome
 dromedarian
