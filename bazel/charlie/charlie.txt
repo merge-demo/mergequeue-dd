@@ -15128,7 +15128,6 @@ clacks
 clad
 confated
 cladanthous
-chromotypic
 cobnut
 couplet
 callosomarginal
@@ -30687,6 +30686,7 @@ czarian
 conners
 chiselling
 counterexplanation
+chromotypic
 couturire
 crenele
 compassment
