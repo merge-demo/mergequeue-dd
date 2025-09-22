@@ -2526,7 +2526,6 @@ actutate
 acrite
 arriswise
 alkylated
-acquiesce
 acanthopterous
 alginates
 acquiescement
@@ -7905,6 +7904,7 @@ acrosporous
 ambusher
 alfione
 affabrous
+acquiesce
 alrune
 airworthy
 arithmetically
