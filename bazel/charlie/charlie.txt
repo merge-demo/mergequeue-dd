@@ -19462,6 +19462,7 @@ cerotic
 castaways
 color
 creational
+cerithioid
 cycadaceous
 chinchier
 collumelliaceous
@@ -28284,7 +28285,6 @@ craniate
 crateriform
 cratering
 comatik
-cerithioid
 chromites
 curvilinear
 craterless
