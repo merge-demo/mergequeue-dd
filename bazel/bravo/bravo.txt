@@ -1628,6 +1628,7 @@ banneret
 brairding
 buccaneerish
 bestar
+bathorse
 bowshots
 blacklisting
 brahms
@@ -4761,7 +4762,6 @@ bearnaise
 beautiless
 brownly
 bedswerver
-bathorse
 blushy
 belast
 brachycardia

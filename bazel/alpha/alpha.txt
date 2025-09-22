@@ -16642,6 +16642,7 @@ abjudicating
 aphanitic
 acidulated
 armours
+arraign
 aphidlion
 aphidozer
 abecedarian
@@ -20053,7 +20054,6 @@ accessors
 array
 arrayal
 archmystagogue
-arraign
 arraignable
 atroce
 agaricales
