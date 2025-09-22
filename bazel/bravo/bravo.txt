@@ -10245,6 +10245,7 @@ bocaccio
 besprent
 blacksnake
 brahmaness
+burglarise
 bayadeer
 briefs
 bliaut
@@ -11151,7 +11152,6 @@ bestain
 blunker
 brawniest
 blackheartedness
-burglarise
 benevolently
 bloodlusting
 bourage
