@@ -9857,7 +9857,6 @@ besought
 broth
 bulgaric
 birred
-backswing
 bitterheartedness
 birdlife
 bitterishness
@@ -11220,6 +11219,7 @@ blooth
 blosmy
 bedights
 binocles
+backswing
 blotch
 beestride
 bizonia
