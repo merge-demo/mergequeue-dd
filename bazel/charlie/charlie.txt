@@ -30611,6 +30611,7 @@ case
 cachila
 cucule
 caryocar
+cursives
 chorook
 choregraphic
 cuculiformes
@@ -31530,7 +31531,6 @@ creirgist
 cursive
 cycad
 conveyal
-cursives
 chromosomes
 cursorary
 cundite
