@@ -308,7 +308,6 @@ backarrows
 bipartible
 backbar
 bedright
-birkenhead
 blurry
 bletherskate
 booter
@@ -4566,6 +4565,7 @@ blader
 bouts
 bucklered
 buchmanite
+birkenhead
 byordinar
 beddingroll
 bubble
