@@ -12995,6 +12995,7 @@ align
 animalivorous
 animalize
 animalized
+alloxans
 alethiologic
 atmidometer
 allergist
@@ -17590,7 +17591,6 @@ araneiformes
 antibalm
 agyrophobia
 applaudably
-alloxans
 ancyroid
 allicin
 applauders
