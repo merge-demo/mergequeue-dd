@@ -23964,6 +23964,7 @@ casinos
 chinoidine
 cladding
 contusion
+corsair
 choirwise
 contusioned
 contusions
@@ -25622,7 +25623,6 @@ corpulences
 coprah
 crewman
 clankum
-corsair
 cryesthesia
 compromises
 cheths
