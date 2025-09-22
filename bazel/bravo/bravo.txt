@@ -17014,6 +17014,7 @@ basecoat
 birchbark
 backwoodsman
 burghmote
+banked
 breadseller
 bacteric
 bombazeen
@@ -18312,7 +18313,6 @@ bluenosed
 brink
 brandyman
 buttoning
-banked
 beths
 blennuria
 brahmans
