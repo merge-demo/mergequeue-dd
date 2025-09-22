@@ -491,6 +491,7 @@ acidities
 agomphiasis
 abjurations
 abjurement
+acana
 abjurer
 actinophrys
 abjurers
@@ -1170,7 +1171,6 @@ agriculturally
 alkahests
 antislaveryism
 alchemising
-acana
 acanonical
 almoravide
 acanth
