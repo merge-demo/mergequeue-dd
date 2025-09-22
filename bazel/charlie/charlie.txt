@@ -705,6 +705,7 @@ choliambic
 cageyness
 categorically
 cephalata
+calycoideous
 cordylanthus
 circumspatial
 cageless
@@ -5250,7 +5251,6 @@ carpophore
 carinule
 cassocked
 carnaubyl
-calycoideous
 chlorioninae
 chevrony
 cuculine
