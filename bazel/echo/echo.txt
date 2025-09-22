@@ -1505,7 +1505,6 @@ egad
 elderlies
 eerock
 encyclopediac
-entomophilous
 egalitarians
 evected
 egality
@@ -1865,6 +1864,7 @@ endaseh
 everting
 evechurr
 endocarps
+entomophilous
 einkorn
 einsteinian
 equatability
