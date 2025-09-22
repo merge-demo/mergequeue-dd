@@ -9000,7 +9000,6 @@ allodium
 abhorring
 alky
 anemometric
-antacid
 alluvious
 assortative
 allwhere
@@ -21331,6 +21330,7 @@ amphithecial
 aspergilli
 amberlike
 anatira
+antacid
 afshah
 anthologise
 autosomally
