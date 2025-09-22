@@ -11387,7 +11387,6 @@ chiastic
 chloroplatinous
 creature
 cucullus
-coronas
 commendam
 cyclamates
 cloudlessly
@@ -28453,6 +28452,7 @@ coffeebush
 cognizability
 create
 coarcting
+coronas
 creates
 creatic
 codlin
