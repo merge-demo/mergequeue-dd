@@ -4983,7 +4983,6 @@ gunships
 grolier
 glebeless
 grippe
-gammed
 giulio
 gunhouse
 gynandrosporous
@@ -7779,6 +7778,7 @@ gala
 grallae
 geophone
 gegg
+gammed
 glagol
 groaners
 glutter
