@@ -1098,7 +1098,6 @@ brigantes
 beets
 baddishness
 baiocco
-berrylike
 bethinks
 bossies
 burel
@@ -3508,6 +3507,7 @@ batboy
 bicarpellary
 borolanite
 batboys
+berrylike
 breaming
 bumbass
 batcher
