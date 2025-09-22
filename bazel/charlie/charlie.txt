@@ -7731,7 +7731,6 @@ chessman
 ceroplastic
 coelosperm
 ceroplastics
-cyanocrystallin
 chastises
 cabas
 cerotypes
@@ -24064,6 +24063,7 @@ conventionalizes
 conventionally
 conventionary
 conventioneers
+cyanocrystallin
 countercoup
 conventioner
 copperworks
