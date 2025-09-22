@@ -1081,6 +1081,7 @@ coherently
 clothed
 cytherea
 cheeser
+catechist
 calciner
 chomer
 compasses
@@ -7242,7 +7243,6 @@ contributorily
 centro
 centroacinar
 crawful
-catechist
 canned
 centroids
 cyanophilous
