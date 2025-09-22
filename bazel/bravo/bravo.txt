@@ -7473,7 +7473,6 @@ bunchiest
 bewailers
 biding
 blowpit
-basnat
 beloam
 befringes
 begirding
@@ -8611,6 +8610,7 @@ balladeroyal
 babyfied
 believed
 bemusing
+basnat
 bourride
 beekite
 billowiest
