@@ -162,6 +162,7 @@ dewtry
 defog
 dimercurion
 deprivations
+decompressions
 dissatisfying
 droughty
 dimwittedly
@@ -7693,7 +7694,6 @@ development
 demiurge
 depthlessness
 developmental
-decompressions
 disavowment
 developmentarian
 dustpan
