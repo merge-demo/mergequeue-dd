@@ -14428,6 +14428,7 @@ anthropophagize
 anthropophilous
 anthropophobia
 apostematic
+aphenoscope
 anthroposociology
 altarlet
 adoretus
@@ -16627,7 +16628,6 @@ ambidextrous
 aphemic
 amphithalami
 aphengoscope
-aphenoscope
 apheresis
 asclepius
 asmile
