@@ -3956,7 +3956,6 @@ admittance
 angelocracy
 admittatur
 admitted
-astarte
 allocates
 admitters
 admixed
@@ -8351,6 +8350,7 @@ adaptable
 alarms
 alacreatinine
 alkalizer
+astarte
 aerophysicist
 antifrost
 alkaloid
