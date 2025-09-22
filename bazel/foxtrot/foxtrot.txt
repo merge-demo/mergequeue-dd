@@ -647,6 +647,7 @@ fauster
 frowstier
 flagmen
 falsity
+freeborn
 faltboat
 flugelmen
 faltere
@@ -9213,7 +9214,6 @@ fumously
 firebugs
 fertilising
 fascinatress
-freeborn
 fragmentariness
 fragmentist
 faucals
