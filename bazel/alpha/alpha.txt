@@ -8537,7 +8537,6 @@ australoid
 assegai
 alleys
 automatonlike
-alleyway
 alleyways
 anarchs
 adjoins
@@ -24843,6 +24842,7 @@ autocoherer
 astrict
 aeolina
 acknown
+alleyway
 attractableness
 aromas
 antinoness
