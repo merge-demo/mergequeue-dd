@@ -16762,7 +16762,6 @@ cire
 clothiers
 clothings
 catharpin
-chreotechnics
 crimpling
 clots
 comique
@@ -18449,6 +18448,7 @@ curdier
 cinnamyls
 chuncho
 crookeries
+chreotechnics
 centime
 comaking
 cognacs
