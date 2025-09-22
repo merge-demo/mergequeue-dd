@@ -12721,7 +12721,6 @@ dimeter
 depurate
 dunches
 drink
-dustcoat
 dacryoadenitis
 dialysing
 decodings
@@ -15790,6 +15789,7 @@ denazifies
 disfavorer
 discovers
 doest
+dustcoat
 diabetical
 dorask
 dorbeetle
