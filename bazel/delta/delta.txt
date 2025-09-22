@@ -3635,7 +3635,6 @@ discontinuable
 decimalisation
 degraduate
 degravate
-demipike
 depurition
 dysrhythmia
 degreaser
@@ -9232,6 +9231,7 @@ dyeings
 declaiming
 dieldrin
 decahedrodra
+demipike
 disappointment
 dieldrins
 discounsel
