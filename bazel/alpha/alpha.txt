@@ -5542,7 +5542,6 @@ adiposes
 adulter
 amphiploid
 awning
-agamemnon
 agamy
 ascigerous
 ardency
@@ -12374,6 +12373,7 @@ anticonformities
 avera
 allecret
 affined
+agamemnon
 abrocoma
 apaturia
 attask
