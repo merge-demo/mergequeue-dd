@@ -6042,7 +6042,6 @@ catoblepas
 catocarthartic
 catoctin
 catogenic
-catonian
 cheesemongerly
 catonically
 catoptric
@@ -24078,6 +24077,7 @@ convergence
 coiling
 convergences
 convergency
+catonian
 columbary
 camponotus
 calycate
