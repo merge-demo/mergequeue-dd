@@ -1332,6 +1332,7 @@ effeminise
 especial
 elemin
 eelspear
+excursiveness
 effeminising
 effeminize
 effeminizing
@@ -12133,7 +12134,6 @@ eg
 eyelike
 epural
 excursionist
-excursiveness
 enterate
 excurvated
 extrados

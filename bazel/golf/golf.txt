@@ -810,6 +810,7 @@ goldenrods
 gyppo
 gletty
 galoots
+gurnetty
 granose
 ginney
 gravicembali
@@ -1003,7 +1004,6 @@ gangava
 ghassanid
 goadlike
 gilse
-gurnetty
 granitizing
 gnomons
 geophilous
