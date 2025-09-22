@@ -21889,6 +21889,7 @@ anisometropic
 accrete
 agricultor
 astare
+autoradiogram
 argillite
 auteurism
 automanipulation
@@ -24282,7 +24283,6 @@ antiscientific
 anodendron
 aquaducts
 autoracemization
-autoradiogram
 autoradiograph
 autoreflection
 allopurinol
