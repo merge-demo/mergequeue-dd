@@ -17376,7 +17376,6 @@ appalls
 appanage
 argand
 arthrostraca
-appanaged
 abusage
 adsbud
 accidentary
@@ -22098,6 +22097,7 @@ astraeiform
 aneuria
 ateuchus
 astragali
+appanaged
 anathem
 angstrom
 astragalocalcaneal

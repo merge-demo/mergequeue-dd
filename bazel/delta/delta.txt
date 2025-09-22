@@ -11168,7 +11168,6 @@ dyslectic
 deactivations
 dismask
 dogmatist
-divinities
 devvel
 djins
 dreamers
@@ -18527,6 +18526,7 @@ dehydrosparteine
 dynasties
 dendrocoelan
 dustwoman
+divinities
 decenniad
 diocesans
 declassifies
