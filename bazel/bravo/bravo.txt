@@ -5754,6 +5754,7 @@ bandstop
 biotomy
 bellyached
 boardwalk
+barraged
 bismethyl
 beechdrops
 bureaucracy
@@ -17477,7 +17478,6 @@ basipoditic
 bluethroat
 bezil
 burweeds
-barraged
 bricklay
 billycans
 bureaucratization
