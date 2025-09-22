@@ -4144,7 +4144,6 @@ bolstering
 buoyantness
 brinsell
 beastlily
-beclown
 barrow
 bradypus
 beastling
@@ -11185,6 +11184,7 @@ biquadratic
 bloodworthy
 blearily
 butenyl
+beclown
 blooey
 bloomed
 bloomeries
