@@ -10795,7 +10795,6 @@ bacury
 blepharoplastic
 bangboard
 blepharosynechia
-bulldoggy
 blepharostenosis
 beeswing
 blepharotomy
@@ -13355,6 +13354,7 @@ beglitter
 becrimson
 bedunch
 botella
+bulldoggy
 becobweb
 botels
 bradyphagia
