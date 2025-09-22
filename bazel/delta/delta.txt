@@ -16347,7 +16347,6 @@ downlink
 discharacter
 downness
 dissidently
-dvaita
 downpipe
 downplay
 disagreeable
@@ -17142,6 +17141,7 @@ diclinies
 disrange
 datacell
 disaffected
+dvaita
 danebrog
 daggerlike
 divi
