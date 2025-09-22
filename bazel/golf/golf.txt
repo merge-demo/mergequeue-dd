@@ -2082,7 +2082,6 @@ gawk
 gratingly
 gozzard
 gerberia
-guerillaism
 geobotanist
 galvanizer
 gerontes
@@ -6970,6 +6969,7 @@ geir
 gallerian
 gunpowdery
 gapes
+guerillaism
 glad
 gossipry
 garrat
