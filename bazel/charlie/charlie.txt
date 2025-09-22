@@ -2829,6 +2829,7 @@ cuerpo
 carven
 canones
 canonicalization
+canorousness
 compte
 catheterising
 cinctures
@@ -22052,7 +22053,6 @@ coppa
 carbodiimide
 confidingly
 cessation
-canorousness
 confidingness
 configural
 canteens
