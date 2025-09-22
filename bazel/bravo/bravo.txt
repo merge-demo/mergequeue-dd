@@ -7836,7 +7836,6 @@ baldcrown
 baldachinos
 blenchingly
 bibliomane
-brontometer
 biosterol
 bams
 bibliomania
@@ -9925,6 +9924,7 @@ bucking
 biologists
 bosonic
 bultong
+brontometer
 balustraded
 buddled
 baresma

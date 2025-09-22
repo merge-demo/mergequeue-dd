@@ -8026,6 +8026,7 @@ dimensive
 dookit
 daemonic
 delicatessens
+downcurved
 designee
 dulcet
 dionaea
@@ -10248,7 +10249,6 @@ dedicates
 disseated
 dioctophyme
 devilize
-downcurved
 dubitable
 deave
 defaulting
