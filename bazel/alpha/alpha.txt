@@ -1595,6 +1595,7 @@ acronymically
 administrators
 archpresbyter
 anhinga
+arenaria
 accreditations
 accrediting
 absentmindedness
@@ -19147,7 +19148,6 @@ areg
 allotter
 areic
 arena
-arenaria
 animatograph
 annam
 auditives
