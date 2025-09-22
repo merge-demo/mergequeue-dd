@@ -12606,6 +12606,7 @@ chantecler
 cercle
 cafetiere
 chronologizing
+calembour
 cerrial
 chronomantic
 chronomastix
@@ -24593,7 +24594,6 @@ copycats
 cavillers
 citywide
 creedite
-calembour
 celioenterotomy
 ctenacanthus
 copydesk
