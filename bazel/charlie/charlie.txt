@@ -407,6 +407,7 @@ coombs
 consonantize
 conceptualizations
 chiefer
+callithrix
 cellulipetally
 coffret
 caraho
@@ -1520,7 +1521,6 @@ communising
 commensuration
 chemostat
 callisto
-callithrix
 callithump
 collegiant
 corruptibilities
