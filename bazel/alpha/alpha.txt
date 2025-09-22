@@ -16855,7 +16855,6 @@ aerogeography
 autoregulatory
 amphorette
 aplanatic
-aplanatism
 alginic
 ately
 aluminography
@@ -20868,6 +20867,7 @@ ascensions
 arenae
 ackee
 ascertain
+aplanatism
 accomplishable
 ascertainably
 ascescency
