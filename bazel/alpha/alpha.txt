@@ -9511,7 +9511,6 @@ alulim
 agrom
 angas
 alumic
-abbreviatory
 alumiferous
 affinition
 adiposogenital
@@ -21694,6 +21693,7 @@ assify
 assign
 absorbedness
 assignability
+abbreviatory
 astrodynamics
 archelon
 atoningly
