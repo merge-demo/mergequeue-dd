@@ -22395,7 +22395,6 @@ advices
 ateles
 autotomising
 antimensium
-anaglyptics
 aire
 acreak
 amnemonic
@@ -22823,6 +22822,7 @@ antimaterialism
 assessionary
 apsides
 apollonicon
+anaglyptics
 assidaean
 atrolactic
 amphispore
