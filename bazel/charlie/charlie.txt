@@ -8213,7 +8213,6 @@ cranreuch
 chal
 czechish
 chalaco
-crispation
 cyclopic
 cellarous
 chalastogastra
@@ -29783,6 +29782,7 @@ cronyism
 catholicity
 caulote
 contraindication
+crispation
 comorado
 colleagued
 chimerically
