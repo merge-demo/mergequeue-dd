@@ -227,7 +227,6 @@ abbotric
 allokinesis
 abscision
 alchemistical
-assigners
 absorptiometric
 abbott
 adcon
@@ -5132,6 +5131,7 @@ affiliating
 atramentous
 apery
 aeoline
+assigners
 ampitheater
 attackable
 arteria

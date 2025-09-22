@@ -19373,6 +19373,7 @@ colonelships
 conductorless
 coloner
 colongitude
+cubbyhouse
 cyder
 cowpony
 colony
@@ -30492,7 +30493,6 @@ conciliar
 cubby
 cronie
 cavin
-cubbyhouse
 ciphertexts
 codein
 calycli
