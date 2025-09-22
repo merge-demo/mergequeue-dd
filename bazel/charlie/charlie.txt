@@ -7808,6 +7808,7 @@ costean
 cerumniparous
 chemoautotrophy
 clorinator
+chararas
 counterdrive
 conceived
 cerussite
@@ -25094,7 +25095,6 @@ cowbrute
 crocks
 complacential
 coreplastic
-chararas
 corepressor
 cubas
 craniologically
