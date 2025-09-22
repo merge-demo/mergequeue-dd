@@ -13413,7 +13413,6 @@ beothuk
 bunched
 botling
 bidders
-broadthroat
 botone
 bourgeoned
 backwards
@@ -13703,6 +13702,7 @@ balija
 bouldery
 bouser
 bagio
+broadthroat
 bousouki
 bousoukia
 bare
