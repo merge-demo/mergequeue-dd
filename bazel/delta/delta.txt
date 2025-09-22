@@ -1813,7 +1813,6 @@ droppers
 dripper
 disserting
 diplanetic
-detubation
 duped
 diffusely
 debilitate
@@ -16359,6 +16358,7 @@ downplay
 disagreeable
 douche
 dotty
+detubation
 downright
 diosmotic
 discredits
