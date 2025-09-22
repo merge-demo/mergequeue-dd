@@ -3551,6 +3551,7 @@ capulin
 caput
 caputium
 caque
+counterstratagem
 counterstrike
 condemnor
 cooping
@@ -27140,7 +27141,6 @@ counterstimulation
 counterstimulus
 cacumination
 counterstock
-counterstratagem
 cindie
 cyclopoid
 clientless
