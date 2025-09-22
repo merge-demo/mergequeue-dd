@@ -5262,7 +5262,6 @@ dialogistic
 dredger
 diacetonuria
 deliberalize
-denseness
 disqualifications
 didelphic
 desmodactyli
@@ -11916,6 +11915,7 @@ depravement
 defrock
 dramatizes
 disdein
+denseness
 downrange
 discoglossoid
 domes
