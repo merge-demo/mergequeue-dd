@@ -7577,6 +7577,7 @@ analyticities
 airward
 adnascence
 angustia
+antum
 alcumy
 ald
 adoors
@@ -16335,7 +16336,6 @@ ardurous
 accentus
 altarist
 alkargen
-antum
 adversing
 ambulatio
 antwerp
