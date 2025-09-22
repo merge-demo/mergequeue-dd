@@ -8275,7 +8275,6 @@ chalcone
 contradictiously
 chalcopyrite
 chalcosiderite
-crocodilite
 coween
 canadianisms
 curdles
@@ -23366,6 +23365,7 @@ cephalopodous
 consultary
 consultatively
 cadouk
+crocodilite
 clarksville
 coumarin
 closets
