@@ -12454,7 +12454,6 @@ chromizes
 caswellite
 chromocyte
 chromocollograph
-cysticercerci
 circling
 chromocollotype
 chromocratic
@@ -21239,6 +21238,7 @@ concolor
 chemicobiological
 conicities
 choosier
+cysticercerci
 carduelis
 concentrated
 concentrates
