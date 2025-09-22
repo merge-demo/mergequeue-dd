@@ -5329,6 +5329,7 @@ castanopsis
 cor
 castanospermum
 casted
+chathamites
 crankled
 creditabilities
 createdness
@@ -9256,7 +9257,6 @@ chatelaines
 chemotherapists
 corrosionproof
 conceive
-chathamites
 chatoyant
 carpophyll
 curved
