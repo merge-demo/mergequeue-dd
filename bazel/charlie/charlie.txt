@@ -23698,7 +23698,6 @@ courteous
 contr
 contrabandage
 chirpling
-causticiser
 contrabandista
 corrodentia
 carroccio
@@ -24770,6 +24769,7 @@ copular
 conceivable
 carnel
 carolinas
+causticiser
 copulation
 copulative
 colorum
