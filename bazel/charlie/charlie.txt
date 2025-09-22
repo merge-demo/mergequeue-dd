@@ -6587,6 +6587,7 @@ cecal
 checkmated
 crewellery
 cecally
+chimalapa
 cecidiologist
 checkweigher
 cacafugo
@@ -9800,7 +9801,6 @@ chrematistics
 ceylon
 caudate
 cheliform
-chimalapa
 chelinga
 curua
 chelingas

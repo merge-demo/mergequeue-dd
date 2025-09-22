@@ -798,6 +798,7 @@ gonia
 goldbeater
 gambe
 gourmanderie
+galavant
 gambeered
 glauke
 greenlandite
@@ -1597,7 +1598,6 @@ guiltily
 gunz
 goodeniaceous
 geulah
-galavant
 glottic
 gasteromycetous
 giraffine
