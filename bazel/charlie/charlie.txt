@@ -2576,6 +2576,7 @@ chlorotrifluoromethane
 catalan
 cytoblastemic
 culturologist
+chemiluminescent
 candroys
 camphires
 censuses
@@ -7722,7 +7723,6 @@ checkout
 commotive
 centunculus
 casuarinales
-chemiluminescent
 coinhering
 charkhas
 capromys
