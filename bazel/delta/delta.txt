@@ -10560,6 +10560,7 @@ drearies
 decorticate
 disagglomeration
 despotist
+distn
 dames
 diplogenesis
 diagonalize
@@ -13936,7 +13937,6 @@ diagonal
 diplococci
 dictyoxylon
 depolymerization
-distn
 dystocia
 dourade
 diagenesis
