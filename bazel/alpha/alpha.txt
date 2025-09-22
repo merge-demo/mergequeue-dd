@@ -4400,7 +4400,6 @@ advertence
 advertently
 adverting
 advertiser
-advertisers
 achlamydeae
 adamitical
 albication
@@ -17080,6 +17079,7 @@ apologiae
 asarone
 apological
 apologies
+advertisers
 ambiversion
 apologised
 adenogenesis
