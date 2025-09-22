@@ -8966,6 +8966,7 @@ bioluminescence
 bewhite
 biggest
 bacterioagglutinin
+babongo
 biomathematics
 bromism
 bets
@@ -17323,7 +17324,6 @@ busser
 bothros
 blepharosyndesmitis
 brownish
-babongo
 bradysphygmia
 bunk
 belinurus
