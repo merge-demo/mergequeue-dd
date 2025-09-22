@@ -4349,6 +4349,7 @@ calculary
 criticizer
 cosmetologist
 calandridae
+costrel
 clothlike
 coheartedness
 cusec
@@ -4957,7 +4958,6 @@ cartouche
 castigable
 curmudgeon
 cust
-costrel
 chiclero
 curcuma
 canalman
