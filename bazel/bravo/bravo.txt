@@ -4134,7 +4134,6 @@ birdwatch
 bagwigs
 bearward
 bearwort
-beasthood
 bacons
 baniwa
 bentwoods
@@ -7100,6 +7099,7 @@ belligerencies
 bestiarianism
 bacteriemia
 bernicles
+beasthood
 bierstube
 bestand
 brogues
