@@ -12995,7 +12995,6 @@ bruchidae
 bueno
 barbecued
 bombarde
-bibles
 baptismally
 baiginet
 balsamous
@@ -14842,6 +14841,7 @@ breaklist
 basilica
 buttercup
 breakout
+bibles
 breakpoint
 bricktimber
 biophilous
