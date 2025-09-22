@@ -10410,7 +10410,6 @@ chieftains
 candlelighted
 cracknels
 chiefty
-chiel
 conversi
 closeout
 coapts
@@ -19823,6 +19822,7 @@ combating
 combative
 combativeness
 comedos
+chiel
 chrysanthemum
 crokinole
 carbone
