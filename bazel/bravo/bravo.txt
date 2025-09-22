@@ -2307,6 +2307,7 @@ bushwhack
 benefice
 bulldoze
 bartholomite
+bellicist
 baobab
 babylonish
 biasways
@@ -5776,7 +5777,6 @@ bldg
 bricks
 beyonds
 blusterous
-bellicist
 bromometry
 bs
 buildress
