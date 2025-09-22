@@ -4090,7 +4090,6 @@ adoratory
 assizement
 adorer
 acentric
-adorers
 apophlegmatism
 agariciform
 albanite
@@ -7585,6 +7584,7 @@ antum
 alcumy
 ald
 adoors
+adorers
 alands
 aldea
 adrenitis
