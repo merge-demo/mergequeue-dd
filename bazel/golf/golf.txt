@@ -4943,6 +4943,7 @@ glamors
 geldable
 granddada
 granita
+garbing
 gainst
 growze
 gauziest
@@ -6383,7 +6384,6 @@ gaudful
 grasswidowhood
 goitrogenic
 galibi
-garbing
 glossopteris
 golaseccan
 glassman
