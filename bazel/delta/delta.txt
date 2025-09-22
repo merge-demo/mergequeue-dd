@@ -7752,6 +7752,7 @@ duits
 defuse
 devilfish
 djalmaite
+darkeners
 dorsoventrad
 decelerators
 devily
@@ -15175,7 +15176,6 @@ decussorium
 dressoirs
 dogmatizer
 denierage
-darkeners
 dowdiness
 desmid
 doctorship
