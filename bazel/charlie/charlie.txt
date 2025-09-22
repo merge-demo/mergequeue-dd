@@ -8800,7 +8800,6 @@ chapitral
 chaplain
 concolour
 canulated
-chaplaincies
 curiboca
 cosmotheist
 carpocapsa
@@ -16608,6 +16607,7 @@ clap
 cloistering
 comal
 carnalized
+chaplaincies
 croupes
 cloisterly
 carburization
