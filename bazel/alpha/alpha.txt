@@ -6673,6 +6673,7 @@ alloiometric
 airlifting
 airlifts
 archpretender
+annoyingly
 arbalestre
 airlines
 airling
@@ -13377,7 +13378,6 @@ anticonscription
 autostandardization
 annoyer
 adventurers
-annoyingly
 aggrace
 authigenic
 affranchised

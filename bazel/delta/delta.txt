@@ -6945,6 +6945,7 @@ dishcloths
 dunk
 despecification
 drosograph
+droplike
 desperado
 darky
 dioptre
@@ -10933,7 +10934,6 @@ dromons
 disaccredit
 deployed
 disannuller
-droplike
 diclytra
 disunionism
 duckfooted
