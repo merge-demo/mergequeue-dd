@@ -11345,7 +11345,6 @@ advantaged
 alterations
 acrostical
 appertains
-apiphobia
 abmhos
 amsath
 autolysis
@@ -23862,6 +23861,7 @@ afterbay
 autocarpian
 achatinella
 amortized
+apiphobia
 attingence
 autocarpic
 antiphthisic
