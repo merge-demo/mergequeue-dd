@@ -2824,6 +2824,7 @@ dynatron
 decumanus
 daphnin
 dolomitised
+digenesis
 diskos
 discordia
 denicotinized
@@ -9176,7 +9177,6 @@ dispraiser
 doraphobia
 doughlike
 degreasing
-digenesis
 dye
 dogship
 drumloidal
