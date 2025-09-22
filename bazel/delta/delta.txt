@@ -6223,7 +6223,6 @@ damascened
 digametic
 dermabrasion
 dithyramb
-degrades
 dements
 dissheathe
 disbenchment
@@ -11816,6 +11815,7 @@ deputized
 drengh
 dormitary
 discrowns
+degrades
 doa
 daydreamed
 devitalised
