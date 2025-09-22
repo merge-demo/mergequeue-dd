@@ -2443,6 +2443,7 @@ acomous
 abolitionists
 aconative
 acari
+ailurophobe
 avertive
 acondylose
 artisan
@@ -11705,7 +11706,6 @@ areality
 analyze
 analyzed
 anarchically
-ailurophobe
 acetyliodide
 avulse
 antiaristocratic
