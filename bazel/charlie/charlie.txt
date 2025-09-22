@@ -5418,7 +5418,6 @@ communism
 castlewards
 castlewise
 clepes
-castoffs
 coldly
 castoreum
 chilloes
@@ -30802,6 +30801,7 @@ cullage
 calyptra
 crackerberries
 cullas
+castoffs
 carroty
 cytotechnology
 colonialization
