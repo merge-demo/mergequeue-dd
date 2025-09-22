@@ -8845,6 +8845,7 @@ cymbalaria
 chapter
 canonries
 christianism
+compered
 chapterhouse
 cardinalates
 chapwoman
@@ -29984,7 +29985,6 @@ canidae
 crotch
 cordonnet
 citicism
-compered
 crotcheteer
 civilisedness
 crenature
