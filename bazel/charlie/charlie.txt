@@ -16692,6 +16692,7 @@ cyanosis
 clem
 conglution
 closehanded
+correctory
 cardiodysesthesia
 colombier
 conceitedness
@@ -25665,7 +25666,6 @@ computers
 convincers
 cyanogenic
 circumvolant
-correctory
 chignon
 centals
 constitutive
