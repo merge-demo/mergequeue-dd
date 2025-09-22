@@ -3750,7 +3750,6 @@ blastomeric
 batwing
 baysmelt
 betatrons
-brevipennate
 busing
 balneal
 bajra
@@ -9062,6 +9061,7 @@ baradari
 bicalcarate
 biosystematy
 basiotribe
+brevipennate
 byssine
 bighted
 biosystematic
