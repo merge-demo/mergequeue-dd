@@ -2632,6 +2632,7 @@ caner
 camelopardel
 canes
 canescence
+cumberlandite
 canescent
 chaetetes
 conversationalist
@@ -6268,7 +6269,6 @@ candelas
 copalms
 catochus
 coheaded
-cumberlandite
 collective
 cestos
 cetiosauria
