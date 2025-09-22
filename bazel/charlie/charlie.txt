@@ -20307,7 +20307,6 @@ commodes
 cheesemongering
 cionotomy
 crassula
-chalcolite
 chicagoans
 copaiba
 charivan
@@ -25342,6 +25341,7 @@ cornerback
 cornerer
 cornering
 crang
+chalcolite
 cornerstone
 cornet
 cornetcy
