@@ -1865,7 +1865,6 @@ acetylbenzene
 arctisca
 apersee
 acetylcellulose
-allosteric
 antietam
 albitical
 admiralships
@@ -22131,6 +22130,7 @@ abdomen
 antiquarium
 anastomoses
 abetted
+allosteric
 attestations
 agencies
 alecize
