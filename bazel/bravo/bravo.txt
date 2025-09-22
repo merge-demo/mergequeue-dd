@@ -5818,6 +5818,7 @@ bailiff
 bellota
 bidactyle
 brownwort
+bleacherman
 beefs
 beerocracy
 bellowsful
@@ -6878,7 +6879,6 @@ birdeen
 batching
 brachinus
 benefitting
-bleacherman
 bonbons
 beastbane
 bewildering
