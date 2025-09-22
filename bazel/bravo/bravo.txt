@@ -2014,7 +2014,6 @@ begrown
 backlist
 banjuke
 bathymetry
-beflecking
 bank
 barblet
 bankalachi
@@ -8180,6 +8179,7 @@ bathyorographical
 battailous
 bluebuck
 biethnic
+beflecking
 baryes
 burden
 byeworkman
