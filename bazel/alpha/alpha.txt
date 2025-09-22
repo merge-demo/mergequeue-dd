@@ -11505,7 +11505,6 @@ anacid
 alienors
 astuteness
 acronyc
-anacidity
 alarmingly
 atonal
 anaclastics
@@ -18355,6 +18354,7 @@ arbitry
 anagyrin
 affying
 abbotcies
+anacidity
 appendant
 arboloco
 amalgamable

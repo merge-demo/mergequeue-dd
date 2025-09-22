@@ -1682,7 +1682,6 @@ dwalm
 deamination
 debited
 deammonation
-deyship
 deashing
 dichastic
 demarks
@@ -10997,6 +10996,7 @@ dithiobenzoic
 duoliteral
 dire
 discongruity
+deyship
 durindana
 dacron
 deoxyribonuclease
