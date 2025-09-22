@@ -11214,7 +11214,6 @@ chlorenchyma
 climbingfish
 coassistance
 chlorguanide
-chlorhexidine
 chlorhydric
 cinerea
 coercibility
@@ -18502,6 +18501,7 @@ cognizor
 cognomens
 cementitious
 carnally
+chlorhexidine
 chastenment
 censor
 cathedral

@@ -4714,7 +4714,6 @@ baldling
 blast
 bedribble
 burglarizes
-benign
 barque
 bibracteate
 billfold
@@ -11219,6 +11218,7 @@ bicyclists
 boomage
 boththridia
 blossoms
+benign
 bloopers
 blooth
 blosmy
