@@ -6646,7 +6646,6 @@ giantism
 gastroscopies
 graptolithida
 gallflies
-gimlets
 gayway
 garce
 guarnieri
@@ -10474,6 +10473,7 @@ glutei
 graylings
 gastrin
 goli
+gimlets
 gusher
 glumaceous
 gulfwards
