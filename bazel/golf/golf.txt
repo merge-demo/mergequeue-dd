@@ -4087,6 +4087,7 @@ gimleting
 gesnerad
 geotaxes
 gettysburg
+gravelweed
 gargoyle
 genetor
 grimoire
@@ -5986,7 +5987,6 @@ graspless
 gnarls
 gaidropsaridae
 gnetaceae
-gravelweed
 geminative
 gutturonasal
 gingerly
