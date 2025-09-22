@@ -11108,7 +11108,6 @@ artefact
 acoustical
 amphichromy
 amphicyon
-apocryphal
 abelicea
 apickpack
 achillobursitis
@@ -12903,6 +12902,7 @@ anhydroxime
 aponogeton
 antinovels
 ancillas
+apocryphal
 assagaiing
 anakinetic
 afforestment
