@@ -13807,7 +13807,6 @@ doable
 dressership
 distancy
 dissimilar
-diabolarchy
 distannic
 dozenth
 distaste
@@ -17497,6 +17496,7 @@ delphacid
 determinacy
 desectionalize
 definitude
+diabolarchy
 dimidiate
 demonstrational
 dhobi
