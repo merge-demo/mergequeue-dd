@@ -13937,6 +13937,7 @@ becluster
 boxing
 beatitude
 boxman
+bullion
 bickiron
 boxroom
 belimousined
@@ -17055,7 +17056,6 @@ bezaleel
 bombards
 bimetallist
 badaxe
-bullion
 balkanization
 bullyrag
 butcherly
