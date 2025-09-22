@@ -2864,7 +2864,6 @@ braca
 battener
 bravoing
 bowle
-berrypicker
 blindingly
 blazonries
 bacchanalianism
@@ -5159,6 +5158,7 @@ bathmism
 budgets
 beardfish
 befriender
+berrypicker
 beaconage
 benignly
 balanoblennorrhea
