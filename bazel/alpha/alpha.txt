@@ -790,6 +790,7 @@ absampere
 awanting
 ambiguities
 absaroka
+aspersoir
 allergy
 assertors
 acesodyne
@@ -21376,7 +21377,6 @@ allagophyllous
 ameed
 anaglypton
 aspersively
-aspersoir
 anthonomus
 aspersoriums
 asperula
