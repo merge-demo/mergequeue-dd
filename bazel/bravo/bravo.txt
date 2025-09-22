@@ -6978,6 +6978,7 @@ baccae
 bussings
 belletrist
 borachio
+babesiosis
 boppers
 besoot
 burelle
@@ -10154,7 +10155,6 @@ bos
 buckwasher
 bezette
 bechalks
-babesiosis
 bleachability
 beglads
 bendsome
