@@ -4682,7 +4682,6 @@ catchall
 cacodemoniac
 chigetais
 champerty
-cebur
 coumarou
 chlamydospore
 cactal
@@ -20665,6 +20664,7 @@ cowhouse
 compensated
 capitalized
 compensates
+cebur
 cerrero
 compensatingly
 cypruses
