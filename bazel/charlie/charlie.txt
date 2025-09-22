@@ -6949,7 +6949,6 @@ cementoblast
 cementoma
 chord
 commendation
-cemetaries
 creamed
 cemetery
 copesettic
@@ -14818,6 +14817,7 @@ copremia
 cytoarchitectural
 cablese
 clinician
+cemetaries
 cytoblastemal
 colportage
 caseless
