@@ -3777,6 +3777,7 @@ discind
 dawcock
 demonetise
 drabness
+digestibility
 deign
 dreamsiness
 disunities
@@ -6734,7 +6735,6 @@ delibate
 destitutely
 discerptible
 dogmatizing
-digestibility
 donicker
 designful
 danaidean
