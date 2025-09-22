@@ -7534,6 +7534,7 @@ bridgeway
 bibliotaphe
 bewilderment
 bewitched
+beguileful
 bewitcher
 bondswomen
 beaverpelt
@@ -12085,7 +12086,6 @@ blousiest
 byrnies
 barrat
 boldacious
-beguileful
 ballyhooed
 brooks
 bostrychoid
