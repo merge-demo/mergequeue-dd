@@ -6655,7 +6655,6 @@ draughtswoman
 desertification
 deserting
 desertism
-diastimeter
 disintensify
 damndest
 desertlessly
@@ -15558,6 +15557,7 @@ donable
 druses
 dethroner
 dracin
+diastimeter
 detergence
 discodactyl
 decongestants

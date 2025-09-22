@@ -2731,7 +2731,6 @@ fezziwig
 folklore
 faunas
 framing
-fedity
 fictionize
 fascis
 foliolate
@@ -4950,6 +4949,7 @@ fraunch
 flameout
 foreappoint
 fourflushers
+fedity
 flameouts
 fictileness
 forbiddingness
