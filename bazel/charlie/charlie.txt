@@ -13559,7 +13559,6 @@ caribous
 colament
 cymaise
 cort
-calorisator
 caloricity
 cathartically
 cymaphyte
@@ -21780,6 +21779,7 @@ clubbers
 cartonniers
 conditioner
 copyists
+calorisator
 champagne
 conditions
 condititivia
