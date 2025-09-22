@@ -5292,7 +5292,6 @@ diatomaceoid
 detestable
 detinue
 dentale
-dilettanteish
 degressively
 disher
 darkener
@@ -14621,6 +14620,7 @@ ducktails
 depths
 diemakers
 dicyandiamide
+dilettanteish
 divisions
 doorplate
 deconsecration
