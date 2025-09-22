@@ -4164,6 +4164,7 @@ demibrassart
 downriver
 disincorporate
 diolefin
+decametric
 daurna
 disoperation
 decistere
@@ -11679,7 +11680,6 @@ despiting
 disarranger
 decompensates
 drunkery
-decametric
 discour
 dimethylanthranilate
 dermatozoon
