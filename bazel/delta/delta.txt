@@ -6203,7 +6203,6 @@ did
 demidog
 dimerizes
 derisively
-derisiveness
 derival
 danced
 dendrogaea
@@ -10195,6 +10194,7 @@ dimethoxy
 dulcely
 dinitrate
 dink
+derisiveness
 dinka
 decatizing
 delitescency
