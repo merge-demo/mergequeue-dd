@@ -3682,6 +3682,7 @@ dowlas
 daytale
 dehydrocorticosterone
 drabble
+deescalation
 diploes
 dehydrogenate
 dawtet
@@ -15801,7 +15802,6 @@ denunciation
 desilicating
 denunciator
 dissoluteness
-deescalation
 dewools
 disbuds
 duellistic
