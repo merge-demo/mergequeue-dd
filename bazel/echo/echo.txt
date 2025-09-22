@@ -434,6 +434,7 @@ exacerbation
 ergometer
 ebullioscopic
 ethenic
+epilatory
 epaxially
 excuse
 exarchies
@@ -3616,7 +3617,6 @@ ejector
 expellant
 edna
 egads
-epilatory
 eleutherism
 electrocuted
 ennoic

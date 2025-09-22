@@ -1445,7 +1445,6 @@ gulfy
 grosgrained
 gainward
 glossarial
-gidjee
 garnishee
 glovemaker
 gadaba
@@ -6085,6 +6084,7 @@ gyrous
 gurniad
 genuflections
 gliosis
+gidjee
 gastroid
 geissorhiza
 garish
