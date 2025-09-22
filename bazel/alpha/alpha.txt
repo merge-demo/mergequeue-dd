@@ -9399,6 +9399,7 @@ abets
 alternatingly
 aleutite
 autotractor
+afflicter
 animals
 amuze
 acinarious
@@ -20625,7 +20626,6 @@ artifactitious
 artifacts
 artifex
 advocatrix
-afflicter
 aerobiology
 artificial
 adverted
