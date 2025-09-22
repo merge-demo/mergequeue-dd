@@ -8463,7 +8463,6 @@ beshrouded
 bastinadoing
 benzophenothiazine
 bimbashi
-barrelhead
 bedchair
 batak
 bilifuscin
@@ -10628,6 +10627,7 @@ bhava
 belt
 bouleuteria
 brotulid
+barrelhead
 bleeze
 begarnish
 blearing
