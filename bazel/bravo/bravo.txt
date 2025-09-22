@@ -3435,6 +3435,7 @@ biggah
 bastinado
 bastings
 blendure
+beswarmed
 badgerly
 bastions
 bacilli
@@ -12361,7 +12362,6 @@ bombora
 bagie
 belfather
 blackgum
-beswarmed
 bombardelle
 banga
 beloveds
