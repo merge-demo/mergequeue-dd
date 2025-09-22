@@ -4710,7 +4710,6 @@ burglarizes
 barque
 bibracteate
 billfold
-buckrams
 bloodstones
 barbarize
 burking
@@ -5753,6 +5752,7 @@ bugled
 bascule
 bimillenium
 biremes
+buckrams
 butlerism
 bandstop
 biotomy
