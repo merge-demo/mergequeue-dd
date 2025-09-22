@@ -1719,6 +1719,7 @@ accusatrix
 archiereus
 accuse
 amakosa
+anisil
 agonistic
 amidships
 amorphousness
@@ -7517,7 +7518,6 @@ alcyone
 alcyoniaceae
 alcyonic
 absorbencies
-anisil
 alcyonium
 asthenies
 alcippe
