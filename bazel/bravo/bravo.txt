@@ -4275,7 +4275,6 @@ bushwood
 blubbers
 bushbodies
 burrgrailer
-boebera
 becall
 becalm
 biaural
@@ -15427,6 +15426,7 @@ bemuck
 buttwomen
 balut
 boondoggle
+boebera
 bestreak
 bromidic
 bionts
