@@ -9150,7 +9150,6 @@ digerent
 didie
 didies
 defamed
-didym
 devirgination
 despraise
 depressives
@@ -18536,6 +18535,7 @@ disownable
 durbars
 dissonate
 downstream
+didym
 dured
 diaplex
 drugman
