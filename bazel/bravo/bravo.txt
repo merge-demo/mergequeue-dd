@@ -6736,7 +6736,6 @@ bronzelike
 bilic
 berwick
 boldness
-bummaree
 boophilus
 bowditch
 burley
@@ -11352,6 +11351,7 @@ baa
 bogydom
 bluebell
 buffe
+bummaree
 belve
 breadthways
 bluebelled
