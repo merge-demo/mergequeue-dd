@@ -8020,6 +8020,7 @@ chacma
 chacmas
 chaconnes
 caudatolenticular
+cardinalism
 countermovement
 cytozoa
 codirectional
@@ -18170,7 +18171,6 @@ cissoid
 chylomicron
 coenobioid
 contentless
-cardinalism
 compactile
 claytonia
 coannexing
