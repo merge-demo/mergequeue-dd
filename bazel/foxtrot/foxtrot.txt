@@ -4607,7 +4607,6 @@ folsom
 footweary
 foresaying
 fasciotomy
-fleckless
 fruitgrowing
 fitchew
 fitified
@@ -6256,6 +6255,7 @@ fearing
 fanteague
 flota
 fluxer
+fleckless
 forewisdom
 fingerwork
 frisian
