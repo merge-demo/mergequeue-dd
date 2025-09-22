@@ -2820,6 +2820,7 @@ bareheaded
 broomrape
 bulkiest
 baudery
+bersagliere
 barothermograph
 barothermohygrograph
 barotrauma
@@ -6700,7 +6701,6 @@ buhls
 badian
 blowbys
 basilissa
-bersagliere
 berserker
 baldacchini
 bin
