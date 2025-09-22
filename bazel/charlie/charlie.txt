@@ -8727,6 +8727,7 @@ concise
 cheiloplasties
 chantry
 cynicism
+churchless
 cps
 chanukah
 chaology
@@ -18445,7 +18446,6 @@ cosecants
 cognate
 contrarevolutionary
 cognati
-churchless
 cardinalic
 contentment
 cognatic
