@@ -7445,6 +7445,7 @@ armouries
 anthropocentricity
 alcaldes
 alcaldia
+andria
 aerified
 antimusical
 aporiae
@@ -7914,7 +7915,6 @@ alforja
 antimonarchal
 apathus
 alfresco
-andria
 achenodia
 acture
 anthosiderite
