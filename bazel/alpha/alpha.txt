@@ -8680,6 +8680,7 @@ avens
 anfractuousness
 ascoma
 apterygote
+afaint
 acarida
 alodial
 antisensuously
@@ -20396,7 +20397,6 @@ adenectopia
 arteriographic
 anoxybiosis
 arteriolosclerosis
-afaint
 ashman
 arteriomalacia
 accomplishment
