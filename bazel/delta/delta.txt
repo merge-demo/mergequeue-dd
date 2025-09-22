@@ -7396,6 +7396,7 @@ dodunk
 detersiveness
 disunions
 driftpins
+dibase
 devalorize
 detestations
 dethronement
@@ -7546,7 +7547,6 @@ disdainful
 divergement
 degger
 dovening
-dibase
 disheritor
 deltaic
 deusan
