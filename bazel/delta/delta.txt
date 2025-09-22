@@ -2620,6 +2620,7 @@ desexualize
 decommissioned
 diddler
 decian
+darnex
 dozers
 dorbug
 drainless
@@ -6716,7 +6717,6 @@ deathroot
 drosophilidae
 drunkard
 disorderliness
-darnex
 diatribes
 desiderta
 designable
