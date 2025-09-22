@@ -3050,7 +3050,6 @@ dashes
 doleful
 digraphs
 depleting
-defalcating
 defalcation
 defalk
 defamation
@@ -18158,6 +18157,7 @@ diorthoses
 domiciliation
 dumosity
 docimasy
+defalcating
 dumpage
 divaricately
 driveaway
