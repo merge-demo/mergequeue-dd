@@ -11761,7 +11761,6 @@ broodiest
 bobstays
 broke
 berreaving
-butleress
 buzzwigs
 bloomsburian
 bacopa
@@ -16029,6 +16028,7 @@ bullfight
 bop
 booksy
 balbuties
+butleress
 bearess
 bilobate
 backspacefile
