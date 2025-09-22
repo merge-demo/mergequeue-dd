@@ -2525,7 +2525,6 @@ bronchostenosis
 bleatingly
 bereaving
 bestrewn
-bois
 barcolongo
 breadearner
 blepharocoloboma
@@ -12545,6 +12544,7 @@ broderer
 burse
 bescreens
 bonitary
+bois
 beauing
 bistroic
 boroughlet
