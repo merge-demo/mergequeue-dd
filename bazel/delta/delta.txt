@@ -9610,7 +9610,6 @@ digressory
 dastard
 disproved
 demonolatrously
-diddering
 diguanide
 deboning
 dihalide
@@ -13021,6 +13020,7 @@ disparity
 dance
 dithecous
 denticule
+diddering
 dispeed
 damlike
 divergence
