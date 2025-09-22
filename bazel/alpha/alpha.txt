@@ -5055,7 +5055,6 @@ afenil
 annexations
 autochanger
 afetal
-abelian
 affability
 arrisways
 affable
@@ -11165,6 +11164,7 @@ amphikaryotic
 apothecaries
 antitrismus
 atchison
+abelian
 arzrunite
 appendicular
 assemblages
