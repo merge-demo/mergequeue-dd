@@ -11883,7 +11883,6 @@ cathexes
 choral
 choralcelo
 carauna
-cleanskins
 chorale
 choraleon
 chorales
@@ -18574,6 +18573,7 @@ curr
 coherence
 containment
 cinenchyma
+cleanskins
 coherent
 coggie
 coherer
