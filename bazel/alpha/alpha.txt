@@ -727,7 +727,6 @@ ack
 ammodytes
 arthur
 abrasing
-antisuffragist
 autogyro
 abrasions
 anviltop
@@ -3949,6 +3948,7 @@ acrophony
 antidynastically
 awa
 aldrin
+antisuffragist
 admits
 admittance
 angelocracy

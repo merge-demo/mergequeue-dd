@@ -14975,6 +14975,7 @@ bimorphemic
 bulbocapnin
 breezeways
 bowdlerise
+backpointers
 besanctify
 brazier
 birdlore
@@ -16449,7 +16450,6 @@ banal
 becurse
 bedsit
 baneberry
-backpointers
 buttonhook
 blowzier
 baboo

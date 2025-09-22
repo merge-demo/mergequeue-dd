@@ -6538,6 +6538,7 @@ flagrate
 formlessness
 fluttering
 forswears
+fizzled
 feedboard
 flutterment
 fluviolacustrine
@@ -9075,7 +9076,6 @@ foederis
 falsettos
 folksinger
 feedbag
-fizzled
 finochios
 frolicsomeness
 flavors
