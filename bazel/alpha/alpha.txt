@@ -6065,7 +6065,6 @@ aquerne
 agoraphobic
 annuitant
 achoo
-asseal
 adenase
 agorot
 agouara
@@ -10804,6 +10803,7 @@ auxanology
 anisocratic
 amniomancy
 amnionata
+asseal
 acclamation
 amosite
 aselli
