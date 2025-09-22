@@ -19622,7 +19622,6 @@ aristotelean
 adolescents
 aristotelism
 acicula
-aristotype
 aristotle
 arytenoepiglottic
 antinihilistic
@@ -21855,6 +21854,7 @@ achondroplastic
 affing
 auditors
 agad
+aristotype
 antitheology
 acidizing
 adoulie
