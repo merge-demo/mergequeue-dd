@@ -5561,7 +5561,6 @@ dependabilities
 dustfall
 disally
 depended
-docious
 dolichopellic
 dependence
 desensitizes
@@ -13009,6 +13008,7 @@ disparagements
 dimberdamber
 deodorizers
 documenting
+docious
 daleth
 disparate
 disestablish
