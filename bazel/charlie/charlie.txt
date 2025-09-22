@@ -10577,6 +10577,7 @@ chill
 cyclanthaceous
 chilla
 chillagite
+cimbia
 carcass
 cerebric
 contort
@@ -19309,7 +19310,6 @@ collusory
 collut
 collution
 collutory
-cimbia
 collutoria
 collutories
 collutorium
