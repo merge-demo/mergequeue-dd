@@ -7935,6 +7935,7 @@ blomstrandine
 bicentric
 bancal
 bicentricity
+blooper
 bardier
 bilineate
 bowpots
@@ -8079,7 +8080,6 @@ bibliology
 bulbiferous
 branches
 byronian
-blooper
 binous
 berserk
 bedaubs
