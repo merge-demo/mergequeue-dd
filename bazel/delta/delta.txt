@@ -13879,6 +13879,7 @@ diagnoses
 deaf
 deckles
 dephased
+decerebration
 dod
 distil
 derisive
@@ -18314,7 +18315,6 @@ dhu
 dentoid
 duns
 dragomans
-decerebration
 deino
 dissue
 distractible
