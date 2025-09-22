@@ -12044,7 +12044,6 @@ diachoresis
 dijudicated
 deathweed
 disensure
-disentail
 disentangle
 dentine
 disentanglement
@@ -15613,6 +15612,7 @@ draftswoman
 dessert
 diascord
 drummers
+disentail
 defeasible
 dipolsphene
 danceress
