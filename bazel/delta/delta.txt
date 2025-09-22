@@ -3835,6 +3835,7 @@ dyspnoea
 degraduation
 decastyle
 dephlegm
+dorab
 diomedeidae
 deselects
 dairies
@@ -15764,7 +15765,6 @@ deflorescence
 doppio
 disgage
 dactyloscopy
-dorab
 decidedness
 dorad
 dernful
