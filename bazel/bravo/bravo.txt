@@ -7798,7 +7798,6 @@ borazon
 balneography
 bearable
 bibelots
-berdash
 bullism
 bibenzyl
 bookers
@@ -10667,6 +10666,7 @@ bylining
 brooches
 blandisher
 bedarken
+berdash
 boutell
 bakeware
 buffle
