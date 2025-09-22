@@ -4390,7 +4390,6 @@ calicle
 calypterae
 caryopilite
 caryopsis
-courthouses
 caripuna
 cariri
 choke
@@ -20283,6 +20282,7 @@ chymics
 chiromantic
 commixing
 curvaceously
+courthouses
 clarisse
 colouristic
 commixtion
