@@ -2755,6 +2755,7 @@ gung
 granulitic
 garbs
 garnished
+goodtemperedness
 gelotometer
 glottochronological
 gristly
@@ -5363,7 +5364,6 @@ glossily
 giusto
 girdle
 gynandromorphic
-goodtemperedness
 glimmer
 graphometry
 groundswell
