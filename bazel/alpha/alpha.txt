@@ -13832,7 +13832,6 @@ antelopes
 antanagoge
 actressy
 antapexes
-antapodosis
 allopolyploid
 accusor
 antaranga
@@ -19969,6 +19968,7 @@ azonal
 auspices
 aculeate
 aromatic
+antapodosis
 aromatical
 androgyny
 assumptiousness

@@ -24394,6 +24394,7 @@ cavally
 cooley
 capitatum
 calcarium
+clipping
 coolen
 cooler
 coolers
@@ -26353,7 +26354,6 @@ circumsaturnian
 cotenancy
 cotenant
 cotenants
-clipping
 chirognomically
 cotenure
 concaved
