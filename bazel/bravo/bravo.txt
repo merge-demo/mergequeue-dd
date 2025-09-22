@@ -2643,7 +2643,6 @@ broadener
 barleycorn
 bournonite
 bilge
-basidiophore
 branchiurous
 bimensal
 bellying
@@ -9980,6 +9979,7 @@ bricoles
 bingo
 brutisms
 bixaceae
+basidiophore
 bixaceous
 balteus
 bougies
