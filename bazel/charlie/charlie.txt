@@ -11130,7 +11130,6 @@ cinecamera
 chivey
 chiliadal
 coronitis
-cyphonautes
 chiviatite
 compresence
 clavaria
@@ -27391,6 +27390,7 @@ clint
 courtesanship
 counterinvective
 coplowing
+cyphonautes
 chlorinize
 courtesies
 collectively
