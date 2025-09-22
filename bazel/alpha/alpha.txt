@@ -929,7 +929,6 @@ absquatulate
 accubitus
 asperifolious
 appeasingly
-abstain
 aphanesite
 ashplants
 abstaining
@@ -16881,6 +16880,7 @@ antlions
 americanizer
 androsin
 abators
+abstain
 aegle
 archicoele
 apneumonous

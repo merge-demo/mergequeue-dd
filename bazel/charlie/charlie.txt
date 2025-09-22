@@ -8351,7 +8351,6 @@ challiho
 challihos
 chatino
 challis
-challises
 challot
 compartmentalizing
 challote
@@ -8961,6 +8960,7 @@ chareter
 censers
 cyanosed
 coasserter
+challises
 combmaker
 chargeable
 ciphertext
