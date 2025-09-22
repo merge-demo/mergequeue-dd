@@ -3894,7 +3894,6 @@ bazooka
 blunge
 balearica
 buckishly
-bamboos
 bbs
 backyarder
 beltian
@@ -6709,6 +6708,7 @@ bolograph
 balize
 berhyme
 bestials
+bamboos
 belauds
 bert
 blowhole
