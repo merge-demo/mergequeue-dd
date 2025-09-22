@@ -12746,6 +12746,7 @@ blacklegging
 baronry
 begut
 beerish
+bioprecipitation
 burhmoot
 blurs
 burnishment
@@ -12816,7 +12817,6 @@ barquest
 bedlamic
 bootes
 barnabite
-bioprecipitation
 boomslang
 bejelling
 boomslange
