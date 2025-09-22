@@ -12798,7 +12798,6 @@ dismay
 dermoreaction
 diathermancy
 dicyema
-doubty
 degame
 damner
 downhaul
@@ -17709,6 +17708,7 @@ daffodil
 discommons
 delsarte
 deputization
+doubty
 duarchy
 duarchies
 dubb
