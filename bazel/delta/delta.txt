@@ -2813,7 +2813,6 @@ diaclasis
 decubiti
 ditheism
 dominionism
-deceitfulness
 deceitfully
 decuman
 dissuasive
@@ -15898,6 +15897,7 @@ demidome
 dorsimeson
 disyllabize
 disgusting
+deceitfulness
 dogstone
 dogmata
 dorsocentral
