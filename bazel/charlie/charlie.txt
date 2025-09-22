@@ -6029,7 +6029,6 @@ codling
 coagulable
 catnapping
 chromamamin
-caddle
 catnaps
 catnep
 chilotomy
@@ -18475,6 +18474,7 @@ compactedness
 cognition
 cucullated
 clavicembali
+caddle
 conclude
 canmaking
 camelopardus
