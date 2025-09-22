@@ -4492,6 +4492,7 @@ adversed
 aloesol
 aedeagi
 aedeagus
+amarthritis
 aedicule
 aedile
 analogise
@@ -9743,7 +9744,6 @@ amarine
 amarity
 aplotomy
 amaritude
-amarthritis
 angiographic
 autosomatognosis
 albumean
