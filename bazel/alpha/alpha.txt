@@ -5400,7 +5400,6 @@ alway
 atheromata
 antielectrons
 afterlight
-afterlives
 aerarian
 aguishly
 adrenalectomizing
@@ -6637,6 +6636,7 @@ airedales
 asseverations
 airfare
 amyctic
+afterlives
 airfares
 airfield
 airflow
