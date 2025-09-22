@@ -1482,6 +1482,7 @@ dories
 dunpickle
 dispulp
 dazement
+diaphaneity
 delicatessen
 dazy
 dazzle
@@ -12519,7 +12520,6 @@ dysaphia
 dendron
 dentistical
 decameron
-diaphaneity
 dugout
 disowning
 disinfecting
