@@ -3644,7 +3644,6 @@ anterograde
 asaphidae
 adiaphon
 alkalified
-autophagia
 autoalarm
 antimechanist
 allocators
@@ -4246,6 +4245,7 @@ archflamen
 arbitrationist
 adulating
 adulation
+autophagia
 adulator
 antireacting
 adullamite
