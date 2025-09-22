@@ -2560,7 +2560,6 @@ baryphonia
 bolographically
 baryphonic
 banzai
-babbitter
 boringness
 beingless
 bodefulness
@@ -4216,6 +4215,7 @@ bathomania
 bishopbird
 banff
 blowball
+babbitter
 bellhanging
 beautihood
 berbamine
