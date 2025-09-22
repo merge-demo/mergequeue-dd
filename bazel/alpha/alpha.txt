@@ -10007,7 +10007,6 @@ acrologue
 ambon
 afros
 aquintocubitalism
-asynaptic
 alertest
 actinidia
 ambonnay
@@ -12726,6 +12725,7 @@ aditio
 anglicized
 anglify
 alkalometry
+asynaptic
 antirumor
 apperceiving
 abnegations
