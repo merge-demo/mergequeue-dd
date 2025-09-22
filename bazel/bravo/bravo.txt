@@ -3663,7 +3663,6 @@ bailiffwick
 booboo
 balloonfishes
 burnouts
-batsman
 borschts
 besetting
 braseros
@@ -5963,6 +5962,7 @@ bemete
 bedawee
 bolometer
 bimillennia
+batsman
 busybodies
 bemadden
 bemiring
