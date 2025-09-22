@@ -3826,7 +3826,6 @@ epalpate
 ethnobotanical
 emesis
 entrapment
-easiness
 exemplarily
 exosculation
 effeminacy
@@ -5481,6 +5480,7 @@ enervate
 embalmers
 enervating
 encake
+easiness
 electroscope
 elritch
 ectocarpic
