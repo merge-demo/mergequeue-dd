@@ -1537,6 +1537,7 @@ dupondius
 dittander
 deacons
 demobilizes
+depraving
 deactivate
 dishwashings
 discoglossid
@@ -6757,7 +6758,6 @@ doubly
 deceased
 duplicidentata
 disregular
-depraving
 dodecatyl
 dirtboard
 datatype
