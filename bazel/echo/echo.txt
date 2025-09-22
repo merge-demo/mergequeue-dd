@@ -4654,6 +4654,7 @@ embezzled
 electrophonically
 encyclics
 extroversive
+enfasten
 eisodic
 emmeniopathy
 eucrites
@@ -13694,7 +13695,6 @@ epitaxy
 expiatist
 ermanaric
 exemplary
-enfasten
 epiplasm
 equiaxe
 expressman
