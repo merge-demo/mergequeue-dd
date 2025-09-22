@@ -9469,6 +9469,7 @@ cussword
 cheatry
 chirayta
 cheats
+clearinghouses
 confract
 counterinsurgent
 cauterization
@@ -15836,7 +15837,6 @@ chott
 chanson
 caddice
 congratulating
-clearinghouses
 clearish
 clearminded
 consonantised
