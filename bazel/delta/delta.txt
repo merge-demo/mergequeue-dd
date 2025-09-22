@@ -4592,6 +4592,7 @@ discriminant
 dishrags
 dukhobor
 destination
+diaphones
 dynastically
 doegling
 demilitarise
@@ -9667,7 +9668,6 @@ demitting
 dalasis
 dullification
 disasterly
-diaphones
 dowcet
 dinitrocellulose
 diiodoform
