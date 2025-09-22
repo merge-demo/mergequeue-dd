@@ -1130,7 +1130,6 @@ eikons
 esthetics
 environage
 edition
-endere
 editorialization
 elsa
 ecphory
@@ -3596,6 +3595,7 @@ engravement
 equiseta
 embraid
 emotions
+endere
 embrail
 empowers
 exactiveness
