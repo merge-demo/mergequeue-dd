@@ -922,7 +922,6 @@ bdellotomy
 bowstaff
 boistously
 ballplayers
-beluchi
 backhoe
 bullock
 bandyball
@@ -14827,6 +14826,7 @@ breaghe
 bilith
 battledores
 blennoma
+beluchi
 burning
 baja
 breakfast
