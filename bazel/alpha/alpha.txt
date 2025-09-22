@@ -6559,7 +6559,6 @@ aine
 antheral
 antinegro
 apodeictical
-antiskeptical
 appaloosa
 alcelaphine
 aubrey
@@ -23925,6 +23924,7 @@ autocorrosion
 artiness
 ablations
 autocracy
+antiskeptical
 autocracies
 apotelesmatic
 aesthetical
