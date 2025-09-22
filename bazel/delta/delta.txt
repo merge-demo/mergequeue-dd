@@ -2540,7 +2540,6 @@ diarrhetic
 discus
 dorsocephalic
 declensionally
-dript
 drinn
 declimatize
 driblets
@@ -10286,6 +10285,7 @@ deposals
 digitize
 diphthongic
 dunkling
+dript
 deradenitis
 diamber
 diosmin
