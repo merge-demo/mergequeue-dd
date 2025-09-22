@@ -1086,7 +1086,6 @@ farrago
 franchisement
 frizer
 flichters
-foreswear
 farreachingly
 fernleaf
 federates
@@ -7716,6 +7715,7 @@ freeish
 falconlike
 fretty
 furs
+foreswear
 forsaken
 flamelike
 formalizations

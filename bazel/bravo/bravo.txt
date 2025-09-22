@@ -10709,6 +10709,7 @@ begging
 brushup
 backspierer
 bouderie
+bulbose
 bharata
 budorcas
 barcone
@@ -12443,7 +12444,6 @@ braeman
 burgeoned
 barkingly
 bararite
-bulbose
 bondsmen
 bonify
 birdieing
