@@ -4878,7 +4878,6 @@ arrhal
 alphonsism
 aerophane
 assumptions
-abdicated
 antipopularization
 arteriorrhagia
 affiliations
@@ -12072,6 +12071,7 @@ altruism
 anticourt
 anchorite
 aguishness
+abdicated
 archinfamy
 anchoritess
 alignment
