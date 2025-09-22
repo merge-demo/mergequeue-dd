@@ -6588,6 +6588,7 @@ etcher
 entreating
 enterocleisis
 electrician
+erminois
 enquicken
 equiponderant
 excluding
@@ -8094,7 +8095,6 @@ elegant
 epipterous
 epipubis
 expostulations
-erminois
 esterifying
 electrophotomicrography
 epicoelia
