@@ -2369,7 +2369,6 @@ dee
 depersonalizes
 dentalgia
 discocarp
-diplographic
 demibrute
 diluted
 doghead
@@ -9187,6 +9186,7 @@ dipterous
 dupability
 dowses
 dodonaeaceae
+diplographic
 diductively
 doraphobia
 doughlike
