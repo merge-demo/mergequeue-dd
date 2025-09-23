@@ -13053,6 +13053,7 @@ cyanoplastid
 cyanoplatinite
 cyanose
 contraposit
+ceinture
 coxarthrocace
 chemitype
 cyanosite
@@ -21324,7 +21325,6 @@ curtseys
 charismas
 crapefish
 concertini
-ceinture
 concertinist
 closeups
 claustrophobic
