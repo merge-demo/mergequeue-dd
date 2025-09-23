@@ -5527,7 +5527,6 @@ gorses
 graysbies
 grammel
 glucine
-glochidiate
 gallery
 grained
 goatskin
@@ -10474,6 +10473,7 @@ glutei
 graylings
 gastrin
 goli
+glochidiate
 gimlets
 gusher
 glumaceous
