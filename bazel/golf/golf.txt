@@ -2543,6 +2543,7 @@ glen
 gumption
 grue
 generations
+girsle
 gastrula
 gobangs
 generalities
@@ -5420,7 +5421,6 @@ gaea
 glyptolith
 galvanocontractility
 grotesques
-girsle
 gonfanon
 gluing
 guidingly
