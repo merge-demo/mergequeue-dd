@@ -793,6 +793,7 @@ cucurbits
 cycadales
 completes
 cytophagy
+chonta
 cayenned
 chattelize
 contouring
@@ -4706,7 +4707,6 @@ change
 comeliest
 cyclicality
 carphiophiops
-chonta
 carilloneur
 ceiler
 carpid
