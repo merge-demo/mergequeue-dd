@@ -14806,7 +14806,6 @@ banjore
 breadstitch
 blackwork
 berend
-becassine
 bechalking
 berms
 breadwinner
@@ -18163,6 +18162,7 @@ blackbird
 balneary
 butlery
 belief
+becassine
 butleries
 butlerlike
 butlers
