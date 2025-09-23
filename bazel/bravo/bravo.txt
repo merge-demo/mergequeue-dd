@@ -2538,7 +2538,6 @@ barylalia
 beyondness
 bluestockings
 bunkums
-bactrian
 biduous
 bairnwort
 backtalk
@@ -5242,6 +5241,7 @@ beeriest
 beggaring
 bicrescentic
 beggarlike
+bactrian
 bullom
 batrachoididae
 battlefield
