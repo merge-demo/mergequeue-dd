@@ -9726,7 +9726,6 @@ amphigen
 amarine
 amarity
 aplotomy
-amaritude
 angiographic
 autosomatognosis
 albumean
@@ -10756,6 +10755,7 @@ ammonoidean
 ammonoids
 ammonolitic
 assemblage
+amaritude
 append
 archeological
 aitches
