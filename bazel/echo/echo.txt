@@ -6007,6 +6007,7 @@ electrodynamism
 electropotential
 exhortative
 estampedero
+evulse
 erosion
 ejects
 earns
@@ -11158,7 +11159,6 @@ evacuated
 endeavored
 epexegetical
 evacuations
-evulse
 entropionize
 expatriation
 embroiderer
