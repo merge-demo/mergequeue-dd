@@ -15962,7 +15962,6 @@ antiscolic
 aposporic
 antagonizable
 abigei
-antiscorbutical
 avirulence
 aeromechanics
 acrosphacelus
@@ -19943,6 +19942,7 @@ asparaginic
 agar
 andesinite
 acicularly
+antiscorbutical
 arointing
 aroynting
 aminothiophen
