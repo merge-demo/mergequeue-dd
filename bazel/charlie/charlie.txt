@@ -18976,7 +18976,6 @@ circulatable
 collaboratively
 clomping
 clothworker
-collaborator
 collaborators
 closehauled
 cosigner
@@ -21230,6 +21229,7 @@ cunctatorship
 classer
 counterorator
 concentralization
+collaborator
 concolor
 chemicobiological
 cranching
