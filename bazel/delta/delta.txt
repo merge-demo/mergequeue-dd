@@ -4644,7 +4644,6 @@ dovetail
 daynet
 dermatosclerosis
 demineralized
-downrightly
 demineralizes
 debasement
 demineralizing
@@ -18582,6 +18581,7 @@ dyslexic
 disbarment
 diffeomorphism
 deaconal
+downrightly
 decentration
 dantean
 dusked
