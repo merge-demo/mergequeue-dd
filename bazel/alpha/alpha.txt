@@ -15790,7 +15790,6 @@ anagram
 allegiant
 antipsalmist
 acidimeter
-armill
 accommodationist
 accidia
 aer
@@ -22463,6 +22462,7 @@ atheisticness
 allow
 albicores
 abraham
+armill
 atheizer
 anallantoic
 audiencier
