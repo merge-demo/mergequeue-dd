@@ -1283,7 +1283,6 @@ endogenesis
 eassel
 enteroid
 epyllia
-epicranius
 earthless
 effectiveness
 eesome
@@ -1416,6 +1415,7 @@ endpiece
 entodermal
 epipodialia
 entoretina
+epicranius
 erythrocytolytic
 espoused
 ethnicon
