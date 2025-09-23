@@ -1898,6 +1898,7 @@ gaucho
 gerbillus
 goodyship
 gamelote
+globetrotter
 germaniums
 groundable
 gowd
@@ -9756,7 +9757,6 @@ geic
 gean
 gloeosporium
 gelidities
-globetrotter
 ganza
 grunt
 grunter
