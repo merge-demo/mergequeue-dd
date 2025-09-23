@@ -4289,7 +4289,6 @@ elytroclasia
 expulsive
 enactor
 exinanition
-epigrammatize
 eloquence
 enameling
 exclaustration
@@ -11751,6 +11750,7 @@ excorticating
 exappendiculate
 exarate
 egyptianization
+epigrammatize
 eremochaeta
 epigynous
 exorcista
