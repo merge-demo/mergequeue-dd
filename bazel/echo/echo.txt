@@ -1008,7 +1008,6 @@ equisetales
 emblazing
 esophageal
 edder
-epiphora
 euphonism
 educationary
 electropolar
@@ -4125,6 +4124,7 @@ encaustes
 exporter
 elaeosia
 engraphy
+epiphora
 eyeroot
 escaloped
 enacted
