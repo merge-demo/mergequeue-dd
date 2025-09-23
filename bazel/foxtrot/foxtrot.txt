@@ -8273,7 +8273,6 @@ figgy
 freelances
 forgivable
 fluidism
-fortunate
 flirting
 farmings
 fractious
@@ -10916,6 +10915,7 @@ fulgoroidea
 furzier
 forgeful
 fi
+fortunate
 foilable
 fiscalizing
 fullonian
