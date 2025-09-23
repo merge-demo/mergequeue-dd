@@ -9118,7 +9118,6 @@ charriest
 charro
 cicatrize
 chylocaulous
-coagulin
 chloroplastid
 charruas
 calci
@@ -9135,6 +9134,7 @@ charterers
 charterhouse
 chartering
 charterism
+coagulin
 cyllenius
 calipers
 charterless
