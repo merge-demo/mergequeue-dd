@@ -1480,7 +1480,6 @@ explanatorily
 exonarthex
 epics
 edificator
-endosiphonate
 equippers
 estivate
 eclegme
@@ -6007,6 +6006,7 @@ electrodynamism
 electropotential
 exhortative
 estampedero
+endosiphonate
 evulse
 erosion
 ejects
