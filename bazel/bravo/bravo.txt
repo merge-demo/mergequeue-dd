@@ -9995,6 +9995,7 @@ booklets
 bairntime
 bulletlike
 boba
+bookstore
 byzantine
 byzantinize
 buggers
@@ -12966,7 +12967,6 @@ branchery
 blickie
 browntop
 booziness
-bookstore
 blockheadishness
 boxer
 bopeep
