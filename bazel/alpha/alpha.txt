@@ -633,6 +633,7 @@ avifaunal
 adulates
 abbreviated
 autotomic
+allochetite
 azumbre
 azoted
 abominations
@@ -9379,7 +9380,6 @@ aclidian
 antilocapridae
 archaeogeology
 amylaceous
-allochetite
 alternariose
 alternate
 alternated
