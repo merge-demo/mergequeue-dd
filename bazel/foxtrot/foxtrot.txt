@@ -3028,7 +3028,6 @@ forasmuch
 foreman
 floodage
 flogster
-fioriture
 fairyology
 firemanship
 feoffers
@@ -8157,6 +8156,7 @@ fountful
 foreuse
 foreutter
 flavoursome
+fioriture
 fillercap
 fairishness
 fibulas
