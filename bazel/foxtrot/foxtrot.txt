@@ -4761,7 +4761,6 @@ follies
 flagellated
 flagellations
 fieldstrip
-fingal
 ferrament
 footwalls
 feif
@@ -10845,6 +10844,7 @@ fennici
 fulfullment
 functionless
 fontanels
+fingal
 furoin
 fishpool
 forficate
