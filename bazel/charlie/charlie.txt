@@ -6621,6 +6621,7 @@ ceding
 cosheath
 cimices
 chromule
+computernik
 cahnite
 cedrat
 cedrate
@@ -22684,7 +22685,6 @@ carpostome
 conniptions
 connivance
 circumcinct
-computernik
 connivancy
 connivantly
 connive
