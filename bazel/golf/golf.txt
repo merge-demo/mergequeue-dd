@@ -1936,7 +1936,6 @@ gauffered
 grayfishes
 groundwave
 garvie
-gonorrhoeic
 gauged
 grovet
 glabrescent
@@ -10431,6 +10430,7 @@ grosbeaks
 groundsill
 goudy
 gesneraceous
+gonorrhoeic
 gomphodont
 geobiologic
 gumdigging
