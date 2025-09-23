@@ -2463,6 +2463,7 @@ gemote
 genouillere
 glassing
 gourinae
+gladliest
 gemsbuck
 guardful
 greasy
@@ -4034,7 +4035,6 @@ gileno
 gaddingly
 groomsman
 gordian
-gladliest
 gigaton
 globigerina
 giaours

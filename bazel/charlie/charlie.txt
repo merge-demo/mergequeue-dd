@@ -12848,7 +12848,6 @@ church
 courageousness
 chondrocranium
 churchful
-cursus
 chirm
 championess
 correo
@@ -20936,6 +20935,7 @@ corroboreed
 corrals
 composite
 chalices
+cursus
 composites
 compositing
 comparatives
