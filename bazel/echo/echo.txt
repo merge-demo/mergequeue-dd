@@ -1365,7 +1365,6 @@ endochylous
 exhortation
 eleutherodactyli
 epithecium
-ethiopic
 embolden
 effigiate
 expirator
@@ -1722,6 +1721,7 @@ expectorants
 epacmaic
 eyelash
 euroclydon
+ethiopic
 eliding
 eyelessness
 epikia
