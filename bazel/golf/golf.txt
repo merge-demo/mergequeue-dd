@@ -1158,7 +1158,6 @@ galliney
 grogs
 graftdom
 grift
-groatsworth
 glyptographer
 gamolepis
 gaslights
@@ -8745,6 +8744,7 @@ gauntree
 gange
 golems
 greenswarded
+groatsworth
 grimacingly
 greenware
 giveth
