@@ -8027,7 +8027,6 @@ evident
 eject
 expound
 entertaining
-elytrum
 enteroscope
 epiphanise
 ealdormen
@@ -13288,6 +13287,7 @@ executives
 exhaustlessness
 exploitatory
 endocrinopath
+elytrum
 episcopy
 expiscate
 effie

@@ -10729,7 +10729,6 @@ chinaman
 chinamaniac
 curmurging
 chinamen
-chinaphthol
 condemnable
 chinaroot
 confectionaries
@@ -19058,6 +19057,7 @@ certify
 collected
 cranberry
 ctenoidean
+chinaphthol
 collectibility
 collection
 collectivise
