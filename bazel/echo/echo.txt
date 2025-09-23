@@ -645,7 +645,6 @@ etwees
 elocute
 eclegma
 ehrman
-etatism
 equisufficiency
 esophagocele
 estonians
@@ -2812,6 +2811,7 @@ epiclesis
 eleoptene
 embden
 erratuta
+etatism
 exostracize
 eucharistized
 essayistical
