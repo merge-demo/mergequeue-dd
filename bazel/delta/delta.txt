@@ -6844,7 +6844,6 @@ diffidence
 dimyaric
 dissention
 dendrograph
-dcolletage
 desmodynia
 disgorged
 desmodontidae
@@ -16554,6 +16553,7 @@ darii
 dishevel
 discommoning
 docimastic
+dcolletage
 distill
 disdainable
 drafter
