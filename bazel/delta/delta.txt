@@ -6738,7 +6738,6 @@ designable
 dhutis
 diandrian
 dissolutions
-dimedone
 dispeopled
 date
 designatum
@@ -16066,6 +16065,7 @@ dramatis
 duodenocholangitis
 dioptoscopy
 derogations
+dimedone
 diphtheritis
 disaffiliating
 dimanganous
