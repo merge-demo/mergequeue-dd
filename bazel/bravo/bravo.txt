@@ -2112,7 +2112,6 @@ banter
 banterers
 bloodlessness
 bantery
-buzzer
 balneologic
 boxfishes
 bantering
@@ -16954,6 +16953,7 @@ bitterweed
 bastinades
 befavour
 beachlamar
+buzzer
 becater
 bihydrazine
 basophilous
