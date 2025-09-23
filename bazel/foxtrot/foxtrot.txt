@@ -2675,7 +2675,6 @@ foreimpression
 fireshaft
 feruled
 ferulic
-fitzclarence
 fissipedate
 frogeater
 foundational
@@ -3044,6 +3043,7 @@ fritillary
 formolite
 federalists
 franchising
+fitzclarence
 forficiform
 fetichize
 forceput
