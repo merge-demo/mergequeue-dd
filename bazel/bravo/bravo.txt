@@ -5853,7 +5853,6 @@ broadening
 benzalcyanhydrin
 beden
 backswordmen
-blitzkrieg
 bulwark
 blankit
 brandenburgs
@@ -16772,6 +16771,7 @@ barricadoed
 buffoon
 ballads
 benzoxycamphor
+blitzkrieg
 biotechnologies
 blended
 burhead
