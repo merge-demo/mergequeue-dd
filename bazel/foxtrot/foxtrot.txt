@@ -2870,6 +2870,7 @@ fameflower
 fettered
 flummadiddle
 foozle
+fantasias
 flouter
 flatlets
 forestair
@@ -9118,7 +9119,6 @@ formalins
 furtum
 fortresses
 fribblish
-fantasias
 fielded
 fleeceflower
 floridly
