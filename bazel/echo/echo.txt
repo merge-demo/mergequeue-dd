@@ -5845,6 +5845,7 @@ erg
 engreaten
 evirtuate
 evan
+erecting
 enocyte
 electrotyping
 entangledly
@@ -8827,7 +8828,6 @@ erecter
 erecters
 erectile
 elsin
-erecting
 egyptology
 endarteritis
 estrones
