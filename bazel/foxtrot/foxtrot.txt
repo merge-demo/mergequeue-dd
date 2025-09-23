@@ -4480,7 +4480,6 @@ flattercap
 fermal
 fashioned
 furthermost
-foreloop
 fishspear
 fluffier
 fountainwise
@@ -5162,6 +5161,7 @@ formicidae
 flatness
 fadged
 faceting
+foreloop
 flatted
 flatteringness
 flustered
