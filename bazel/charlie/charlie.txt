@@ -12260,7 +12260,6 @@ chazy
 casement
 chrysopsis
 crispy
-chaotically
 camphorphorone
 chrysosperm
 chrysosplenium
@@ -26782,6 +26781,7 @@ cypselomorph
 counterefficiency
 countereffort
 cottiest
+chaotically
 counterembattled
 counterenergy
 chumpy
