@@ -2209,7 +2209,6 @@ geoidal
 gemmate
 garmented
 gestational
-gooseskin
 goaves
 gemwork
 gastrolith
@@ -7139,6 +7138,7 @@ generalship
 gephyrophobia
 gospoda
 glycan
+gooseskin
 gillotage
 granuloma
 gonomery

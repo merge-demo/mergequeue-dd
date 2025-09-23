@@ -13740,6 +13740,7 @@ banisher
 biperforate
 bicycled
 bovate
+bobbinite
 besmirching
 biochemists
 bestrowed
@@ -16492,7 +16493,6 @@ bespring
 barit
 ballocks
 brachyurus
-bobbinite
 burgwere
 bullshitting
 brawny
