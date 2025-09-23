@@ -9915,6 +9915,7 @@ byelaw
 biland
 bedsteads
 besiegement
+breviconic
 branchling
 betrap
 bergerette
@@ -15044,7 +15045,6 @@ blows
 bulging
 biomaterial
 bidimensional
-breviconic
 bunkered
 beaconwise
 bushhammer
