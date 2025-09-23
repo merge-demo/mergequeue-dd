@@ -3330,6 +3330,7 @@ ecdyses
 eyry
 entrep
 eulogic
+electroreceptive
 expresses
 environed
 elegies
@@ -9295,7 +9296,6 @@ engulf
 erst
 easers
 edited
-electroreceptive
 entomolegist
 erthen
 eumorphous

@@ -3799,6 +3799,7 @@ genealogies
 geodaesia
 gorger
 gola
+gnomon
 girosol
 glarier
 gonapophysal
@@ -5330,7 +5331,6 @@ globuliferous
 gombeenism
 goofer
 gonopod
-gnomon
 generalisation
 gyrencephalate
 goiters
