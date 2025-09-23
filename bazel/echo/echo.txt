@@ -4236,6 +4236,7 @@ effluxes
 evertebrata
 emphasise
 extoller
+excerpt
 emulsoids
 enteropathogenic
 elohim
@@ -5260,7 +5261,6 @@ engrafting
 ecmnesia
 endorsable
 entopterygoid
-excerpt
 extravagation
 enrolles
 ethylmorphine

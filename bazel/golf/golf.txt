@@ -1883,6 +1883,7 @@ gatherers
 galumph
 gooma
 gamenesses
+guaiacol
 gatherings
 grecale
 grubstake
@@ -3000,7 +3001,6 @@ gauchest
 gaggle
 glorias
 groped
-guaiacol
 gaulding
 ginglymoidal
 gregarinosis
