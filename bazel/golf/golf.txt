@@ -1835,6 +1835,7 @@ gatekeeper
 grizel
 grassy
 gesso
+gannister
 gabbier
 gatekeepers
 glos
@@ -6440,7 +6441,6 @@ glossopodium
 garrupa
 gambits
 grecomaniac
-gannister
 gastraead
 guarded
 gie
