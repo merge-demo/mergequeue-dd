@@ -5619,7 +5619,6 @@ fuci
 flyless
 forbearingly
 fuddle
-fulgurata
 foxite
 firetop
 flimflamming
@@ -9032,6 +9031,7 @@ forwork
 fidac
 flamefish
 fiendship
+fulgurata
 feudaries
 flirtational
 fifteener
