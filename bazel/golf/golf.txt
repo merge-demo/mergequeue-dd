@@ -5610,7 +5610,6 @@ grandparentage
 gyrators
 grunth
 gloomily
-gloomings
 graveward
 gunyang
 germanics
@@ -7472,6 +7471,7 @@ gloomfully
 glossopharyngeal
 glitch
 guessable
+gloomings
 glottalized
 gat
 governed
