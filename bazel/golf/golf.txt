@@ -5269,7 +5269,6 @@ giving
 granitical
 graveling
 geometries
-glycerin
 gamelan
 gromil
 glycerite
@@ -9797,6 +9796,7 @@ glares
 gnathostoma
 guahiban
 groundbreaker
+glycerin
 gutsily
 glomerulonephritis
 gastrohysterotomy
