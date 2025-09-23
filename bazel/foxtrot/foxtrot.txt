@@ -1028,6 +1028,7 @@ flashes
 fluorapatite
 fluoborid
 feeblest
+fronter
 farinas
 foglietto
 fascicles
@@ -10429,7 +10430,6 @@ fluorinated
 frontlash
 flatmen
 fallowing
-fronter
 frontoauricular
 frontomallar
 frontomental
