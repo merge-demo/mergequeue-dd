@@ -7785,6 +7785,7 @@ entassment
 enlighteningly
 emblematic
 epigastraeum
+ecalcarate
 electropneumatic
 expectably
 encyclopaedize
@@ -8553,7 +8554,6 @@ etheriform
 equatorwards
 excessmen
 ectomeric
-ecalcarate
 equestrian
 epigeous
 exceptant
