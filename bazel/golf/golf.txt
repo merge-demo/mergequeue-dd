@@ -4426,6 +4426,7 @@ grainsickness
 gosplan
 gammelost
 graminology
+gappy
 gossipy
 genericalness
 gommelin
@@ -9054,7 +9055,6 @@ gladiatorism
 goatherds
 guajira
 glads
-gappy
 galactidrosis
 giraffa
 garishness

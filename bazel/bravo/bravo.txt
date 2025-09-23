@@ -3279,6 +3279,7 @@ backstabbed
 bronzes
 balche
 bazar
+brachycranial
 barrenest
 boobyism
 bicorne
@@ -5712,7 +5713,6 @@ bicentennially
 bechalked
 boundless
 bringed
-brachycranial
 barefaced
 baggageman
 backblocks
