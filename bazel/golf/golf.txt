@@ -2917,6 +2917,7 @@ growleries
 glycol
 gaeldom
 geocyclic
+gall
 gnat
 gorsy
 glideless
@@ -9785,7 +9786,6 @@ geognosies
 graybearded
 guacacoa
 grimacer
-gall
 grantor
 gue
 glycogenous
