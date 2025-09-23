@@ -5907,7 +5907,6 @@ barmecide
 belvedered
 blueblossom
 bridaler
-bombycidae
 bouldering
 bosslet
 bellarmine
@@ -11276,6 +11275,7 @@ blatchang
 bronchoesophagoscopy
 blancard
 belowground
+bombycidae
 beshackle
 blowholes
 bajardo
