@@ -15873,6 +15873,7 @@ clechee
 constants
 contraregular
 clechy
+cosmos
 cleck
 commune
 coassumes
@@ -16562,7 +16563,6 @@ cloghaun
 cloghead
 carboxyl
 cowsharn
-cosmos
 calendar
 correlative
 clogwheel
