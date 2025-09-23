@@ -6111,7 +6111,6 @@ gns
 gymnasisia
 geese
 gatefolds
-globical
 go
 gardy
 grumpish
@@ -6475,6 +6474,7 @@ gayest
 gorinesses
 grazing
 gymnasia
+globical
 groundage
 groundably
 gallivat
