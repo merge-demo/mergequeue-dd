@@ -9983,7 +9983,6 @@ dermohemia
 dinothere
 diacipiperazine
 divertor
-dimmer
 dothideacea
 defensor
 dasyatidae
@@ -17179,6 +17178,7 @@ driftfish
 decadentism
 drawknot
 defectiveness
+dimmer
 ducture
 drifty
 dashboard
