@@ -1696,7 +1696,6 @@ babbishly
 bambuseae
 bowsing
 bogglish
-betiding
 bugloss
 bingos
 breechesless
@@ -10771,6 +10770,7 @@ bavin
 bridge
 baulkier
 birthrate
+betiding
 blocks
 belier
 blepharochromidrosis
