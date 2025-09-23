@@ -754,6 +754,7 @@ dandier
 davits
 drybrained
 dandify
+degreeless
 digestional
 dimmit
 dispeopler
@@ -18636,7 +18637,6 @@ dishmaking
 dutchy
 dutching
 dutchmen
-degreeless
 duty
 dutiability
 disdains
