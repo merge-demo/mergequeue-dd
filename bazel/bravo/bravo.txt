@@ -8725,7 +8725,6 @@ binderies
 barterer
 bisiliquous
 beggars
-baptizers
 banjos
 broker
 belabouring
@@ -13602,6 +13601,7 @@ bornyl
 boreades
 boogaloo
 besand
+baptizers
 bowstrings
 boult
 bricker
