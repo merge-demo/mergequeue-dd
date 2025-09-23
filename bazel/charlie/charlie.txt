@@ -5530,7 +5530,6 @@ comicoprosaic
 catalepsis
 catalexis
 cystopyelonephritis
-curule
 cauponation
 coattest
 coxing
@@ -19485,6 +19484,7 @@ colorature
 canid
 celesta
 coelector
+curule
 cartomancies
 cytopharynges
 colorbreed
