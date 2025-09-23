@@ -22292,7 +22292,6 @@ aortas
 astrophysicists
 astrophotographic
 astrophotometer
-astroscopy
 autocratorical
 azotine
 abstractly
@@ -23594,6 +23593,7 @@ adzes
 andropetalar
 academic
 androphobia
+astroscopy
 auscultates
 anthropographic
 anvilsmith
