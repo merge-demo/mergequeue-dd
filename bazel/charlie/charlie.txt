@@ -10312,6 +10312,7 @@ clarino
 chichipe
 carvyl
 corometer
+covering
 convenienced
 commentaries
 charlies
@@ -29640,7 +29641,6 @@ cainozoic
 crofts
 contract
 chickenhearted
-covering
 croyden
 clonicity
 croydon
