@@ -6047,6 +6047,7 @@ buyout
 biobibliographies
 bisson
 bendies
+blowhole
 bends
 bardesanist
 bekick
@@ -6703,7 +6704,6 @@ bestials
 bamboos
 belauds
 bert
-blowhole
 berteroa
 barse
 berthas
