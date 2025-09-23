@@ -4136,7 +4136,6 @@ azophosphore
 adrenalcortical
 arillodium
 archesporium
-adrenalectomize
 aumous
 adrenalin
 aparejo
@@ -23177,6 +23176,7 @@ apteryges
 antigravitationally
 ablation
 atua
+adrenalectomize
 athericera
 autoradiographic
 atule
