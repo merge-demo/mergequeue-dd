@@ -2783,7 +2783,6 @@ bolding
 betulaceous
 bibliopegy
 brazee
-boomboxes
 bookends
 body
 bewilder
@@ -9743,6 +9742,7 @@ bocca
 bitable
 bidialectal
 broguing
+boomboxes
 bytalks
 bitanhol
 bilineated
