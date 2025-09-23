@@ -7719,7 +7719,6 @@ florian
 freeish
 falconlike
 fretty
-furs
 foreswear
 forsaken
 flamelike
@@ -8192,6 +8191,7 @@ faldetta
 fribblery
 foothils
 flakier
+furs
 forewritten
 fundamentals
 fatigated

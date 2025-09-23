@@ -5024,6 +5024,7 @@ eucosmid
 endlichite
 excipulaceae
 emboweller
+ecteron
 ensuer
 emphaticalness
 endmost
@@ -13792,7 +13793,6 @@ equiped
 epicheirema
 engraftment
 extorts
-ecteron
 esparto
 eukaryote
 endebt
