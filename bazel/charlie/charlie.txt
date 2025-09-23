@@ -1598,6 +1598,7 @@ collectibles
 coatrooms
 calmed
 centrobaric
+chiasmatype
 crureus
 cadillac
 calmest
@@ -10246,7 +10247,6 @@ chiasmata
 chase
 conclusum
 cystoscopy
-chiasmatype
 counterformula
 chiasmic
 cleruchic
