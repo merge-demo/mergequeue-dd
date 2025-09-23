@@ -11873,6 +11873,7 @@ calashes
 chorai
 comedowns
 cranker
+centenionalis
 covolume
 cathexes
 choral
@@ -20576,7 +20577,6 @@ chemically
 cocarboxylase
 courtiership
 compartmented
-centenionalis
 corundum
 composition
 celticist
