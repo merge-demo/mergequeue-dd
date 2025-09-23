@@ -4807,6 +4807,7 @@ cycling
 conspersion
 corallita
 calanthe
+charking
 carracks
 chronobarometer
 carragheenin
@@ -9023,7 +9024,6 @@ caridoid
 cloaks
 comus
 competitory
-charking
 chiels
 charlady
 charladies
