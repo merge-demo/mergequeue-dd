@@ -438,6 +438,7 @@ gammexane
 garrote
 gallantness
 goldless
+grise
 gibbetted
 galipoidine
 gilding
@@ -9734,7 +9735,6 @@ geckoes
 gird
 gonimium
 grumphie
-grise
 guitarfishes
 gonangiums
 grumpy
