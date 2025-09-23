@@ -3043,7 +3043,6 @@ daddock
 degradand
 defaces
 devide
-disennoble
 decongestive
 dwayberry
 diminutiveness
@@ -17730,6 +17729,7 @@ dedifferentiation
 decanonization
 decolouriser
 defer
+disennoble
 dicarbonate
 demography
 dubio
