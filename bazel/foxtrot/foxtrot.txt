@@ -4596,6 +4596,7 @@ forbbore
 fighter
 footnoting
 fistwise
+ferreled
 fibulare
 fit
 frangipane
@@ -7945,7 +7946,6 @@ farinhas
 ferahan
 frowzily
 fadging
-ferreled
 flacks
 fidejussionary
 falk
