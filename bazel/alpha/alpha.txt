@@ -9578,7 +9578,6 @@ arrojadite
 accidie
 alveoliform
 azymite
-aduncated
 aquatints
 auditorially
 alveolite
@@ -13791,6 +13790,7 @@ aphidiinae
 algist
 apronlike
 anniellidae
+aduncated
 allophanate
 antagonization
 athletically
