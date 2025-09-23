@@ -8441,7 +8441,6 @@ freethinking
 fulminous
 fuliginousness
 francomania
-fuze
 formates
 formating
 formation
@@ -8689,6 +8688,7 @@ flattens
 feteless
 fame
 forgive
+fuze
 flotage
 fizzing
 filii
