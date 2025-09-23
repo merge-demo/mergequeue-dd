@@ -6627,6 +6627,7 @@ enzymologies
 enterohydrocele
 ecstatical
 excelsitude
+etym
 evictee
 emetocathartic
 elevation
@@ -8440,7 +8441,6 @@ elkhorn
 eroticomaniacal
 epopoeias
 eveweed
-etym
 elephantopus
 exocannibalism
 epigrammatical
