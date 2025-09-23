@@ -4633,6 +4633,7 @@ graphophobia
 gyronny
 gamophyllous
 gyrophoraceous
+gl
 glance
 gringophobia
 ghafir
@@ -5579,7 +5580,6 @@ grime
 girdlecake
 grossular
 giftlike
-gl
 grabman
 groundwall
 goldseed

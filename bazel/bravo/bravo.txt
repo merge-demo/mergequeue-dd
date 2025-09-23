@@ -2207,7 +2207,6 @@ barbary
 bioecology
 baculiferous
 bast
-ballism
 bellyfulls
 bridgebote
 barbarianizing
@@ -16916,6 +16915,7 @@ bonhomously
 barometrograph
 bowedness
 bouvier
+ballism
 burgundies
 blazoner
 beeping
