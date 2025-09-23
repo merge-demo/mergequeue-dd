@@ -8440,7 +8440,6 @@ graffias
 garum
 glisteningly
 glossotype
-gurgle
 gelatinization
 gravely
 galops
@@ -8941,6 +8940,7 @@ gull
 germans
 giveaway
 gumbolike
+gurgle
 glaucopis
 grievable
 grievance
