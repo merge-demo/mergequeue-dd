@@ -15473,7 +15473,6 @@ clarion
 chloridella
 circumstantiates
 ciclatoun
-clarionet
 clarioning
 cloam
 circuted
@@ -23073,6 +23072,7 @@ consolidators
 consoling
 counteractivity
 consolingly
+clarionet
 consolitoriness
 catalepsies
 cirrhus
