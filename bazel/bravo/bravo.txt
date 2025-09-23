@@ -766,6 +766,7 @@ banket
 badmouthed
 badmouths
 bullfrog
+binnite
 bradylogia
 bein
 breadness
@@ -9911,7 +9912,6 @@ bilinguality
 bridleman
 burbles
 bivalence
-binnite
 byelaw
 biland
 bedsteads
