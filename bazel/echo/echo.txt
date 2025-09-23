@@ -12717,7 +12717,6 @@ embus
 exopterygotism
 eurypygae
 epha
-extol
 espressivo
 englishman
 exorable
@@ -13786,6 +13785,7 @@ elachista
 ethnicism
 exacuate
 extortions
+extol
 establishmentarianism
 extortive
 equiped
