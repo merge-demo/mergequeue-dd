@@ -3132,7 +3132,6 @@ furioso
 franciscans
 facile
 friendlike
-finca
 fidate
 flip
 fences
@@ -4106,6 +4105,7 @@ formazyl
 felicitously
 finnicking
 foresightless
+finca
 fungusy
 frostation
 fergusonite
