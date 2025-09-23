@@ -4829,7 +4829,6 @@ decadents
 duodenogram
 dobbie
 descendental
-descriptor
 dehorned
 dangs
 dpt
@@ -16821,6 +16820,7 @@ durandarte
 draughtsmanship
 deboned
 dolichuric
+descriptor
 diplasic
 dangersome
 disequilibriums
