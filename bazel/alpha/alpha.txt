@@ -7238,6 +7238,7 @@ abietineae
 albicant
 abraser
 astrobiological
+atrophied
 ashluslay
 albiculi
 albificative
@@ -12030,7 +12031,6 @@ andaman
 anchieutectic
 affectuous
 allbone
-atrophied
 amblygon
 almsman
 adelphic
