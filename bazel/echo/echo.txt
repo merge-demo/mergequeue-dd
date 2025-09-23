@@ -5504,6 +5504,7 @@ experimentalism
 episporangium
 enfatico
 enfeeble
+emissile
 enfeeblements
 earwort
 exorcising
@@ -8381,7 +8382,6 @@ errands
 epistolography
 enmities
 epitra
-emissile
 epitrachelia
 epitria
 estrum
