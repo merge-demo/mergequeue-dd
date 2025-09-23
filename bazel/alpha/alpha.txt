@@ -7710,6 +7710,7 @@ alecup
 agami
 arsenicophagy
 alefs
+arthrology
 aberrating
 almighty
 alefzero
@@ -22535,7 +22536,6 @@ athyrosis
 arbitrer
 aflight
 achenodium
-arthrology
 attestor
 aroph
 antioptimistically
