@@ -4397,6 +4397,7 @@ bendlet
 bludging
 bafta
 bretonian
+bebrave
 bilabials
 bibliotist
 beclothe
@@ -18054,7 +18055,6 @@ baignet
 boatsman
 bangy
 belive
-bebrave
 bishopess
 bepiece
 butadiyne
