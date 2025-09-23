@@ -469,7 +469,6 @@ folkmoter
 foliosity
 facticity
 faithworthiness
-fireplaces
 faitours
 fornicatress
 fomented
@@ -4469,6 +4468,7 @@ fishpotter
 finicism
 forerigging
 footstool
+fireplaces
 fishskin
 formidable
 frouzier

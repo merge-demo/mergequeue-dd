@@ -1830,7 +1830,6 @@ chobdar
 cambarus
 cambered
 croc
-cambeva
 cambia
 cosmonautics
 cambiata
@@ -2403,6 +2402,7 @@ corroborators
 convenes
 cancerigenic
 catechol
+cambeva
 cancerism
 carlins
 cystidiums
