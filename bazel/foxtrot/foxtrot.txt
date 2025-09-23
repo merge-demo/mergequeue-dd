@@ -3914,6 +3914,7 @@ findhorn
 filarees
 fine
 fineableness
+fiendism
 fumigators
 fusinist
 fullage
@@ -7166,7 +7167,6 @@ fourche
 furnariidae
 fuminess
 fraileros
-fiendism
 fulvescent
 foothot
 fortuneless
