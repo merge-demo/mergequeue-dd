@@ -4728,6 +4728,7 @@ gonimolobe
 germanophobia
 gryphite
 ganocephalan
+gerful
 grumium
 goad
 gaels
@@ -7443,7 +7444,6 @@ gonad
 gamesmanship
 gymnotidae
 gordon
-gerful
 geostrategic
 gaet
 gout
