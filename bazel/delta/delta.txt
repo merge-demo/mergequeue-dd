@@ -4539,6 +4539,7 @@ deradelphus
 delegatus
 denda
 deacidified
+disimitation
 dendrological
 dysprosium
 demicanon
@@ -7881,7 +7882,6 @@ disestablishment
 discourseless
 danziger
 devouringly
-disimitation
 dischevel
 diaphanie
 dispensate

@@ -6879,6 +6879,7 @@ epic
 electrochemical
 entomophthorales
 erythrodextrin
+exemplifiers
 enfeoffed
 estruses
 extremism
@@ -7517,7 +7518,6 @@ encyc
 elevato
 epiblasts
 englishhood
-exemplifiers
 everywhence
 ephedras
 equiradial
