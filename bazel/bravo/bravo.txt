@@ -9610,7 +9610,6 @@ bouk
 branchipodidae
 buffability
 botcher
-barnard
 bismerpund
 bipartisanism
 bourette
@@ -16068,6 +16067,7 @@ balletomane
 borrowing
 barracoon
 bramblier
+barnard
 brachylogies
 brothering
 brailed
