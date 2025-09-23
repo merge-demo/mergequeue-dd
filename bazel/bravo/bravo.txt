@@ -4734,6 +4734,7 @@ bedsonias
 blacktree
 basidorsal
 bakers
+barbets
 believableness
 baboons
 badmouth
@@ -7424,7 +7425,6 @@ burses
 botas
 bevesseled
 bocoy
-barbets
 bluebirds
 blastocolla
 balsamweed
