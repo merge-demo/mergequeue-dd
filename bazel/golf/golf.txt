@@ -2240,7 +2240,6 @@ gristle
 gossipmongering
 galactase
 gastrotome
-grifts
 glottology
 gefulltefish
 galax
@@ -7100,6 +7099,7 @@ gypsylike
 grasscut
 guayaba
 greenfly
+grifts
 gile
 gore
 gorebill
