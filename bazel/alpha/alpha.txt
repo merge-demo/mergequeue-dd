@@ -15694,6 +15694,7 @@ arctitude
 antithrombin
 alert
 antipyretics
+agravic
 athlothetes
 antipyrin
 accustomedness
@@ -24889,7 +24890,6 @@ awakened
 armets
 aralia
 awakeners
-agravic
 awakening
 awakeningly
 avignonese
