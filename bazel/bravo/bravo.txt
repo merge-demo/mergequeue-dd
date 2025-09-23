@@ -12996,7 +12996,6 @@ bedur
 bruchidae
 bueno
 barbecued
-bombarde
 baptismally
 baiginet
 balsamous
@@ -18334,6 +18333,7 @@ bedding
 buttressed
 bradypodidae
 breviped
+bombarde
 buttresslike
 bromiodide
 bulbs
