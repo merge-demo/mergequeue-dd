@@ -6678,7 +6678,6 @@ existents
 enterorrhagia
 enterorrhaphy
 eutychianism
-enkindler
 electromotiv
 enchelycephali
 enterosepsis
@@ -12914,6 +12913,7 @@ epinine
 enteradenographic
 extraprostatic
 eyrir
+enkindler
 esmayle
 embryologic
 expatiates
