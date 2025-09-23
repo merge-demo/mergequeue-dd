@@ -6759,7 +6759,6 @@ formative
 fronded
 fissate
 focal
-folacin
 falsidical
 foibles
 finder
@@ -7203,6 +7202,7 @@ frizzlers
 formulate
 faenas
 forkbeard
+folacin
 footpaces
 fifer
 foolocracy
