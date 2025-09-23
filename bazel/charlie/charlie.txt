@@ -18675,7 +18675,6 @@ corralled
 connex
 clanless
 coyn
-coinable
 creative
 coincide
 clemming
@@ -22790,6 +22789,7 @@ calamitousness
 conquisition
 chelodine
 conation
+coinable
 chaffless
 cuspidated
 cabbages
