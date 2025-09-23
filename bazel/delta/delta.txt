@@ -6633,6 +6633,7 @@ diplococcocci
 davyne
 desensitizing
 deemphasizes
+dissimuler
 demerol
 disadvancing
 dreamwhile
@@ -14531,7 +14532,6 @@ dyadic
 divinister
 defier
 dismiss
-dissimuler
 discoverers
 divinized
 demarche
