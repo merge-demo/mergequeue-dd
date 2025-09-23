@@ -8618,7 +8618,6 @@ autogeny
 allhallows
 alliance
 anschluss
-awink
 appet
 alliancing
 anemonol
@@ -18916,6 +18915,7 @@ alarm
 archonship
 autorotation
 acichlorid
+awink
 archontia
 anonymuncule
 apocatharsis
