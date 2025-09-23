@@ -1083,6 +1083,7 @@ calcimining
 cesspipe
 catapan
 crossbarred
+cirrated
 calcinate
 calcine
 coherently
@@ -8047,7 +8048,6 @@ chaetophoraceous
 chamberletted
 cuvierian
 chaetopod
-cirrated
 carts
 chaetopodan
 chaetopterus
