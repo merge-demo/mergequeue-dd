@@ -2302,6 +2302,7 @@ ensepulchre
 evangelicalness
 electrizable
 electrization
+exoterics
 excavated
 epicotyl
 errorful
@@ -5502,7 +5503,6 @@ enfeeblements
 earwort
 exorcising
 evertors
-exoterics
 espiritual
 enfeebles
 enfeebling

@@ -3881,6 +3881,7 @@ fores
 fany
 fig
 flowerlet
+fructuose
 forfit
 flabbergastingly
 flashlamps
@@ -8258,7 +8259,6 @@ faits
 feldspars
 fistulated
 fulltime
-fructuose
 forgettably
 fixers
 faverole
