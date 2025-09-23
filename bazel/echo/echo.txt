@@ -1421,7 +1421,6 @@ espoused
 ethnicon
 exaggeratory
 execratory
-ebbing
 euskaldun
 electromassage
 effluviviums
@@ -2458,6 +2457,7 @@ electrogenic
 electrogild
 eudemonia
 electrogilt
+ebbing
 ejecting
 electrogram
 endows
