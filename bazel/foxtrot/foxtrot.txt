@@ -6069,6 +6069,7 @@ funker
 fizzling
 frecken
 faculty
+fuchi
 forgeman
 figurial
 foxhounds
@@ -10139,7 +10140,6 @@ fulciform
 fortuitus
 fissiparously
 frittering
-fuchi
 frivolity
 freakier
 frivolities
