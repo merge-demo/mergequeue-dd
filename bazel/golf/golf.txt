@@ -5037,6 +5037,7 @@ gustful
 gularis
 garland
 ganged
+gazed
 gret
 glassful
 glassfuls
@@ -9554,7 +9555,6 @@ gymnostomata
 galactopoiesis
 geophones
 granted
-gazed
 gynecologist
 galactoscope
 grind
