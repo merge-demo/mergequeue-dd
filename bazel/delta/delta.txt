@@ -12190,7 +12190,6 @@ disflesh
 dargo
 disrelate
 distich
-descendibility
 demyelinate
 downbye
 disherent
@@ -17965,6 +17964,7 @@ dosage
 devaluated
 desponds
 dreggiest
+descendibility
 distempering
 dantonist
 duftite
