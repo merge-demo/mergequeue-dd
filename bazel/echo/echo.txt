@@ -6664,6 +6664,7 @@ enteromegalia
 enteroneuritis
 effectuates
 enterons
+escheatment
 engrafted
 eyehooks
 ethions
@@ -11878,7 +11879,6 @@ emits
 empest
 enormousness
 except
-escheatment
 eppes
 encolure
 entomologise
