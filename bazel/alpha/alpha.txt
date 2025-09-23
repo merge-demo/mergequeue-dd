@@ -2426,7 +2426,6 @@ ardella
 autoserum
 allocate
 austrasian
-absciss
 amidate
 acoma
 arthropleura
@@ -21520,6 +21519,7 @@ assayed
 ambushing
 agnatic
 alvia
+absciss
 amorist
 alqueire
 anthill
