@@ -296,6 +296,7 @@ giglot
 geobotany
 ganjas
 gynaecian
+glaiketness
 gaminesque
 gaysome
 gaist
@@ -10659,7 +10660,6 @@ goatsbane
 galp
 gurgoyle
 gurgulio
-glaiketness
 genuflexion
 glottologist
 guric
