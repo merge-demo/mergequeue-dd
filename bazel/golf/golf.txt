@@ -287,7 +287,6 @@ gibing
 gaslock
 gaddish
 groundliness
-grubstaked
 globins
 geet
 gummier
@@ -1945,6 +1944,7 @@ germicides
 gorbellied
 glutetei
 gruft
+grubstaked
 gustoso
 gastrilegous
 gamasidae
