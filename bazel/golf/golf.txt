@@ -1456,6 +1456,7 @@ gowks
 gamma
 gerousia
 gradualness
+gnateater
 gasboat
 giddiness
 gawp
@@ -10412,7 +10413,6 @@ gutturalness
 guttier
 gatecrashers
 gadgetries
-gnateater
 gillbird
 giller
 geepound
