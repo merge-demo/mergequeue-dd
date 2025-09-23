@@ -4860,7 +4860,6 @@ guaranteeing
 gleam
 glozes
 gyrotheca
-gimme
 grandstanding
 gladiola
 granatite
@@ -5915,6 +5914,7 @@ gephyrocercal
 gemeinschaft
 glossocoma
 gibbers
+gimme
 gauzier
 gutless
 gestapo
