@@ -2544,7 +2544,6 @@ arricciati
 amirship
 attackingly
 acquisited
-acquisitive
 archaeologian
 acetiam
 affixment
@@ -15749,6 +15748,7 @@ albuminorrhea
 amora
 antipoverty
 antipragmatical
+acquisitive
 astrodome
 altho
 ataxies
