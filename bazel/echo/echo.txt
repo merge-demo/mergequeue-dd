@@ -2426,7 +2426,6 @@ exciting
 exciple
 ebonist
 electroencephalographical
-essentialize
 evoker
 ecclesiastically
 electroendosmosis
@@ -6878,6 +6877,7 @@ elapids
 entomophobia
 earwaxes
 esthesiography
+essentialize
 epic
 electrochemical
 entomophthorales
