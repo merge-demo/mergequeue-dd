@@ -2322,7 +2322,6 @@ graviton
 gravamina
 gamine
 grapey
-gelatinizer
 gradates
 giornatate
 gadbee
@@ -3423,6 +3422,7 @@ guimpes
 goutily
 glaucosis
 gamont
+gelatinizer
 gomerils
 gesithcundman
 gesling
