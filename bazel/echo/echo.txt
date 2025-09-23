@@ -1571,7 +1571,6 @@ exaggeratedness
 egises
 euosmite
 enterokinetic
-eglamore
 eglandular
 electrosynthetically
 eglantines
@@ -12608,6 +12607,7 @@ etheostoma
 effectualness
 epigenetically
 eagless
+eglamore
 encirclement
 eyeletted
 excoriate
