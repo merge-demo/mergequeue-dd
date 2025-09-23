@@ -6848,7 +6848,6 @@ foozler
 faulkland
 fraudulency
 freemartin
-foreporch
 fonnish
 femororotulian
 folios
@@ -7112,6 +7111,7 @@ feh
 frigid
 foundress
 feeder
+foreporch
 ferly
 flanging
 familarity

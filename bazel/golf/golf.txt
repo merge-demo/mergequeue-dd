@@ -5082,6 +5082,7 @@ griskin
 grainsmen
 glassteel
 grenadine
+gaumed
 goldeneye
 greesagh
 gte
@@ -5107,7 +5108,6 @@ glossate
 gregarinous
 glali
 gnatflower
-gaumed
 gallweed
 glomera
 gentlehearted
