@@ -1168,7 +1168,6 @@ coxcomical
 comically
 christs
 calculuses
-conchology
 caldaria
 chokra
 calderas
@@ -26057,6 +26056,7 @@ cosiness
 cosins
 cosmetic
 cosmetically
+conchology
 chasses
 cliquier
 custrel
