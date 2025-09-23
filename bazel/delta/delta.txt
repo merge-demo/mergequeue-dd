@@ -4271,6 +4271,7 @@ dineros
 doricism
 danseuses
 deltohedron
+dogeared
 dawen
 downslip
 dogvanes
@@ -13806,7 +13807,6 @@ decus
 derogatively
 dysphemia
 defeminize
-dogeared
 distasteful
 diacoca
 dep
