@@ -9642,7 +9642,6 @@ adipocerous
 agamete
 amalgam
 apophonies
-amalgamate
 asbolane
 antimonarchical
 ampelopsin
@@ -23020,6 +23019,7 @@ acquaintanceship
 atterminement
 apotropaically
 amplifying
+amalgamate
 aggressionist
 attest
 amphibology
