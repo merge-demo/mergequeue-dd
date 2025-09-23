@@ -3502,6 +3502,7 @@ debarked
 drumlin
 dollface
 deul
+diamat
 disfrock
 digestion
 dislimb
@@ -8460,7 +8461,6 @@ diamagnetic
 decrowns
 dibutyl
 dorsibranch
-diamat
 dambose
 dermochrome
 denver
