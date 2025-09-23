@@ -5044,6 +5044,7 @@ editorialized
 endoaortitis
 endoappendicitis
 economization
+eupolyzoan
 elan
 emerited
 endoauscultation
@@ -10966,7 +10967,6 @@ excreting
 embrowns
 eupolidean
 esopus
-eupolyzoan
 envoy
 epidermatic
 eupotamic
