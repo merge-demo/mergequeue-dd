@@ -5294,7 +5294,6 @@ glycyrrhizin
 gimps
 glycogenolytic
 gangsters
-gammaroid
 goodman
 globularly
 gutturalism
@@ -9770,6 +9769,7 @@ galley
 galvanotropic
 gruntling
 gazook
+gammaroid
 gruppo
 galeate
 guebre
