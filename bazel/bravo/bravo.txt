@@ -3215,7 +3215,6 @@ basidiosporous
 bundy
 billman
 bodiless
-bellowslike
 bathtub
 bipontine
 basifugal
@@ -6196,6 +6195,7 @@ broilery
 beshames
 brachycatalectic
 benthal
+bellowslike
 boatside
 beys
 basketballs
