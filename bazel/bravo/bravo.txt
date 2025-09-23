@@ -5420,6 +5420,7 @@ bemixed
 bidget
 becramp
 bountied
+biological
 booing
 beehouse
 borotungstic
@@ -15234,7 +15235,6 @@ benzidine
 ballyhoos
 bridgework
 bridie
-biological
 barhal
 bridlers
 blepharitic

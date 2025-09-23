@@ -9284,7 +9284,6 @@ frapler
 forename
 footmenfootpad
 fungologist
-freelance
 fumarine
 foldwards
 fogrum
@@ -9409,6 +9408,7 @@ fondu
 frenum
 ficaria
 forequoted
+freelance
 fractionised
 flamboyer
 franticly
