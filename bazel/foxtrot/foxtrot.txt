@@ -1764,7 +1764,6 @@ fn
 featheriness
 frogface
 forsterite
-farfet
 farsalah
 frize
 farming
@@ -5416,6 +5415,7 @@ floatless
 foisonless
 fabian
 feasten
+farfet
 forefigure
 furor
 flurt
