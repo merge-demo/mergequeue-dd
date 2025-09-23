@@ -3621,7 +3621,6 @@ ghibli
 gobline
 ghiblis
 guided
-geebung
 goths
 glottides
 grisaille
@@ -8215,6 +8214,7 @@ gyropigeon
 grammarians
 gimp
 grippingness
+geebung
 giardiasis
 gre
 garamond
