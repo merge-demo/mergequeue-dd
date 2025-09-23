@@ -5321,6 +5321,7 @@ feasts
 filial
 fant
 forcepslike
+fibbing
 foulmouthedly
 fiddlebrained
 flimflam
@@ -5547,7 +5548,6 @@ flexuously
 fram
 forecited
 fascicle
-fibbing
 felon
 foliaceous
 fluctuant
