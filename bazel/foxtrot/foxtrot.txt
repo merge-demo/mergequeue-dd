@@ -840,6 +840,7 @@ frown
 felinely
 ferrets
 flummox
+filigreed
 fannia
 forbecause
 fanon
@@ -2607,7 +2608,6 @@ fratchy
 farish
 frivol
 functionally
-filigreed
 flutework
 ferio
 farandmen
