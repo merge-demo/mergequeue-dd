@@ -4979,6 +4979,7 @@ analyticity
 aestii
 avocate
 aestivates
+analogue
 admonisher
 acquainting
 amenia
@@ -6907,7 +6908,6 @@ asporogenous
 alacrify
 ameiotic
 allocation
-analogue
 aphanite
 ambulacriform
 allonge
