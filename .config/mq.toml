@@ -23,7 +23,7 @@ run_generate_for = "60 minutes"
 max_deps = 7
 
 # the max number of deps per PR to edit
-max_impacted_deps = 5
+max_impacted_deps = 3
 
 # rate at which PRs should simulate a logical merge conflict and need to be rejected
 logical_conflict_every = 100
