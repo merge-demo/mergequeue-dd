@@ -3434,7 +3434,6 @@ adelphous
 adipsous
 azole
 ascesis
-assedat
 arabicize
 akenbold
 amphibion
@@ -17001,6 +17000,7 @@ assassinated
 apogamously
 agamist
 alebion
+assedat
 aerialists
 apogee
 apogees
