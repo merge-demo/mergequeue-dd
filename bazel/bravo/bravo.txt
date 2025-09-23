@@ -11749,7 +11749,6 @@ bootstrap
 burier
 bathycurrent
 beworry
-barrens
 bucephala
 beggarwoman
 biology
@@ -12298,6 +12297,7 @@ bombasticness
 blotched
 bombasts
 bombed
+barrens
 bomber
 begroaning
 balatronic
