@@ -4556,6 +4556,7 @@ damsels
 disembody
 demidistance
 diaphane
+dishabilitate
 demifarthing
 demissness
 diabetogenic
@@ -18617,7 +18618,6 @@ dustless
 demount
 deterged
 dustoori
-dishabilitate
 dustour
 dorsalmost
 dishcloth
