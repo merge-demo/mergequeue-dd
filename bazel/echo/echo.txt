@@ -3437,6 +3437,7 @@ emmer
 edwardeanism
 eyeleteer
 embers
+exscript
 estival
 enate
 epees
@@ -8004,7 +8005,6 @@ epipactis
 elasticized
 enneateric
 enigmaticalness
-exscript
 epigonal
 episode
 ehtanethial
