@@ -9953,7 +9953,6 @@ frigage
 frigates
 flocculated
 flavin
-frightens
 fontes
 frighting
 fumiduct
@@ -11342,6 +11341,7 @@ foreglimpsed
 forswat
 foldure
 fellic
+frightens
 factorially
 footsores
 fluoroid
