@@ -2489,6 +2489,7 @@ foolhardihood
 fordo
 forehatch
 flavic
+fought
 freightage
 fawningness
 fortunize
@@ -7333,7 +7334,6 @@ flourishy
 formularised
 foraminose
 foraminulate
-fought
 forams
 flabbily
 france
