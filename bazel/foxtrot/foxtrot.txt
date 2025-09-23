@@ -4145,7 +4145,6 @@ foramina
 freightyard
 fulk
 felonry
-firstly
 flexed
 fatling
 fenchyl
@@ -8590,6 +8589,7 @@ fainters
 famishment
 floodmark
 farmplace
+firstly
 frequence
 fiscs
 forrard

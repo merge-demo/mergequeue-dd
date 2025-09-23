@@ -5293,7 +5293,6 @@ ccws
 crum
 cassius
 cassock
-ctenophora
 cultures
 coenzyme
 cassocks
@@ -18044,6 +18043,7 @@ claymores
 crawlie
 cornerman
 corinthians
+ctenophora
 coelom
 careerism
 coelomata
