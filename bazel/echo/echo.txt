@@ -6900,7 +6900,6 @@ elasticize
 electrovital
 escudos
 embonpoint
-ephoric
 entoperipheral
 eighteenths
 exuviable
@@ -13658,6 +13657,7 @@ encomiendas
 enphytotic
 endorsors
 erratum
+ephoric
 epistolizable
 exteriorness
 espec
