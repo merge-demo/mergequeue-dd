@@ -3325,7 +3325,6 @@ additions
 anthers
 absmho
 aerograph
-addititious
 additive
 acrogynous
 anamorphism
@@ -10779,6 +10778,7 @@ abstainer
 arangoes
 aulas
 azotemia
+addititious
 angelicize
 amnestied
 ambidexterous
