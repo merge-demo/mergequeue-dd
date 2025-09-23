@@ -8350,7 +8350,6 @@ briquet
 bignoniaceous
 bygo
 bygone
-bist
 bigonial
 bemeans
 bombyxes
@@ -16684,6 +16683,7 @@ bathala
 botocudo
 bethunder
 bisognio
+bist
 bead
 boswell
 benzolate
