@@ -9689,6 +9689,7 @@ bescurvy
 bistipulate
 begumming
 bistred
+bilateralities
 bindheimite
 beknights
 bradylexia
@@ -15950,7 +15951,6 @@ burgessdom
 brontosauruses
 beryllium
 barrels
-bilateralities
 bemoaned
 byous
 bleareyed

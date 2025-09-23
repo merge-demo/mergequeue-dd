@@ -13180,7 +13180,6 @@ ciceronianisms
 cuckooing
 chisled
 ciceronianist
-compellability
 coon
 czaritza
 colluviums
@@ -22704,6 +22703,7 @@ curialist
 connochaetes
 counterpleading
 chaenactis
+compellability
 conspectuity
 casuarinaceae
 cabinets
