@@ -1109,6 +1109,7 @@ gruntled
 gashes
 globalization
 ganofs
+geison
 ganoidian
 graptolitoidea
 gaillardia
@@ -2099,7 +2100,6 @@ giggledom
 grottolike
 gardenia
 gastrostege
-geison
 gawking
 glucinic
 gastrins
