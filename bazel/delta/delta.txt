@@ -9751,7 +9751,6 @@ dilates
 disapprovable
 devaster
 decolourization
-denicotine
 dilatometer
 dermolysis
 dilatometrically
@@ -18303,6 +18302,7 @@ dunnite
 dunnites
 dagger
 dextorsal
+denicotine
 dossennus
 doray
 desmepithelium

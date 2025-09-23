@@ -9247,7 +9247,6 @@ croziers
 coterminal
 chatchke
 chatchkes
-chondrogenous
 chateaugray
 chateaus
 chateaux
@@ -16315,6 +16314,7 @@ cathodegraph
 consortial
 clints
 clio
+chondrogenous
 cresses
 clip
 canterer
