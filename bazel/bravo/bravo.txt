@@ -3772,6 +3772,7 @@ benzole
 beauish
 befleck
 birde
+bottled
 brawer
 burleycue
 brutus
@@ -11971,7 +11972,6 @@ bogued
 bogus
 bohairic
 baume
-bottled
 bohemian
 bohemium
 bidigitate
