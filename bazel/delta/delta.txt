@@ -2697,7 +2697,6 @@ domoid
 deductibility
 decoration
 disjune
-duodecimo
 discursory
 decorator
 disclassify
@@ -4984,6 +4983,7 @@ donnas
 decemviral
 decadency
 demoralizers
+duodecimo
 drillmaster
 draughty
 debussy
