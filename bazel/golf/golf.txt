@@ -7124,7 +7124,6 @@ genecor
 gorgeret
 gangrenescent
 gorgia
-girly
 gorglin
 gladden
 gestate
@@ -9747,6 +9746,7 @@ gien
 girls
 gtt
 guidon
+girly
 gagaku
 gymnastic
 gluttonizing
