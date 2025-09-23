@@ -9771,7 +9771,6 @@ chelated
 cattish
 chelator
 collisions
-chelicer
 cysts
 chelide
 cornrick
@@ -10885,6 +10884,7 @@ chipproof
 coffles
 comforter
 crucifying
+chelicer
 clocher
 chypre
 chipwood
