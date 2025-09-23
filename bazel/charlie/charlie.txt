@@ -3415,7 +3415,6 @@ constructionally
 caprifoliaceae
 cincinnatia
 capriform
-caprigenous
 caprylic
 cymene
 caprock
@@ -8023,6 +8022,7 @@ codirectional
 chacte
 chad
 chadarim
+caprigenous
 colloquy
 custard
 catsup
