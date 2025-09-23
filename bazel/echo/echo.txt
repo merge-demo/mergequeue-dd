@@ -4437,6 +4437,7 @@ ectorganism
 encases
 erupts
 eumenidae
+emitter
 euryzygous
 exaggerator
 extemporaneousness
@@ -7913,7 +7914,6 @@ epinikion
 epilogical
 entomophaga
 eurystomatous
-emitter
 experiment
 eatery
 extrastapedial
