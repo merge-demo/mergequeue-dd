@@ -2597,7 +2597,6 @@ ferrometer
 filagreed
 ferronatrite
 foh
-follis
 fluorouracil
 financiere
 filmed
@@ -11568,6 +11567,7 @@ furanoses
 fulmar
 futhermore
 fixature
+follis
 finnickiest
 fusiliers
 forthbringing
