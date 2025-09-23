@@ -1377,7 +1377,6 @@ accessarily
 accessariness
 absinthin
 anathemize
-acrobatic
 arcubalist
 apodictically
 adipofibroma
@@ -15475,6 +15474,7 @@ arcus
 awfulness
 arrowheaded
 assumed
+acrobatic
 adders
 arblast
 adenosarcoma

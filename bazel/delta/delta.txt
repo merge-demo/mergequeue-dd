@@ -4488,6 +4488,7 @@ drugstore
 dechemicalization
 deincrustant
 dulceness
+dephilosophize
 dependant
 delftware
 demerit
@@ -14260,7 +14261,6 @@ disorders
 deviances
 disclamatory
 dithion
-dephilosophize
 devotionate
 demarcature
 diaconal
