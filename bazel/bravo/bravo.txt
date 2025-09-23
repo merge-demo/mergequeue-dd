@@ -893,7 +893,6 @@ boasts
 babishness
 blundering
 bagnes
-bastnaesite
 blowze
 bullionism
 bullboat
@@ -5561,6 +5560,7 @@ businessmen
 beladying
 buzzwig
 bayz
+bastnaesite
 buccaneers
 belah
 belaying
