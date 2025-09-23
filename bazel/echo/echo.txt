@@ -307,7 +307,6 @@ encamps
 epitheliums
 enterolobium
 enantiosis
-ealderman
 endark
 espousage
 excusator
@@ -2661,6 +2660,7 @@ epitomizing
 emong
 enfaced
 ensurer
+ealderman
 electrosurgery
 enventual
 epididymovasostomy
