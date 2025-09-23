@@ -7237,7 +7237,6 @@ famishing
 fiorded
 flumed
 flocoon
-footsy
 foiled
 footslogger
 flailed
@@ -11268,6 +11267,7 @@ file
 farces
 frabjous
 fernando
+footsy
 flatters
 furanoid
 fricandeaus
