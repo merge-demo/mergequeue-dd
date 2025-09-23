@@ -5826,6 +5826,7 @@ fallers
 filariid
 floatage
 farmeries
+freezy
 fayal
 feverously
 fluochloride
@@ -9659,7 +9660,6 @@ flocculous
 fourths
 futharks
 floyt
-freezy
 fubbed
 fromage
 foredivine
