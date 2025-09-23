@@ -45,7 +45,6 @@ dackered
 daduchus
 deraign
 diospyros
-dasypodoid
 deorusumduction
 duniwassal
 dacryagogue
@@ -9346,6 +9345,7 @@ drawnness
 deepwater
 distraction
 destroyable
+dasypodoid
 deutoplasmic
 disavowable
 directionless
