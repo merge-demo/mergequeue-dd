@@ -2168,7 +2168,6 @@ friskest
 frontiers
 folkmoot
 falsities
-felonwort
 falutin
 fraela
 flatterdock
@@ -4126,6 +4125,7 @@ fusiladed
 fiorite
 flamberg
 foreseen
+felonwort
 faff
 fontanel
 fluidrams
