@@ -5326,7 +5326,6 @@ bacteriogenic
 bonace
 besoothement
 birefringence
-buyable
 begray
 barodynamic
 barbarisation
@@ -16935,6 +16934,7 @@ bikinis
 bedcover
 biconsonantal
 bechuana
+buyable
 bayman
 bungalow
 braces
