@@ -862,6 +862,7 @@ gammy
 gynecomazia
 ganglionitis
 gilded
+geranomorphae
 gulinular
 garrooka
 gazi
@@ -8782,7 +8783,6 @@ gonogenesis
 gregariously
 glaciologic
 grazed
-geranomorphae
 grossularia
 grossest
 gauntleting
