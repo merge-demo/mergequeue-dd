@@ -3246,6 +3246,7 @@ answerless
 arrogancy
 arabitol
 argosies
+approx
 antipoetical
 acerbates
 alliaria
@@ -20046,7 +20047,6 @@ amantadine
 acopyrine
 arbalister
 ametabolism
-approx
 accessors
 array
 arrayal
