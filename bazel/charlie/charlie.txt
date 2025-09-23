@@ -943,6 +943,7 @@ calaite
 calamancoes
 calamansi
 calamary
+communalised
 calamariaceous
 centrifugalized
 coembrace
@@ -4451,7 +4452,6 @@ cannaled
 circumference
 carls
 cavorters
-communalised
 carmaker
 compose
 combing
