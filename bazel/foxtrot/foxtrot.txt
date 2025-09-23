@@ -7559,6 +7559,7 @@ foggier
 fractionise
 forecourts
 freeholding
+freibergite
 fulmen
 furuncles
 faille
@@ -9670,7 +9671,6 @@ faunist
 freyalite
 frondent
 forfairn
-freibergite
 fulgorous
 fuseboard
 fruit
