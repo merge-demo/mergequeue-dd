@@ -6863,7 +6863,6 @@ dicotylidae
 deltic
 domesticative
 derivative
-desmopexia
 diaphanometry
 deheathenize
 dentary
@@ -16773,6 +16772,7 @@ diphtheritic
 decreement
 dramme
 discurrent
+desmopexia
 designative
 definers
 dioecious
