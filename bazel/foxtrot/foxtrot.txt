@@ -1830,6 +1830,7 @@ flexographic
 frostnipped
 funambulate
 feazed
+facemaker
 foreign
 febricant
 frilly
@@ -5780,7 +5781,6 @@ family
 fevertwig
 flambee
 frett
-facemaker
 fv
 forestside
 forepromised
