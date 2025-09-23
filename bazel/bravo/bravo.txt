@@ -3593,7 +3593,6 @@ babas
 bepray
 ballyragged
 blepharostat
-bridelace
 banilad
 bellicosely
 bathukolpian
@@ -6448,6 +6447,7 @@ bartramiaceae
 belga
 buckeyes
 beray
+bridelace
 buster
 benignness
 bushelful

@@ -6440,7 +6440,6 @@ camelus
 cavey
 curassow
 chromoscope
-caprificate
 cavekeeper
 cavelet
 cesarians
@@ -22205,6 +22204,7 @@ carragheen
 commassee
 confounded
 cromerian
+caprificate
 contrivance
 caickle
 confounder
