@@ -1634,7 +1634,6 @@ deairs
 didascaly
 drupelet
 depositories
-dealbate
 drawer
 decriminalize
 diodes
@@ -9552,6 +9551,7 @@ downthrow
 decimated
 draggly
 dramaticule
+dealbate
 disjuncts
 deevilick
 digladiating
