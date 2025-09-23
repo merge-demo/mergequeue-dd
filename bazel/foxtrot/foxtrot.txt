@@ -4315,7 +4315,6 @@ fease
 florescence
 forequarters
 fluyt
-footle
 factive
 fet
 firmness
@@ -5645,6 +5644,7 @@ flimsiness
 fairleads
 flinch
 flagleaf
+footle
 feck
 fishnets
 finedraw
