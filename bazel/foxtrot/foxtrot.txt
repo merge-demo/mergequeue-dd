@@ -3129,6 +3129,7 @@ firewarden
 furioso
 franciscans
 facile
+friendlike
 finca
 fidate
 flip
@@ -6243,7 +6244,6 @@ fucus
 farmtown
 fluidic
 flapdragon
-friendlike
 forgette
 frankeniaceous
 fecit
