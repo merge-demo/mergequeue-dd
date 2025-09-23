@@ -2834,6 +2834,7 @@ biochemistry
 bilaterally
 bulgarians
 barracouta
+bringeth
 bicep
 blanketless
 benedictus
@@ -15403,7 +15404,6 @@ beadledom
 bringers
 bodega
 bicoloured
-bringeth
 brushiness
 bandicoot
 botanophilist
