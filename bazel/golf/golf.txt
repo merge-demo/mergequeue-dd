@@ -320,7 +320,6 @@ galabieh
 galactagog
 gradualist
 gamaliel
-greekism
 gamogenetically
 galactagogue
 gesneria
@@ -2947,6 +2946,7 @@ gastroenterostomy
 geomant
 gasaliers
 goluptious
+greekism
 graben
 glutinousness
 geyseric
