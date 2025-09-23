@@ -6945,7 +6945,6 @@ azotes
 acrimoniousness
 annerodite
 amphibiously
-allocheiria
 archimago
 asymptomatically
 afterdrain
@@ -11715,6 +11714,7 @@ analogical
 amidomyelin
 anteroventral
 analogize
+allocheiria
 acceptors
 analogon
 antihemorrheidal
