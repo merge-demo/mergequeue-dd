@@ -15,8 +15,8 @@ sleep_for = "15m"
 [pullrequest]
 labels = ""                     # label to apply to pull request on creation (comma separated list)
 comment = ""
-requests_per_hour = 60          # target number of pull requests per hour
-run_generate_for = "60 minutes"
+requests_per_hour = 250         # target number of pull requests per hour
+run_generate_for = "4h"
 
 # the max number of deps in this repo. setting to 3 for example will cause
 # files in alpha, bravo, charlie deps to be changed
