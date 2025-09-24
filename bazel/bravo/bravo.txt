@@ -7363,7 +7363,6 @@ berlines
 barbeau
 bookstack
 budgeting
-balmier
 biternate
 bushbashing
 boilery
@@ -11490,6 +11489,7 @@ bereave
 bluish
 buccellarius
 benighting
+balmier
 blunderbuss
 bartonella
 bestare
