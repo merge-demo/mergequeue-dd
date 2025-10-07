@@ -3479,6 +3479,7 @@ capstone
 capsula
 compage
 capsulation
+cracksman
 collegatary
 chainomatic
 chawbone
@@ -27652,7 +27653,6 @@ cowbind
 cypriot
 cowbinds
 clapperclawer
-cracksman
 consul
 cowboy
 calumny
