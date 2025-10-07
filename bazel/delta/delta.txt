@@ -10077,7 +10077,6 @@ dough
 dynamogeny
 darlingtonia
 dauphins
-dynamograph
 dynamometamorphic
 diatonicism
 disseverance
@@ -15563,6 +15562,7 @@ deflagrated
 decolorise
 dumbcow
 dealers
+dynamograph
 demodulates
 dogedoms
 disheartens
