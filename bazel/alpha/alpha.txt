@@ -2676,7 +2676,6 @@ anisostichus
 arloup
 anoint
 acrobryous
-authorities
 aortic
 apotropaion
 autopista
@@ -20281,6 +20280,7 @@ allerion
 arsenobenzol
 arsenobismite
 antilogistically
+authorities
 arsenofuran
 artocarpad
 arsenolite
