@@ -11250,6 +11250,7 @@ enamor
 emigre
 enthronized
 evangelistic
+edaphosaurid
 epidictical
 exserts
 earthquake
@@ -12771,7 +12772,6 @@ exosmotic
 explicative
 exospheric
 erotize
-edaphosaurid
 emblems
 encephalomere
 ensembles
