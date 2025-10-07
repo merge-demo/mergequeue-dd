@@ -2121,7 +2121,6 @@ bathochromy
 bantu
 bladed
 barbellulae
-birma
 botrychium
 barmie
 blueblood
@@ -2240,6 +2239,7 @@ barbasco
 boneless
 bummil
 bindoree
+birma
 bacchii
 besieger
 bactericholia
