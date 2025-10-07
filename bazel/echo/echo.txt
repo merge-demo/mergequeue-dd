@@ -1354,7 +1354,6 @@ ethylated
 enopla
 exemplupla
 eucalyptol
-estatesman
 echelon
 examinative
 efficacy
@@ -11506,6 +11505,7 @@ elixate
 erotylid
 exhaling
 eserin
+estatesman
 extractable
 evincing
 entoblast
