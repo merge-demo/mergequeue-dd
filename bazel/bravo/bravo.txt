@@ -6026,6 +6026,7 @@ barricader
 blurred
 bushlet
 banished
+bibacity
 bend
 barmy
 bester
@@ -8701,7 +8702,6 @@ beagling
 behests
 basileis
 barycentre
-bibacity
 birchen
 brinston
 beatificate
