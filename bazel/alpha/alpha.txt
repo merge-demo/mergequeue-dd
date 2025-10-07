@@ -16624,6 +16624,7 @@ aphelian
 admitting
 anthophagy
 audacity
+anosmias
 ajog
 ambidextrous
 aphemic
@@ -24801,7 +24802,6 @@ aberrations
 aziethane
 appellations
 arythmias
-anosmias
 articulative
 aggrandizements
 arretez
