@@ -9523,7 +9523,6 @@ cacochymia
 checkless
 checkman
 congruencies
-checkmate
 chirosophist
 chiotilla
 checkmating
@@ -17464,6 +17463,7 @@ cobaea
 corbeil
 cotters
 cokery
+checkmate
 cobalamin
 choirs
 copelatae
