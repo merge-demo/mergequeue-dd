@@ -2597,7 +2597,6 @@ exercitor
 enjelly
 epithelize
 exothecate
-electrophoretogram
 expansure
 exturb
 estimated
@@ -13868,6 +13867,7 @@ euglobulin
 expo
 etamine
 exosmosis
+electrophoretogram
 emollient
 endolymphangial
 extradited
