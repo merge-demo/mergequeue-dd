@@ -3841,6 +3841,7 @@ bawdrics
 bawdries
 boreal
 bodock
+bucklering
 boiling
 buriable
 bawl
@@ -14588,7 +14589,6 @@ beneficency
 breathers
 backspin
 brash
-bucklering
 buttyman
 brasher
 boniness
