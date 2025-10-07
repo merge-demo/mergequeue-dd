@@ -727,7 +727,6 @@ colonelship
 conductorship
 cagework
 coordinators
-consonantising
 calliphorine
 conjurors
 cagy
@@ -8594,6 +8593,7 @@ clutcher
 cohesibility
 chancriform
 chancroid
+consonantising
 corduroying
 chrestomathic
 congresses
