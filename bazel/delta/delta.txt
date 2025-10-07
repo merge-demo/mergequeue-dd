@@ -1863,7 +1863,6 @@ dispending
 degeneratively
 debilitative
 dermatoglyphics
-devirginator
 dispoint
 debitum
 dazes
@@ -9329,6 +9328,7 @@ diewise
 dyewood
 diezeugmenon
 decinormal
+devirginator
 dread
 divekeeper
 dactylography
