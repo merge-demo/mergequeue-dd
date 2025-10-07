@@ -13456,7 +13456,6 @@ caudatum
 casting
 choloepus
 cautions
-consubstantialism
 cygnid
 cleaners
 cygninae
@@ -22593,6 +22592,7 @@ conjunctions
 comfreys
 colluding
 cottiers
+consubstantialism
 chorizontist
 clatty
 conjunctivas
