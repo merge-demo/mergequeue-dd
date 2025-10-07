@@ -1568,7 +1568,6 @@ dutifulness
 defleaed
 dyebeck
 deadlier
-deaden
 drippings
 desertness
 deputising
@@ -7268,6 +7267,7 @@ digitate
 discriminates
 decertify
 dolorous
+deaden
 demographically
 dandiacal
 damnified
