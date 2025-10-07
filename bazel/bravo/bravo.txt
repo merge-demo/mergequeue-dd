@@ -8959,7 +8959,6 @@ bets
 biome
 biomechanical
 begrims
-brilliancy
 biomedicine
 bondieuserie
 bees
@@ -9469,6 +9468,7 @@ baroclinicity
 battlestead
 bogota
 blackened
+brilliancy
 birthright
 bassetted
 baffeta
