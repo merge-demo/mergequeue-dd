@@ -822,7 +822,6 @@ burnsides
 bonelike
 bumpily
 betorcin
-bedene
 barmbrack
 barragon
 breakaxe
@@ -1069,6 +1068,7 @@ brittled
 boyer
 bestraddle
 borosalicylate
+bedene
 bailey
 becense
 bedazzlingly
