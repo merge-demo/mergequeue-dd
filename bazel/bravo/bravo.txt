@@ -9638,7 +9638,6 @@ betrothment
 byssal
 bigam
 biogen
-bissellia
 bissextile
 bissextus
 bullbats
@@ -18213,6 +18212,7 @@ begnawed
 bourran
 bottlelike
 butterfish
+bissellia
 benzazide
 botching
 blubberingly
