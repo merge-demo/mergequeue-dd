@@ -940,7 +940,6 @@ bravely
 blunderhead
 bidarkas
 beseemingly
-bagwig
 bays
 buddhology
 bouncingly
@@ -5054,6 +5053,7 @@ bleinerite
 befittingly
 bisimine
 blacklead
+bagwig
 baselines
 befittingness
 boundedness
