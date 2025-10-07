@@ -18973,7 +18973,6 @@ cataplasis
 capelin
 collaborating
 counterpressure
-computerese
 collaborative
 circulatable
 collaboratively
@@ -22675,6 +22674,7 @@ connector
 connectors
 camellus
 connects
+computerese
 catawampously
 camelopard
 criminogenic
