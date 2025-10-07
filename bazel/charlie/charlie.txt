@@ -3567,7 +3567,6 @@ caput
 caputium
 caque
 counterstratagem
-counterstrike
 condemnor
 cooping
 caqueterie
@@ -8093,6 +8092,7 @@ colloquiquia
 carcanets
 costarring
 conjugational
+counterstrike
 condensedness
 carryalls
 caressable
