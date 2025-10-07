@@ -7845,7 +7845,6 @@ argan
 associationalism
 alew
 antedating
-acromegalies
 alewives
 askarel
 alexander
@@ -22388,6 +22387,7 @@ anticholinesterase
 aerogene
 aefauld
 acousma
+acromegalies
 archistome
 atechnical
 atef
