@@ -12230,6 +12230,7 @@ epanalepsis
 exocyclica
 executress
 elshin
+exospore
 exsurge
 enchases
 endosperm
@@ -12777,7 +12778,6 @@ encephalomere
 ensembles
 encounterable
 emancipative
-exospore
 endrumpf
 epeiridae
 endoproct
