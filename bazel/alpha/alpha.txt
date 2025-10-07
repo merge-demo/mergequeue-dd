@@ -9599,7 +9599,6 @@ alvine
 avestan
 aam
 alvissmal
-alvite
 ambulant
 actinical
 alwite
@@ -13427,6 +13426,7 @@ annulation
 annulations
 abominator
 annulets
+alvite
 annullate
 annuller
 anguinidae
