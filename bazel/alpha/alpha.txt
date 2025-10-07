@@ -15967,7 +15967,6 @@ antagonizable
 abigei
 avirulence
 aeromechanics
-acrosphacelus
 antiseismic
 antiselene
 antisemitism
@@ -21632,6 +21631,7 @@ abelmusk
 adiantiform
 aggrade
 axiolite
+acrosphacelus
 arthromeningitis
 arzan
 argenticyanide
