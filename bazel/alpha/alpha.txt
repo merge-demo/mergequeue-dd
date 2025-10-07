@@ -3977,7 +3977,6 @@ antimaterialistic
 admonish
 admonishes
 anaesthetizing
-aquincubitalism
 aficionados
 ampullary
 anthology
@@ -19963,6 +19962,7 @@ amphigenous
 animalculum
 antihumanist
 antiromanticist
+aquincubitalism
 artus
 azonal
 aculeate

@@ -6390,6 +6390,7 @@ beleaguer
 backdown
 bepepper
 baboot
+biotite
 bobbysoxer
 bacteriotrypsin
 booley
@@ -9849,7 +9850,6 @@ begulfs
 beggarly
 benzoated
 buhl
-biotite
 barrenly
 balsamically
 bable
