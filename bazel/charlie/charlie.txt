@@ -6481,7 +6481,6 @@ cavilers
 cavilingly
 craftsmen
 ceraunogram
-cronkness
 catharticalness
 caviller
 chemins
@@ -29560,6 +29559,7 @@ crocanthemum
 currency
 choanoflagellidae
 croceic
+cronkness
 croceine
 crocetin
 ceratospongiae
