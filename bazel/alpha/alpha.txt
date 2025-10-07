@@ -12123,6 +12123,7 @@ anda
 analog
 aphrodisiac
 aggroup
+agnoiology
 antinous
 atheromatous
 antipestilent
@@ -21272,7 +21273,6 @@ antarthritic
 amoyese
 arapaima
 asp
-agnoiology
 amanitopsis
 asparagic
 asparagyl
