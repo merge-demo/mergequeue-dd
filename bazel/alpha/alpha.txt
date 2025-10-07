@@ -17521,7 +17521,6 @@ atrioventricular
 adjoining
 appentice
 arouser
-adjudges
 accustomedly
 abscession
 antimask
@@ -20394,6 +20393,7 @@ arteriogenesis
 adenectopia
 arteriographic
 anoxybiosis
+adjudges
 arteriolosclerosis
 ashman
 arteriomalacia
