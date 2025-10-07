@@ -8262,7 +8262,6 @@ drumbeat
 diaeretic
 dubiocrystalline
 diaetetae
-deervetch
 diageotropic
 dealbation
 diaglyphic
@@ -12557,6 +12556,7 @@ deifications
 disintegrators
 dispiritedness
 dextrer
+deervetch
 dimit
 disinter
 decennium
