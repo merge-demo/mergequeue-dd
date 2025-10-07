@@ -7417,6 +7417,7 @@ copecks
 campbellite
 criticized
 cephalotaceae
+cubited
 chalaziferous
 cephalotaxus
 cephalothoraxes
@@ -19984,7 +19985,6 @@ coigning
 critical
 comicalness
 cleanser
-cubited
 comices
 cognominal
 cienaga
