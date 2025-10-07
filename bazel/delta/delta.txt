@@ -2425,7 +2425,6 @@ displeases
 decimalizes
 deceived
 disaffiliation
-devisceration
 defaillance
 dracontites
 dysphagia
@@ -12932,6 +12931,7 @@ downbend
 delusionist
 downfallen
 disfavourer
+devisceration
 decomplex
 disorderer
 discourse
