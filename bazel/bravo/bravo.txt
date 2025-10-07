@@ -6248,6 +6248,7 @@ barrer
 baikerite
 brike
 benzanthracene
+behaviours
 bitore
 boxboard
 burglarizing
@@ -8258,7 +8259,6 @@ baragouin
 bookling
 byzantinism
 brecciation
-behaviours
 braula
 beblain
 bigas
