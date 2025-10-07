@@ -2971,6 +2971,7 @@ emony
 equiprobabilism
 eliminated
 ectopia
+eglantine
 elymus
 elinguate
 enfield
@@ -13260,7 +13261,6 @@ explicitness
 epitheliomata
 explicits
 eurylaimidae
-eglantine
 etches
 ergonomics
 electrohomeopathy

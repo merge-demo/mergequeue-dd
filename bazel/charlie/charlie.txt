@@ -14239,7 +14239,6 @@ chumped
 coastguard
 circumesophageal
 capparis
-cargoes
 conventically
 circumfer
 circumferential
@@ -14512,6 +14511,7 @@ cyrtometer
 calcavella
 cyrtopia
 croplands
+cargoes
 cosets
 cirurgian
 cognomina
