@@ -11691,6 +11691,7 @@ chomps
 contabescent
 complications
 coassistant
+counterchanged
 commissionary
 chondral
 cholesteric
@@ -26720,7 +26721,6 @@ curbstones
 confutable
 counterbuff
 countercause
-counterchanged
 countercharm
 counterclaim
 cirriform
