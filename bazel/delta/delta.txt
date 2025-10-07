@@ -12228,7 +12228,6 @@ donax
 decumbence
 distancing
 disgarnish
-dalt
 deliberativeness
 dyspneal
 dossiere
@@ -14734,6 +14733,7 @@ dismarketing
 denudate
 dendroceratine
 disincline
+dalt
 dimensionality
 degasification
 dogmatisation
