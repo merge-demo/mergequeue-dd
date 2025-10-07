@@ -5300,7 +5300,6 @@ equivocalities
 eradicators
 egeran
 endoscopies
-epipodia
 endoskeletons
 endosmic
 evaders
@@ -13047,6 +13046,7 @@ erythrocarpous
 episcopable
 ecstasies
 euge
+epipodia
 enterochirurgia
 expellees
 expellent
