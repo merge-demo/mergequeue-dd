@@ -3583,7 +3583,6 @@ exanimate
 enculturate
 entamoeba
 encyclopaediac
-effusive
 equivalents
 enchainement
 eyeliner
@@ -8977,6 +8976,7 @@ essex
 extraspherical
 evenings
 encephalin
+effusive
 erionite
 eleaticism
 endopleurite
