@@ -12879,7 +12879,6 @@ churchwardenism
 columbines
 coroscopy
 churchwardenize
-churchwardens
 churchwardenship
 collapsibility
 climb
@@ -31233,6 +31232,7 @@ coverlid
 coracler
 classification
 curace
+churchwardens
 cabriolets
 curacoa
 county
