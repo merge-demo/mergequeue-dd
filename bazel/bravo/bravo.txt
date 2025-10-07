@@ -14241,6 +14241,7 @@ bodices
 bereavers
 bailees
 brogan
+bimetallistic
 balductum
 bragger
 byways
@@ -15835,7 +15836,6 @@ bereft
 bronchadenitis
 bluebeard
 bullshot
-bimetallistic
 brooding
 buckteeth
 baby
