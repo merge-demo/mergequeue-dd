@@ -2187,6 +2187,7 @@ esthesia
 epistome
 expanded
 eldermen
+emitting
 entailing
 expeditionist
 elders
@@ -3871,7 +3872,6 @@ examinability
 epiglottis
 endexine
 emissory
-emitting
 entamebas
 electropathic
 endocrinologies
