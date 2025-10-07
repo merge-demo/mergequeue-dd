@@ -469,7 +469,6 @@ enanthesis
 evector
 ecclesia
 enumerable
-eucommia
 ecclesiarch
 ecclesiarchy
 extoll
@@ -3904,6 +3903,7 @@ emodins
 efflorescent
 emollience
 ensuable
+eucommia
 elevenths
 eyliad
 estruate
