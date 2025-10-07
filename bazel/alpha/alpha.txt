@@ -16951,7 +16951,6 @@ artily
 assignments
 alcid
 arthrotropic
-apocopes
 antennula
 archspy
 antigravitational
@@ -17070,6 +17069,7 @@ apolysis
 autolaryngoscopic
 apolista
 alaunt
+apocopes
 agglomerating
 aproctia
 almendro
