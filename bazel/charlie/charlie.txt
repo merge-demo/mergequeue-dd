@@ -7348,7 +7348,6 @@ cephalitis
 cephalization
 cephaloauricular
 chimbly
-corslets
 cephalobranchiata
 componendo
 controversialist
@@ -27413,6 +27412,7 @@ cauldron
 chaperon
 courting
 courtly
+corslets
 courtlier
 chow
 cigars
