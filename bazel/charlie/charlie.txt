@@ -8070,6 +8070,7 @@ colville
 concoctions
 concretion
 chafed
+cotarius
 chafery
 carbomethoxy
 ceroxylon
@@ -26324,7 +26325,6 @@ coleopterous
 collisional
 cotabulate
 carya
-cotarius
 calander
 centipedal
 commutative
