@@ -10582,6 +10582,7 @@ euclideanism
 euclidian
 exhalant
 eucnemidae
+explosion
 etchant
 eucone
 eucopepoda
@@ -11510,7 +11511,6 @@ extractable
 evincing
 entoblast
 esophagus
-explosion
 evincive
 excavationist
 echnida

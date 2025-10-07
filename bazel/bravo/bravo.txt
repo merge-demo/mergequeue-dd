@@ -4142,7 +4142,6 @@ beastling
 bullswool
 bulgy
 beastman
-barracoutas
 boldfacedness
 brachiosaur
 baftah
@@ -12993,6 +12992,7 @@ bismuthate
 boran
 babblingly
 boranes
+barracoutas
 bradyteleocinesia
 bursar
 borasca
