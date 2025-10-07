@@ -2689,6 +2689,7 @@ caninities
 companable
 celanese
 caninus
+cubbyhouse
 coleorhizae
 canions
 crevice
@@ -19364,7 +19365,6 @@ colonelships
 conductorless
 coloner
 colongitude
-cubbyhouse
 cyder
 cowpony
 colony
