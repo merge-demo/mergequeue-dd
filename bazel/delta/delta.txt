@@ -11105,7 +11105,6 @@ daturas
 drolls
 disarms
 denotations
-dishonouring
 demioctangular
 dictatorial
 diachronicness
@@ -14564,6 +14563,7 @@ divisorial
 diesinking
 divisural
 discrimination
+dishonouring
 dihedrals
 disoxygenate
 disseverment
