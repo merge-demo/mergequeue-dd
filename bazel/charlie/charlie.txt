@@ -20782,7 +20782,6 @@ criminaloid
 clunist
 cneoraceous
 criance
-celative
 completory
 complex
 cercocebus
@@ -29324,6 +29323,7 @@ concrement
 cryptopyrrole
 catalogs
 cryptoproselyte
+celative
 cryptorchis
 curara
 cassumunar
