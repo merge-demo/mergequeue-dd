@@ -12212,7 +12212,6 @@ chrismons
 chrisms
 carinatae
 calcaire
-chrysoaristocracy
 conciliative
 compilator
 clangula
@@ -24890,6 +24889,7 @@ cobreathe
 ciderist
 coralligena
 coralligenous
+chrysoaristocracy
 coralligerous
 corallin
 conchfish
