@@ -17590,6 +17590,7 @@ colloid
 coccaceous
 coccal
 conducible
+corypha
 cribrous
 corr
 coccic
@@ -31318,7 +31319,6 @@ conceivably
 cured
 cornix
 cureless
-corypha
 curelessness
 curer
 coadjument
