@@ -19552,7 +19552,6 @@ cerealose
 colors
 cutose
 cyanometries
-colossal
 colossally
 colosseum
 colossian
@@ -25627,6 +25626,7 @@ cantador
 confinedness
 completed
 corpuscularity
+colossal
 corpusculous
 contortive
 concedes
