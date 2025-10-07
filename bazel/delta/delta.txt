@@ -12407,6 +12407,7 @@ disheriting
 dulness
 determinatively
 dishevelling
+decoction
 delomorphic
 dismissingly
 diakineses
@@ -16788,7 +16789,6 @@ dirtfarmer
 disableness
 drastically
 disconsolate
-decoction
 disclose
 drownded
 diophysite
