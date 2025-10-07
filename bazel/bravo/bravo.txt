@@ -15520,7 +15520,6 @@ british
 besotment
 barwood
 britisher
-blijver
 blandishingly
 britishhood
 britishism
@@ -16831,6 +16830,7 @@ bugling
 buglosses
 bugong
 burrah
+blijver
 bituminous
 bugout
 bino
