@@ -5254,7 +5254,6 @@ anapnea
 afghans
 aficionada
 aficionadas
-antiloemic
 autogiro
 anglophobe
 almight
@@ -21472,6 +21471,7 @@ aglucone
 ayurvedas
 alkyl
 allegement
+antiloemic
 angary
 arthrempyesis
 allegorist
