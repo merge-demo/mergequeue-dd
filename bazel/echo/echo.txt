@@ -1282,6 +1282,7 @@ epyllia
 earthless
 effectiveness
 eesome
+elvan
 escuages
 explicatively
 ericophyte
@@ -8310,7 +8311,6 @@ enteria
 egyptians
 eskimoic
 embroiler
-elvan
 earthy
 evg
 effulgence
