@@ -9565,6 +9565,7 @@ bishopstool
 bobbinets
 brotuliform
 bestir
+beam
 benison
 barterers
 blatti
@@ -16753,7 +16754,6 @@ butut
 betas
 basename
 bowdlerizations
-beam
 bloodbird
 buffing
 bichloride
