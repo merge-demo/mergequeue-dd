@@ -12258,6 +12258,7 @@ androsphinx
 aplanospore
 androsporangium
 auriculoventricular
+anoxyscope
 androsterone
 ayens
 anthracitous
@@ -17400,7 +17401,6 @@ appareling
 apparentements
 animize
 airify
-anoxyscope
 adverbiality
 appd
 ariette
