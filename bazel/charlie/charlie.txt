@@ -9533,7 +9533,6 @@ checkpointing
 cetoniides
 chahars
 combmaking
-con
 carriable
 commonize
 casehardens
@@ -25067,6 +25066,7 @@ coregonoid
 coreidae
 caeciform
 coreign
+con
 connection
 coreigner
 coreigns
