@@ -3913,7 +3913,6 @@ dorippid
 dollied
 disci
 dekare
-dinsome
 dichronous
 disrooted
 dearomatize
@@ -5146,6 +5145,7 @@ dionym
 disulphoxide
 detachedly
 dextrously
+dinsome
 dekameters
 durrie
 dilleniaceae
