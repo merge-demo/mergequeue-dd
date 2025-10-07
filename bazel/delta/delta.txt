@@ -3009,7 +3009,6 @@ dinkly
 detailist
 disgustingly
 deerstalking
-deerweed
 deerweeds
 deepfrozen
 daint
@@ -3509,6 +3508,7 @@ drumlin
 dollface
 deul
 diamat
+deerweed
 disfrock
 digestion
 dislimb
