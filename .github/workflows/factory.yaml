@@ -34,7 +34,7 @@ jobs:
 
       - name: run mq
         id: edits
-        run: ./mq generate --gh-token=${{ secrets.ELI_MQ_PAT }} --gh-token=${{ secrets.GH_TOKEN_2 }}
+        run: ./mq generate --gh-token=${{ secrets.ELI_MQ_PAT }}
         env:
           TRUNK_TOKEN: ${{ secrets.TRUNK_PROD_ORG_API_TOKEN }}
 
