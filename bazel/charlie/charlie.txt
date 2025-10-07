@@ -70,6 +70,7 @@ currie
 cosmolatry
 cabbalistic
 catamaran
+cedilla
 cephaeline
 carnegie
 cabbie
@@ -6617,7 +6618,6 @@ ceders
 copepods
 cummins
 cretinize
-cedilla
 chatelet
 cedillas
 ceding
