@@ -5244,6 +5244,7 @@ affronted
 anticonservative
 affrontedness
 anidiomatic
+apostatic
 affrontive
 assassinative
 adenose
@@ -23667,7 +23668,6 @@ aphidius
 assistantship
 allicit
 anticivism
-apostatic
 acierates
 acaulescent
 amatories
