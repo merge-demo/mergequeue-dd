@@ -5109,7 +5109,6 @@ birler
 breastplates
 balletomania
 bezels
-bainite
 befools
 budworm
 biotic
@@ -9492,6 +9491,7 @@ bowman
 biblist
 breeching
 bisantler
+bainite
 bothridium
 boeotia
 bogue
