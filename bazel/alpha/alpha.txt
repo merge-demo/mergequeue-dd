@@ -2367,6 +2367,7 @@ aconic
 afterhatch
 acknowledgers
 aistopodes
+astichous
 archwife
 adenocarcinomatous
 anatexes
@@ -3091,7 +3092,6 @@ anthropophaginian
 alpist
 actuation
 acturience
-astichous
 alids
 acubens
 attachments
