@@ -9772,7 +9772,6 @@ amassment
 areaways
 aquiculturist
 aftereffects
-astipulate
 argean
 arietid
 alogism
@@ -12952,6 +12951,7 @@ animadversal
 animadversional
 almuten
 animadverted
+astipulate
 antiegotism
 aplostemonous
 alemannish
