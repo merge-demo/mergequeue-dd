@@ -1180,6 +1180,7 @@ bashing
 beltmen
 bumboatman
 bajree
+bloodmonger
 baized
 benzoline
 bajury
@@ -2233,7 +2234,6 @@ bewraying
 bona
 bespew
 brunets
-bloodmonger
 butted
 barbasco
 boneless
