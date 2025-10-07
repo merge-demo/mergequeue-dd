@@ -13684,6 +13684,7 @@ anoscopy
 anatomicosurgical
 adagissimo
 anospinal
+averia
 affronter
 arrythmical
 apollinarianism
@@ -24615,7 +24616,6 @@ archimage
 acamar
 autostylic
 averaging
-averia
 accordant
 andesite
 arterious
