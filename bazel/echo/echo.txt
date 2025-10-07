@@ -4700,7 +4700,6 @@ entrammel
 ensuance
 extroverted
 esteem
-englishism
 enciphering
 enrapture
 eulogism
@@ -12235,6 +12234,7 @@ executrixes
 exede
 epipsychidion
 evolutionarily
+englishism
 expounding
 exegesis
 exasperative
