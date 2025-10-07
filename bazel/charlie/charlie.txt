@@ -17089,7 +17089,6 @@ cornroot
 cibaria
 canthitis
 coperose
-coachfellow
 cataloon
 coachy
 coaching
@@ -19304,6 +19303,7 @@ collution
 collutory
 collutoria
 collutories
+coachfellow
 collutorium
 cetiosaurus
 celiomyalgia
