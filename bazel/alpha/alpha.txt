@@ -3810,7 +3810,6 @@ adjunctly
 adjuration
 acanthology
 analogia
-amidine
 auncel
 adjured
 adjurer
@@ -16448,6 +16447,7 @@ awm
 aquintocubital
 allozooid
 alouatta
+amidine
 ammocoete
 accuser
 anguishously
