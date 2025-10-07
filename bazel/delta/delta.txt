@@ -1487,7 +1487,6 @@ dispulp
 dazement
 diaphaneity
 delicatessen
-dazy
 dazzle
 disseizor
 discomedusan
@@ -6911,6 +6910,7 @@ doffers
 drabber
 diabasic
 desolatingly
+dazy
 duniewassal
 desolation
 desolator
