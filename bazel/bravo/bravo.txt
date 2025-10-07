@@ -5909,6 +5909,7 @@ bobbles
 borderlines
 bellyfuls
 bronchogenic
+barish
 bemaim
 betangle
 bastardizes
@@ -11467,7 +11468,6 @@ botryllidae
 bluffest
 balladmonger
 begalling
-barish
 bugaboos
 bloodstream
 brulzie
