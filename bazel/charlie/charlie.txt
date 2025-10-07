@@ -2056,6 +2056,7 @@ crunchier
 campanile
 campaniles
 colloquiquiums
+cerous
 cuphea
 conceptible
 campaniliform
@@ -7735,7 +7736,6 @@ cabas
 cerotypes
 confirmedly
 collocated
-cerous
 certain
 conservatism
 camois
