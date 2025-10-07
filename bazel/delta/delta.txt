@@ -8488,6 +8488,7 @@ disulphone
 drawl
 diplomatize
 debaucher
+deoppilant
 declassify
 desiringly
 denigrating
@@ -15132,7 +15133,6 @@ dogget
 dottrels
 dorlot
 dermaptera
-deoppilant
 doghouse
 donning
 discardment
