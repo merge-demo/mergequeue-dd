@@ -4778,6 +4778,7 @@ epiopticon
 excusatory
 endocarpic
 encode
+exculpative
 encoded
 ensnarements
 encoding
@@ -12525,7 +12526,6 @@ existentialist
 existentialistically
 eupione
 enzymology
-exculpative
 enactable
 envined
 esonarthex
