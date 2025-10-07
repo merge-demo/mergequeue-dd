@@ -389,7 +389,6 @@ baryphony
 brachypodous
 bovarist
 backhaul
-bossy
 bulbil
 bemoans
 backhouses
@@ -1216,6 +1215,7 @@ bakeries
 bohor
 budling
 bakerly
+bossy
 boules
 brownstones
 beanbag
