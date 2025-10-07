@@ -502,7 +502,6 @@ amerism
 abkhasian
 ashtrays
 abl
-asperities
 acoemetae
 arsenicating
 ablated
@@ -21764,6 +21763,7 @@ apostle
 angelical
 acrocephaly
 anemometrically
+asperities
 alabaman
 aim
 ambagious
