@@ -3492,7 +3492,6 @@ exon
 emblemizing
 electrootiatrics
 exsiccative
-epilogized
 eproboscidea
 epizootiologic
 explementary
@@ -7632,6 +7631,7 @@ exintine
 eupatory
 exemplification
 ensient
+epilogized
 effectless
 entocnemial
 eventfully
