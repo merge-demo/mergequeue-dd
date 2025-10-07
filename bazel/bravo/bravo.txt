@@ -3672,7 +3672,6 @@ bowelless
 batterman
 bullockman
 bepinch
-bwana
 batty
 brookflower
 brightest
@@ -7783,6 +7782,7 @@ bufonite
 bk
 blinker
 borazon
+bwana
 balneography
 bearable
 bibelots
