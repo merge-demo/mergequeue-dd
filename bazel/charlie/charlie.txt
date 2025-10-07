@@ -6362,7 +6362,6 @@ couche
 collision
 cauterising
 cauterism
-carafe
 correcter
 caution
 couve
@@ -19844,6 +19843,7 @@ combinative
 counterrotating
 combinator
 combinatory
+carafe
 creatorrhea
 combinatorial
 cathetometric
