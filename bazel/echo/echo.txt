@@ -134,7 +134,6 @@ embrew
 europocentric
 enderonic
 excellency
-epitomatory
 epoxidize
 evaporativity
 economizes
@@ -10524,6 +10523,7 @@ eucharistial
 eurylaimoid
 eudaemony
 eucharistic
+epitomatory
 eucharistically
 earthfall
 ephthalite
