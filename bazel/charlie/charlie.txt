@@ -10585,7 +10585,6 @@ carcass
 cerebric
 contort
 conter
-carports
 chiller
 confessionary
 cotwist
@@ -22013,6 +22012,7 @@ confessary
 coelomopore
 cornfield
 confessedly
+carports
 confesser
 confessional
 confessionalism

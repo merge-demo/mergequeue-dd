@@ -5595,7 +5595,6 @@ dowp
 disemplaned
 doronicum
 dollardee
-danglin
 deperdit
 duffel
 dictyosiphonaceae
@@ -17685,6 +17684,7 @@ disty
 dekapode
 deratizing
 dualize
+danglin
 diaclase
 downlike
 desulphurating
