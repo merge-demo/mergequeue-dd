@@ -12009,6 +12009,7 @@ enaunter
 extratelluric
 escutellate
 exclusiveness
+eclogue
 effectuality
 enforceability
 etheostomoid
@@ -12229,7 +12230,6 @@ eternalization
 equipment
 epanalepsis
 exocyclica
-eclogue
 executress
 elshin
 exsurge
