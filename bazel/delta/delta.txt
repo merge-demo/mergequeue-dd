@@ -1199,7 +1199,6 @@ diploconical
 demurrages
 defs
 deblocked
-dimera
 dade
 detrited
 droguet
@@ -16032,6 +16031,7 @@ dissocial
 dialogize
 dasein
 drowner
+dimera
 distinctiveness
 demicuirass
 distant

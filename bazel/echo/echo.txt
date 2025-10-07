@@ -3539,7 +3539,6 @@ entrefer
 egyptianism
 embolize
 eupeptic
-epididymal
 entocone
 embolomalerism
 enervator
@@ -6127,6 +6126,7 @@ enfacement
 enlodge
 episkotister
 estuary
+epididymal
 endocystitis
 enlodgement
 enlumine
