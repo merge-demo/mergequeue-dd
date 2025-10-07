@@ -7192,6 +7192,7 @@ bobsleigh
 bibiru
 blanked
 betake
+bleareye
 betakes
 baluga
 betaking
@@ -8408,7 +8409,6 @@ bacony
 beaverette
 boastless
 bocage
-bleareye
 bittium
 burblier
 bemusement
