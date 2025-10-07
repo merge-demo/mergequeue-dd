@@ -10789,6 +10789,7 @@ arumlike
 amerindic
 allegorical
 archdeaconship
+anthropotheist
 alkylogen
 amniocentesis
 amniochorial
@@ -14429,7 +14430,6 @@ adoretus
 andalusian
 anthroposophy
 anthropoteleoclogy
-anthropotheist
 answering
 anthropotheistic
 anthropotomical
