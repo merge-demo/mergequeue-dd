@@ -13803,6 +13803,7 @@ allophanate
 antagonization
 athletically
 aorta
+aphorise
 aclu
 ascenseur
 abbacies
@@ -16676,7 +16677,6 @@ abscoulomb
 analyzer
 assayable
 aphonous
-aphorise
 acetones
 aphorismer
 aphorismical
