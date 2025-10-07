@@ -9752,7 +9752,6 @@ equisonance
 everyplace
 eddo
 emerick
-enneahedron
 ectogenesis
 enrobing
 eucharist
@@ -12729,6 +12728,7 @@ enthelminthes
 embryography
 exceeds
 exorbitation
+enneahedron
 eloah
 epidemiologically
 epispinal
