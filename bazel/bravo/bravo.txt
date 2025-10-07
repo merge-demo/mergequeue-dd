@@ -6894,7 +6894,6 @@ beslimes
 bactetiophage
 besottedly
 backsheesh
-boanerges
 bogyman
 beseemed
 bhandari
@@ -17902,6 +17901,7 @@ branial
 bibliopoly
 beautifulness
 btise
+boanerges
 bushman
 bagmaker
 benignant
