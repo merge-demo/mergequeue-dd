@@ -8326,7 +8326,6 @@ doryline
 diaguite
 dyak
 defensively
-denouement
 dapper
 declensions
 decomposed
@@ -13306,6 +13305,7 @@ diplopiaphobia
 depetalize
 disputacity
 dorsocervically
+denouement
 disfen
 downsized
 delayers

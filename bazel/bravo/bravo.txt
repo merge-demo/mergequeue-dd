@@ -12617,7 +12617,6 @@ birdied
 boobily
 boobish
 boosterism
-brittle
 boobs
 beaming
 basketballer
@@ -17827,6 +17826,7 @@ burling
 beearn
 bromeikon
 brisks
+brittle
 brawns
 blowfly
 bush
