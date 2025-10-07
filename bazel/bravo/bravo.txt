@@ -870,7 +870,6 @@ baggager
 backings
 beffroy
 boccale
-bullyhuff
 borderlight
 bijouterie
 bagganet
@@ -9461,6 +9460,7 @@ backcountry
 bronchorrhea
 branchiostegite
 biographee
+bullyhuff
 banality
 besots
 baroclinicity
