@@ -1069,6 +1069,7 @@ embryonically
 edgrow
 encephaloscope
 enormous
+esthesiogen
 ead
 ensanguining
 edhs
@@ -9862,7 +9863,6 @@ esth
 estherian
 eyebolt
 ecbatic
-esthesiogen
 entophyte
 epoophoron
 esthesiogeny
