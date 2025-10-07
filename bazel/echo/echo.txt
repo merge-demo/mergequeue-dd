@@ -10912,7 +10912,6 @@ esthete
 eventerate
 electromuscular
 eastlander
-eanlings
 easternize
 enterokinase
 enfin
@@ -13469,6 +13468,7 @@ ethmonasal
 exquire
 exsolution
 epithalamium
+eanlings
 ethnomusicology
 enterparlance
 epidural
