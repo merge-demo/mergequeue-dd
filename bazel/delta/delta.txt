@@ -2489,6 +2489,7 @@ dispondaic
 dictaphones
 deckhand
 dovekies
+diblastula
 deckle
 disslander
 dulls
@@ -13461,7 +13462,6 @@ dada
 diss
 dissait
 deadflat
-diblastula
 dilatedly
 discretively
 dissatisfaction
