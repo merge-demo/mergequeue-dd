@@ -4757,6 +4757,7 @@ establishments
 exploratory
 extracardial
 encloister
+exhausted
 extend
 endosporously
 emeried
@@ -12362,7 +12363,6 @@ erythrocatalysis
 elderbrotherhood
 estrange
 exhaust
-exhausted
 exhaustedly
 energiatye
 emendates
