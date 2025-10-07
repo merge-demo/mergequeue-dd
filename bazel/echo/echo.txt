@@ -3173,7 +3173,6 @@ elopes
 elops
 elicit
 emission
-epiphanized
 everything
 extruding
 embioptera
@@ -12474,6 +12473,7 @@ escheatable
 exility
 exanthem
 eyestones
+epiphanized
 educatory
 enneadic
 emprosthotonus
