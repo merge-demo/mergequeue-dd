@@ -2652,7 +2652,6 @@ epencephal
 exciples
 embiidina
 electrostriction
-epizootiologic
 ejurate
 epitomizing
 emong
@@ -3493,6 +3492,7 @@ electrootiatrics
 exsiccative
 epilogized
 eproboscidea
+epizootiologic
 explementary
 endow
 encarpi
