@@ -1287,7 +1287,6 @@ efface
 equalized
 effacers
 exhilarated
-exumbrellar
 effect
 endocardiac
 exopeptidase
@@ -13962,6 +13961,7 @@ embosked
 enwreathed
 endears
 exundance
+exumbrellar
 echinococcus
 exsuperance
 extraperiosteal
