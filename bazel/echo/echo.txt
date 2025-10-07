@@ -3646,7 +3646,6 @@ exscinded
 endocrinopathic
 entangling
 embryogenesis
-eunomy
 extravert
 exomion
 excogitates
@@ -4415,6 +4414,7 @@ encarnalised
 encarnalize
 enteropneust
 ethoxycaffeine
+eunomy
 egghot
 ethchlorvynol
 epitome
