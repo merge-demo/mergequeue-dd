@@ -1679,6 +1679,7 @@ calorimetrically
 calorist
 cawing
 calosoma
+chalutz
 cevenole
 calothrix
 calotype
@@ -9305,7 +9306,6 @@ carted
 chattiness
 cessionaries
 chromotherapy
-chalutz
 criminologies
 cordite
 chaucerian
