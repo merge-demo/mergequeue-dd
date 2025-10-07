@@ -234,7 +234,6 @@ earwigginess
 exsiccation
 emmetrope
 environs
-enhaulse
 exceptively
 earwigs
 exulcerated
@@ -4044,6 +4043,7 @@ elve
 eucrasy
 eutherian
 ethylbenzene
+enhaulse
 ecthymata
 euthymy
 esthetophore
