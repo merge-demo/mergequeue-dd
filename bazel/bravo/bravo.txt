@@ -228,6 +228,7 @@ bostons
 biofog
 bandlimits
 baccy
+barbarise
 braidings
 bacciferous
 boa
@@ -2217,7 +2218,6 @@ bithynian
 barbequing
 baalshem
 betrayers
-barbarise
 barbarised
 barbarising
 bronstrops
