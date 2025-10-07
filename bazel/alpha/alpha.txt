@@ -10220,6 +10220,7 @@ anglian
 amenuse
 anorthoclase
 adrenocortical
+allectory
 agrostological
 adeling
 archeozoic
@@ -10996,7 +10997,6 @@ ampelosicyos
 ariosi
 ampelotherapy
 abbasside
-allectory
 aventurin
 amper
 amatory
