@@ -299,7 +299,6 @@ exploitation
 echos
 exhumation
 epilepsies
-efficience
 elrage
 encamps
 epitheliums
@@ -13493,6 +13492,7 @@ etruscologist
 evaporite
 eristic
 endangeitis
+efficience
 epitomic
 epigrapher
 elinor
