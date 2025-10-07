@@ -8464,6 +8464,7 @@ employed
 easterlies
 existing
 eprise
+equipollent
 endures
 epsilons
 expressionistic
@@ -9098,7 +9099,6 @@ equitangential
 expulse
 endoscopic
 exponential
-equipollent
 epicolic
 euryalae
 encanker
