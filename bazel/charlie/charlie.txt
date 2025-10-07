@@ -6688,7 +6688,6 @@ celadon
 complexionally
 committing
 cutidure
-celadonite
 coleen
 celaeno
 celandines
@@ -9549,6 +9548,7 @@ collyrium
 checkrowing
 consummatively
 checkrows
+celadonite
 computational
 checks
 chapatty
