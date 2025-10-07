@@ -1348,6 +1348,7 @@ anthracometer
 amintor
 acceptance
 andrenidae
+asterias
 aggressions
 absfarad
 arithmograph
@@ -23127,7 +23128,6 @@ attractivity
 adipogenous
 attractor
 accroach
-asterias
 apneumatic
 alligate
 acardite
