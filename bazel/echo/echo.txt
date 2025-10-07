@@ -5205,7 +5205,6 @@ either
 endoneurium
 edify
 equestrianism
-equinely
 entier
 erythrogen
 encinder
@@ -10457,6 +10456,7 @@ endocortex
 engrams
 emplume
 electrodialytic
+equinely
 erstwhile
 eversive
 etypic
