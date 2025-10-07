@@ -4857,7 +4857,6 @@ aumil
 archibald
 aeronomy
 aeronomic
-aeronomical
 anisogametic
 antisymmetric
 armrest
@@ -10837,6 +10836,7 @@ asmolder
 antiprudential
 appraisement
 antisocially
+aeronomical
 anguishes
 aggregatory
 athyrid
