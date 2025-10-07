@@ -953,6 +953,7 @@ asparagus
 acuity
 archdeacon
 abstergent
+antares
 absterges
 angelican
 ambleocarpus
@@ -9851,7 +9852,6 @@ arrival
 amenorrheic
 amberjacks
 attachers
-antares
 absorptance
 antisepticise
 adirondack
