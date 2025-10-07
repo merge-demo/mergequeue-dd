@@ -10541,6 +10541,7 @@ energiser
 epitoxoid
 epistolized
 endogenic
+ermanaric
 exody
 engolden
 euchlorine
@@ -13690,7 +13691,6 @@ externe
 excursionize
 epitaxy
 expiatist
-ermanaric
 exemplary
 epiplasm
 equiaxe
