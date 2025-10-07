@@ -9601,7 +9601,6 @@ daimios
 downloadable
 digrediency
 devolatilization
-defining
 digressed
 distiller
 dollie
@@ -12831,6 +12830,7 @@ decalcify
 diplanar
 discolorization
 dubhe
+defining
 dama
 decalcifier
 degomme
