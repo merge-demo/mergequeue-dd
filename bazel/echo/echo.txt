@@ -2203,7 +2203,6 @@ ensues
 enumerating
 eldersisterly
 epiglottiditis
-eggless
 equiprobable
 encrisp
 eldest
@@ -9231,6 +9230,7 @@ elaioleucite
 erotomaniac
 erotomaniacal
 excression
+eggless
 erotopath
 erythrozyme
 entozoan

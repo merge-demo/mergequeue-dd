@@ -9734,6 +9734,7 @@ angiographic
 autosomatognosis
 albumean
 azotorrhoea
+auriscope
 asserta
 antiae
 asphodelus
@@ -23572,7 +23573,6 @@ aurir
 auris
 antiboss
 auriscalp
-auriscope
 auriscopic
 aurited
 ankee
