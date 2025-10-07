@@ -12339,7 +12339,6 @@ desexed
 dishabille
 devilish
 dinomic
-decker
 dishabituate
 deoxygenating
 dragomen
@@ -14773,6 +14772,7 @@ direx
 dain
 dottiness
 demiwivern
+decker
 dinheiro
 denticular
 debatter
