@@ -1549,7 +1549,6 @@ encyclopedial
 eupeptically
 ensconces
 erosible
-egypt
 extraversion
 encampment
 epinasty
@@ -13502,6 +13501,7 @@ ectosteal
 examine
 elephantous
 erotology
+egypt
 exteriorization
 electrocauterization
 entrochus
