@@ -79,6 +79,7 @@ ellebore
 eulalia
 earmarkings
 equitation
+extoolitic
 earmuff
 earnable
 essayer
@@ -12528,7 +12529,6 @@ existentialistically
 eupione
 enzymology
 exculpative
-extoolitic
 enactable
 envined
 esonarthex
