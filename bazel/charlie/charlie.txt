@@ -8099,6 +8099,7 @@ climatical
 camelion
 cattle
 chaffman
+camphanic
 codiniac
 coracosteon
 continent
@@ -20834,7 +20835,6 @@ complicacy
 ceramiaceae
 complicant
 coelomate
-camphanic
 complicated
 centrutra
 complicatedly
