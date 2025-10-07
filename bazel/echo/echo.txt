@@ -2096,7 +2096,6 @@ exciseman
 emulge
 excretory
 elastica
-extrapolator
 elastically
 eurycephalous
 edenite
@@ -2537,6 +2536,7 @@ eatable
 ezra
 electrometallurgist
 emptiable
+extrapolator
 electrometer
 exstrophy
 earthgrubber
