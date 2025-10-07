@@ -5008,7 +5008,6 @@ equerry
 endings
 elapsing
 emplace
-elaeomargaric
 endite
 eclairs
 expositoriness
@@ -7641,6 +7640,7 @@ elixirs
 enhungered
 extrabold
 electrophoridae
+elaeomargaric
 epicoracoid
 exocrine
 ellachick
