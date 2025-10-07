@@ -3647,7 +3647,6 @@ drupaceae
 daffadowndilly
 desulphurizing
 dactylopterus
-diathetic
 dumbbell
 daunting
 daffish
@@ -11036,6 +11035,7 @@ deanthropomorphic
 duncical
 dialyphyllous
 disambiguating
+diathetic
 defamingly
 diligent
 disfortune
