@@ -30825,6 +30825,7 @@ consonances
 cervicolabial
 coaggregated
 ciruela
+cusparidine
 cullises
 cinereous
 cartop
@@ -31697,7 +31698,6 @@ consent
 coscoroba
 collodium
 cragsman
-cusparidine
 cuspate
 complainingness
 cusped

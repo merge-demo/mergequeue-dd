@@ -9106,6 +9106,7 @@ erythropia
 enveil
 escrowee
 ephors
+extraviolet
 equinoxes
 evasion
 embordered
@@ -12493,7 +12494,6 @@ executrixship
 expertize
 exine
 escapology
-extraviolet
 electicism
 erectly
 everyway
