@@ -2159,7 +2159,6 @@ configuring
 camping
 campions
 calcaneus
-cample
 campimetry
 cordyline
 conchol
@@ -15501,6 +15500,7 @@ chromammine
 competently
 chlorophylloid
 confraternization
+cample
 claro
 casseroles
 claroes
