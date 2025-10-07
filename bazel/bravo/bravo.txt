@@ -3099,7 +3099,6 @@ beaky
 beautify
 bucrnia
 bullring
-bloodcurdler
 bivalvular
 baseborn
 birdlime
@@ -11242,6 +11241,7 @@ botteghe
 bloubiskop
 beglobed
 bioecologies
+bloodcurdler
 buckaroo
 begirdled
 bastardism
