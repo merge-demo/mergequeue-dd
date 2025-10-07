@@ -2539,7 +2539,6 @@ blackie
 bilayer
 basiglandular
 baryon
-bookshop
 bynames
 baryphonia
 bolographically
@@ -6295,6 +6294,7 @@ benzofuryl
 bracted
 biozone
 belgium
+bookshop
 bastioned
 beebees
 broken
