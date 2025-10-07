@@ -3997,7 +3997,6 @@ ergotization
 equilibristic
 empyemata
 empyemic
-empiercement
 evirato
 extensibleness
 epirogenetic
@@ -7329,6 +7328,7 @@ escruage
 eyelids
 eurypylous
 eternises
+empiercement
 enolize
 exemplariness
 eelshop
