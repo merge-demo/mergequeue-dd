@@ -3378,6 +3378,7 @@ eigenvalue
 embarkations
 epitomize
 embarkment
+elegises
 embarks
 equipage
 exteroceptor
@@ -12261,7 +12262,6 @@ endarchy
 efflorescency
 enteromegaly
 els
-elegises
 everduring
 exemplarism
 exempli
