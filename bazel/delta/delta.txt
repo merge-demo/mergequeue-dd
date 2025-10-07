@@ -499,7 +499,6 @@ dalapons
 direnesses
 distomatidae
 dindled
-dairying
 dilleniaceous
 dale
 dolichoglossus
@@ -13711,6 +13710,7 @@ dreamboat
 disillusionize
 dethrone
 durance
+dairying
 desugaring
 degression
 dangering
