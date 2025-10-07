@@ -9204,7 +9204,6 @@ chasse
 chassed
 catastrophism
 chasseing
-chassepot
 costless
 chassepots
 chiarooscurist
@@ -25049,6 +25048,7 @@ chital
 circumlocutory
 corectome
 cardiomotility
+chassepot
 corectomy
 coredeemer
 coree
