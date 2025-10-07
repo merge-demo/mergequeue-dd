@@ -15583,6 +15583,7 @@ acleidian
 anaesthesiologist
 amalgamize
 atresias
+antiman
 amu
 appropriative
 aortarctia
@@ -23972,7 +23973,6 @@ atomizers
 alcoholmetric
 antiblack
 approaching
-antiman
 ambe
 ascidiozooid
 amadis
