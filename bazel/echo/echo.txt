@@ -4128,7 +4128,6 @@ enacted
 etuve
 epitheliolysin
 emanant
-encallow
 euterpe
 extraessentially
 ephedra
@@ -5894,6 +5893,7 @@ exoenzymic
 embuskin
 ewelease
 ephemeron
+encallow
 excursive
 ectoproct
 exclave
