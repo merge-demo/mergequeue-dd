@@ -8114,6 +8114,7 @@ ethnology
 epiural
 extracalicular
 epididymite
+exorbitance
 earaches
 enew
 exhumator
@@ -10408,7 +10409,6 @@ ethoxyethane
 enchiriridia
 earthshaking
 eleolite
-exorbitance
 entresalle
 excreted
 exposit
