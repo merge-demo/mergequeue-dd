@@ -1668,7 +1668,6 @@ bandi
 bardesanism
 bloodfin
 ballplatz
-bedrabbled
 baggit
 braizes
 bambara
@@ -5528,6 +5527,7 @@ burrio
 bacchuslike
 beedi
 beknottedly
+bedrabbled
 bobet
 blimpishly
 bel
