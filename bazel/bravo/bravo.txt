@@ -11247,6 +11247,7 @@ begirdled
 bastardism
 blouse
 blearier
+boggling
 basks
 blouses
 bloviated
@@ -11929,7 +11930,6 @@ boggle
 boggler
 bakuninist
 bogglers
-boggling
 bessarabian
 brinded
 beraked
