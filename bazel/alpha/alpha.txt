@@ -3688,7 +3688,6 @@ ariel
 asconia
 anchorwise
 ametabole
-actinautography
 alichel
 anguses
 adieu
@@ -18763,6 +18762,7 @@ autere
 arouse
 archidome
 antapoplectic
+actinautography
 alacrities
 anathematization
 amphoriskoi
