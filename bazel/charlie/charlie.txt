@@ -10744,7 +10744,6 @@ choise
 cytoarchitecture
 chrominance
 chromous
-classrooms
 corroder
 campylotropal
 chinchy
@@ -30300,6 +30299,7 @@ chelydroid
 chantors
 confrater
 consonantizing
+classrooms
 chiragra
 cruorin
 cruppen

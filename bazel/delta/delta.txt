@@ -15238,6 +15238,7 @@ dokmarok
 disload
 dorestane
 decart
+duffer
 dandriffy
 debuggers
 dimna
@@ -18512,7 +18513,6 @@ dementi
 driftlet
 declamator
 duramens
-duffer
 durances
 downcast
 durani
