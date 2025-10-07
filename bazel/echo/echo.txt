@@ -9657,7 +9657,6 @@ espy
 earhead
 espial
 electrocoagulation
-escrows
 espinal
 electrogalvanic
 expressmen
@@ -12049,6 +12048,7 @@ elflike
 exotoxins
 expurgatorial
 exomphalus
+escrows
 embalmed
 excortication
 excremental
