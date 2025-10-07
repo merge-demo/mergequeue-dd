@@ -1748,7 +1748,6 @@ comporting
 concisest
 carbonylate
 claqueurs
-calutrons
 calvados
 calvadoses
 componental
@@ -8537,6 +8536,7 @@ corslet
 chanca
 convertite
 chance
+calutrons
 chanceably
 copolymerous
 compurgatorial
