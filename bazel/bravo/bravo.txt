@@ -2888,7 +2888,6 @@ bonapartist
 bunnell
 baguettes
 blind
-bucketed
 bowellike
 benefactor
 barreling
@@ -14242,6 +14241,7 @@ bannut
 borickite
 bodices
 bereavers
+bucketed
 bailees
 brogan
 bimetallistic
