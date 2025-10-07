@@ -13680,7 +13680,6 @@ discoids
 divalent
 dramatizable
 dejecta
-demulsion
 darks
 defluous
 deceases
@@ -15208,6 +15207,7 @@ doghouses
 dartars
 dashboards
 deduction
+demulsion
 dilettanist
 disilicid
 donated
