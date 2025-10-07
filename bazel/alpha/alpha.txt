@@ -3666,7 +3666,6 @@ arcticologist
 acaridea
 adiathetic
 adiating
-aiguelle
 automatons
 adiation
 adib
@@ -6770,6 +6769,7 @@ aptian
 astylospongia
 aventine
 alferez
+aiguelle
 anthraquinol
 adelphoi
 aleutic
