@@ -4387,7 +4387,6 @@ becloak
 beclog
 bordellos
 becoiffed
-bendlet
 bludging
 bafta
 bretonian
@@ -14747,6 +14746,7 @@ belletristic
 blotters
 broadhearted
 bloodweed
+bendlet
 bieberite
 bobization
 beshlik
