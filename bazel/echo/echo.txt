@@ -6461,6 +6461,7 @@ eskars
 eyeflap
 encroachment
 extensionless
+errantness
 elvira
 ensober
 encasement
@@ -11541,7 +11542,6 @@ elenchus
 encodement
 embrittled
 epitrochlea
-errantness
 epilogate
 ennoy
 evocator
