@@ -6141,7 +6141,6 @@ eaved
 earlywood
 ervipiame
 enmeshment
-enrols
 enmity
 eparchean
 embattles
@@ -13449,6 +13448,7 @@ eringo
 epenthetic
 electrolyse
 equilibrize
+enrols
 electricalize
 ensuingly
 encopresis
