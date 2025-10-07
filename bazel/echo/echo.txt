@@ -6296,7 +6296,6 @@ eyeholes
 enroll
 enrolle
 enrolled
-enrollee
 extraorbitally
 embryologies
 efformative
@@ -7917,6 +7916,7 @@ engender
 enframes
 ecclesiography
 ensiferi
+enrollee
 entreater
 epizootiology
 epinikion
