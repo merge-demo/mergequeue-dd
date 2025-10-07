@@ -2052,6 +2052,7 @@ aerobically
 anthropophagy
 agave
 aptness
+anukabiet
 acroteral
 achilous
 actinolitic
@@ -8653,7 +8654,6 @@ ansation
 allylthiourea
 allineation
 archaeohippus
-anukabiet
 allionia
 aspace
 astrogated
