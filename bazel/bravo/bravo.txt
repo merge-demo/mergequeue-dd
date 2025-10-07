@@ -2451,6 +2451,7 @@ beamer
 basisolute
 beltlines
 barrera
+balibuntal
 bricky
 bultow
 blurriest
@@ -8982,7 +8983,6 @@ bleach
 bureaucratist
 beglooming
 biophysic
-balibuntal
 biophysiology
 butterier
 brachycephalies
