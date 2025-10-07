@@ -3021,6 +3021,7 @@ archigonocyte
 antimonous
 albiflorous
 antagonizer
+adoptant
 allotrophic
 avertin
 adalat
@@ -7158,7 +7159,6 @@ aeolharmonica
 adaptometer
 aphakic
 autophotometry
-adoptant
 aglauros
 antitropical
 acipenserid
