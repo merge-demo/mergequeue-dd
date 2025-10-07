@@ -3906,7 +3906,6 @@ bdelloid
 bonnne
 boarts
 bombardier
-bocstaff
 brickbats
 bergamasca
 birdbanding
@@ -8472,6 +8471,7 @@ bijoux
 blackboards
 bronchography
 besnuff
+bocstaff
 braes
 braillist
 bronchotomist
