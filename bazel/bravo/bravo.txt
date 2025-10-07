@@ -11202,6 +11202,7 @@ bucksaws
 biases
 blooped
 bertram
+believing
 boxen
 borean
 bicyclists
@@ -11842,7 +11843,6 @@ banking
 bodybuilding
 bodice
 blendcorn
-believing
 brushlike
 brandishers
 bestowals

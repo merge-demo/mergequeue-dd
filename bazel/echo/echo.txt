@@ -8532,6 +8532,7 @@ ecclesiasticize
 essentializing
 echinated
 embezzling
+enneahedrons
 eastlin
 ergographic
 enviable
@@ -12204,7 +12205,6 @@ epigraph
 epilachna
 enhort
 executioneering
-enneahedrons
 engarb
 episynthetic
 elric
