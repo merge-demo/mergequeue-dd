@@ -9908,7 +9908,6 @@ dulat
 dimethylbenzene
 disneyland
 declivity
-dimethyldiketone
 debarred
 dekarch
 dioecisms
@@ -17151,6 +17150,7 @@ dong
 diphtheriaphor
 dingwall
 dashers
+dimethyldiketone
 drierman
 dogma
 davis
