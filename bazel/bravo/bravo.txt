@@ -7119,7 +7119,6 @@ bur
 bestiarian
 bestiarist
 bestirs
-bestow
 brawlers
 bestowment
 burgee
@@ -10878,6 +10877,7 @@ behovely
 benn
 biffing
 blooded
+bestow
 blindfishes
 bluelegs
 bassus
