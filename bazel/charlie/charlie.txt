@@ -13912,7 +13912,6 @@ cephaline
 cinnamonlike
 chaffy
 carpus
-cinnamons
 cynocephalic
 chakazi
 clippable
@@ -18443,6 +18442,7 @@ cardinalic
 contentment
 cognatic
 concatenary
+cinnamons
 chaprasi
 calorize
 cutaway
