@@ -6670,6 +6670,7 @@ escheatment
 engrafted
 eyehooks
 ethions
+electorate
 eroticize
 enculturative
 epibatus
@@ -9853,7 +9854,6 @@ esterization
 esterize
 enterocrinin
 exhumated
-electorate
 emulsoid
 esters
 evaginable

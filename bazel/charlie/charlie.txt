@@ -8304,7 +8304,6 @@ coonskin
 carbro
 complexity
 carbure
-corallet
 choyroot
 chalinitis
 chalkboard
@@ -26082,6 +26081,7 @@ contraprops
 cadgy
 cressy
 cosmists
+corallet
 cosmochemical
 consanguineal
 cheese
