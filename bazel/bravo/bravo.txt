@@ -446,6 +446,7 @@ brimmed
 betowered
 bangia
 butanal
+beigel
 balilla
 bugbear
 benzolize
@@ -3012,7 +3013,6 @@ ballrooms
 barflies
 branglement
 biomasses
-beigel
 braggartism
 ballogan
 barriness
