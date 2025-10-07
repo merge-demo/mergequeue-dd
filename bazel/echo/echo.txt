@@ -3261,7 +3261,6 @@ evadne
 edgiest
 ektene
 ensandal
-epiphyllospermous
 ensnaring
 enrages
 equitist
@@ -10278,6 +10277,7 @@ erump
 ethmyphitis
 exomorphic
 extension
+epiphyllospermous
 ethmofrontal
 esquamate
 empemata
