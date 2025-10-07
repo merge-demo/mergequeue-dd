@@ -6841,7 +6841,6 @@ decayed
 devchar
 demiwolf
 debone
-desmidiology
 dandyishy
 dolichoblond
 definition
@@ -9920,6 +9919,7 @@ dismissing
 dentins
 ductilely
 dermatoptic
+desmidiology
 drear
 direly
 densimetry
