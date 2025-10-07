@@ -6535,7 +6535,6 @@ desmans
 dewdrops
 disharmonized
 donor
-desitive
 descent
 despert
 dekameter
@@ -8285,6 +8284,7 @@ diploetic
 diagnostician
 dantist
 diagnosticians
+desitive
 denda
 dispopularize
 deserver
