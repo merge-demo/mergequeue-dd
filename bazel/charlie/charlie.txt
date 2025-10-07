@@ -13880,6 +13880,7 @@ cheapie
 contiguously
 carina
 cingulectomy
+cellae
 cicisbei
 cynias
 cyniatria
@@ -23849,7 +23850,6 @@ chancellory
 classy
 caramboling
 contrarious
-cellae
 chondralgia
 contrariousness
 cacesthesia
