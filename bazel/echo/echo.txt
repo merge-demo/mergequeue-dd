@@ -11058,7 +11058,6 @@ equanimous
 eyeletter
 estoc
 epigoneion
-encomimia
 exuberating
 europeans
 emporial
@@ -11715,6 +11714,7 @@ examinatory
 endochrome
 encumbering
 equivocacies
+encomimia
 examinatorial
 echopraxia
 ethoxyls
