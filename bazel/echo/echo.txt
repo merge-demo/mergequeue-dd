@@ -308,6 +308,7 @@ endark
 espousage
 excusator
 exserting
+echoize
 extortionate
 expedient
 ebon
@@ -6361,7 +6362,6 @@ endocervicitis
 eruditely
 endoangiitis
 enshelter
-echoize
 ellice
 enthrals
 evenfalls
