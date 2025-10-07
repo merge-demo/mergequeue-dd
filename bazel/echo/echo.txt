@@ -6127,6 +6127,7 @@ ereptic
 espringal
 enfacement
 enlodge
+epihippus
 episkotister
 estuary
 endocystitis
@@ -9588,7 +9589,6 @@ esoethmoiditis
 exornation
 emplacing
 emulator
-epihippus
 enterohemorrhage
 esophagalgia
 esophagean
