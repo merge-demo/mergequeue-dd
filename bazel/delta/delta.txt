@@ -7369,7 +7369,6 @@ deathtraps
 deplaned
 dimissorial
 dipneumona
-defibrillatory
 dyspnoeas
 deckings
 dishevely
@@ -11300,6 +11299,7 @@ discarded
 drainageway
 diane
 dragonet
+defibrillatory
 discards
 dentals
 digue
