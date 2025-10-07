@@ -2144,6 +2144,7 @@ assimilating
 arctalian
 aerosolizing
 amphorae
+aeolis
 antiparastatitis
 achromatope
 anglepod
@@ -4595,7 +4596,6 @@ aeolidae
 agraphic
 abolishment
 ambrotype
-aeolis
 aeolist
 aeolotropy
 atrenne
