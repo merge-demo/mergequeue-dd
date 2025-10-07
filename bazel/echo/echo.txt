@@ -3344,7 +3344,6 @@ extranormal
 emballonuridae
 eulachons
 essentialities
-equus
 esquirearchy
 enregistration
 egal
@@ -13093,6 +13092,7 @@ endromididae
 epidermomycosis
 erasement
 expensiveness
+equus
 expergefacient
 expergefaction
 embedding
