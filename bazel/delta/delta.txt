@@ -1627,7 +1627,6 @@ dawe
 dismasted
 destruct
 deafmuteness
-disembrace
 digression
 deairing
 deflexionize
@@ -2159,6 +2158,7 @@ discrepate
 dromedary
 decanery
 decanes
+disembrace
 diabolify
 deraigns
 decently
