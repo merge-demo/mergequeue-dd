@@ -14446,6 +14446,7 @@ annet
 arrogative
 affectus
 achar
+arrestant
 affirmativeness
 anti
 amalfitan
@@ -19927,7 +19928,6 @@ accoutring
 arsoite
 axonolipa
 avenger
-arrestant
 alimentum
 aroideous
 accusable
