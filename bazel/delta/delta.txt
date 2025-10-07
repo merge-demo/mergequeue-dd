@@ -6048,6 +6048,7 @@ drawarm
 depthways
 disoccupy
 disjeune
+ducatoon
 dandered
 disengagement
 decoupling
@@ -9948,7 +9949,6 @@ delators
 diminuent
 drossiness
 dewlap
-ducatoon
 distances
 dillydallying
 devonian
