@@ -4736,6 +4736,7 @@ disconformities
 diseducate
 dowf
 dewaterer
+disdainful
 demitoilet
 dicatalectic
 deputize
@@ -7555,7 +7556,6 @@ dipsadinae
 doorwise
 dur
 devachan
-disdainful
 divergement
 degger
 dovening
