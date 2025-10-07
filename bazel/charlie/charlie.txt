@@ -11625,7 +11625,6 @@ columel
 choleroid
 cancrophagous
 cholerophobia
-cholestanol
 christianize
 concorrezanes
 cholesteatomatous
@@ -21848,6 +21847,7 @@ condos
 condottiere
 conduce
 christiana
+cholestanol
 christianogentilism
 chulan
 converse
