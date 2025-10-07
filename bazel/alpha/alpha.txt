@@ -4760,7 +4760,6 @@ apitpat
 auslaut
 airphobia
 abler
-aerodontalgia
 adenitises
 archhost
 arenite
@@ -23584,6 +23583,7 @@ aurorium
 algorithm
 additionally
 aleppine
+aerodontalgia
 aurrescu
 anchtherium
 aurulent
