@@ -2084,7 +2084,6 @@ bemas
 banshies
 bornan
 bakelize
-bronchostomy
 betrough
 branchihyal
 bourkha
@@ -13436,6 +13435,7 @@ brightsome
 blunts
 basiparaplastin
 buncombes
+bronchostomy
 burstone
 beeriness
 broomer
