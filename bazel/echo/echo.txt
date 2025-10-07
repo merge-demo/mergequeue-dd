@@ -2459,6 +2459,7 @@ eupolyzoa
 eleve
 exegete
 ellipsoids
+escapers
 eurythmical
 enstatite
 electrogasdynamics
@@ -7445,7 +7446,6 @@ ephebea
 excepts
 employes
 elenctic
-escapers
 endogenously
 extraperiodic
 extracurricular
