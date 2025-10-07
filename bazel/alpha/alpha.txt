@@ -1327,6 +1327,7 @@ actinopoda
 aqueducts
 antiphilosophical
 accelerators
+anabatic
 accelerometer
 accelerometers
 anticatholic
@@ -8444,7 +8445,6 @@ austafrican
 allay
 allayers
 allaying
-anabatic
 archdukedom
 allanite
 airproofing
