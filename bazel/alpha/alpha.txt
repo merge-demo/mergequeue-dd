@@ -13990,6 +13990,7 @@ auriga
 awesomeness
 angka
 agglutinogenic
+alkalimetrical
 anarthrous
 achlamydate
 amniota
@@ -22587,7 +22588,6 @@ atinga
 atypy
 ashame
 anthropophuistic
-alkalimetrical
 andamentos
 adreno
 atis
