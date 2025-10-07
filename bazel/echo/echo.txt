@@ -12654,7 +12654,6 @@ expunges
 exogenetic
 enuretic
 enlight
-enkolpion
 exometritis
 elychnious
 excogitate
@@ -13789,6 +13788,7 @@ extortions
 extol
 establishmentarianism
 extortive
+enkolpion
 equiped
 epicheirema
 engraftment

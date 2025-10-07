@@ -2498,7 +2498,6 @@ dispassioned
 diatropism
 dresser
 dilaters
-decibar
 dorsale
 decretively
 derivational
@@ -17692,6 +17691,7 @@ disapprovingly
 disanimal
 dimerisms
 dualizes
+decibar
 dualmutef
 disrespectability
 duan
