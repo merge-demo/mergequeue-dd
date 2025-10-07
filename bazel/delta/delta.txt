@@ -10172,7 +10172,6 @@ distillation
 drissel
 desmolase
 dinoflagellida
-dinging
 dingled
 dreidl
 denuclearize
@@ -13997,6 +13996,7 @@ drabbet
 detainable
 disparadise
 disporum
+dinging
 daddled
 duplon
 dilaceration
