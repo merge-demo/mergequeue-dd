@@ -2719,7 +2719,6 @@ estadal
 enceint
 eleemosinar
 ebons
-equipotent
 electees
 edentate
 envoi
@@ -11054,6 +11053,7 @@ ejaculators
 eurobin
 enlevement
 elargement
+equipotent
 equanimous
 eyeletter
 estoc
