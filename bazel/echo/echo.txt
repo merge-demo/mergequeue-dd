@@ -5880,7 +5880,6 @@ explees
 ecarinate
 execrators
 exaggerativeness
-edeitis
 enfief
 enhancing
 enharbour
@@ -9158,6 +9157,7 @@ evanid
 extrinsic
 enleague
 ermines
+edeitis
 epiloguize
 ectoenzyme
 ectocinerea
