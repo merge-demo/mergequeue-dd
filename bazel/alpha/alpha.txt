@@ -14411,7 +14411,6 @@ aseptol
 abiogenesist
 atemporal
 andiron
-antiroyalism
 ambulatorial
 anax
 accreditee
@@ -21478,6 +21477,7 @@ alkyl
 allegement
 antiloemic
 angary
+antiroyalism
 arthrempyesis
 allegorist
 assessee
