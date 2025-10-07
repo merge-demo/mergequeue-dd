@@ -2357,6 +2357,7 @@ configurationally
 companator
 chinbones
 canarian
+chlorize
 canaries
 cohobates
 clum
@@ -11259,7 +11260,6 @@ carlie
 continuities
 chloritization
 culicid
-chlorize
 cynocephalus
 constituency
 chesterbed
