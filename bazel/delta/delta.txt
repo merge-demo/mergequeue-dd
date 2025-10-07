@@ -3165,7 +3165,6 @@ demimondaine
 dkg
 dissentient
 distrainor
-decidability
 deveining
 donne
 discocephalous
@@ -11005,6 +11004,7 @@ dextrolactic
 dihalogen
 domiciliating
 deoxidization
+decidability
 disconformably
 dieselized
 degusts
