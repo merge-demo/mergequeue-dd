@@ -6702,6 +6702,7 @@ enterprise
 exploitations
 enterprize
 expertising
+endostyle
 entosclerite
 eulogiser
 ecrevisse
@@ -8689,7 +8690,6 @@ ejecta
 equipotential
 externalize
 exconjugant
-endostyle
 epicoeliac
 epulotic
 equiprobably
