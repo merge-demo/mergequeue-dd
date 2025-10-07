@@ -2692,7 +2692,6 @@ emulsoidal
 exteriorise
 essed
 elderwort
-endomycetaceae
 evanish
 extrasensory
 evovae
@@ -7175,6 +7174,7 @@ entomoid
 emboltement
 enwing
 ecclesiasticus
+endomycetaceae
 enamines
 eyedness
 elytroptosis
