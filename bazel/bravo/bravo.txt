@@ -7860,7 +7860,6 @@ bemedalled
 bepimpled
 beards
 bargains
-blueings
 bebog
 bibliopole
 birdieback
@@ -15900,6 +15899,7 @@ burl
 bellbottle
 bubbies
 bersaglieri
+blueings
 bibliotic
 braggardism
 bestrewing
