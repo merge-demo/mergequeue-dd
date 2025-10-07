@@ -2110,7 +2110,6 @@ coniopterygidae
 channeler
 campers
 coadjacence
-campfight
 campground
 consarcinate
 camphane
@@ -21808,6 +21807,7 @@ condolent
 coaxers
 colonic
 coleuses
+campfight
 clumproot
 chimarikan
 crizzle
