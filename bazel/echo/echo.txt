@@ -1246,7 +1246,6 @@ evaluation
 endopleuritic
 enmanche
 eelfare
-encrinite
 elastomeric
 enrobe
 etherified
@@ -8891,6 +8890,7 @@ ergane
 ethnohistorically
 espontoon
 extenuating
+encrinite
 embowel
 elfdom
 exp
