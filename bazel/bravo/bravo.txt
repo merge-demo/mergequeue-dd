@@ -16591,7 +16591,6 @@ briquetted
 balms
 bubblelike
 basketfuls
-brodeglass
 blithehearted
 bishopship
 basilisk
@@ -18052,6 +18051,7 @@ boatsman
 bangy
 belive
 bishopess
+brodeglass
 bepiece
 butadiyne
 beetfly
