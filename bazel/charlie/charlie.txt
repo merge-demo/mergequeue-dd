@@ -18225,6 +18225,7 @@ coercible
 coercionary
 coercitive
 coercive
+coxalgy
 coerciveness
 centrolepidaceous
 coercivity
@@ -27769,7 +27770,6 @@ comephorous
 cuttlefishes
 coxae
 coeloscope
-coxalgy
 crepusculum
 coxalgias
 cholents
