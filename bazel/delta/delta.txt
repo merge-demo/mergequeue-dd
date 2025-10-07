@@ -9667,7 +9667,6 @@ disasterly
 dowcet
 dinitrocellulose
 diiodoform
-dipteron
 dolorousness
 diipenates
 destrier
@@ -16280,6 +16279,7 @@ divinable
 description
 dysentery
 duplicated
+dipteron
 dacryocystoblennorrhea
 dindymus
 docetist
