@@ -10592,7 +10592,6 @@ cystocarpic
 chilli
 circumnutated
 crank
-circue
 comitant
 concealing
 chilly
@@ -20436,6 +20435,7 @@ communized
 commutability
 caelus
 contravariant
+circue
 commutable
 conjee
 counterservice
