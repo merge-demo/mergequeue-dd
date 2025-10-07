@@ -11308,6 +11308,7 @@ eagles
 evaporimeter
 electrocute
 ecdysons
+energeticist
 evaporitic
 editorializes
 evapotranspiration
@@ -13817,7 +13818,6 @@ earworm
 extracystic
 equiarticulate
 extracivic
-energeticist
 engenderer
 enscale
 euchroite
