@@ -1518,6 +1518,7 @@ ethmoid
 endosternum
 exradio
 episcopised
+electronegativity
 evoke
 embow
 encarnadine
@@ -7249,7 +7250,6 @@ evolutionally
 epicurize
 eohippus
 eohippuses
-electronegativity
 eoith
 eoiths
 entamebae
