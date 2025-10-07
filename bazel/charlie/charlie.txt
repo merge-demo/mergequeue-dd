@@ -16603,7 +16603,6 @@ croupes
 cloisterly
 carburization
 contorting
-cantish
 capsules
 corpulencies
 cloisterwise
@@ -29381,6 +29380,7 @@ crispier
 concentrative
 cryptophyte
 carcinolytic
+cantish
 crispiest
 crispin
 culicidal
