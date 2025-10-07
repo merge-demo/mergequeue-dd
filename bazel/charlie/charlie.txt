@@ -661,7 +661,6 @@ cafetorium
 contributory
 caffeic
 caffeines
-cobblerless
 compensable
 caffeinic
 casimire
@@ -999,6 +998,7 @@ cohoba
 calascione
 cydonia
 chaplains
+cobblerless
 calathea
 calathi
 chamberlainship
