@@ -10179,7 +10179,6 @@ chevrolets
 chlorodized
 coracoclavicular
 chiropatagium
-corresp
 charioteer
 cumbha
 cronied
@@ -17332,6 +17331,7 @@ conflux
 coan
 conversion
 climatius
+corresp
 chetif
 concretes
 cephalemia
