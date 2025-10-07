@@ -2779,7 +2779,6 @@ democritean
 dichotomising
 dogey
 despumating
-desalinization
 deedbote
 discerpible
 dictionary
@@ -17920,6 +17919,7 @@ discandy
 ductor
 disserted
 droyl
+desalinization
 duer
 downsome
 duckling
