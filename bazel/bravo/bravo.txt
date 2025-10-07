@@ -1567,6 +1567,7 @@ ballata
 batikulin
 ballatoon
 backcasts
+banderol
 burliest
 balled
 banderilla
@@ -13343,7 +13344,6 @@ botels
 bradyphagia
 buhlbuhl
 bothersome
-banderol
 bothered
 brender
 bothers
