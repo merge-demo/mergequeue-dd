@@ -1486,7 +1486,6 @@ caracoling
 calligraphy
 chiba
 cooeying
-calling
 cirsotome
 consularity
 chiefly
@@ -23174,6 +23173,7 @@ causson
 corymbs
 constablewick
 constabular
+calling
 constabularies
 comminute
 constantan
