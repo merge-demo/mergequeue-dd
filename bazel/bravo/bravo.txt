@@ -7169,7 +7169,6 @@ besully
 betrample
 beswarm
 beswelter
-bethuel
 balti
 bedraggle
 bowlful
@@ -13752,6 +13751,7 @@ brazes
 bootlickers
 barguests
 blungers
+bethuel
 burker
 brunion
 baddishly
