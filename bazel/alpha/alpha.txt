@@ -7560,7 +7560,6 @@ alcoholmeter
 acroter
 alcoholometer
 apterygial
-alcoholometric
 antitaxation
 alconde
 ascher
@@ -18569,6 +18568,7 @@ aridge
 autonetics
 autocephality
 archbishopry
+alcoholometric
 actionably
 asaraceae
 acroamata
