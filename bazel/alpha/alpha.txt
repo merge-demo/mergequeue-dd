@@ -2917,7 +2917,6 @@ antiextreme
 asbolin
 actinoids
 appriser
-alleviator
 aciculum
 antiphon
 antimeson
@@ -7532,6 +7531,7 @@ abbrev
 apoquinamine
 anywheres
 alike
+alleviator
 adenohypophysial
 authoritativeness
 alcoholically
