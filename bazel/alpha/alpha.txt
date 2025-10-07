@@ -20387,7 +20387,6 @@ admov
 apochromat
 asterospondylous
 arteriogenesis
-arteriograph
 adenectopia
 arteriographic
 anoxybiosis
@@ -25094,6 +25093,7 @@ axillars
 aconitic
 acroarthritis
 axine
+arteriograph
 axing
 anagenesis
 antisepsin

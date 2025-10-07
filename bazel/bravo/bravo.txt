@@ -11817,7 +11817,6 @@ buss
 bankeress
 balkis
 bescribbling
-basketworm
 bodefully
 bodegas
 buttoned
@@ -17293,6 +17292,7 @@ barcaroles
 bunged
 bungee
 bunger
+basketworm
 begrudging
 breadearning
 biathlons
