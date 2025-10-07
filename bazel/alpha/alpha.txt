@@ -3666,6 +3666,7 @@ acaridea
 adiathetic
 adiating
 aiguelle
+automatons
 adiation
 adib
 adicea
@@ -19342,7 +19343,6 @@ ascendable
 aseptate
 alypine
 antimeric
-automatons
 archaecraniate
 attraction
 anallantoidea
