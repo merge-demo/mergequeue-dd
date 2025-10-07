@@ -4213,7 +4213,6 @@ cassites
 carefreeness
 coenacula
 careful
-carefull
 carefuller
 carefullest
 chemosensitivities
@@ -29421,6 +29420,7 @@ cothe
 correctedness
 cueist
 cerographic
+carefull
 creatines
 crystallising
 coilyear
