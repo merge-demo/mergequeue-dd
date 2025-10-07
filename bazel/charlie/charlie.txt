@@ -12168,7 +12168,6 @@ concausal
 clonk
 copyholders
 cautious
-chrysamminic
 chrysamphora
 cheremiss
 culprit
@@ -31405,6 +31404,7 @@ curiously
 contrastingly
 curite
 cispadane
+chrysamminic
 curl
 contractation
 crataeva
