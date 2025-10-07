@@ -7172,6 +7172,7 @@ ensampler
 eposes
 empassion
 eglandulous
+evulge
 expirer
 equestrians
 enwheels
@@ -10512,7 +10513,6 @@ eubteria
 embezzlers
 endaortic
 epistoma
-evulge
 explosions
 everymen
 eucaryote
