@@ -13774,6 +13774,7 @@ alectoromorphae
 advantaging
 airman
 antagony
+arrestee
 auscultator
 antiprestidigitation
 antiphysical
@@ -16599,7 +16600,6 @@ allegiances
 apharsathacites
 aphasia
 atees
-arrestee
 aphasiacs
 ascarids
 ambience
