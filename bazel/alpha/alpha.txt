@@ -4379,6 +4379,7 @@ adventuresses
 angiostegnosis
 adventurism
 armorwise
+astrometeorological
 atelopodia
 adventurous
 antebridal
@@ -22266,7 +22267,6 @@ arthrophlogosis
 aliments
 anchistea
 astrometeorology
-astrometeorological
 astigmatoscopy
 aforenamed
 ancestrial
