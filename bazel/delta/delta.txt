@@ -5778,7 +5778,6 @@ dernly
 depressions
 depolarize
 dextrorsal
-demicylinder
 demersal
 diaphany
 downloads
@@ -11769,6 +11768,7 @@ deoxidising
 diphosphoric
 dewily
 depreciatory
+demicylinder
 dodecapetalous
 discrested
 disjunctions
