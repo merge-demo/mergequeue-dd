@@ -9621,6 +9621,7 @@ cheerfulize
 cheerfuller
 columbier
 combatted
+controversy
 carceral
 charqued
 cheerfully
@@ -23938,7 +23939,6 @@ cananga
 conforming
 controversal
 compositeness
-controversy
 controversialism
 cytotrophoblast
 coyness
