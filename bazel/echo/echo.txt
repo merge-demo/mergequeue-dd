@@ -12244,7 +12244,6 @@ extemporizer
 endpaper
 exegetics
 ecphorias
-entoiling
 ensheaths
 electroaffinity
 ensued
@@ -12644,6 +12643,7 @@ examplar
 exogyra
 enterogram
 effusion
+entoiling
 exognathite
 expunges
 exogenetic
