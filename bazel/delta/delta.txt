@@ -9356,7 +9356,6 @@ drawnness
 deepwater
 distraction
 destroyable
-dasypodoid
 deutoplasmic
 disavowable
 directionless
@@ -16942,6 +16941,7 @@ dicotylous
 digladiation
 disesteem
 despairingness
+dasypodoid
 differentness
 douanes
 dreading
