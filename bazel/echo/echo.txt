@@ -2222,7 +2222,6 @@ elections
 elevatory
 exocolitis
 effluve
-extemporizes
 endoplasma
 elector
 exhume
@@ -8376,6 +8375,7 @@ euphrasies
 equivocating
 etherealism
 enhaloes
+extemporizes
 euphuist
 everylike
 epitomized
