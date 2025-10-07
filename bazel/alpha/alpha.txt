@@ -1210,7 +1210,6 @@ aspirations
 alighten
 antivitamin
 acanthomas
-antinormal
 alluded
 acanthomeridae
 acanthopanax
@@ -24270,6 +24269,7 @@ angulating
 applecart
 autopsies
 ambrose
+antinormal
 aconuresis
 amerindian
 aeriality
