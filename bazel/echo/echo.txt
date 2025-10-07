@@ -743,7 +743,6 @@ effascinate
 exuvium
 ecotype
 ecotypes
-ecotipically
 epigeic
 ecotypically
 engulfs
@@ -7041,6 +7040,7 @@ entrapping
 entrustment
 eurygaea
 exchequers
+ecotipically
 exocoetus
 eyeglass
 elastomer
