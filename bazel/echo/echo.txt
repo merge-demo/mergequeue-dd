@@ -12328,6 +12328,7 @@ exertionless
 estuate
 exertions
 ergate
+exsiccating
 enurny
 exhibitory
 eseptate
@@ -13541,7 +13542,6 @@ evadable
 exsiccant
 exsiccatae
 elucidate
-exsiccating
 embowment
 exsolving
 epochs
