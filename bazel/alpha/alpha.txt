@@ -9784,7 +9784,6 @@ aspergillaceae
 acroterial
 airsheet
 amateurship
-anacoenosis
 acopic
 amatito
 awaste
@@ -23567,6 +23566,7 @@ aquicultural
 auriphone
 aurir
 auris
+anacoenosis
 antiboss
 auriscalp
 auriscopic
