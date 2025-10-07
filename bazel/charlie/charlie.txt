@@ -9990,6 +9990,7 @@ criollo
 chilodon
 chiro
 chenopods
+compline
 customize
 chequebook
 croup
@@ -23055,7 +23056,6 @@ chili
 cryptic
 cripes
 coracoids
-compline
 consocies
 caustified
 consolations
