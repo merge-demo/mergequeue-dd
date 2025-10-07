@@ -10495,7 +10495,6 @@ escalan
 ettle
 ecclesiolatry
 enologies
-exorbitant
 errorist
 eclectics
 epulary
@@ -11081,6 +11080,7 @@ enrail
 epicostal
 endotheliocyte
 epimerum
+exorbitant
 estocada
 euskaric
 electors

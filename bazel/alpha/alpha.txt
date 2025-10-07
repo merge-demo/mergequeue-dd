@@ -10769,7 +10769,6 @@ argillocalcite
 amphib
 afrits
 ammonolyzing
-anchovy
 athwarthawse
 ammos
 ammotherapy
@@ -20692,6 +20691,7 @@ airwomen
 artolatry
 androtomy
 anguineal
+anchovy
 amianthiform
 abraid
 artophagous
