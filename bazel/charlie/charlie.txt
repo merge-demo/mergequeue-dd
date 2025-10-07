@@ -10512,6 +10512,7 @@ cynically
 childless
 childly
 contacting
+coalfield
 childliest
 conceptualizing
 childlike
@@ -17269,7 +17270,6 @@ coalesces
 coalescing
 characterless
 choya
-coalfield
 cassoulet
 coalfitter
 cyanines
