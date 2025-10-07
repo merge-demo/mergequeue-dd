@@ -9739,7 +9739,6 @@ albumean
 azotorrhoea
 auriscope
 asserta
-antiae
 asphodelus
 antimasker
 amasesis
@@ -14696,6 +14695,7 @@ arthropods
 accidentally
 antichronically
 amphibola
+antiae
 annalist
 associates
 alcornoque
