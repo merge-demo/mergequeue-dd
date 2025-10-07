@@ -3393,6 +3393,7 @@ debyes
 deceptory
 dispergated
 doffed
+diamagnetize
 demiworld
 doigte
 defluvium
@@ -6034,7 +6035,6 @@ domajigger
 dining
 daunii
 diagraphics
-diamagnetize
 diagrammitically
 disconfirm
 diobols
