@@ -1417,7 +1417,6 @@ covenantal
 calyptraea
 calyptranthes
 concinnous
-crowstep
 calyptrata
 coheritor
 cheapener
@@ -13031,6 +13030,7 @@ cuneate
 camaile
 chiasmatypy
 curateship
+crowstep
 cludder
 cyanophyceae
 counterpointed
