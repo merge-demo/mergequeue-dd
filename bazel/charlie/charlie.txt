@@ -4296,7 +4296,6 @@ caryatids
 conserving
 cariban
 caribbean
-chartists
 chelation
 caribbee
 colliform
@@ -7936,6 +7935,7 @@ corixidae
 cetomorpha
 cangan
 cumular
+chartists
 cryptostome
 cetonian
 curwhibble
