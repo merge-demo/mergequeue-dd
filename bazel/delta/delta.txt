@@ -1076,7 +1076,6 @@ devoiced
 darning
 disfavoured
 designfully
-doling
 darrein
 darshan
 dampening
@@ -16349,6 +16348,7 @@ dotty
 detubation
 downright
 diosmotic
+doling
 discredits
 denser
 defended
