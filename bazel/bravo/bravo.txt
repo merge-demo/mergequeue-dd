@@ -5098,6 +5098,7 @@ busier
 bhangs
 bombshells
 beflour
+basidial
 backhouse
 bogbean
 batoid
@@ -11018,7 +11019,6 @@ babblement
 brache
 belemnoidea
 backstairs
-basidial
 bp
 bailiffs
 bromoethylene
