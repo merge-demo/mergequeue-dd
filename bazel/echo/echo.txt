@@ -1827,6 +1827,7 @@ euler
 epidiorite
 encystments
 errabund
+extincts
 elaterin
 equitemporal
 expeller
@@ -7868,7 +7869,6 @@ epiguanine
 elementate
 enablement
 eireannach
-extincts
 executioner
 exogonium
 entogastric
