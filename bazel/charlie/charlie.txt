@@ -7527,6 +7527,7 @@ chivvy
 canroyer
 caressing
 cacoenthes
+correspondently
 cercarial
 coloni
 ciders
@@ -25691,7 +25692,6 @@ correspondence
 correspondency
 composedness
 correspondential
-correspondently
 cabbalas
 citators
 chlormethylic
