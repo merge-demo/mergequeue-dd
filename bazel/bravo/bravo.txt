@@ -2202,7 +2202,6 @@ bandgap
 barbara
 baggara
 barbary
-bioecology
 baculiferous
 bast
 bellyfulls
@@ -11891,6 +11890,7 @@ bethumping
 brulyies
 becrown
 beveil
+bioecology
 buckish
 boffins
 brasset
