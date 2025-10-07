@@ -170,6 +170,7 @@ dadoes
 desireful
 dressage
 detraque
+dinornithoid
 doweral
 daedalea
 dears
@@ -10656,7 +10657,6 @@ detrimentality
 delegati
 deblocking
 drabby
-dinornithoid
 dogwoods
 diplostichous
 diplotaxis
