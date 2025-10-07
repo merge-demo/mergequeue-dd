@@ -5816,7 +5816,6 @@ ekaha
 eulerian
 electrolyzation
 embergeese
-eccl
 engramme
 epicarpal
 engrammes
@@ -6525,6 +6524,7 @@ egipto
 ensmall
 encephalorrhagia
 erythrocytometer
+eccl
 entamoebic
 endostosis
 ephyra
