@@ -8165,7 +8165,6 @@ bathyorographical
 battailous
 bluebuck
 biethnic
-beflecking
 baryes
 burden
 byeworkman
@@ -13246,6 +13245,7 @@ bosset
 berkelium
 barebacked
 bullfighting
+beflecking
 bonducnut
 bedstaff
 basilidan
