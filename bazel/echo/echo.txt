@@ -3176,6 +3176,7 @@ elops
 elicit
 emission
 everything
+escobita
 extruding
 embioptera
 errability
@@ -10991,7 +10992,6 @@ epichirema
 echeloot
 eoside
 eigenfrequency
-escobita
 eschatocol
 ecologically
 electrokinematics

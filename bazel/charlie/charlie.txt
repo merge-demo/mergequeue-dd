@@ -10103,7 +10103,6 @@ consulated
 cochlospermaceae
 chessylite
 chessist
-chessner
 chessom
 claves
 ceca
@@ -24009,6 +24008,7 @@ crewelist
 chukkars
 chromophyl
 convectively
+chessner
 clods
 chromatograph
 counterpoises
