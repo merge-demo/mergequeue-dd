@@ -6941,7 +6941,6 @@ carane
 craw
 carinaria
 claudicate
-cementmaker
 candidly
 cementoblast
 cementoma
@@ -26220,6 +26219,7 @@ consultatory
 clutters
 costellate
 collectible
+cementmaker
 cravenness
 creepiest
 commonish
