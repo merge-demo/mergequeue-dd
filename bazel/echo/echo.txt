@@ -8247,6 +8247,7 @@ episternal
 entoloma
 emaceration
 ecclesiologic
+ethoxide
 erucic
 enjoying
 entozoa
@@ -10401,7 +10402,6 @@ epiphanize
 electropositive
 exodromic
 exchanged
-ethoxide
 embrocated
 ectodynamomorphic
 ethoxyethane
