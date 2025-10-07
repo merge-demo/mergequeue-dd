@@ -492,6 +492,7 @@ backslapper
 bituminiferous
 breakax
 bismillah
+byre
 betweentimes
 be
 bridely
@@ -2153,7 +2154,6 @@ binds
 byway
 broncos
 bemingled
-byre
 boundness
 baptizer
 blurping
