@@ -19802,7 +19802,6 @@ arming
 avn
 arminianize
 acupuncturists
-atabals
 antiseptically
 arminianizer
 asterial
@@ -24398,6 +24397,7 @@ autotheist
 automatic
 autotimer
 autotypy
+atabals
 autotypic
 autotomise
 alamedas
