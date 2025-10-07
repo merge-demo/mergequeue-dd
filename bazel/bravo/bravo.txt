@@ -15608,7 +15608,6 @@ bacteriosis
 brachypinacoid
 bilertinned
 butyric
-broadsider
 begroaned
 broadsides
 broadsword
@@ -17212,6 +17211,7 @@ boreholes
 backlog
 bumpers
 baths
+broadsider
 blazons
 bumpkin
 balmoral
