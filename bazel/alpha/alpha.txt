@@ -13230,6 +13230,7 @@ ankylos
 ankyloses
 anantherate
 amperages
+asta
 averted
 automatontons
 archmarshal
@@ -21891,7 +21892,6 @@ aurothiosulphuric
 accelerograph
 atrebates
 asswaging
-asta
 aminded
 astable
 alkylic
