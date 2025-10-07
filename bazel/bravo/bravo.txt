@@ -1739,7 +1739,6 @@ bengaline
 balsamitic
 balsamiticness
 boneheads
-breakerman
 balsams
 beseechingness
 biteable
@@ -15671,6 +15670,7 @@ bilirubin
 brodyagi
 broeboe
 bicolor
+breakerman
 brogue
 beblooded
 basiparachromatin

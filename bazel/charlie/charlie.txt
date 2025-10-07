@@ -14095,7 +14095,6 @@ cookwares
 cepe
 crocodile
 chloritoid
-corta
 cleruchial
 circassic
 capivi
@@ -14286,6 +14285,7 @@ centrisms
 circumlocutions
 circumlunar
 cotraitor
+corta
 crepeier
 calcographic
 circummundane
