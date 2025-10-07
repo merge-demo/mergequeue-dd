@@ -1322,7 +1322,6 @@ cossyrite
 campanulate
 calicles
 calycles
-calico
 corser
 cormophytic
 calicoback
@@ -15679,6 +15678,7 @@ cann
 chastely
 candidature
 clausula
+calico
 chiasmodontid
 coppers
 cirrigrade
