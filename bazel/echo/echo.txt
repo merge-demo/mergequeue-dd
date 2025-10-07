@@ -804,7 +804,6 @@ exequies
 expulsed
 ectental
 eloigner
-ecthesis
 emmers
 epispadias
 edaphically
@@ -13769,6 +13768,7 @@ ecorch
 extolling
 enouncement
 elephas
+ecthesis
 extolls
 extols
 eskimos
