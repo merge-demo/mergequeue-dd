@@ -2964,7 +2964,6 @@ autacoid
 ananym
 arculite
 antichorus
-amphibolia
 actinons
 archmessenger
 abidingly
@@ -22324,6 +22323,7 @@ aryanism
 aswash
 abiotic
 adyton
+amphibolia
 aristarchy
 assailant
 asweve
