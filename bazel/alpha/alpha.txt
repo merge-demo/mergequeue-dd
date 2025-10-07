@@ -9472,6 +9472,7 @@ antipart
 averager
 atheism
 aeroenterectasia
+anaxon
 autoionization
 alipeds
 altruisms
@@ -22948,7 +22949,6 @@ attemperament
 aizle
 acephalan
 abhenrys
-anaxon
 attempt
 aleikum
 amblyaphia
