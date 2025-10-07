@@ -8698,7 +8698,6 @@ chansonette
 chansonniers
 chantey
 counterlighted
-chantepleure
 colossality
 chanterelle
 chondroseptum
@@ -30265,6 +30264,7 @@ crumping
 compressions
 crumpled
 chorten
+chantepleure
 cargoose
 crumps
 coulomb
