@@ -2414,6 +2414,7 @@ electroencephalogram
 empeople
 entophytal
 espinel
+eradiate
 euphausid
 epitaxial
 earthnut
@@ -12387,7 +12388,6 @@ ephemerida
 exposures
 exhibition
 enforce
-eradiate
 exhibitionism
 ervenholder
 essenian
