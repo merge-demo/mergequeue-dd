@@ -7709,7 +7709,6 @@ babylonian
 bufonid
 byronist
 bituminised
-banding
 bongrace
 bravure
 biacid
@@ -11293,6 +11292,7 @@ brats
 buggering
 boarwood
 branniest
+banding
 boneyard
 biologism
 blowse
