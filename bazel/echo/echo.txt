@@ -558,7 +558,6 @@ echinoid
 exequial
 exhaustible
 eavesdropper
-equatorially
 excommunicatory
 encrimson
 echinomys
@@ -8945,6 +8944,7 @@ eteoclus
 endosmotically
 ericales
 exteroceptive
+equatorially
 erythematic
 ericas
 ericetal
