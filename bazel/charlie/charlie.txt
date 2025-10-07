@@ -5791,7 +5791,6 @@ cleaves
 categorization
 coryzal
 categorizer
-chlorpicrin
 chrysocracy
 chandoo
 communicants
@@ -22567,6 +22566,7 @@ creepages
 conjoints
 cherryblossom
 chechako
+chlorpicrin
 chorism
 conjon
 conjubilant
