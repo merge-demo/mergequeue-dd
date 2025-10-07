@@ -1517,6 +1517,7 @@ alkoranic
 audiviser
 anhalamine
 abidden
+ammophilous
 autacoids
 accomplisht
 accordancy
@@ -11679,7 +11680,6 @@ abstrusenesses
 anathemata
 affinity
 alpiniaceae
-ammophilous
 antinational
 analytique
 arnoseris
