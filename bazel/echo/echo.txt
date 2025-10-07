@@ -6157,6 +6157,7 @@ evolvent
 enneagonal
 etymologizable
 enrolling
+expilate
 eyeshades
 endorachis
 elephantiac
@@ -8025,7 +8026,6 @@ euthenist
 encoop
 epibasal
 ergs
-expilate
 ease
 entoconid
 epidendron
