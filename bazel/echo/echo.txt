@@ -7448,6 +7448,7 @@ extraperiodic
 extracurricular
 exercise
 elohimic
+evasiveness
 enfile
 ecchondrotome
 effusions
@@ -13246,7 +13247,6 @@ explicanda
 explicate
 enterectomies
 exult
-evasiveness
 entomological
 equiliria
 execrable
