@@ -9356,7 +9356,6 @@ disavowable
 directionless
 differentiability
 duct
-differentials
 dhoty
 drostdy
 defacers
@@ -13616,6 +13615,7 @@ disadvantageously
 destructibleness
 desideration
 diatryma
+differentials
 devolatilizing
 dislikeful
 disunity

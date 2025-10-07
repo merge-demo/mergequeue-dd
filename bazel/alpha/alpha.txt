@@ -946,7 +946,6 @@ assis
 astron
 accidies
 abstemiousness
-abstentionist
 animal
 absterge
 asparagus
@@ -9492,6 +9491,7 @@ ambier
 amphorophony
 araneae
 agendaless
+abstentionist
 affairs
 adenodiastasis
 ascence
