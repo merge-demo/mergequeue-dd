@@ -9144,7 +9144,6 @@ amplexuses
 axoplasm
 archcriminal
 armaries
-angling
 amphion
 aloetical
 anthracocide
@@ -10976,6 +10975,7 @@ apiarists
 amove
 ampangabeite
 archsin
+angling
 angiemphraxis
 ampasimenite
 ampelidaceous
