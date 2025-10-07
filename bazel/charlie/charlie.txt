@@ -3653,6 +3653,7 @@ clangoring
 caramels
 cloned
 carancho
+carrousel
 conking
 carandas
 carangids
@@ -4883,7 +4884,6 @@ canonization
 clomben
 carrotwood
 cloths
-carrousel
 circumfused
 carrousels
 chaetodontid
