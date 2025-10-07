@@ -801,7 +801,6 @@ contouring
 corban
 chalcosine
 cailcedra
-coronations
 crinet
 caille
 corticole
@@ -8521,6 +8520,7 @@ championing
 circle
 caesium
 championless
+coronations
 champions
 cytotaxonomic
 champleve
