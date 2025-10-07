@@ -5469,7 +5469,6 @@ afterworld
 almonds
 aftonian
 amygdalopathy
-aftward
 alation
 adiated
 afunctional
@@ -24144,6 +24143,7 @@ appalachian
 autology
 analyzers
 aporrhea
+aftward
 autological
 astart
 aldeia
