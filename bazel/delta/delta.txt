@@ -3042,6 +3042,7 @@ demivambrace
 dentiscalp
 desmosite
 daddock
+dexes
 degradand
 defaces
 devide
@@ -10700,7 +10701,6 @@ dingar
 dumbnesses
 dweeble
 diaculum
-dexes
 deesis
 despairs
 depit
