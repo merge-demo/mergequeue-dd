@@ -2462,7 +2462,6 @@ aconelline
 autoactive
 afdecho
 amphicyrtic
-aconital
 aconite
 adoptabilities
 antherid
@@ -16931,6 +16930,7 @@ aethon
 aymoro
 acroscleroderma
 aspidocephali
+aconital
 argonautic
 agamous
 apocha
