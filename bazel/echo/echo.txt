@@ -6866,6 +6866,7 @@ epidermoidal
 educability
 entomologist
 entomologize
+encoffinment
 entrap
 entomologized
 enstatolite
@@ -13255,7 +13256,6 @@ execrable
 explicates
 euglenoidina
 eyewitness
-encoffinment
 explicator
 effronted
 epilobiaceae
