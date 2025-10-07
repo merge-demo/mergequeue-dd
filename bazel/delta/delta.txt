@@ -3469,6 +3469,7 @@ dasturi
 defrayable
 dismissable
 digitalizing
+dasyatis
 dodginess
 dartsman
 delft
@@ -11743,7 +11744,6 @@ ductilized
 debtor
 discreetly
 declarant
-dasyatis
 deutomerite
 dehydrated
 defunction
