@@ -1550,6 +1550,7 @@ acetylbenzoic
 alectrionidae
 accrual
 accouche
+aplite
 abbreviate
 arclength
 accountable
@@ -7125,7 +7126,6 @@ alarmingness
 alarmism
 applejohn
 alarmist
-aplite
 aglyphodont
 asseveratingly
 allopalladium
