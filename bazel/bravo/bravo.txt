@@ -820,7 +820,6 @@ burnsides
 bonelike
 bumpily
 betorcin
-barmbrack
 barragon
 breakaxe
 bewinged
@@ -6550,6 +6549,7 @@ bawdric
 beefing
 bakshishing
 bergy
+barmbrack
 blowdown
 bergylt
 baseheartedness
