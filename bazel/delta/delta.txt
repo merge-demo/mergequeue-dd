@@ -1108,6 +1108,7 @@ dicacodyl
 douce
 decillion
 defaisance
+deg
 diaphemetric
 darwinists
 decolorize
@@ -8830,7 +8831,6 @@ dybbuks
 dibenzoyl
 depilator
 dialyzable
-deg
 dichotomal
 desilver
 dissimilation
