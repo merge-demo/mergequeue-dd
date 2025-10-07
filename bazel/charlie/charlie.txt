@@ -14173,6 +14173,7 @@ circulative
 carotte
 concentricity
 catatonia
+cuspidal
 circulators
 circulus
 cavaedium
@@ -31704,7 +31705,6 @@ cusped
 clomped
 cuspid
 compoing
-cuspidal
 cuspidate
 chondromyxoma
 carbuncled
