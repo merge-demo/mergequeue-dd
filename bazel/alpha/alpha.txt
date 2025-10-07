@@ -3958,7 +3958,6 @@ aldrin
 antisuffragist
 admits
 admittance
-angelocracy
 admittatur
 admitted
 allocates
@@ -20631,6 +20630,7 @@ acquitment
 artifactitious
 artifacts
 artifex
+angelocracy
 advocatrix
 aerobiology
 artificial
