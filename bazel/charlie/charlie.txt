@@ -24652,7 +24652,6 @@ copywriters
 causticizing
 chordotonal
 clamshell
-coplanarities
 coplot
 comoquer
 cauqui
@@ -26996,6 +26995,7 @@ counterplead
 corrido
 coriandrum
 counterplotter
+coplanarities
 conjure
 chimneypot
 counterpoints
