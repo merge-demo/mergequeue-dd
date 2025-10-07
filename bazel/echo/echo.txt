@@ -5437,6 +5437,7 @@ enemata
 enemyship
 energeia
 emblematicalness
+episcope
 energesis
 environmentalists
 energetic
@@ -13812,7 +13813,6 @@ elucidative
 effervescingly
 electrophilic
 earworm
-episcope
 extracystic
 equiarticulate
 extracivic
