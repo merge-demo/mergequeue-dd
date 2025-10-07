@@ -25103,7 +25103,6 @@ centuplicating
 connotes
 coinstantaneous
 corequisite
-corer
 combinantive
 cores
 ctenodactyl
@@ -29200,6 +29199,7 @@ countercharge
 clamored
 cynogenealogist
 cryptoanalysis
+corer
 cryptoanalytically
 cryptobranch
 cryptobranchia
