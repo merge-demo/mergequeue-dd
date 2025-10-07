@@ -665,7 +665,6 @@ eclipses
 eudaemonistic
 ephraimitic
 entoparasitic
-epilogate
 eubasidii
 enhance
 envier
@@ -11542,6 +11541,7 @@ encodement
 embrittled
 epitrochlea
 errantness
+epilogate
 ennoy
 evocator
 evoe
