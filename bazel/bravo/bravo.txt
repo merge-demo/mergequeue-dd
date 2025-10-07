@@ -3293,6 +3293,7 @@ banshee
 bhil
 bedwell
 bothering
+biltongs
 basisphenoidal
 basitemporal
 biprong
@@ -5294,7 +5295,6 @@ begnaw
 big
 biharmonic
 ballistics
-biltongs
 biaxal
 bambos
 ballroom
