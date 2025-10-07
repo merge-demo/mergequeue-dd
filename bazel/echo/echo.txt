@@ -9107,7 +9107,6 @@ escalloniaceae
 erythrophleine
 emigrate
 erythropia
-enveil
 escrowee
 ephors
 extraviolet
@@ -9766,6 +9765,7 @@ enthusiast
 enteroplasty
 expressure
 essentialization
+enveil
 essentially
 ecostate
 easterner
