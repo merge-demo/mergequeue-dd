@@ -1077,6 +1077,7 @@ expeditive
 embase
 endothelial
 embeddable
+eyetooth
 epistolic
 echinology
 elective
@@ -8350,7 +8351,6 @@ entifical
 epithets
 enterocolostomy
 exuvial
-eyetooth
 enthrallments
 educative
 excitomotory
