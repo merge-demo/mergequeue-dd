@@ -5877,7 +5877,6 @@ euthyroid
 episcopalian
 excessman
 expend
-enhaemospore
 epiplastron
 emphases
 enhalo
@@ -7511,6 +7510,7 @@ electrosynthesis
 ethylate
 epibatholithic
 electrodepositor
+enhaemospore
 ensignhood
 estoil
 externate
