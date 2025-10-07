@@ -6477,7 +6477,6 @@ endometriosis
 embolismus
 eurypteroidea
 ensoul
-ensouled
 ecru
 evolutes
 ensphering
@@ -11287,6 +11286,7 @@ euphorbine
 elbowboard
 evaporating
 eviscerating
+ensouled
 endoarteritis
 excursing
 endue
