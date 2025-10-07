@@ -6818,6 +6818,7 @@ ceramics
 concaveness
 cellist
 cellite
+circumbendibus
 challenged
 currs
 continua
@@ -14202,7 +14203,6 @@ circumaxial
 consequentiality
 contratempo
 cymose
-circumbendibus
 circumboreal
 convolutionary
 cycases
