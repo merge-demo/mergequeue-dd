@@ -7866,7 +7866,6 @@ enablement
 eireannach
 extincts
 executioner
-epihyal
 exogonium
 entogastric
 egis
@@ -12030,6 +12029,7 @@ expense
 ervum
 excommunicative
 excommunicator
+epihyal
 expetible
 extrication
 excoriated
