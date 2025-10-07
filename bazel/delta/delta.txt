@@ -2925,7 +2925,6 @@ depositional
 discrown
 diaphanotype
 describers
-destinezite
 denticeti
 decemfid
 deductio
@@ -5101,6 +5100,7 @@ derailed
 donatary
 decalogist
 dessicate
+destinezite
 daimyos
 durante
 deadrise
