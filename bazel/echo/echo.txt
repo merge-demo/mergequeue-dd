@@ -7713,7 +7713,6 @@ epidemiography
 ejulation
 elytroplastic
 epeirogeny
-equilibration
 expendability
 extrapopular
 epidemiologic
@@ -11525,6 +11524,7 @@ eviting
 evangeline
 egbert
 emprize
+equilibration
 edital
 evocating
 enkerchief
