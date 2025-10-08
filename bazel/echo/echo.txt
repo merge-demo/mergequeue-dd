@@ -5774,7 +5774,6 @@ ephoi
 effluvia
 environing
 elephant
-electroencephalograms
 egyptologer
 elans
 embraces
@@ -12860,6 +12859,7 @@ erethisms
 exsert
 endamoeba
 expandedly
+electroencephalograms
 engrace
 endsheet
 excommunicating
