@@ -2297,6 +2297,7 @@ corpuscule
 canaliculate
 canaliculated
 capricorns
+califates
 confreres
 corector
 carbostyril
@@ -27781,7 +27782,6 @@ catacaustic
 crookneck
 coxcombic
 chondrus
-califates
 cenosite
 calkins
 cenobitical
