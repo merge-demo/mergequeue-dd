@@ -2121,7 +2121,6 @@ coalbin
 conterminate
 corduroy
 campho
-camphocarboxylic
 camphoid
 campholic
 campholide
@@ -27329,6 +27328,7 @@ catholics
 courager
 cherubs
 carlisle
+camphocarboxylic
 curacy
 chanfrons
 connexionalism
