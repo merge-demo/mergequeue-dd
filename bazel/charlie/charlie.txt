@@ -16534,7 +16534,6 @@ clodhead
 clodhopper
 coquillage
 convexedness
-clodhoppers
 camisas
 clodhopping
 canchi
@@ -18551,6 +18550,7 @@ cassate
 cessations
 cursor
 coheiress
+clodhoppers
 cannabine
 catchiest
 clericalize
