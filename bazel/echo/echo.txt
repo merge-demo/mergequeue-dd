@@ -4810,6 +4810,7 @@ excusation
 episiotomy
 echard
 embosks
+erased
 encores
 enemas
 excitive
@@ -10199,7 +10200,6 @@ ethicoaesthetic
 ethicopolitical
 emoter
 ethicoreligious
-erased
 elytriform
 etesian
 epanodos
