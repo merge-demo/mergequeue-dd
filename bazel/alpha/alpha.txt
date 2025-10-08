@@ -1417,6 +1417,7 @@ accidentalism
 accidented
 accidently
 absinthes
+adenose
 anhimidae
 aphyllose
 antiarrhythmic
@@ -5257,7 +5258,6 @@ anidiomatic
 apostatic
 affrontive
 assassinative
-adenose
 autostylic
 affronts
 affuse

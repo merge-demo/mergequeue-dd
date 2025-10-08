@@ -4249,6 +4249,7 @@ distaffs
 dropforge
 deprecatoriness
 deuteride
+dryfarmer
 damiana
 dermatopsy
 decoherer
@@ -15369,7 +15370,6 @@ descriptives
 diatomiferous
 dorididae
 dolomitization
-dryfarmer
 dumpty
 dolomitize
 dolores
