@@ -8800,7 +8800,6 @@ cirsium
 chapes
 clinicians
 chapiter
-chloranaemia
 chapitral
 chaplain
 concolour
@@ -25812,6 +25811,7 @@ catecholamine
 clawback
 countervote
 clyfaker
+chloranaemia
 corrupting
 chuser
 corruptingly
