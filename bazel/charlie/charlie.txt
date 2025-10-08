@@ -4247,6 +4247,7 @@ clobberer
 colleens
 centrosoyus
 caressers
+coverable
 caphtorim
 caressingly
 chainwork
@@ -27556,7 +27557,6 @@ cover
 containable
 cafeteria
 carsickness
-coverable
 cuselite
 curious
 coveralls
