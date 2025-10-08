@@ -9010,6 +9010,7 @@ accipitres
 applejack
 allwork
 arnut
+almoravides
 allworthy
 antdom
 anticaste
@@ -9817,7 +9818,6 @@ aplome
 archiannelida
 antizymotic
 aerially
-almoravides
 amazons
 asterisms
 amazulu
