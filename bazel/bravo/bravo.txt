@@ -10685,7 +10685,6 @@ bettering
 brachistocephali
 boney
 bathycolpian
-byssus
 beaverboard
 balls
 bluecap
@@ -17576,6 +17575,7 @@ baalisms
 brumes
 babby
 bunchflower
+byssus
 burgomasters
 bistorts
 balladwise
