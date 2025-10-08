@@ -505,7 +505,6 @@ biserial
 befit
 bretwalda
 besouth
-biniodide
 backstitches
 backtracked
 briming
@@ -3554,6 +3553,7 @@ bionomic
 bivalvous
 bathkol
 bipartite
+biniodide
 bathmat
 bathmats
 bygoing
