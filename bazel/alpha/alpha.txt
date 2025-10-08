@@ -6332,7 +6332,6 @@ antecardium
 allantiasis
 ahi
 azotometer
-attempter
 algaesthesis
 amebula
 anticryptically
@@ -22297,6 +22296,7 @@ astrophotographic
 astrophotometer
 autocratorical
 azotine
+attempter
 abstractly
 allegorised
 astroscopus
