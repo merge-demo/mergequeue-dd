@@ -5348,7 +5348,6 @@ creditabilities
 createdness
 criminol
 caseworker
-casteisms
 cornices
 casteless
 chifforobes
@@ -11227,6 +11226,7 @@ cinerea
 coercibility
 chloriamb
 chloriambus
+casteisms
 chlorid
 chicanos
 chloridate

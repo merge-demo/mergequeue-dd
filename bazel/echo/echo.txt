@@ -3167,7 +3167,6 @@ embosomed
 expounders
 emblemize
 eidetic
-endocone
 ejaculum
 extraserous
 entomophagous
@@ -11767,6 +11766,7 @@ exareolate
 extrospective
 exorcises
 epirot
+endocone
 elusion
 ensignship
 exasperate
