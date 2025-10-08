@@ -9743,7 +9743,6 @@ crankpins
 chamisal
 cleanness
 churchmanship
-cheiropod
 corynine
 cameriera
 cherry
@@ -15702,6 +15701,7 @@ coinfinity
 camwood
 clavelization
 counterdecision
+cheiropod
 cumulene
 clavelize
 cothurnian
