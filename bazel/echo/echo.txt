@@ -8929,7 +8929,6 @@ erses
 egestive
 essive
 estrepe
-enspheres
 epiphanies
 errhine
 eudaemonist
@@ -13051,6 +13050,7 @@ euge
 epipodia
 enterochirurgia
 expellees
+enspheres
 elaidic
 egueiite
 evaluations
