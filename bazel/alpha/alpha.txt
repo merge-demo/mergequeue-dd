@@ -555,6 +555,7 @@ arrowheads
 abnegators
 arytenoidal
 ampleness
+altamira
 adenoidectomies
 abnormalcies
 antiscians
@@ -9339,7 +9340,6 @@ adnex
 action
 astrologically
 amasty
-altamira
 altar
 altarage
 antiwedge
