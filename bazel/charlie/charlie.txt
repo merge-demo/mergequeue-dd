@@ -2574,7 +2574,6 @@ committeewoman
 chinol
 castellanship
 candlewaster
-cmdg
 cambial
 crocoisite
 convertor
@@ -4549,6 +4548,7 @@ carnificial
 carnifies
 colonel
 croisad
+cmdg
 cnidocell
 consummatory
 chukar
