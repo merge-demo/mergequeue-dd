@@ -10584,7 +10584,6 @@ diplomatist
 diphthongized
 discogastrula
 diplomatology
-deco
 diauli
 decompressing
 diplomats
@@ -18643,6 +18642,7 @@ disdains
 dystonias
 downtroddenness
 dutied
+deco
 denarii
 dissolutionist
 dorse
