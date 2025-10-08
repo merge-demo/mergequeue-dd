@@ -1583,7 +1583,6 @@ euphonetics
 enablers
 eyewitnesses
 egomania
-elodea
 egomaniacally
 egomism
 eumenorrhea
@@ -11759,6 +11758,7 @@ eremochaeta
 epigynous
 exorcista
 exaration
+elodea
 epithelioid
 extracorpuscular
 euripidean
