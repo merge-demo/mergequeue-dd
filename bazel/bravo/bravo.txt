@@ -7820,6 +7820,7 @@ bipyridine
 biblioklept
 buphthalmic
 benedicts
+brandisher
 brislings
 beauclerc
 bifold
@@ -9658,7 +9659,6 @@ brichette
 beefheaded
 bioflavonoid
 biophysiography
-brandisher
 breakages
 bigwiggism
 bankbook
