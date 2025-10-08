@@ -2908,6 +2908,7 @@ elfwort
 erigenia
 elian
 exacinate
+eriophyid
 equicostate
 elias
 epitomiser
@@ -12737,7 +12738,6 @@ emulatively
 ethers
 emmenagogic
 equivoque
-eriophyid
 euchologies
 enfetters
 emarginula
