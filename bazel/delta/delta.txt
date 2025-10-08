@@ -1827,6 +1827,7 @@ demology
 dextrotartaric
 deas
 deassimilation
+dunned
 diapensiaceous
 deme
 discovered
@@ -9005,7 +9006,6 @@ doorward
 distortionless
 daler
 dinucleotide
-dunned
 doublehanded
 domineerer
 dezinc
