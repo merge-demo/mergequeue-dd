@@ -4815,7 +4815,6 @@ excitive
 engrail
 encoronal
 equivocality
-encountered
 etiquettical
 encounterer
 epigenesist
@@ -12763,6 +12762,7 @@ enmask
 exorcizer
 epiceratodus
 exordium
+encountered
 engold
 earlike
 elsewise
