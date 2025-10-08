@@ -8224,7 +8224,6 @@ bourtree
 bawley
 bywork
 battological
-barbicels
 bewake
 benzophosphinic
 balanophorin
@@ -17509,6 +17508,7 @@ burgall
 biddance
 burgamot
 burglarize
+barbicels
 burganet
 balante
 blayne
