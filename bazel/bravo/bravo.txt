@@ -9419,7 +9419,6 @@ bagrationite
 birn
 byrnie
 biotope
-battlefront
 bisulphide
 brittling
 betusked
@@ -13873,6 +13872,7 @@ baccalaurean
 bowshot
 bulbaceous
 beaucoup
+battlefront
 bombarder
 bloops
 backstopped
