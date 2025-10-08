@@ -13237,7 +13237,6 @@ complexation
 crucialness
 cyclically
 cecrops
-comprehensiveness
 cyclide
 cubeb
 calomel
@@ -27661,6 +27660,7 @@ congener
 codhead
 cowed
 cowered
+comprehensiveness
 cowerers
 camerlingo
 coweringly

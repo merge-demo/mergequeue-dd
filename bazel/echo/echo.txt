@@ -8849,6 +8849,7 @@ ecuelling
 epitheloid
 encurl
 enkernel
+eyeful
 electro
 eleometer
 ecospecifically
@@ -10878,7 +10879,6 @@ eyebeam
 enneapetalous
 euxine
 eyewashes
-eyeful
 edea
 empair
 esclandre
