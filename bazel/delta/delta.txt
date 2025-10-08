@@ -6298,6 +6298,7 @@ dermatoplastic
 despin
 delectible
 dodecylic
+domification
 dermatorrhagia
 diolefine
 disinflame
@@ -15451,7 +15452,6 @@ deciceronize
 detectivism
 degradation
 decubital
-domification
 distoma
 dissemblance
 decempedate
