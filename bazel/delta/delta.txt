@@ -1890,6 +1890,7 @@ decretal
 dodonaea
 dispunge
 denominationalize
+digressions
 dissimulation
 dalespeople
 disaltern
@@ -18293,7 +18294,6 @@ demodulated
 degasser
 dialyzability
 delicts
-digressions
 degenerates
 desultorily
 draftproof
