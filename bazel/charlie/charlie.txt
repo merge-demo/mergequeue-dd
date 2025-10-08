@@ -13537,7 +13537,6 @@ cillosis
 conundrum
 compliance
 chg
-civilized
 contours
 cyma
 companionable
@@ -17994,6 +17993,7 @@ coelacanthous
 coelar
 coelastraceous
 canonics
+civilized
 centroplasm
 crows
 coelata
