@@ -1924,7 +1924,6 @@ eyeleted
 enabled
 echinulate
 estoppal
-eurypterid
 elaphe
 essenical
 ejected
@@ -9860,6 +9859,7 @@ ecbatic
 entophyte
 epoophoron
 esthesiogeny
+eurypterid
 enragedly
 exuberation
 eucalyptian
