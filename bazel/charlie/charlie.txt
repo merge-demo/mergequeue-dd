@@ -8531,6 +8531,7 @@ chamsin
 cineplastics
 cataclysmatic
 curatage
+consciences
 corslet
 chanca
 convertite
@@ -22821,7 +22822,6 @@ canoeiro
 condivision
 cydippid
 consciencelessly
-consciences
 cooperatingly
 cirrous
 consciencewise
