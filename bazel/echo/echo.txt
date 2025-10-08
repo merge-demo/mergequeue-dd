@@ -5458,6 +5458,7 @@ energical
 energid
 entablatured
 epitendineum
+epirogeny
 ensuing
 endoplasmic
 extramundane
@@ -7733,7 +7734,6 @@ epipleurae
 ephapse
 everyness
 erythraea
-epirogeny
 epidermic
 epidermical
 epidermically
