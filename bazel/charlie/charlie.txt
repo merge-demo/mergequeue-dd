@@ -5755,6 +5755,7 @@ catechization
 catechizer
 choco
 cojoin
+chanceful
 catechizes
 coeldership
 corporalcy
@@ -8548,7 +8549,6 @@ categorical
 cuculoid
 canine
 corncockle
-chanceful
 chancefulness
 chanceled
 cardiacea
