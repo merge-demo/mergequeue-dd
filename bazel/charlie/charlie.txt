@@ -15765,6 +15765,7 @@ clawker
 clawless
 claws
 crossweed
+collocating
 corin
 cleam
 chamicuro
@@ -19211,7 +19212,6 @@ crystallographer
 comparatival
 convenable
 cauked
-collocating
 carambola
 circumplect
 calfskins
