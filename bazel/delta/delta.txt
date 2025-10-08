@@ -2457,7 +2457,6 @@ demoid
 decimolar
 drainpipe
 dangling
-defectlessness
 disimprisonment
 dietetist
 dolently
@@ -13399,6 +13398,7 @@ disregard
 dought
 drawglove
 defenceless
+defectlessness
 disregarded
 drumskin
 disregardfulness
