@@ -4234,7 +4234,6 @@ cumulates
 cashel
 cursillo
 circulated
-careless
 chiffoniers
 carelessly
 carelessness
@@ -19643,6 +19642,7 @@ crocodiles
 colstaff
 cholic
 cnidogenous
+careless
 congresswoman
 colters
 chasid
