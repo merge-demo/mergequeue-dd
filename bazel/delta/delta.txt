@@ -1765,7 +1765,6 @@ deathtime
 diverticular
 digamous
 diphyllobothrium
-droner
 dognap
 deathtrap
 devocalization
@@ -6709,6 +6708,7 @@ desexualized
 deludes
 damageableness
 deshabille
+droner
 dillydallier
 decharm
 dinitrophenol
