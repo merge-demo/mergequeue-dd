@@ -1819,6 +1819,7 @@ camasses
 channelly
 counterproposition
 cadjan
+cystidean
 cheerers
 cauliculus
 chundari
@@ -9329,7 +9330,6 @@ carcoon
 calciphilic
 cerris
 contraster
-cystidean
 compendency
 custos
 catagmatic
