@@ -132,6 +132,7 @@ acronychally
 abated
 apocrustic
 alanyl
+astrut
 amusedly
 abating
 atloid
@@ -22304,7 +22305,6 @@ astrospectral
 acrasiaceae
 astrotheology
 anisostemonous
-astrut
 anticensorship
 acousticolateral
 asturian
