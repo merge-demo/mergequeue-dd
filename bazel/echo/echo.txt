@@ -6597,6 +6597,7 @@ esperantidist
 embryous
 enseam
 expulsatory
+espousement
 enterocoela
 eructed
 echinochrome
@@ -9679,7 +9680,6 @@ electrophysiologist
 ectocarpaceae
 evaginate
 extrapulmonary
-espousement
 essenwood
 elms
 ectoblast
