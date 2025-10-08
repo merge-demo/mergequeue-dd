@@ -12068,7 +12068,6 @@ enfolder
 excrescency
 excrescent
 eccentric
-eris
 enfoldment
 entailable
 excuseless
@@ -12830,6 +12829,7 @@ exothermal
 exothermically
 eloignment
 erythrolysis
+eris
 exciter
 ern
 ecphorization
