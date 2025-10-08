@@ -1606,6 +1606,7 @@ dorine
 deadness
 deadnesses
 dairyman
+disraeli
 debused
 diedric
 deadpanned
@@ -14423,7 +14424,6 @@ disdiazo
 dimethylamine
 dioptrometer
 dasyphyllous
-disraeli
 defunctionalization
 disdeify
 dika
