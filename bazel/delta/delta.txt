@@ -6347,6 +6347,7 @@ delacrimation
 dermestid
 decoupage
 dextrogyration
+demikindred
 deject
 defensorship
 dermestidae
@@ -6740,7 +6741,6 @@ distributor
 deadhead
 desiderata
 dahabiyas
-demikindred
 diacoustics
 denitrificant
 deathroot
