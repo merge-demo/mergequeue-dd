@@ -9780,7 +9780,6 @@ equalisation
 extrapolar
 ejectamenta
 envermeil
-extracellular
 essoinment
 essorant
 endarterial
@@ -11596,6 +11595,7 @@ eucalypt
 envenomous
 everywhereness
 expatiation
+extracellular
 emergent
 encephalitis
 ewte
