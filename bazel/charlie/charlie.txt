@@ -8459,6 +8459,7 @@ choribi
 cuttable
 cubicle
 coinheritor
+counterefficiency
 cumbers
 chamoisite
 campilan
@@ -26785,7 +26786,6 @@ countered
 cyanoacrylate
 cassowary
 cypselomorph
-counterefficiency
 countereffort
 cottiest
 counterembattled
