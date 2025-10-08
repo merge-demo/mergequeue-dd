@@ -8515,7 +8515,6 @@ docents
 dianoia
 diurne
 dwarflike
-depigmentate
 doings
 dispensableness
 desilvering
@@ -9325,6 +9324,7 @@ dread
 divekeeper
 dactylography
 diffame
+depigmentate
 desalted
 dipso
 depolarised
