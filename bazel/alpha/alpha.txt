@@ -13344,7 +13344,6 @@ altimetry
 autocremation
 actinostereoscopy
 annihilative
-arabic
 attice
 ampoule
 archartist
@@ -18044,6 +18043,7 @@ automorphism
 aerodonetics
 accelerando
 aquarter
+arabic
 anacusia
 adequately
 adelomorphous
