@@ -11253,6 +11253,7 @@ chlorination
 copsole
 chlorinator
 chicote
+coolwort
 counterion
 cotch
 chlorite
@@ -24423,7 +24424,6 @@ condyloma
 cytochemical
 coolweed
 ceryl
-coolwort
 carnary
 canella
 coombes
