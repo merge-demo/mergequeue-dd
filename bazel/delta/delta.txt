@@ -6024,7 +6024,6 @@ diwata
 disregardance
 depsides
 discommoded
-dept
 diaschistic
 dearies
 disgustedness
@@ -13618,6 +13617,7 @@ dissymmetric
 degender
 dampy
 dynamis
+dept
 disturbances
 dissymmetrically
 discoursive
