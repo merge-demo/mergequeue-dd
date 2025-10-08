@@ -3305,7 +3305,6 @@ discommend
 drumslade
 dreng
 diversifolious
-despotat
 deuteronomical
 deflations
 disconfirmed
@@ -15350,6 +15349,7 @@ divert
 decelerate
 dejecture
 dioptometry
+despotat
 didelphyidae
 dolmans
 diluviums
