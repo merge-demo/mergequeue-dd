@@ -1430,7 +1430,6 @@ calisayas
 calistheneum
 curupay
 calisthenics
-condurango
 calite
 cyclohexatriene
 calyx
@@ -10133,6 +10132,7 @@ chlorohydrin
 counternoise
 consanguinities
 chetvert
+condurango
 collaud
 centrifugalise
 cyrtosis
