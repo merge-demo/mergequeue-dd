@@ -3634,7 +3634,6 @@ bepierce
 bronchotetany
 batrachian
 bifrontal
-beady
 bovines
 bailiffwick
 booboo
@@ -13929,6 +13928,7 @@ belute
 brooders
 boxtop
 befalling
+beady
 benchboard
 blackback
 benzotoluide
