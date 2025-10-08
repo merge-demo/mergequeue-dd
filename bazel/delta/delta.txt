@@ -7322,6 +7322,7 @@ dendrochronology
 draggled
 deuce
 daftar
+dynamize
 data
 dear
 durham
@@ -15467,7 +15468,6 @@ dossing
 disseminate
 dendrochronological
 detribalize
-dynamize
 dominae
 divinityship
 delineament
