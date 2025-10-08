@@ -11090,6 +11090,7 @@ defalcates
 drakonite
 derringer
 disillusioned
+deprivative
 doppelkummel
 displuming
 denouements
@@ -15281,7 +15282,6 @@ diurna
 dinosauric
 delsartian
 dolerophanite
-deprivative
 disproperty
 dado
 drainspout
