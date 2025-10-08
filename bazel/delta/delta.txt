@@ -7406,7 +7406,6 @@ duogravure
 dropkicker
 deterrent
 dodunk
-detersiveness
 disunions
 driftpins
 dibase
@@ -7439,6 +7438,7 @@ detonation
 digest
 disowned
 dissilition
+detersiveness
 detonations
 dusking
 detonative
