@@ -6661,7 +6661,6 @@ celestine
 ceilers
 carsick
 condole
-ceilidh
 connexivum
 ceiling
 ceilings
@@ -10889,6 +10888,7 @@ chypre
 chipwood
 chiquito
 chiral
+ceilidh
 clerids
 creeper
 cardstock
