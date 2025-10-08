@@ -9261,6 +9261,7 @@ chatoyant
 carpophyll
 curved
 convincedly
+chaenomeles
 cuckoomaiden
 compel
 chatsome
@@ -13214,7 +13215,6 @@ cyclanthus
 cyclases
 circlets
 capot
-chaenomeles
 cyclecar
 coralbells
 cyclecars
