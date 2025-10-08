@@ -4449,7 +4449,6 @@ duplexity
 dizening
 drawk
 demeanor
-doit
 disallowableness
 disembark
 demeanored
@@ -12353,6 +12352,7 @@ differentiates
 declare
 dendrium
 duplexer
+doit
 drias
 disharmonised
 dissecting
