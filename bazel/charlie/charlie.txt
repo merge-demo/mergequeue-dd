@@ -56,6 +56,7 @@ congest
 critiquing
 confessing
 convulses
+cornamute
 commandments
 chondrocarcinoma
 corrosion
@@ -2160,7 +2161,6 @@ calcaneus
 campimetry
 cordyline
 conchol
-cornamute
 campo
 creedbound
 campody
