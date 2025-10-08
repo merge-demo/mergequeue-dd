@@ -1405,6 +1405,7 @@ belittles
 ballparks
 beamster
 baldmoney
+boaster
 bryogenin
 baldpatedness
 butterhead
@@ -11613,7 +11614,6 @@ brunches
 blacks
 bumbledom
 boas
-boaster
 boastfulness
 beshell
 bryologist
