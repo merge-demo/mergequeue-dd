@@ -5583,7 +5583,6 @@ elysium
 esophoria
 enforceable
 ectocarpous
-escoba
 encitadel
 ecologists
 enlisters
@@ -9506,6 +9505,7 @@ excitoglandular
 esculents
 esculin
 expansively
+escoba
 essences
 evangelistically
 evenhead

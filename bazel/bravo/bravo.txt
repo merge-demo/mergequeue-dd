@@ -6285,6 +6285,7 @@ baft
 bardo
 booleys
 bequeath
+brontides
 burdener
 bibasic
 benzofuran
@@ -15922,7 +15923,6 @@ bronk
 bromocyanogen
 botched
 burgullian
-brontides
 bremia
 backsplicing
 bestay
