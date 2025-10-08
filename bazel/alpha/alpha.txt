@@ -4530,7 +4530,6 @@ anis
 agitates
 aefald
 antrostomus
-arthriticine
 aegagropila
 ataxias
 accessorize
@@ -6547,6 +6546,7 @@ aims
 aimworthiness
 andropogon
 ain
+arthriticine
 aribin
 anthocyanin
 anticeremonialist
