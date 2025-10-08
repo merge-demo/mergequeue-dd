@@ -1976,6 +1976,7 @@ depressant
 deckload
 debunkers
 drawbench
+diaphragms
 debunks
 dribblement
 disedify
@@ -13916,7 +13917,6 @@ dourade
 diagenesis
 doggones
 dunking
-diaphragms
 discontent
 discohexaster
 doryphorus
