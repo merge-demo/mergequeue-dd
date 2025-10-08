@@ -4599,7 +4599,6 @@ bradded
 bediamonded
 bozze
 blindcat
-bonbonniere
 blastoid
 banish
 bediapering
@@ -17173,6 +17172,7 @@ bepastured
 brite
 bandages
 breakover
+bonbonniere
 blankets
 bumfuzzle
 baubles
