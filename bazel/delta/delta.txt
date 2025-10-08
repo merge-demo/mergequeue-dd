@@ -1766,6 +1766,7 @@ digamous
 diphyllobothrium
 dognap
 deathtrap
+dopplerite
 devocalization
 drof
 deathward
@@ -9378,7 +9379,6 @@ dockages
 demonstrance
 debateable
 dottels
-dopplerite
 dautie
 devotionalism
 dulosis
