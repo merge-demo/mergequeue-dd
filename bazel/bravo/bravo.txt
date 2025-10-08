@@ -9129,7 +9129,6 @@ blackboard
 bushelmen
 bobbinwork
 barato
-bipartisanship
 bipartitely
 buffer
 bismuthide
@@ -11665,6 +11664,7 @@ bloomer
 branchiostoma
 beknow
 bilsted
+bipartisanship
 blindfast
 boatward
 begirdle
