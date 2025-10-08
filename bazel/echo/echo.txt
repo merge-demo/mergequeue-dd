@@ -3565,7 +3565,6 @@ enchantery
 earthquakes
 emanent
 extracellularly
-emydes
 empyrosis
 exhibitable
 euclea
@@ -6401,6 +6400,7 @@ ensiling
 ensilist
 exceptions
 ensilver
+emydes
 existentially
 ensisternum
 equilibrating
