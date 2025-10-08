@@ -765,7 +765,6 @@ echinal
 euomphalid
 egger
 ecrase
-enclitic
 escort
 extense
 eremophilous
@@ -925,6 +924,7 @@ encapsulating
 escalation
 electrotonic
 emplaces
+enclitic
 exculpatory
 extravagated
 exarillate
