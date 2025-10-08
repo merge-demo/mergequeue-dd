@@ -5008,7 +5008,6 @@ demorphism
 decate
 dinghy
 demospongiae
-desmotropy
 demosthenean
 deckels
 demote
@@ -11631,6 +11630,7 @@ daunts
 disburgeon
 divell
 dismemberer
+desmotropy
 discordable
 diametrally
 dayberry
