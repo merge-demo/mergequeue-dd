@@ -1290,7 +1290,6 @@ escuages
 explicatively
 ericophyte
 efface
-equalized
 effacers
 exhilarated
 effect
@@ -10196,6 +10195,7 @@ erroneous
 erotica
 emptores
 ethicoaesthetic
+equalized
 ethicopolitical
 emoter
 ethicoreligious
