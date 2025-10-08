@@ -8422,6 +8422,7 @@ blearyeyedness
 bravery
 bellehood
 brasslike
+bamboozling
 bildar
 bencite
 bilder
@@ -9606,7 +9607,6 @@ bourette
 bismite
 bismuth
 broomsticks
-bamboozling
 bromids
 burhinus
 bedrolls
