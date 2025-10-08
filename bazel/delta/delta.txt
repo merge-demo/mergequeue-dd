@@ -5660,7 +5660,6 @@ depigmentation
 depigmentize
 dissidence
 devilized
-deflagrator
 dynamite
 dispersiveness
 deathiness
@@ -10828,6 +10827,7 @@ digit
 dynameter
 dimerized
 depthen
+deflagrator
 demultiplexers
 dirgelike
 diamonded
