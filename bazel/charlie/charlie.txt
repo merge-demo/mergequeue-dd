@@ -9971,7 +9971,6 @@ cambists
 crescographic
 caseconv
 chaoses
-chenet
 chirotony
 calangay
 climactically
@@ -17192,6 +17191,7 @@ changement
 coadventuring
 coadvice
 coafforest
+chenet
 coaged
 cablemen
 counterdemonstration
