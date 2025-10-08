@@ -5397,7 +5397,6 @@ extrabulbar
 ecderonic
 endseal
 endshake
-elfishly
 egretta
 easterly
 enfirm
@@ -9173,6 +9172,7 @@ enginelike
 everts
 exhorted
 eusuchia
+elfishly
 erythrulose
 esoneural
 erotema
