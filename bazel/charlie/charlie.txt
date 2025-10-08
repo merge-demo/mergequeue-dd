@@ -3995,6 +3995,7 @@ carcinomorphic
 cholericness
 carcinophagous
 carcinopolypus
+crimsony
 carcinosarcoma
 coloreds
 chloralide
@@ -21731,7 +21732,6 @@ circumspectly
 condylectomy
 ceromancy
 chora
-crimsony
 condylion
 cariacus
 condylomatous
