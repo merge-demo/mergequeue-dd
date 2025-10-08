@@ -7606,6 +7606,7 @@ deuterosy
 degage
 deoxidised
 deuterostoma
+dorsothoracic
 ducktail
 discs
 deuterotype
@@ -12836,7 +12837,6 @@ dismissal
 dismissals
 distemperate
 depredated
-dorsothoracic
 dispergating
 dogman
 dismissory
