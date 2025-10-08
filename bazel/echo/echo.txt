@@ -2463,7 +2463,6 @@ enstatite
 electrogasdynamics
 electroharmonic
 empanelment
-electrohemostasis
 endearing
 ebony
 epicleses
@@ -11338,6 +11337,7 @@ eveline
 even
 entortill
 epitrochlear
+electrohemostasis
 equiparate
 evenfall
 ennerve
