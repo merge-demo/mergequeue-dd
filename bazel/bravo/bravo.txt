@@ -10031,6 +10031,7 @@ brotulidae
 bizz
 bluecoats
 bielenite
+behaviour
 bellyache
 bjorne
 bestamp
@@ -14051,7 +14052,6 @@ brachyhieric
 berlinite
 beatille
 burkites
-behaviour
 backhooker
 bingeys
 beatae
