@@ -3129,6 +3129,7 @@ engrossing
 eloiner
 eloiners
 essentiate
+epibranchial
 eburated
 eskimoes
 euryphage
@@ -9049,7 +9050,6 @@ episcenium
 empyreans
 eperotesis
 exporters
-epibranchial
 ectocyst
 erythrocytoblast
 explanate
