@@ -10176,6 +10176,7 @@ bibulous
 bracers
 besague
 britany
+bellwaver
 blackjacking
 bureaux
 bootstraps
@@ -12310,7 +12311,6 @@ bluefins
 bonifaces
 broadcloth
 bombillas
-bellwaver
 bacchantic
 blan
 beefsteaks
