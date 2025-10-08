@@ -16122,6 +16122,7 @@ antitabetic
 antitabloid
 antitank
 angiostrophy
+antidicomarian
 autodyne
 aeroview
 autocorrelation
@@ -18907,7 +18908,6 @@ aussies
 actiniform
 archmocker
 anastomosed
-antidicomarian
 algol
 antewar
 aluminoferric
