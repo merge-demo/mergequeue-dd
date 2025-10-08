@@ -3086,7 +3086,6 @@ elm
 embarrassment
 educing
 elmiest
-expiscatory
 epistolographist
 engrossers
 eastermost
@@ -10264,6 +10263,7 @@ eulogium
 excipulum
 experimentize
 electronography
+expiscatory
 erump
 ethmyphitis
 exomorphic
