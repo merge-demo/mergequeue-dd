@@ -10427,7 +10427,6 @@ dosimeters
 damask
 discolith
 devinct
-dow
 demency
 disobliging
 douzainier
@@ -15673,6 +15672,7 @@ dapson
 dismissed
 defaulters
 domina
+dow
 dartoic
 decoders
 danaite
