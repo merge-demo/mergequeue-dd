@@ -5115,6 +5115,7 @@ endocrines
 endocrinic
 existentialistic
 enterocoel
+extraconscious
 emergencies
 entogenous
 ecdysones
@@ -13667,7 +13668,6 @@ ergotoxin
 eurygnathic
 exterminatrix
 externa
-extraconscious
 edaphosauria
 externalise
 escarp
