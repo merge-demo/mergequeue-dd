@@ -15270,6 +15270,7 @@ diurna
 dinosauric
 delsartian
 dolerophanite
+deprivative
 disproperty
 dado
 drainspout
@@ -16092,7 +16093,6 @@ dodecane
 dockers
 diacoelosis
 drawls
-deprivative
 doublette
 driftman
 dinophyceae
