@@ -11433,6 +11433,7 @@ bluetongue
 byth
 bedmates
 bluetop
+bosjesman
 banty
 bubale
 berths
@@ -13198,7 +13199,6 @@ boshbok
 boshes
 biodynamics
 brevirostrines
-bosjesman
 boustrophedonic
 balneology
 backfire
