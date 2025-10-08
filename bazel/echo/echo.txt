@@ -3418,7 +3418,6 @@ enteropneustan
 embed
 embelic
 expenditures
-electrosynthetic
 epizoites
 equaled
 evacuate
@@ -7259,6 +7258,7 @@ eolopiles
 enraptures
 emulsification
 exsector
+electrosynthetic
 echoless
 electrocatalytic
 epidemiology
