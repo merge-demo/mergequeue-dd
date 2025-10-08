@@ -11827,7 +11827,6 @@ bodybuilder
 bard
 briareus
 brassic
-basiradial
 browbeater
 baileys
 bootlegging
@@ -12397,6 +12396,7 @@ berberins
 backbitten
 bondage
 blepharohematidrosis
+basiradial
 bastardly
 bloodline
 bankera
