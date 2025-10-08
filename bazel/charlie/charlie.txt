@@ -10352,7 +10352,6 @@ carbohydrogen
 caulerpaceous
 chickenheartedness
 chickening
-collielike
 colchicia
 chickenwort
 chicker
@@ -16303,6 +16302,7 @@ carvol
 corkish
 clinopinacoid
 circovarian
+collielike
 cephalin
 chayaroot
 convector
