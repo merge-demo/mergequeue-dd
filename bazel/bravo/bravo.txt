@@ -8525,7 +8525,6 @@ billeted
 beating
 billeter
 bilabe
-boweries
 bankrider
 bastinading
 billety
@@ -16693,6 +16692,7 @@ balanoposthitis
 bramantip
 baudronses
 budgeter
+boweries
 bioassayed
 budgies
 bellerophontidae
