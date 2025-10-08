@@ -4492,7 +4492,6 @@ adwesch
 aeacides
 aechmophorus
 athenian
-atlantodidymus
 aecidial
 aciculas
 aecidiostage
@@ -23680,6 +23679,7 @@ assuredness
 antihistamine
 ampliation
 austrium
+atlantodidymus
 antipedobaptism
 ambash
 appetit
