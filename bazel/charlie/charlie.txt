@@ -5617,6 +5617,7 @@ cataphract
 cosmetology
 centenarian
 cataphracted
+cornfloor
 cataphractic
 chechia
 crook
@@ -15361,7 +15362,6 @@ choledocholithotomy
 categorising
 clanking
 chlorimetry
-cornfloor
 clankless
 chaldaic
 cuyas
