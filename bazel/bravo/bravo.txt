@@ -9793,7 +9793,6 @@ brail
 basilar
 bisegment
 blackfellow
-bullnecked
 baccated
 bromals
 bityite
@@ -12125,6 +12124,7 @@ bureaucracies
 biclinium
 bowdlerism
 blaff
+bullnecked
 beaumontia
 broses
 borofluoride
