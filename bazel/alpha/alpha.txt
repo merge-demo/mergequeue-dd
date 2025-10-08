@@ -5674,7 +5674,6 @@ age
 ageable
 agallop
 agedness
-archiannelida
 antiturnpikeism
 arithmetical
 atteal
@@ -9809,6 +9808,7 @@ accented
 antihelixes
 amazilia
 aplome
+archiannelida
 antizymotic
 aerially
 almoravides
