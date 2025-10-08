@@ -1749,6 +1749,7 @@ boarish
 balthasar
 barramundas
 baltheus
+bogieman
 belgas
 baltimore
 bumblebeefishes
@@ -4853,7 +4854,6 @@ boose
 bequest
 beefiest
 bissabol
-bogieman
 benedictions
 beefsteak
 barberish
