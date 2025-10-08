@@ -6646,6 +6646,7 @@ corticiform
 cloisterless
 cherte
 cedrus
+catathymic
 cathedrallike
 crioceris
 cedula
@@ -28619,7 +28620,6 @@ coredeemed
 chorist
 coronule
 crembalum
-catathymic
 cremone
 chromophilia
 counterpendent
