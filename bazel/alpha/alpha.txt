@@ -15547,7 +15547,6 @@ armoury
 antiskepticism
 antipacifistic
 angriest
-antipacifists
 archonships
 antipapism
 antigun
@@ -23675,6 +23674,7 @@ anticonstitutional
 ajimez
 assuredness
 ampliation
+antipacifists
 austrium
 atlantodidymus
 antipedobaptism
