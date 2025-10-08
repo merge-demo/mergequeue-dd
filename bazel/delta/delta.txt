@@ -5405,6 +5405,7 @@ doradilla
 diaphone
 decontrol
 disordained
+defraying
 deprogramming
 deltidial
 dung
@@ -16161,7 +16162,6 @@ domesticity
 ditherer
 disaccharides
 ducamara
-defraying
 drily
 doughtier
 dionysian
