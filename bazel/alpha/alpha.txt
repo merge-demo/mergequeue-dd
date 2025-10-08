@@ -5220,7 +5220,6 @@ afford
 alkines
 argoletier
 afforested
-afforesting
 anticogitative
 affraying
 allegation
@@ -19499,6 +19498,7 @@ arybballi
 argol
 aricin
 archichlamydeous
+afforesting
 arided
 astringing
 alleviated
