@@ -8234,7 +8234,6 @@ epistena
 electrodiplomatic
 episternal
 entoloma
-emaceration
 ecclesiologic
 ethoxide
 erucic
@@ -9747,6 +9746,7 @@ eddo
 emerick
 ectogenesis
 enrobing
+emaceration
 eucharist
 exfoliatory
 erythronium
