@@ -13531,7 +13531,6 @@ exsectile
 experimentor
 exuviae
 emmarbling
-erato
 epexegetic
 engl
 esociform
@@ -13716,6 +13715,7 @@ esteemed
 elfhood
 euphemised
 emblazoning
+erato
 extersive
 exerting
 epitrochoidal
