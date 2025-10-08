@@ -1360,6 +1360,7 @@ exemplupla
 eucalyptol
 echelon
 examinative
+extima
 efficacy
 envying
 efficacies
@@ -9701,7 +9702,6 @@ esquisse
 exship
 eversible
 etrogim
-extima
 easing
 eventuated
 entoptoscopic
