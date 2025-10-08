@@ -1815,6 +1815,7 @@ debarment
 dysaesthesia
 debarrance
 dessil
+depict
 duryl
 debarring
 droppers
@@ -17527,7 +17528,6 @@ drubly
 disheartened
 drudged
 didepsid
-depict
 dwarf
 drudgers
 drudges
