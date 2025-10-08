@@ -1414,6 +1414,7 @@ donationes
 daviesite
 derogating
 deleted
+depr
 dismain
 disparting
 doketism
@@ -5068,7 +5069,6 @@ dramaturgical
 dogmatically
 denaro
 dejectedness
-depr
 denasalize
 digital
 disconsolateness
