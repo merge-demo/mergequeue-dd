@@ -3340,6 +3340,7 @@ epanthous
 embays
 ethylenediamine
 extranormal
+emoted
 emballonuridae
 eulachons
 essentialities
@@ -11724,7 +11725,6 @@ eveque
 episcopise
 easier
 examinee
-emoted
 epithelization
 edgerman
 ephraim
