@@ -8363,7 +8363,6 @@ alkalurops
 abrader
 aliquant
 arguer
-alkanes
 allomorphism
 alkanet
 allicholly
@@ -9702,6 +9701,7 @@ aptal
 amarantaceous
 attercrop
 aguilawood
+alkanes
 antwise
 acquiescently
 amaranth
