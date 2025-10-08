@@ -6926,7 +6926,6 @@ eudora
 enzone
 esau
 entoprocta
-entoptic
 entoptical
 entoptically
 entoptics
@@ -10804,6 +10803,7 @@ eurodollar
 eleanor
 expurgatory
 estivates
+entoptic
 euphemizer
 emanation
 ethicalism
