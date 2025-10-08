@@ -12494,6 +12494,7 @@ disinfectants
 dreg
 denaturizer
 doubtlessly
+departmentization
 dols
 decerns
 dendron
@@ -14572,7 +14573,6 @@ dihedrals
 disoxygenate
 disseverment
 dryfarm
-departmentization
 deeming
 darkle
 diatomine
