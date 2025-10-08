@@ -15202,7 +15202,6 @@ clayiness
 claimant
 cimbalom
 caplock
-claimants
 congeals
 chartulae
 claimer
@@ -21095,6 +21094,7 @@ crassilingual
 compunction
 curvedness
 cretonnes
+claimants
 catenaries
 consolidate
 compunctionless
