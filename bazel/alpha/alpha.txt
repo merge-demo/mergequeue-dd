@@ -2887,6 +2887,7 @@ actinium
 anopias
 actiniums
 austerest
+antimycotic
 alisma
 actinobaccilli
 acclamations
@@ -15344,7 +15345,6 @@ alone
 antimetropia
 assythment
 ambiance
-antimycotic
 alphatoluic
 antimilitary
 amoralism
