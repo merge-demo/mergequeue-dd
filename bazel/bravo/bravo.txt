@@ -5390,6 +5390,7 @@ brubru
 bandying
 bandura
 bandolier
+beavers
 befriending
 basebred
 beheader
@@ -15445,7 +15446,6 @@ brique
 brisances
 barometer
 benefactive
-beavers
 brewsterite
 barbacan
 brises
