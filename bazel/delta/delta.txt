@@ -5723,7 +5723,6 @@ danton
 depletive
 denutrition
 deke
-devolutionist
 desulphurate
 debitor
 demonised
@@ -10277,6 +10276,7 @@ delta
 dioeciously
 dionysia
 dionysiac
+devolutionist
 dionysus
 dirigibles
 disprince
