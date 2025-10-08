@@ -7042,6 +7042,7 @@ exchequers
 exocoetus
 eyeglass
 elastomer
+erector
 emication
 eglatere
 entune
@@ -11218,7 +11219,6 @@ evangelic
 evangelical
 endoplastron
 evangelically
-erector
 eviler
 ethmosphenoidal
 endocrinologic
