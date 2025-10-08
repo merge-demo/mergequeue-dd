@@ -580,7 +580,6 @@ belleric
 brutishly
 bye
 blessers
-birdie
 bibliolatry
 bowfins
 blanketed
@@ -13358,6 +13357,7 @@ bellicosity
 briefcase
 branchiura
 bitangential
+birdie
 bunder
 bothnian
 blunthearted
