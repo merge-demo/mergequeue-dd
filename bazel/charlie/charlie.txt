@@ -6490,6 +6490,7 @@ cuecas
 centralize
 cholecystostomies
 cavillous
+conjectured
 cavils
 cyaathia
 cavina
@@ -20347,7 +20348,6 @@ commotions
 craziness
 commove
 commoved
-conjectured
 cephalometry
 commoving
 caranda
