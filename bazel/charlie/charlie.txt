@@ -1194,6 +1194,7 @@ caledonite
 catalina
 clape
 commissarial
+chamfer
 calef
 calefacient
 caudad
@@ -8431,7 +8432,6 @@ cantilena
 cckw
 cultrirostral
 chrysis
-chamfer
 cabirean
 chamfers
 chamfrain
