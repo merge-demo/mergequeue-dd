@@ -291,7 +291,6 @@ dioti
 druggery
 digitonin
 dodecatemory
-dreadnaught
 dulias
 durn
 decolourised
@@ -7662,6 +7661,7 @@ darwinistic
 dole
 diplopias
 dequeuing
+dreadnaught
 devadasi
 devaloka
 drenched
