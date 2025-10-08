@@ -1664,6 +1664,7 @@ daydrudge
 disassembler
 darting
 divestment
+demineralizes
 deallocate
 devotional
 discretive
@@ -4649,7 +4650,6 @@ dovetail
 daynet
 dermatosclerosis
 demineralized
-demineralizes
 debasement
 demineralizing
 demiofficial
