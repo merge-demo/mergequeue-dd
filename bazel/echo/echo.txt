@@ -4333,6 +4333,7 @@ enviously
 encratic
 equinovarus
 electrolyzer
+electrothermics
 encephalosclerosis
 embraceor
 enantioses
@@ -9938,7 +9939,6 @@ euphuists
 embolisms
 estovers
 estradiol
-electrothermics
 epigrammatism
 eurhythmy
 emphasis
