@@ -10877,7 +10877,6 @@ amoebogeniae
 artilleryship
 amoebula
 apinoid
-aerobacter
 aubergistes
 andrographis
 absenteeism
@@ -21200,6 +21199,7 @@ asymptote
 assyriology
 ambrosias
 arimathaean
+aerobacter
 accompletive
 asymptotes
 asymptotically
