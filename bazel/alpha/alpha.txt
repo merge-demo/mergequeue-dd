@@ -21403,7 +21403,6 @@ asphyxiator
 airbound
 android
 almeries
-acanthine
 anticritique
 amphichrom
 assuaged
@@ -22976,6 +22975,7 @@ algraphic
 acrock
 airdropped
 attended
+acanthine
 attendee
 aurochs
 aneurysmal
