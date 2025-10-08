@@ -762,6 +762,7 @@ exscinding
 ecphonema
 emotes
 echinal
+enfonce
 euomphalid
 egger
 ecrase
@@ -13349,7 +13350,6 @@ exported
 ethicist
 enlength
 entireties
-enfonce
 excretive
 electroculture
 estating
