@@ -3542,7 +3542,6 @@ captive
 caucus
 cotinga
 calvarias
-captives
 comatulae
 captor
 capturable
@@ -25165,6 +25164,7 @@ coriariaceae
 coriaus
 corybant
 constructionism
+captives
 corybantian
 corybantiasm
 chemung
