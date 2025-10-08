@@ -4443,6 +4443,7 @@ carpology
 coccigenic
 carlishness
 cogwheels
+chemicobiologic
 coxswaining
 clairaudient
 consignifying
@@ -31740,7 +31741,6 @@ custodian
 custodians
 coenurus
 custodianship
-chemicobiologic
 circuited
 custodier
 creels
