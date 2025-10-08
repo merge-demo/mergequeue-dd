@@ -15013,7 +15013,6 @@ asterina
 acetanisidide
 appoggiature
 aggregating
-antievolution
 antievolutionary
 anteconsonantal
 assimulate
@@ -21187,6 +21186,7 @@ asweat
 aceanthrene
 atretic
 asymmetric
+antievolution
 ambivalency
 aways
 acknowledgement
