@@ -25,7 +25,6 @@ castratory
 cascarilla
 cnicus
 cabalist
-caball
 caballer
 cocurricular
 corrosiving
@@ -12640,6 +12639,7 @@ cheney
 chilidium
 chalybes
 chronotropism
+caball
 churchiest
 cynanthropy
 cyanizing

@@ -6699,6 +6699,7 @@ balize
 berhyme
 bestials
 bamboos
+brawn
 belauds
 bert
 berteroa
@@ -10926,7 +10927,6 @@ beckets
 bemires
 bartonia
 bodleian
-brawn
 brooms
 balancewise
 bumkin
