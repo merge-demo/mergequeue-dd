@@ -7296,7 +7296,6 @@ albion
 aider
 assertorical
 allogamies
-anticathexis
 assessor
 apertly
 anilinctus
@@ -9518,6 +9517,7 @@ aluminyl
 aponeurorrhaphy
 abbreviature
 abominable
+anticathexis
 archchief
 anaphroditic
 anticardium
