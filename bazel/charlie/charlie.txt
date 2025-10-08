@@ -13971,6 +13971,7 @@ cinter
 capsids
 ceratopsid
 cynthiidae
+cuprose
 coopering
 coeditor
 cintre
@@ -31201,7 +31202,6 @@ chandelles
 cycloids
 cytoplastic
 chromaticity
-cuprose
 cupsful
 cupstone
 cupula
