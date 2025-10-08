@@ -1053,6 +1053,7 @@ edgeboned
 eringos
 eagerly
 exsheath
+expellent
 edged
 eidolon
 edger
@@ -13046,7 +13047,6 @@ euge
 epipodia
 enterochirurgia
 expellees
-expellent
 elaidic
 egueiite
 evaluations
