@@ -5235,6 +5235,7 @@ behn
 bontebuck
 bigeyes
 beadroll
+bloomers
 burglary
 bargee
 bellevue
@@ -12968,7 +12969,6 @@ biolith
 brideless
 brassards
 bituberculate
-bloomers
 bedirties
 beadleism
 bombazine

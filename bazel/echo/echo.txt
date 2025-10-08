@@ -842,6 +842,7 @@ exocarps
 elong
 ectodermosis
 ennuyante
+expectorator
 erastianize
 exfetation
 epizootiologically
@@ -9679,7 +9680,6 @@ electrophysiologist
 ectocarpaceae
 evaginate
 extrapulmonary
-expectorator
 espousement
 essenwood
 elms
