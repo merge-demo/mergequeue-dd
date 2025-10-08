@@ -2464,7 +2464,6 @@ deciphering
 demonocracy
 debars
 destrudo
-diphase
 diplodocus
 docetae
 decision
@@ -15720,6 +15719,7 @@ decemfoliolate
 determine
 dopchick
 dopebook
+diphase
 diddled
 demonstrator
 discased
