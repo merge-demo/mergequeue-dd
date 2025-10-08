@@ -5499,7 +5499,6 @@ dilatation
 deoxyribonucleotide
 dogmatician
 disportive
-dowitch
 diaphragm
 darlings
 dogtrot
@@ -17232,6 +17231,7 @@ distileries
 dysplastic
 drinkables
 disgaveled
+dowitch
 drinks
 dynamics
 dreary

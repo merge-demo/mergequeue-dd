@@ -11833,6 +11833,7 @@ allothigenetically
 auberges
 acanthosis
 aucan
+adolescents
 antique
 anarchical
 anenergia
@@ -19627,7 +19628,6 @@ aristomonarchy
 aristorepublicanism
 arteriorrhexis
 aristotelean
-adolescents
 aristotelism
 acicula
 aristotle
