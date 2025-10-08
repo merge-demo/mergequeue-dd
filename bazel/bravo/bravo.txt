@@ -765,6 +765,7 @@ barricados
 bacchants
 banket
 badmouthed
+beaugregory
 badmouths
 bullfrog
 binnite
@@ -17767,7 +17768,6 @@ bacterizing
 brave
 bursarial
 blypes
-beaugregory
 bursaries
 bursars
 bursch
