@@ -11720,7 +11720,6 @@ allocheiria
 acceptors
 analogon
 antihemorrheidal
-anacyclus
 analogous
 asterinidae
 analogously
@@ -14601,6 +14600,7 @@ atticism
 antibreakage
 amir
 ammonolyzed
+anacyclus
 aureously
 autumns
 antibridal
