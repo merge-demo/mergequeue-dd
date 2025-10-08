@@ -11998,7 +11998,6 @@ everyone
 enterfeat
 exampleship
 essentials
-eigenspace
 etherion
 espeire
 embolus
@@ -13206,6 +13205,7 @@ earthworms
 endosalpingitis
 expressivity
 eastertide
+eigenspace
 encephala
 echinite
 empyreal
