@@ -8187,7 +8187,6 @@ chairmanning
 chairmans
 crestmoreite
 chondroclasis
-chairmanship
 congrid
 chairmanships
 checkoff
@@ -25746,6 +25745,7 @@ cephalotheca
 caddish
 conciliating
 cataleptize
+chairmanship
 corroborative
 chrism
 chewet

@@ -7747,7 +7747,6 @@ emendable
 equips
 edelweisses
 entelam
-epidiascope
 escallops
 engraff
 ecce
@@ -10933,6 +10932,7 @@ epipteric
 essoiner
 eulogies
 echinops
+epidiascope
 euphuize
 eupyrion
 eupittone
