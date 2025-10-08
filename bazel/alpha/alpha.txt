@@ -10687,7 +10687,6 @@ alcoranist
 ammo
 amphibological
 agency
-abhiseka
 audiovisuals
 ammocoetes
 apocrisiary
@@ -13886,6 +13885,7 @@ antecede
 abovestairs
 anapes
 atmometry
+abhiseka
 allonges
 albizzia
 antecedency
