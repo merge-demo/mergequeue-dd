@@ -1177,7 +1177,6 @@ antihemagglutinin
 agriculturally
 alkahests
 antislaveryism
-alchemising
 acanonical
 almoravide
 avanguardisti
@@ -1847,6 +1846,7 @@ annard
 aetiological
 acetation
 acetbromamide
+alchemising
 acetenyl
 actinostomal
 antioxygenation
