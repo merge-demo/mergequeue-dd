@@ -2852,7 +2852,6 @@ contermine
 cadaverine
 canonised
 canoniser
-cephalothoraces
 casziel
 coambassador
 canonising
@@ -25231,6 +25230,7 @@ confucians
 coryphene
 coryphodon
 coventrate
+cephalothoraces
 camachile
 choledochectomy
 corystoid
