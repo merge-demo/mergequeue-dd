@@ -5502,7 +5502,6 @@ antibishop
 autotoxis
 austromancy
 agada
-alloiometry
 aljama
 ashlaring
 axillary
@@ -11791,6 +11790,7 @@ ail
 anaphases
 anthomyiidae
 albumens
+alloiometry
 astrometry
 ancille
 autoschediastical
