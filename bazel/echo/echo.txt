@@ -1489,7 +1489,6 @@ effuviate
 efl
 efoliose
 efph
-enantiomorphism
 erringly
 entocondylar
 embroilments
@@ -2726,6 +2725,7 @@ electees
 edentate
 envoi
 etymology
+enantiomorphism
 emetic
 engorge
 eleemosynarily
