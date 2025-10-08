@@ -14065,7 +14065,6 @@ bistipular
 besieging
 brachiorrheuma
 blot
-bugged
 butsudan
 beastily
 brighteyes
@@ -17893,6 +17892,7 @@ blabbering
 bayogoula
 bushmaker
 bakuninism
+bugged
 badinaging
 branial
 bibliopoly
