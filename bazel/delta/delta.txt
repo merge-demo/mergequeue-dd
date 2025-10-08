@@ -4142,7 +4142,6 @@ delire
 dissent
 demagnify
 documentary
-decimator
 discomfited
 deltidium
 doulocracy
@@ -14921,6 +14920,7 @@ demonism
 dactylopodite
 dowitcher
 deracine
+decimator
 dolorifuge
 deseam
 dependencies
