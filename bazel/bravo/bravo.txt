@@ -10577,6 +10577,7 @@ benzothiazole
 belemnite
 ballarag
 bouquet
+bedfoot
 bladders
 blazonry
 beggarweed
@@ -16620,7 +16621,6 @@ bathroom
 blinders
 bids
 bistorta
-bedfoot
 butterflylike
 bucktooth
 bronzitite
