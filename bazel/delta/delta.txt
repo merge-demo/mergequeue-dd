@@ -2638,7 +2638,6 @@ dialogging
 decomposing
 decomposure
 denotationally
-digne
 desalinate
 dogwatches
 decompoundable
@@ -12183,6 +12182,7 @@ dolichocephalous
 dramatism
 damascenes
 diomedea
+digne
 doors
 democracy
 dormie
