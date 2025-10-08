@@ -25666,6 +25666,7 @@ constitutive
 committals
 correctress
 conoid
+covertly
 centupled
 corregimientos
 costumier
@@ -27577,7 +27578,6 @@ coverlids
 caller
 clairce
 coverslip
-covertly
 colloquialist
 cull
 cupmaker
