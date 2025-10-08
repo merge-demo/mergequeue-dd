@@ -4238,7 +4238,6 @@ carene
 carer
 chyometer
 capsulotome
-caress
 cir
 caressed
 clition
@@ -13950,6 +13949,7 @@ cynomorium
 cynomorphic
 chloroanemia
 cynophilic
+caress
 climatotherapy
 cynophilist
 chilognath
