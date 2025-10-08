@@ -3852,7 +3852,6 @@ dairies
 disinteresting
 dissceptred
 decorationist
-dissipatedness
 deipnophobia
 defectively
 disaccharidase
@@ -11736,6 +11735,7 @@ decanormal
 deterger
 deflator
 determinating
+dissipatedness
 dentalium
 diamagnetometer
 dermatolysis
