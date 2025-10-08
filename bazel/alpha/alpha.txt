@@ -6677,7 +6677,6 @@ antelabium
 ambulatorily
 acock
 airlessly
-attemperation
 anchistopoda
 acyloxy
 alloiometric
@@ -24685,6 +24684,7 @@ aviated
 angule
 admission
 antemural
+attemperation
 addling
 adjoined
 aviatic
