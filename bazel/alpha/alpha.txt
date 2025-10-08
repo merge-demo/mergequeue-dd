@@ -6901,7 +6901,6 @@ akela
 achromatically
 acalephes
 akeley
-airworthier
 adjiga
 appendectomies
 adhibited
@@ -19886,6 +19885,7 @@ armplate
 armrack
 azans
 afterclap
+airworthier
 arabesques
 archantiquary
 armscye
