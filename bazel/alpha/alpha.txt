@@ -1444,7 +1444,6 @@ acclimatised
 acclimatiser
 acastus
 acclimatising
-allgood
 aegagrus
 algid
 alpinery
@@ -4769,6 +4768,7 @@ abler
 adenitises
 archhost
 arenite
+allgood
 areek
 archplotter
 aerodrome
