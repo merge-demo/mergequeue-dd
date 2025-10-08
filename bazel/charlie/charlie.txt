@@ -17633,7 +17633,6 @@ cornify
 coccygectomy
 chiropterophilous
 couvade
-coccygerector
 coccygine
 creme
 colloxylin
@@ -29443,6 +29442,7 @@ cloven
 concretism
 crystalloidal
 crystallomagnetic
+coccygerector
 comet
 cravers
 cuban
