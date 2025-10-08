@@ -12063,7 +12063,6 @@ disentrainment
 disentrance
 discostate
 dyophysitism
-disrank
 disentwined
 dinnerly
 dupped
@@ -16616,6 +16615,7 @@ dragman
 dragoman
 dognaper
 dissimilarities
+disrank
 diatonically
 disharmonic
 deoculate
