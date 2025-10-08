@@ -4482,7 +4482,6 @@ baptismal
 bahiaite
 banally
 bienness
-biradiated
 bool
 bouffante
 busts
@@ -9115,6 +9114,7 @@ bethabara
 bilgewater
 bipalmate
 bolita
+biradiated
 beauteousness
 bodacious
 brimfulness
