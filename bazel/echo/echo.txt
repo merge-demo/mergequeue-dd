@@ -5394,6 +5394,7 @@ endowment
 excantation
 earthtongue
 endpoints
+enounces
 endrudge
 extrabulbar
 ecderonic
@@ -6941,7 +6942,6 @@ endarteria
 election
 entourage
 empt
-enounces
 entozoologically
 entracte
 entradas
