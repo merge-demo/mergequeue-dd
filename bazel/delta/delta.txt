@@ -14160,6 +14160,7 @@ dysurias
 disusage
 dogfaces
 differentiator
+domify
 dynamoscope
 deathful
 disuse
@@ -16189,7 +16190,6 @@ deplump
 dour
 dourah
 drochuil
-domify
 dendrocoelous
 dourer
 daedal
