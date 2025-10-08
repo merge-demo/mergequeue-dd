@@ -5754,7 +5754,6 @@ aarrghh
 agamobium
 aligners
 agglutinogen
-agglutinoscope
 airlessness
 acclaiming
 agglutogenic
@@ -23779,6 +23778,7 @@ authoritarian
 authoritarians
 antiphonary
 awarn
+agglutinoscope
 authoritative
 announceable
 archvestryman
