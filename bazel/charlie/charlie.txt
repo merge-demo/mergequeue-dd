@@ -3647,7 +3647,6 @@ comicotragedy
 citole
 cloiochoanitic
 caramelisation
-caramelise
 conveyorize
 caramelize
 caramelized
@@ -16192,6 +16191,7 @@ chromosantonin
 chlamydoselachidae
 caskanet
 collinearly
+caramelise
 chechen
 chaunting
 clime
