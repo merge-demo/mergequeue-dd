@@ -9669,7 +9669,6 @@ ensearcher
 espingole
 execrative
 equaling
-editchar
 espino
 erythroplastid
 evilsayer
@@ -9793,6 +9792,7 @@ essorant
 endarterial
 est
 engrave
+editchar
 efficiencies
 encouragements
 estab

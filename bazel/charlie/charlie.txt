@@ -15940,7 +15940,6 @@ clench
 carbamino
 clenched
 clencher
-clenchers
 clarshech
 clenches
 cleomes
@@ -29776,6 +29775,7 @@ catholicity
 caulote
 contraindication
 crispation
+clenchers
 comorado
 colleagued
 chimerically
