@@ -4843,6 +4843,7 @@ carryall
 carrick
 carrycot
 chromatoplasm
+commutant
 carryed
 carrier
 carryings
@@ -20440,7 +20441,6 @@ conjee
 counterservice
 clerks
 commutableness
-commutant
 commutated
 commutation
 chiromancer
