@@ -986,6 +986,7 @@ ensealing
 endomitotic
 excrementary
 edaphology
+englute
 etymological
 edaphon
 ecchymotic
@@ -5955,7 +5956,6 @@ enisling
 expeditated
 ejectors
 epheboi
-englute
 enjail
 escaped
 emetomorphine
