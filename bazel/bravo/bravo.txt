@@ -5586,7 +5586,6 @@ busks
 benjoin
 beldams
 bilify
-belderroot
 bongar
 beleapt
 belection
@@ -6892,6 +6891,7 @@ beslap
 bucolical
 bearherd
 bedsite
+belderroot
 beslimes
 bactetiophage
 besottedly
