@@ -1018,6 +1018,7 @@ epilabra
 edemata
 erysimum
 emphrensy
+elepaio
 eking
 energised
 electrohorticulture
@@ -4867,7 +4868,6 @@ enjamb
 encroachments
 epitaxic
 encrustation
-elepaio
 empoisons
 exoperidium
 ecchymoses
