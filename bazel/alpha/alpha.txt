@@ -4610,7 +4610,6 @@ accommodateness
 audible
 aphanapteryx
 astrocytoma
-aeonicaeonist
 aeonist
 aridly
 aeons
@@ -8374,6 +8373,7 @@ alamode
 antecedents
 aspidospermine
 amebocyte
+aeonicaeonist
 alkanol
 alkaphrah
 alkapton
