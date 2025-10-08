@@ -1926,6 +1926,7 @@ essenical
 ejected
 eupatorine
 epinette
+ephebe
 empathically
 enthelmintha
 endict
@@ -6368,7 +6369,6 @@ enshrinement
 embars
 enshrinements
 electrotyper
-ephebe
 earthward
 emulsor
 euskarian

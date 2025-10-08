@@ -2841,6 +2841,7 @@ biform
 buddage
 bendays
 basyl
+brachymetropic
 bugaboo
 bunjara
 barrage
@@ -15022,7 +15023,6 @@ babylonize
 bebops
 biscot
 brett
-brachymetropic
 brettice
 betty
 brickwork
