@@ -584,7 +584,6 @@ devocate
 doesnt
 dopester
 disfranchiser
-deadpanning
 detractively
 damaskeen
 damaskine
@@ -1850,6 +1849,7 @@ dogdoms
 debarbarize
 debeaker
 douzepers
+deadpanning
 declinograph
 departement
 dorsalgia

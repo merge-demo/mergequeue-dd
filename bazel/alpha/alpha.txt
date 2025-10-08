@@ -14186,7 +14186,6 @@ apiaceous
 androcratic
 aniseikonia
 altared
-antholite
 apocaffeine
 anthological
 antisepticism
@@ -22069,6 +22068,7 @@ astonishedly
 asterismal
 anaphia
 apologetic
+antholite
 aerier
 alnath
 anvasser
