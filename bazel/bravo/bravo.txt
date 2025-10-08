@@ -12297,7 +12297,6 @@ barabbas
 bleaty
 boggin
 bagdi
-beeregar
 bombycid
 bantered
 bombycine
@@ -15544,6 +15543,7 @@ briza
 bangiaceae
 blarneyer
 broacher
+beeregar
 batterable
 brinjal
 buffone
