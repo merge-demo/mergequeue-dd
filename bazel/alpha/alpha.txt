@@ -9749,6 +9749,7 @@ antimasker
 amasesis
 anatron
 amass
+androsporangium
 aroid
 amasses
 aregeneratory
@@ -12263,7 +12264,6 @@ astonishments
 actinides
 androsphinx
 aplanospore
-androsporangium
 auriculoventricular
 anoxyscope
 androsterone
