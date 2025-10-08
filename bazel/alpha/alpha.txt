@@ -16154,7 +16154,6 @@ astor
 argali
 arish
 apiin
-antithesism
 affination
 approacher
 antithetic
@@ -21239,6 +21238,7 @@ asyngamy
 anconeous
 ages
 asininity
+antithesism
 asyntrophy
 anomalure
 asystole
