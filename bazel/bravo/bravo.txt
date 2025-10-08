@@ -6042,6 +6042,7 @@ bardesanist
 bekick
 bendwise
 begay
+berreaving
 bartramia
 benedicta
 broughta
@@ -11756,7 +11757,6 @@ bretelle
 broodiest
 bobstays
 broke
-berreaving
 bloomsburian
 bacopa
 behear
