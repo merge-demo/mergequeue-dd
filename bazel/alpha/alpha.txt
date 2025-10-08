@@ -6097,6 +6097,7 @@ attirement
 abrogates
 affricative
 anosmic
+aramaean
 agrace
 anterolaterally
 ahold
@@ -14115,7 +14116,6 @@ antheia
 auteur
 amphipodan
 anthelia
-aramaean
 anthelix
 archaeomagnetism
 amidocaffeine
