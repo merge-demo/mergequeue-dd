@@ -6688,7 +6688,6 @@ equilibriria
 ecosystems
 enterozoon
 enterprise
-exploitations
 enterprize
 expertising
 endostyle
@@ -8589,6 +8588,7 @@ epigrammatising
 embouchures
 encefalon
 espavel
+exploitations
 equielliptical
 equigranular
 equilateral
