@@ -7920,6 +7920,7 @@ bocce
 beclad
 bishop
 brusher
+bichloride
 bicarbureted
 bicarburetted
 bewearied
@@ -16748,7 +16749,6 @@ basename
 bowdlerizations
 bloodbird
 buffing
-bichloride
 bufflehead
 breekums
 buffont
