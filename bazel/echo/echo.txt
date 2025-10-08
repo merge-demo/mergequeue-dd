@@ -1009,6 +1009,7 @@ esophageal
 edder
 euphonism
 educationary
+embellished
 electropolar
 escargot
 edemas
@@ -7028,7 +7029,6 @@ earphone
 effectuate
 enteric
 enactory
-embellished
 epiphenomenon
 eundem
 euphonize
