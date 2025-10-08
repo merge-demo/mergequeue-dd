@@ -4530,7 +4530,6 @@ choleras
 candency
 carny
 chrysid
-coccostean
 conciliatingly
 capsule
 clapperdudgeon
@@ -14104,6 +14103,7 @@ chapping
 cryostat
 circinate
 chirinola
+coccostean
 circination
 circiter
 counterapproach
