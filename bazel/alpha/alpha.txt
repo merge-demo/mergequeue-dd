@@ -2663,7 +2663,6 @@ acyrology
 ammonation
 acroasphyxia
 acroatic
-alfurese
 arrangements
 acrobacies
 artarin
@@ -4616,6 +4615,7 @@ afterglide
 aisleless
 attributes
 aepyornithiformes
+alfurese
 amdt
 aggrieves
 alsatian
