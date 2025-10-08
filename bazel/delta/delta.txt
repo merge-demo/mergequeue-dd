@@ -9398,7 +9398,6 @@ diffractively
 diviner
 deruralize
 dioscurian
-doubleted
 dyspnoic
 dist
 dely
@@ -15285,6 +15284,7 @@ disproperty
 dado
 drainspout
 declinal
+doubleted
 dolichocephalize
 disawa
 draisine
