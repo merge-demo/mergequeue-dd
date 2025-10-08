@@ -1409,6 +1409,7 @@ endpiece
 entodermal
 epipodialia
 entoretina
+epicanthic
 epicranius
 erythrocytolytic
 espoused
@@ -2478,7 +2479,6 @@ electroing
 electrokinetic
 eluviate
 ecosphere
-epicanthic
 exterminative
 electrokinetics
 elasticum
