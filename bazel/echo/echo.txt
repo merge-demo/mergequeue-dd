@@ -295,6 +295,7 @@ easters
 eponymy
 exorcizes
 elderly
+elvis
 eightsome
 exploitation
 echos
@@ -6101,7 +6102,6 @@ erythroderma
 euchorda
 expiscating
 enlivener
-elvis
 encina
 erminites
 extremum
