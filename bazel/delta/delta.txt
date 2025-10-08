@@ -6156,6 +6156,7 @@ discipled
 dijudicant
 duperies
 deservedness
+demodocus
 driving
 demicylindrical
 deratized
@@ -14585,7 +14586,6 @@ dentalman
 daunders
 draggily
 deoxyribonucleoprotein
-demodocus
 dictyostele
 demureness
 denotive
