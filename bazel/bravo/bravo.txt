@@ -12507,6 +12507,7 @@ brails
 boniface
 birding
 burstwort
+bethunder
 bolshevik
 boser
 breakthroughs
@@ -16672,7 +16673,6 @@ bengal
 beestings
 bathala
 botocudo
-bethunder
 bisognio
 bead
 boswell
