@@ -7374,7 +7374,6 @@ certificator
 cephalocone
 cephalodymus
 cephalodiscid
-cephalodiscida
 cephalodiscus
 chromic
 curtains
@@ -25328,6 +25327,7 @@ cyclotrons
 cornelia
 concessioner
 cornell
+cephalodiscida
 corneosclerotic
 cirsectomy
 campesinos

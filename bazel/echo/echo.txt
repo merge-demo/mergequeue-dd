@@ -3903,7 +3903,6 @@ expugnable
 eelier
 earthbound
 emollients
-emoloa
 endosymbiosis
 emolumental
 extemporiser
@@ -11081,6 +11080,7 @@ euskaric
 electors
 expunging
 endosome
+emoloa
 edo
 egoity
 exulceratory
