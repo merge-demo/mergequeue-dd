@@ -1174,7 +1174,6 @@ egrimony
 entitule
 education
 edulcorating
-enscroll
 ensweep
 educational
 extratracheal
@@ -11759,6 +11758,7 @@ exaration
 elodea
 epithelioid
 extracorpuscular
+enscroll
 euripidean
 ekphore
 epimerise
