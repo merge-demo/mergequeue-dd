@@ -9749,6 +9749,7 @@ asserta
 asphodelus
 antimasker
 amasesis
+alisphenoidal
 anatron
 amass
 androsporangium
@@ -20519,7 +20520,6 @@ arthrophyma
 anencephaly
 abdaria
 afrikaner
-alisphenoidal
 appete
 abruptiones
 afterchurch
