@@ -6500,6 +6500,7 @@ erubescence
 excludable
 estimative
 execration
+erosiveness
 ephemeric
 englishes
 entail
@@ -9175,7 +9176,6 @@ everts
 exhorted
 eusuchia
 erythrulose
-erosiveness
 esoneural
 erotema
 edenize
