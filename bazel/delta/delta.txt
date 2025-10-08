@@ -346,6 +346,7 @@ dollfaced
 deferential
 downcomer
 disinteress
+douzieme
 deckman
 desand
 drawstring
@@ -707,7 +708,6 @@ distributes
 damselfishes
 disbody
 dropshots
-douzieme
 damsons
 doctorally
 ductule
