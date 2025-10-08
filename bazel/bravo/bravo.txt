@@ -5631,6 +5631,7 @@ blatancy
 busbar
 bikram
 bahts
+berk
 blastule
 bowery
 bebeast
@@ -13419,7 +13420,6 @@ bottekin
 borussian
 balanid
 balloon
-berk
 buyback
 biographer
 believeth
