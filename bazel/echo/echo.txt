@@ -11582,7 +11582,6 @@ engregge
 expatiate
 enmeshing
 evolver
-equiponderating
 ectolecithal
 exergual
 evonymuses
@@ -12771,6 +12770,7 @@ encountered
 engold
 earlike
 elsewise
+equiponderating
 enterosyphilis
 exortion
 endodontia
