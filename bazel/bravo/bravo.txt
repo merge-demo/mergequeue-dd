@@ -2235,6 +2235,7 @@ bowing
 bats
 belavendered
 bauhinia
+besoothed
 bewraying
 bona
 bespew
@@ -2275,7 +2276,6 @@ boozing
 bathysphere
 blossombill
 bicarbonates
-besoothed
 barbiturates
 batetela
 barbequed
