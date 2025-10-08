@@ -8042,6 +8042,7 @@ bicornous
 bagroom
 belligerents
 bicornuate
+besot
 bicornute
 beshadow
 bookery
@@ -14150,7 +14151,6 @@ bradydactylia
 birdfarms
 brigs
 bewaste
-besot
 bated
 belamour
 bourgade
