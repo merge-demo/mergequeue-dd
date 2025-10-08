@@ -10013,7 +10013,6 @@ deratize
 duodenojejunostomy
 dazedly
 declarers
-depair
 dubieties
 dissightly
 discontinuor
@@ -14823,6 +14822,7 @@ deringers
 dockyards
 docking
 dominica
+depair
 dolors
 desmectasia
 dagos

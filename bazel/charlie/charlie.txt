@@ -1893,6 +1893,7 @@ culverins
 camelia
 cauliflorous
 cameline
+cirrus
 camelish
 cardigans
 camellia
@@ -16738,7 +16739,6 @@ clothesbag
 clothesyard
 codesign
 clamberer
-cirrus
 catarrhine
 clothesline
 clotheslines
