@@ -2322,6 +2322,7 @@ barreler
 benzoperoxide
 badarrah
 borid
+basion
 bourignianism
 braggart
 barboy
@@ -3556,7 +3557,6 @@ bathmats
 bygoing
 bereaven
 blowfishes
-basion
 banker
 bratling
 bathoflore
