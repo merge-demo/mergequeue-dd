@@ -9871,7 +9871,6 @@ experimentalize
 epeeists
 enweaving
 esthesiology
-euxanthate
 elementarily
 endothermous
 enstatite
@@ -12291,6 +12290,7 @@ etheostomidae
 electronegative
 equilucent
 exerce
+euxanthate
 equimultiple
 exceptious
 extramarginal
