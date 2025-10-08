@@ -4169,7 +4169,6 @@ electroetching
 enghle
 emeutes
 elektra
-egoize
 enwound
 extratheistic
 emptiers
@@ -7177,6 +7176,7 @@ ecclesiasticus
 endomycetaceae
 enamines
 eyedness
+egoize
 elytroptosis
 eucharistize
 ecthymatous
