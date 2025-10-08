@@ -2137,7 +2137,6 @@ clerkliest
 camporee
 camphorone
 camphorwood
-cmdg
 conference
 campi
 concurrency
@@ -2572,6 +2571,7 @@ committeewoman
 chinol
 castellanship
 candlewaster
+cmdg
 cambial
 crocoisite
 convertor
