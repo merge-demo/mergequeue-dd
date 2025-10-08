@@ -3434,7 +3434,6 @@ embers
 exscript
 estival
 enate
-epees
 elaeothesium
 enginemen
 excusative
@@ -7353,6 +7352,7 @@ eased
 etiolates
 eccoprotic
 eleut
+epees
 eparchies
 eternization
 equinoctial
