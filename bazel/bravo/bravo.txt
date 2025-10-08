@@ -5080,7 +5080,6 @@ belching
 bakshished
 brachiate
 blandishments
-borderers
 boussingaultite
 bounceback
 buttock
@@ -16602,6 +16601,7 @@ brezhnev
 buckism
 bilkers
 buckle
+borderers
 blush
 buckled
 baklavas
