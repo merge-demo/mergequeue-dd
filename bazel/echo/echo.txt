@@ -1394,7 +1394,6 @@ erasions
 ericoid
 entosterna
 encashable
-enzymes
 efflorescing
 effluences
 endoral
@@ -13950,6 +13949,7 @@ eyrar
 enface
 extinguishable
 electropoion
+enzymes
 extraparochial
 equicurve
 endosteal
