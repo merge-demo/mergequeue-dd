@@ -5765,7 +5765,6 @@ euchre
 eternising
 encrinal
 encloser
-enray
 ephoi
 effluvia
 environing
@@ -11253,6 +11252,7 @@ entelluses
 evangelizer
 eeling
 extracts
+enray
 entomologically
 eonisms
 endanger
