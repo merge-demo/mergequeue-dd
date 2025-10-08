@@ -9416,6 +9416,7 @@ biotope
 battlefront
 bisulphide
 brittling
+betusked
 bookshelf
 byronesque
 bedecorate
@@ -14602,7 +14603,6 @@ blackballing
 boxerism
 bigmouth
 biopic
-betusked
 blashy
 brasiletto
 bibliomancy
