@@ -2995,7 +2995,6 @@ canthuthi
 canty
 chicer
 coyest
-canticle
 carne
 centillionth
 campesino
@@ -10994,6 +10993,7 @@ comessation
 counterinsurgencies
 crutcher
 catananche
+canticle
 clavises
 chirp
 chirped

@@ -6362,6 +6362,7 @@ depthwise
 doggerelism
 dermoidectomy
 depauperize
+discontiguous
 dgag
 dermoneural
 drassid
@@ -10759,7 +10760,6 @@ deceitful
 department
 divinization
 dipterygian
-discontiguous
 dipterocarp
 distinctional
 dipterocarpaceae
