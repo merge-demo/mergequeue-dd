@@ -4711,7 +4711,6 @@ emittent
 elocutive
 entryway
 electrowin
-electroshock
 erythrodegenerative
 eyelets
 exalbuminose
@@ -13781,6 +13780,7 @@ extortioners
 extortionists
 entomogenous
 elachista
+electroshock
 ethnicism
 exacuate
 extortions
