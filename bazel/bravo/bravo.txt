@@ -15014,6 +15014,7 @@ binocular
 brest
 bucorvinae
 breastplate
+burrowed
 beautifier
 bloodthirstier
 bowllike
@@ -17201,7 +17202,6 @@ behavers
 boniest
 bummel
 bummie
-burrowed
 blobber
 baldachins
 beechier

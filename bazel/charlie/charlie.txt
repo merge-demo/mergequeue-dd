@@ -9692,6 +9692,7 @@ cheewink
 cockroach
 cheezit
 chef
+chaum
 cyclones
 collocate
 chego
@@ -11107,7 +11108,6 @@ chivachee
 confirmand
 chivalresque
 cowshot
-chaum
 cosovereign
 chorogi
 chivaree
