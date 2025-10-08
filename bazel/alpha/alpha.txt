@@ -2095,6 +2095,7 @@ awols
 alcovinometer
 ammobium
 admixing
+acategorical
 anthophyllite
 ararao
 achluophobia
@@ -23936,7 +23937,6 @@ autodepolymerization
 autodiagnostic
 artemas
 aviador
-acategorical
 alutaceous
 aardvark
 autodial
