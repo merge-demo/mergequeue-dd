@@ -7901,6 +7901,7 @@ cest
 cesta
 catafalque
 cestode
+cleavage
 cestodes
 copatron
 compete
@@ -28868,7 +28869,6 @@ crewneck
 chaetognathan
 crex
 cry
-cleavage
 conferences
 cryable
 cephalhydrocele
