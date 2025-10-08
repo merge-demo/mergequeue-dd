@@ -6754,6 +6754,7 @@ archetypist
 architectonica
 apostolic
 alec
+arthrosporic
 airspeeds
 airstream
 aischrolatreia
@@ -11607,7 +11608,6 @@ anagogic
 advecting
 annoyment
 anagrammatically
-arthrosporic
 aneles
 appaumee
 androgenesis
