@@ -9180,6 +9180,7 @@ charwomen
 chaseable
 chased
 cuckoo
+circumjovial
 corbeilles
 chases
 chashitsu
@@ -14264,7 +14265,6 @@ circumitineration
 crappin
 circumjacence
 circumjacency
-circumjovial
 circumlitio
 circumlittoral
 confix
