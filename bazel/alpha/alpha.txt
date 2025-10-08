@@ -10998,7 +10998,6 @@ ariosi
 ampelotherapy
 abbasside
 aventurin
-amper
 amatory
 assientist
 analects
@@ -19746,6 +19745,7 @@ antigone
 acronyms
 antisophistic
 armfuls
+amper
 archbancs
 antisupernaturalism
 agoroth
