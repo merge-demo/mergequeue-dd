@@ -222,7 +222,6 @@ entte
 exoticalness
 edaphodont
 empetrous
-eluvium
 echogram
 europeanization
 euripupi
@@ -3958,6 +3957,7 @@ egalite
 equiform
 extramodal
 empatron
+eluvium
 etrurian
 essie
 evenhand
