@@ -5267,6 +5267,7 @@ almight
 aflat
 agons
 argans
+alantol
 actualisation
 albuminised
 anthroponomy
@@ -8166,7 +8167,6 @@ alikeness
 alternance
 alilonghi
 afterthrift
-alantol
 alimentariness
 adonizing
 alimentation
