@@ -7539,6 +7539,7 @@ anenterous
 appetition
 aberroscope
 autoprothesis
+alquifou
 alcoholimeter
 antipleion
 annihilability
@@ -16177,7 +16178,6 @@ achlorhydria
 aspire
 antitoxic
 antitoxin
-alquifou
 antitoxine
 algolagny
 antitoxins
