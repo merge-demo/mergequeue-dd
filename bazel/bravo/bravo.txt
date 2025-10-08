@@ -3596,7 +3596,6 @@ bathvillite
 bookmobile
 brachytmema
 blithelike
-butterflylike
 brucines
 burdock
 beshouted
@@ -16622,6 +16621,7 @@ blinders
 bids
 bistorta
 bedfoot
+butterflylike
 bucktooth
 bronzitite
 beggingwise
