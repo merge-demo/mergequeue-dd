@@ -11221,7 +11221,6 @@ chlorhydric
 cinerea
 coercibility
 chloriamb
-claylike
 chloriambus
 chlorid
 chicanos
@@ -11932,6 +11931,7 @@ calculative
 culet
 crinkling
 choregus
+claylike
 contrivers
 communicative
 cuttoe
