@@ -2449,7 +2449,6 @@ electrogenic
 electrogild
 eudemonia
 electrogilt
-ebbing
 ejecting
 electrogram
 endows
@@ -8020,6 +8019,7 @@ epipanies
 endovasculitis
 exsanguious
 euthenist
+ebbing
 encoop
 epibasal
 ergs
