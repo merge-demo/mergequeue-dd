@@ -10390,7 +10390,6 @@ centralizer
 chiders
 cataphatic
 cedarbird
-chilies
 cahoots
 cares
 chief
@@ -11030,6 +11029,7 @@ chiseler
 cheapens
 calorify
 chiselled
+chilies
 compartmentalized
 chiseller
 chiselly
