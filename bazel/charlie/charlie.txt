@@ -10344,6 +10344,7 @@ cohesive
 chickell
 chicken
 chainsmen
+crumpling
 chickenberry
 counterpole
 citoyens
@@ -20640,7 +20641,6 @@ cryptopapist
 compelled
 collyriums
 carpogenic
-crumpling
 carbolated
 clarkia
 cipherable
