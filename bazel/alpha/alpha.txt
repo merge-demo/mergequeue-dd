@@ -14168,7 +14168,6 @@ affixture
 anthochlorine
 abaze
 authorially
-arrided
 apocryphate
 azlons
 amerce
@@ -15285,6 +15284,7 @@ anterevolutionary
 angiocholitis
 arose
 asomatophyte
+arrided
 accentor
 amphisbaenian
 antilogistic

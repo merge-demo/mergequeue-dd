@@ -2681,6 +2681,7 @@ deconvolve
 dendrophile
 decor
 diplopic
+donee
 docilely
 dappledness
 decurves
@@ -13807,7 +13808,6 @@ defuses
 displuviate
 dissects
 drepanoid
-donee
 distaves
 demisuit
 debut
