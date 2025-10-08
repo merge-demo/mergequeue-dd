@@ -11541,6 +11541,7 @@ embrittled
 epitrochlea
 epilogate
 ennoy
+eyrir
 evocator
 evoe
 ensilaging
@@ -12911,7 +12912,6 @@ electropuncturing
 epinine
 enteradenographic
 extraprostatic
-eyrir
 enkindler
 esmayle
 embryologic
