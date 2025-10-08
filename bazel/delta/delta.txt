@@ -6020,6 +6020,7 @@ discommoded
 dept
 diaschistic
 dearies
+disgustedness
 depth
 detonize
 disturbs
@@ -8668,7 +8669,6 @@ diaspore
 denuders
 diastases
 diglossia
-disgustedness
 dryads
 dimethylaniline
 dialectology
