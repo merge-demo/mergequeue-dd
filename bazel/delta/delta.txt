@@ -86,6 +86,7 @@ demoralizer
 demodicidae
 demeritoriously
 dictyodromous
+debadge
 dactyliotheca
 digladiator
 deltal
@@ -8736,7 +8737,6 @@ defocusses
 deescalations
 diatomist
 dot
-debadge
 demimonk
 decime
 distastefully
