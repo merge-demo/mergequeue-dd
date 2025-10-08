@@ -4006,6 +4006,7 @@ boltheads
 boschveld
 brutalization
 barms
+beclasping
 beaks
 beala
 burglarproofing
@@ -11390,7 +11391,6 @@ birminghamize
 belonosphaerite
 bronteum
 barmkin
-beclasping
 bluffy
 bestrut
 bastionet
