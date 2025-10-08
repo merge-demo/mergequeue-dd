@@ -8459,7 +8459,6 @@ aceraceous
 awns
 advisatory
 aminoquin
-allantoid
 admonishment
 aquameter
 allantoidean
@@ -11705,6 +11704,7 @@ antipedobaptist
 antisociality
 anally
 attractance
+allantoid
 analogy
 alee
 atony

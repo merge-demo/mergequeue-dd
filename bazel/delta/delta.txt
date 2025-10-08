@@ -287,7 +287,6 @@ disabused
 dependently
 dodecahedron
 daguerreotyped
-daguerreotyping
 dioti
 druggery
 digitonin
@@ -8403,6 +8402,7 @@ dialist
 deadmen
 deywoman
 dialystely
+daguerreotyping
 diabase
 drugge
 dialists
