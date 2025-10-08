@@ -14093,6 +14093,7 @@ circassic
 capivi
 circean
 circensian
+chapping
 cryostat
 circinate
 chirinola
@@ -17522,7 +17523,6 @@ coble
 cobleman
 cuttings
 campanist
-chapping
 coblentzian
 cobles
 cobleskill
