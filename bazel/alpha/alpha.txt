@@ -13708,7 +13708,6 @@ anovesical
 apidae
 aslake
 anoxemia
-antistrophe
 altiplanicie
 algarrobin
 anoxemias
@@ -22264,6 +22263,7 @@ astromancer
 astromeda
 apophyges
 arthrophlogosis
+antistrophe
 aliments
 anchistea
 astrometeorology
