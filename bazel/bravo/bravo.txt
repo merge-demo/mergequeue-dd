@@ -3733,7 +3733,6 @@ burratine
 blastomeric
 batwing
 bucchero
-baysmelt
 betatrons
 busing
 barfly
@@ -15863,6 +15862,7 @@ boudin
 bual
 bocardo
 bellmaster
+baysmelt
 bashed
 beignets
 bibliophilic
