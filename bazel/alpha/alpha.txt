@@ -5578,6 +5578,7 @@ antiholiday
 aganice
 ambrosia
 amentiferous
+acariatre
 ashlared
 ascrive
 arrowwood
@@ -6412,7 +6413,6 @@ aidman
 adjunctive
 antipriest
 aids
-acariatre
 adenocarcinoma
 afterripening
 accessing
