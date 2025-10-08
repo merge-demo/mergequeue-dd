@@ -4427,7 +4427,6 @@ erbia
 encarnalizing
 encarpa
 encarpium
-encarpus
 endrin
 enworthy
 entirely
@@ -8431,6 +8430,7 @@ ethopoetic
 extensure
 eurytropic
 electroencephalography
+encarpus
 eponym
 earthmove
 etiolate
