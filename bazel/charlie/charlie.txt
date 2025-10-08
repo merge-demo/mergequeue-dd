@@ -5966,7 +5966,6 @@ cathodography
 catspaws
 clewing
 cathograph
-celia
 cathography
 cathole
 centraliser
@@ -24927,6 +24926,7 @@ caulophyllum
 componentwise
 congroid
 combfishes
+celia
 corantoes
 centesimi
 chan
