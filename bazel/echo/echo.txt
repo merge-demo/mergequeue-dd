@@ -4849,7 +4849,6 @@ eupepticism
 englished
 encranial
 encratite
-expectorator
 electroed
 exportable
 episcopolatry
@@ -9687,6 +9686,7 @@ electrophysiologist
 ectocarpaceae
 evaginate
 extrapulmonary
+expectorator
 espousement
 essenwood
 elms
