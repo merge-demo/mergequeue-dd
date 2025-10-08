@@ -4912,7 +4912,6 @@ endbrains
 epipodite
 emusify
 euhemerize
-entropy
 eyelight
 endocardium
 emporetic
@@ -5997,6 +5996,7 @@ electropotential
 exhortative
 estampedero
 endosiphonate
+entropy
 evulse
 erosion
 ejects
