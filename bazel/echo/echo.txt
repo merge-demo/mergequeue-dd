@@ -6768,7 +6768,6 @@ extramural
 entire
 epithumetic
 engluts
-excalate
 enjoys
 ebenezer
 entireness
@@ -9010,6 +9009,7 @@ etiolize
 equiponderous
 ebcasc
 erythrasma
+excalate
 effund
 erythremia
 equisetum
