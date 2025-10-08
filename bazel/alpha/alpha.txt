@@ -2949,7 +2949,6 @@ actinomycete
 arbtrn
 across
 analcime
-actinomycosistic
 agglomerator
 actinomyxidia
 actinomyxidiida
@@ -20546,6 +20545,7 @@ analecta
 acequias
 arthrosis
 aeromagnetic
+actinomycosistic
 albumen
 arthrospore
 arthrosteitis
