@@ -11315,7 +11315,6 @@ erenach
 eneid
 erudite
 encephalomeric
-eventual
 eozoic
 eve
 exorcistical
@@ -12316,6 +12315,7 @@ exercitorian
 effront
 efs
 eulogizers
+eventual
 erythroglucin
 effusiometer
 emanators
