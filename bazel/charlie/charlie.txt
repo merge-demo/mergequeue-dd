@@ -1810,6 +1810,7 @@ camarasaurus
 champerator
 camarera
 camarin
+catholicus
 caama
 camaron
 costata
@@ -27189,7 +27190,6 @@ caseharden
 coatee
 countertreason
 clattertrap
-catholicus
 confessors
 chlamydomonadidae
 cephalogram
