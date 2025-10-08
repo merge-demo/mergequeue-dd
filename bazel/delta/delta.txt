@@ -12496,7 +12496,6 @@ denaturizer
 doubtlessly
 dols
 decerns
-dysaphia
 dendron
 dentistical
 decameron
@@ -16250,6 +16249,7 @@ doblas
 droseras
 dominic
 draconic
+dysaphia
 dialector
 downfield
 dourest
