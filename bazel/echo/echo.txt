@@ -1470,7 +1470,6 @@ embarrased
 ethicists
 epicene
 empathic
-etui
 epizootically
 effused
 extemporaneously
@@ -2467,6 +2466,7 @@ ellipsoids
 escapers
 eurythmical
 enstatite
+etui
 electrogasdynamics
 electroharmonic
 empanelment
