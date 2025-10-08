@@ -3549,6 +3549,7 @@ collator
 capture
 captures
 capturing
+chemoserotherapy
 capuan
 chammies
 capuched
@@ -9914,7 +9915,6 @@ crystallisation
 chemoreflex
 contrabassoon
 chemoresistance
-chemoserotherapy
 chemosynthesis
 chemosmotic
 consumptible
