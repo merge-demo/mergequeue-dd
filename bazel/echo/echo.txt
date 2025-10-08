@@ -2757,6 +2757,7 @@ equangular
 explorations
 eurithermophilic
 excecate
+eructate
 elytrous
 eutropic
 equipartition
@@ -9948,7 +9949,6 @@ ebraick
 estral
 evermore
 exoccipital
-eructate
 episodal
 epididymitis
 esophagoptosis
