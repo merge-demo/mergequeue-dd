@@ -1763,6 +1763,7 @@ dundees
 deady
 derogation
 disaccord
+demipronation
 deathtime
 diverticular
 digamous
@@ -14097,7 +14098,6 @@ distrustingly
 disturb
 disturbance
 divestitive
-demipronation
 dentirostral
 derives
 dendroid
