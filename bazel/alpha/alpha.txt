@@ -16575,6 +16575,7 @@ arkansan
 auricomous
 aerohydrodynamic
 aphacia
+ajoure
 alcaides
 aphacic
 aphaeresis
@@ -23155,7 +23156,6 @@ agoniadin
 argininephosphoric
 attriteness
 atrioporal
-ajoure
 adherescence
 attrition
 apoapsides
