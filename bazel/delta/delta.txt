@@ -4344,7 +4344,6 @@ dequeue
 diversicolored
 devising
 discussionist
-demagogic
 dj
 dictatorialness
 dodipole
@@ -5888,6 +5887,7 @@ degradingness
 delaines
 dregless
 dirk
+demagogic
 depreciable
 depreciate
 deponents
