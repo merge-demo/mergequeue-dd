@@ -6699,7 +6699,6 @@ dactylis
 dioptres
 dreche
 derision
-davenport
 diminutely
 dermatoptera
 desesperance
@@ -7277,6 +7276,7 @@ disinhumed
 detection
 diamantiferous
 drepanid
+davenport
 deadlight
 disparatum
 decourt
