@@ -6057,7 +6057,6 @@ catoctin
 catogenic
 cheesemongerly
 catonically
-catoptric
 curtise
 catoptrite
 catoquina
@@ -7635,6 +7634,7 @@ comport
 cerebrospinant
 chickstone
 cerebrosuria
+catoptric
 cerebrovascular
 colombian
 collarets
