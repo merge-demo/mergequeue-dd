@@ -3047,6 +3047,7 @@ expurgational
 electrothermostat
 ellenyard
 escribed
+etymologies
 embryographic
 equilater
 emetia
@@ -7770,7 +7771,6 @@ embolite
 expedientially
 episodes
 electrodynamical
-etymologies
 etherizer
 enticing
 epidiorthosis
