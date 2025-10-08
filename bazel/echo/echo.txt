@@ -3296,6 +3296,7 @@ euphorias
 explanatoriness
 embassade
 emanatist
+epiphyll
 epical
 emanativ
 erupt
@@ -9034,7 +9035,6 @@ errancy
 electrocardiographs
 evaginating
 euchring
-epiphyll
 entria
 evocable
 ephesine
