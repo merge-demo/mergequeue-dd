@@ -4474,7 +4474,6 @@ executively
 emulators
 encephalographic
 ekphorize
-entrainer
 episematic
 erigeron
 enamelling
@@ -11558,6 +11557,7 @@ enlighten
 extensiveness
 evolutionism
 evolutionistic
+entrainer
 epigenesis
 endotheloid
 euaster
