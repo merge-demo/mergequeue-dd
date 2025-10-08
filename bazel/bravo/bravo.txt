@@ -6923,6 +6923,7 @@ bankshall
 betroth
 bribed
 boychick
+bequeather
 borderism
 brae
 birdyback
@@ -15521,7 +15522,6 @@ brits
 bridlewise
 blastodermic
 battledoring
-bequeather
 babyhoods
 belgic
 boza
