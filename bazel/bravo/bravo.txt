@@ -6619,7 +6619,6 @@ beeishness
 brontosaurus
 bathe
 bermensch
-bermes
 battens
 benedictive
 besra
@@ -9323,6 +9322,7 @@ brachtmema
 birdhood
 birdhouse
 bromous
+bermes
 barramundi
 birdies
 boondocker
