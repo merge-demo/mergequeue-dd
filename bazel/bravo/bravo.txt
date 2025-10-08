@@ -3437,7 +3437,6 @@ bankrolling
 brigade
 biserially
 basto
-baguios
 bucklandite
 beshamed
 basural
@@ -4709,6 +4708,7 @@ bruckle
 bougainvilliidae
 bedrowse
 bedrugged
+baguios
 bedrugs
 blattoidea
 brakesman
