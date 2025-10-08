@@ -2333,6 +2333,7 @@ bubbletops
 bagging
 bones
 bastinade
+biune
 bisexualism
 barite
 biolysis
@@ -11602,7 +11603,6 @@ basidia
 bhabar
 bajonado
 blockishly
-biune
 biunivocal
 barche
 boarspear
