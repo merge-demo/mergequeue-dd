@@ -5523,6 +5523,7 @@ dorps
 damners
 delighting
 denials
+depolished
 disturbed
 departer
 devastated
@@ -5781,7 +5782,6 @@ dilating
 disjoint
 decasualizing
 depolymerize
-depolished
 dug
 deaconed
 depoliticized
