@@ -3087,6 +3087,7 @@ elmwood
 exudations
 elocutionary
 eyewash
+espaliered
 empennage
 equiangularity
 elaphomyces
@@ -6390,7 +6391,6 @@ equilocation
 enanguish
 ensign
 ensignry
-espaliered
 enervates
 ensile
 ensiled
