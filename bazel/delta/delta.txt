@@ -7239,7 +7239,6 @@ dicranaceae
 detainal
 dumpling
 dattos
-delubrubra
 disafforest
 deglamorized
 desulfurised
@@ -11573,6 +11572,7 @@ dispeopling
 digester
 divulgator
 disposable
+delubrubra
 daker
 discontentedness
 discriminantal
