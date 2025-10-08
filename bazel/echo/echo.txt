@@ -6728,7 +6728,6 @@ enthral
 eschewers
 enthralldom
 exurb
-enormously
 enveloping
 esterifies
 elaphine
@@ -12510,6 +12509,7 @@ eatche
 eunicid
 ezan
 etymologized
+enormously
 euphemy
 emissaria
 enhalos
