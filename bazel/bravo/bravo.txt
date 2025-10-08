@@ -10016,7 +10016,6 @@ banderole
 backwatered
 banksias
 beworm
-bizygomatic
 boarhound
 biznaga
 breatheableness
@@ -14193,6 +14192,7 @@ bowels
 bestirring
 bradytrophic
 bestrewment
+bizygomatic
 bateman
 borstal
 bradley
