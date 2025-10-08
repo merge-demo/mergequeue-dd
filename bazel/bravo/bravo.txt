@@ -12971,7 +12971,6 @@ bedirties
 beadleism
 bombazine
 beliquored
-balanid
 boracite
 bisectrix
 boracous
@@ -13420,6 +13419,7 @@ botryopteriaceae
 boulter
 bottekin
 borussian
+balanid
 balloon
 berk
 buyback
