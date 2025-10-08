@@ -1419,6 +1419,7 @@ absinthes
 anhimidae
 aphyllose
 antiarrhythmic
+antepileptic
 accipitrine
 addability
 accite
@@ -9667,7 +9668,6 @@ argosine
 acerbitude
 ambery
 anopsias
-antepileptic
 aloeswood
 apsidiole
 amande
