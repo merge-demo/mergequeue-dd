@@ -11572,7 +11572,6 @@ blusterers
 bawdyhouse
 bemar
 blustering
-basilicalike
 blusterously
 behindsight
 behoovingly
@@ -17812,6 +17811,7 @@ biga
 burthened
 burthens
 belayer
+basilicalike
 backwashing
 burthensome
 beround
