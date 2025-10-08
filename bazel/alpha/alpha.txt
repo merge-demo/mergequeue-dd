@@ -11164,6 +11164,7 @@ arzrunite
 appendicular
 assemblages
 animized
+allect
 antired
 amphimorulae
 amphioxi
@@ -14409,7 +14410,6 @@ anthroponomics
 aldhafera
 awestruck
 anthroponomist
-allect
 anthropopathy
 areas
 aestival
