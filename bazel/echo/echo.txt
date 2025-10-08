@@ -2846,7 +2846,6 @@ ectosteally
 ecbasis
 expt
 endomorphic
-elder
 epitympa
 effable
 eleutherophobia
@@ -7021,6 +7020,7 @@ electrotitration
 enamourment
 explorable
 effigiating
+elder
 estated
 emetines
 extradialectal
