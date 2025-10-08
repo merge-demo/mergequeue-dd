@@ -1167,7 +1167,6 @@ emulsive
 educatability
 eident
 educatable
-electrolyzable
 eudiometric
 educates
 engrainedly
@@ -10751,6 +10750,7 @@ exanthemas
 epizeuxis
 ethylenically
 etrier
+electrolyzable
 excelled
 eulimidae
 epicoela
