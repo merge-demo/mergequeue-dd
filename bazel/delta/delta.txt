@@ -5413,7 +5413,6 @@ donataries
 droughtier
 decan
 decard
-douras
 dryopteris
 ductus
 denuder
@@ -9969,6 +9968,7 @@ dinothere
 diacipiperazine
 divertor
 dothideacea
+douras
 defensor
 dasyatidae
 dimness
