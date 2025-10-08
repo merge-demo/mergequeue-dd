@@ -2822,7 +2822,6 @@ acrosome
 acrosomes
 anoints
 autolimnetic
-anapnograph
 aneurysms
 agentries
 awkwardest
@@ -17901,6 +17900,7 @@ appurtenant
 annalistically
 apractic
 aphrodisiacal
+anapnograph
 attaches
 adulterer
 antihumanistic

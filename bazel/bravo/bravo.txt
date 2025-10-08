@@ -5233,6 +5233,7 @@ botulinal
 behn
 bontebuck
 bigeyes
+bakatan
 beadroll
 bloomers
 burglary
@@ -14971,7 +14972,6 @@ brazier
 birdlore
 breezily
 bountifully
-bakatan
 breeziness
 biseptate
 blastophore
