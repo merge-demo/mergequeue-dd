@@ -3499,7 +3499,6 @@ borolanite
 batboys
 berrylike
 breaming
-bumbass
 batcher
 bogging
 bitterhearted
@@ -7822,6 +7821,7 @@ benedicts
 brislings
 beauclerc
 bifold
+bumbass
 bonaught
 bibliologies
 bismuthite
