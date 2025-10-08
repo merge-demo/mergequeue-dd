@@ -7566,7 +7566,6 @@ diazotize
 deuteranope
 daphnia
 deuterate
-deuteration
 denucleate
 demarcator
 disenchain
@@ -8093,6 +8092,7 @@ deuterons
 durra
 dero
 dichas
+deuteration
 dolorously
 dumpies
 dharmic
