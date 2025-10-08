@@ -5960,6 +5960,7 @@ airlock
 astrionics
 asquare
 aglypha
+anchorites
 analogal
 appel
 articular
@@ -23803,7 +23804,6 @@ ablegation
 anigh
 againstand
 acrology
-anchorites
 antiscepticism
 anepiploic
 autoagglutinating
