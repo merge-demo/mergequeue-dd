@@ -10265,7 +10265,6 @@ exla
 excluded
 epilogist
 enspangle
-effodientia
 elasticizer
 ergal
 extravasate
@@ -12323,6 +12322,7 @@ erythroglucin
 effusiometer
 emanators
 exerted
+effodientia
 encumbrous
 excepable
 eaning
