@@ -3628,6 +3628,7 @@ bioplasm
 batoon
 barnbrack
 biconjugate
+bespeed
 benzdioxazine
 balloonery
 bepierce
@@ -17643,7 +17644,6 @@ blarney
 bewailable
 brachioganoid
 brucins
-bespeed
 banbury
 behove
 bratchet
