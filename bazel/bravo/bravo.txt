@@ -6391,7 +6391,6 @@ bepen
 beleaguer
 backdown
 bepepper
-baboot
 biotite
 bobbysoxer
 bacteriotrypsin
@@ -7015,6 +7014,7 @@ beefless
 besped
 becalmed
 bawdiness
+baboot
 bespell
 bespelled
 bespend
