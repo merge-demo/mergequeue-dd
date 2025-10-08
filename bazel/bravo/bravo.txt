@@ -1347,7 +1347,6 @@ breadline
 bacteriophagous
 balboa
 bronchotyphus
-bethlehem
 bioplastic
 balboas
 barleymow
@@ -16715,6 +16714,7 @@ buffable
 boltmaking
 buffalo
 borrichia
+bethlehem
 brutely
 breezeless
 buras
