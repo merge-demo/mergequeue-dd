@@ -6820,6 +6820,7 @@ epicranial
 exoticism
 entombs
 eviscerator
+extensionality
 entomere
 entomic
 emptins
@@ -13101,7 +13102,6 @@ experientialism
 eschevin
 encarpuspi
 entosarc
-extensionality
 ergology
 eudiaphoresis
 ergonovine
