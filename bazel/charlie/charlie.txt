@@ -19089,7 +19089,6 @@ churchmanly
 clingiest
 clupea
 collegiateness
-collegiation
 czarinas
 concorporating
 clan
@@ -24513,6 +24512,7 @@ copalm
 camphoric
 cynomorpha
 coparcenar
+collegiation
 coparcenary
 cyclopropane
 comprecation
