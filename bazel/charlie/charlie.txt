@@ -2505,6 +2505,7 @@ countermands
 countersignatures
 coasters
 catalogued
+cocoonery
 couxio
 candies
 canvassy
@@ -7340,7 +7341,6 @@ cantalite
 cephalagra
 computus
 cephalaspis
-cocoonery
 condurrite
 cephalate
 coracovertebral
