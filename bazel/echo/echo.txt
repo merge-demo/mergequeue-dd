@@ -1013,7 +1013,6 @@ escargot
 edemas
 exinite
 exclaimingly
-eldership
 epilabra
 edemata
 erysimum
@@ -11493,6 +11492,7 @@ embryoma
 evincible
 ectopterygoid
 elegancies
+eldership
 epicurean
 elastometer
 esthesis
