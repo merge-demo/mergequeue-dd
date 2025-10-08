@@ -9145,6 +9145,7 @@ chartermaster
 charters
 cryptograms
 cindered
+callings
 caricatured
 chartographic
 crystalline
@@ -10731,7 +10732,6 @@ condemnable
 chinaroot
 confectionaries
 carlism
-callings
 chinaware
 chinawoman
 chagul
