@@ -8618,6 +8618,7 @@ bespawl
 besiegingly
 boomboat
 bowden
+bilboes
 bilocular
 biloculina
 betray
@@ -15337,7 +15338,6 @@ blazon
 braggishly
 boundary
 blackcaps
-bilboes
 briniest
 breaststroker
 breadberry
