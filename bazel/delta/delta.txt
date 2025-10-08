@@ -6090,7 +6090,6 @@ delicacy
 discoverability
 dilli
 dramaticism
-dognapper
 disaster
 deputizing
 delawn
@@ -12563,6 +12562,7 @@ disinterestedly
 disinterment
 doggereler
 disheaven
+dognapper
 dewatering
 depersonize
 deditician
