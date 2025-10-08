@@ -3047,6 +3047,7 @@ evolvements
 entocuniform
 ella
 exsuccous
+exostrae
 equipoises
 estriche
 effulged
@@ -12797,7 +12798,6 @@ exostosis
 exostra
 ebullition
 engraves
-exostrae
 exoteric
 exoterica
 elementalistically
