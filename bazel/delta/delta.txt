@@ -2700,6 +2700,7 @@ disjune
 discursory
 decorator
 disclassify
+dumbfish
 dichroite
 diducing
 deliberated
@@ -18251,7 +18252,6 @@ dispirem
 doghearted
 drogermen
 dishonorable
-dumbfish
 doxologize
 decrystallization
 djakarta
