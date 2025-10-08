@@ -3768,6 +3768,7 @@ connectible
 carbodynamite
 carbohemoglobin
 calamodendron
+cullays
 cannibalism
 carbohydrate
 cardiotrophia
@@ -10362,7 +10363,6 @@ chickpea
 conspirator
 cherishingly
 chickpeas
-cullays
 chapatti
 consultory
 critchfield
