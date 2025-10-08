@@ -15430,6 +15430,7 @@ buglet
 bryonia
 bryophyllum
 bouncy
+burnishing
 babirusa
 blaubok
 boxes
@@ -17691,7 +17692,6 @@ brahmins
 bebilya
 burnishers
 breakfasting
-burnishing
 bookbindery
 baneberries
 brulzies
