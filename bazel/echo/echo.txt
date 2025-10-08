@@ -1661,6 +1661,7 @@ eyeballed
 eyeballing
 extincteur
 entrusting
+elinguated
 eyebalm
 estraying
 electromotograph
@@ -7841,7 +7842,6 @@ eosines
 endopsychic
 electrion
 epigrammatic
-elinguated
 electrifiable
 epigrammatically
 epigamic
