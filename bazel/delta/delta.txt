@@ -14319,7 +14319,6 @@ dreadnought
 dynastical
 describable
 desensitize
-demoralizes
 diaporesis
 desoxyribose
 dishallucination
@@ -15982,6 +15981,7 @@ decommission
 decamerous
 desaminase
 downcried
+demoralizes
 delusion
 daydream
 dotal
