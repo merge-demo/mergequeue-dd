@@ -16001,6 +16001,7 @@ clerkless
 cerecloths
 clerkliness
 chlorocarbon
+crookesite
 cervicobuccal
 clerkships
 comrado
@@ -29725,7 +29726,6 @@ crookedly
 crookedness
 crickle
 came
-crookesite
 continuous
 crooking
 chancey
