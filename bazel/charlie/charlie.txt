@@ -3312,7 +3312,6 @@ capnomancy
 capnomor
 cirripede
 cowgram
-connivant
 celli
 capo
 chaufers
@@ -14109,6 +14108,7 @@ coppled
 cyclographer
 coonhound
 cochleas
+connivant
 colloquialisms
 codecree
 chancily
