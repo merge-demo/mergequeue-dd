@@ -15449,7 +15449,6 @@ creaturehood
 clarificant
 clarification
 cavemen
-clarifier
 clarifiers
 chiefry
 clarin
@@ -21544,6 +21543,7 @@ concommitantly
 conconscious
 continently
 cowyard
+clarifier
 cumquats
 concordably
 concordal
