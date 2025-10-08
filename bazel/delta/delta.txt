@@ -6398,6 +6398,7 @@ diplotene
 drogoman
 disassociation
 dorsiventral
+derri
 derodidymus
 demeanour
 derogate
@@ -14344,7 +14345,6 @@ dialyzed
 deadheaded
 diurn
 dhaman
-derri
 dyer
 deuterogenic
 diurnally
