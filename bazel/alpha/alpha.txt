@@ -7755,6 +7755,7 @@ abolishes
 amylolytic
 appmt
 antimedieval
+adiantiform
 alembicated
 antetype
 antisyndication
@@ -21631,7 +21632,6 @@ appreciating
 assertively
 assertor
 abelmusk
-adiantiform
 aggrade
 axiolite
 acrosphacelus
