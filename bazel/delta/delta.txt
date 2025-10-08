@@ -5709,7 +5709,6 @@ deplenish
 dialup
 ducape
 depleted
-daftlike
 depletions
 danton
 depletive
@@ -16881,6 +16880,7 @@ deemphasizing
 dechlorinate
 draconian
 drawgate
+daftlike
 dishonorary
 drawings
 distempered
