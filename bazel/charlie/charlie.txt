@@ -3739,6 +3739,7 @@ carabus
 crocine
 cyclammonium
 captress
+consequent
 cambibia
 ciconia
 carbazic
@@ -27254,7 +27255,6 @@ chitty
 clypeiform
 catharine
 cavillingly
-consequent
 countries
 closelipped
 caravanner
