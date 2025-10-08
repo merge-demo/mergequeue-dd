@@ -8564,6 +8564,7 @@ belatedly
 beeswinged
 barleducs
 becowards
+bywalk
 billiards
 billyboy
 bivalved
@@ -13125,7 +13126,6 @@ brainwash
 baited
 brucite
 borosalicylic
-bywalk
 borotungstate
 bacillar
 boatmen
