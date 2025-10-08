@@ -3715,7 +3715,6 @@ electroendosmotic
 economite
 eyelast
 embroideries
-eolipile
 eulogizing
 eutaxitic
 etuvee
@@ -5488,6 +5487,7 @@ excitate
 equiformity
 enzymosis
 enervation
+eolipile
 ethnically
 enetophobia
 enfaces
