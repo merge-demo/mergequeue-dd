@@ -6636,6 +6636,7 @@ champaign
 cedry
 codeia
 cedrin
+columbin
 crenellation
 cedriret
 cedrol
@@ -21881,7 +21882,6 @@ cricetidae
 conductorial
 conductus
 complementarily
-columbin
 condoling
 comities
 conduit
