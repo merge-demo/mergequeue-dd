@@ -6012,7 +6012,6 @@ antiapostle
 ababua
 agnosia
 anthraces
-ablactate
 agnostus
 agnotozoic
 agnus
@@ -22713,6 +22712,7 @@ atomisms
 agathaumas
 atabek
 attics
+ablactate
 atomity
 angelito
 abricock
