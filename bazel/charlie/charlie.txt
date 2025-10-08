@@ -18609,7 +18609,6 @@ chello
 carnivority
 cill
 cohortative
-circumdiction
 cephalalgia
 crownlet
 consigner
@@ -28983,6 +28982,7 @@ crimination
 ceratopsia
 culpatory
 criminogenesis
+circumdiction
 cigarless
 cals
 criminologic
