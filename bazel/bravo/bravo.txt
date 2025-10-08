@@ -757,6 +757,7 @@ badinerie
 bilo
 badious
 betrays
+bargeboard
 blandiloquence
 brewster
 batata
@@ -9282,7 +9283,6 @@ brines
 birdbaths
 budgetful
 broomroot
-bargeboard
 blethers
 brabbles
 besogne
