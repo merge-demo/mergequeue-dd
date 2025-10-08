@@ -4430,7 +4430,6 @@ becross
 bureaucratism
 becrowd
 bogeyed
-bismanol
 backstrokes
 bloodmobile
 becrowded
@@ -11690,6 +11689,7 @@ butles
 bungstarter
 briseis
 bounders
+bismanol
 benthon
 bucket
 bartlett
