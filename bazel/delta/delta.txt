@@ -3096,7 +3096,6 @@ distoclusion
 defaming
 dynamostatic
 disability
-downstairs
 defaultless
 downfolded
 defaults
@@ -11697,6 +11696,7 @@ declinator
 duplicand
 dashy
 discourteousness
+downstairs
 dominicans
 discoach
 donnard
