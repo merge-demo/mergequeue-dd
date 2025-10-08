@@ -3633,7 +3633,6 @@ balloonery
 bepierce
 bronchotetany
 batrachian
-bifrontal
 beady
 bovines
 bailiffwick
@@ -6829,6 +6828,7 @@ beshade
 boppist
 becudgel
 bismuthinite
+bifrontal
 breccia
 begrudges
 bede
