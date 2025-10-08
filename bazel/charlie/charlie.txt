@@ -3580,7 +3580,6 @@ checkle
 carabidan
 clupein
 carabidoid
-carabids
 compar
 colorist
 carabine
@@ -31734,6 +31733,7 @@ calorizer
 chattelism
 carian
 contemple
+carabids
 custerite
 clappers
 custodee
