@@ -3377,6 +3377,7 @@ eigenvalue
 embarkations
 epitomize
 embarkment
+erythrophagous
 elegises
 embarks
 equipage
@@ -4465,7 +4466,6 @@ encephalartos
 encephalasthenia
 effloresced
 escocheon
-erythrophagous
 encephalitic
 executively
 emulators
