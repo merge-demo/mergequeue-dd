@@ -2922,6 +2922,7 @@ egyptian
 etchings
 embank
 evaporatively
+escape
 embarrassments
 eyewinks
 elicitation
@@ -4795,7 +4796,6 @@ entypies
 enduro
 epidosite
 eccoproticophoric
-escape
 erugate
 estrogenicity
 embrangle
