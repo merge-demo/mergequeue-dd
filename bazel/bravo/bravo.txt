@@ -3672,7 +3672,6 @@ bonnering
 batteners
 bankrupted
 batterdock
-battered
 breck
 bowelless
 batterman
@@ -3905,6 +3904,7 @@ brachial
 becoward
 ballotage
 bd
+battered
 boracium
 bipedism
 buttonholes
