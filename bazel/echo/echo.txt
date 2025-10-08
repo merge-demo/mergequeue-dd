@@ -2285,7 +2285,6 @@ edana
 expert
 essene
 entheal
-euphuism
 eval
 escalatory
 exterminations
@@ -3987,6 +3986,7 @@ emphysema
 endobronchitis
 enchalice
 emphyteutic
+euphuism
 emolumentary
 explantation
 erosionally
