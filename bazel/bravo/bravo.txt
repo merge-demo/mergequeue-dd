@@ -6286,7 +6286,6 @@ booleys
 bequeath
 brontides
 burdener
-bibasic
 benzofuran
 benzofuryl
 bracted
@@ -7398,6 +7397,7 @@ berhymed
 battute
 bonytail
 bowyers
+bibasic
 boothage
 bistre
 bleariest
