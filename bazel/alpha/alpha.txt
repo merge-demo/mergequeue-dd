@@ -4764,6 +4764,7 @@ astonisher
 aerodynes
 anthroposophist
 apostrophal
+atone
 apitpat
 auslaut
 airphobia
@@ -22725,7 +22726,6 @@ atonable
 affected
 atonalistic
 awacs
-atone
 atoned
 alcali
 atones
