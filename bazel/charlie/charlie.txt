@@ -22236,6 +22236,7 @@ colpeurynter
 confrerie
 cornerbind
 cass
+correligionist
 confricamentum
 considerer
 confrontation
@@ -25680,7 +25681,6 @@ champa
 correlatives
 contiguate
 correlativity
-correligionist
 correllations
 cannabidiol
 crumblingness
