@@ -12292,6 +12292,7 @@ anecdotically
 aftmost
 anechoic
 amazed
+applosive
 adar
 anelasticity
 augurship
@@ -17659,7 +17660,6 @@ assorters
 apinae
 archbishops
 allianced
-applosive
 applotment
 asphyxiate
 artemia
