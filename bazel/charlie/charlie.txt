@@ -3885,7 +3885,6 @@ carbuncles
 counteradvantage
 carbuncular
 carbungi
-cometographical
 coenamoring
 cicindela
 caraguata
@@ -28770,6 +28769,7 @@ cresyl
 cresylate
 cameoing
 cresylic
+cometographical
 cresylite
 cresyls
 cresive
