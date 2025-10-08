@@ -2187,6 +2187,7 @@ doh
 detectors
 dawdling
 dapedium
+disentangling
 diabolology
 downtime
 diosmosis
@@ -8695,7 +8696,6 @@ diethylethanolamine
 diphenylene
 diastereomer
 dodges
-disentangling
 dolesomely
 dehumanized
 dauntingness
