@@ -6624,7 +6624,6 @@ cochairman
 cedarwood
 ceded
 ceders
-copepods
 cummins
 cretinize
 chatelet
@@ -25292,6 +25291,7 @@ counterscale
 cornbind
 checkerboards
 cricking
+copepods
 crosspieces
 chromoisomerism
 cornbinks
