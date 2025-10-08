@@ -2539,6 +2539,7 @@ eminency
 eatable
 ezra
 electrometallurgist
+emerized
 emptiable
 extrapolator
 electrometer
@@ -12185,7 +12186,6 @@ entrechats
 emanated
 elementalism
 echiurida
-emerized
 excysted
 excelse
 eunuchry
