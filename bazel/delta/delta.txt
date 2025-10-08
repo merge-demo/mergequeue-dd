@@ -10309,6 +10309,7 @@ divinizes
 diopsidae
 daroo
 dioramas
+determiners
 diophantine
 driftpiece
 dowsing
@@ -10615,7 +10616,6 @@ diploplacular
 degeneration
 diploplaculate
 degarnish
-determiners
 dolomize
 doon
 discoveries
