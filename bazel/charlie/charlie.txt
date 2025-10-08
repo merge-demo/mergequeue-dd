@@ -19349,6 +19349,7 @@ connexities
 colombia
 colombians
 clogging
+clerics
 congerie
 crimsonly
 claudius
@@ -20290,7 +20291,6 @@ caramelization
 commodata
 commodate
 cerebropathy
-clerics
 cyclarthrosis
 commodation
 capmint
