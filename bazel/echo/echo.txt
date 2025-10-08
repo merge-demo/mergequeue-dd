@@ -9331,7 +9331,6 @@ escapage
 eruptible
 eruption
 eruptional
-establishing
 ellen
 eruptive
 ectoparasitic
@@ -9684,6 +9683,7 @@ espousement
 essenwood
 elms
 ectoblast
+establishing
 enshielded
 espouser
 espouses
