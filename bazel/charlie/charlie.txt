@@ -11179,7 +11179,6 @@ chloralum
 chlorambucil
 chloroquine
 contrasting
-chloramin
 chloramphenicol
 curtation
 caperwort
@@ -30425,6 +30424,7 @@ clinger
 chlorine
 ctenidial
 ctenidium
+chloramin
 clownishly
 criniferous
 cellulifugally
