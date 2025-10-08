@@ -16885,7 +16885,6 @@ clubfisted
 clubfoot
 clubfooted
 clubhand
-capotastos
 carpellum
 clubhaul
 correctant
@@ -23855,6 +23854,7 @@ caramboling
 contrarious
 chondralgia
 contrariousness
+capotastos
 cacesthesia
 conjunctival
 centrifugal
