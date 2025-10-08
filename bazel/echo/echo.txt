@@ -2690,7 +2690,6 @@ elderwort
 evanish
 extrasensory
 evovae
-electiveness
 exogastritis
 evolutionize
 electrotype
@@ -11370,6 +11369,7 @@ exuvia
 encompass
 eponymist
 eventime
+electiveness
 errant
 entreated
 entosternite
