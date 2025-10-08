@@ -6669,6 +6669,7 @@ contemporaneously
 ceilingwards
 copiability
 chadelle
+chantry
 celtophobia
 couac
 ceylonite
@@ -8726,7 +8727,6 @@ comps
 commonest
 concise
 cheiloplasties
-chantry
 cynicism
 churchless
 cps
