@@ -5343,7 +5343,6 @@ diathesic
 displant
 decerebrated
 deadheadism
-dealable
 disenchantments
 dorsimesal
 divulgence
@@ -10779,6 +10778,7 @@ disadvantageous
 demirelief
 deuterogelatose
 directdiscourse
+dealable
 dynodes
 derencephalus
 disreputed
