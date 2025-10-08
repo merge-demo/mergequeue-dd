@@ -799,6 +799,7 @@ absaroka
 aspersoir
 allergy
 assertors
+alida
 acesodyne
 abscissas
 anam
@@ -17705,7 +17706,6 @@ arrosion
 astraeidae
 apposer
 antiaris
-alida
 acquittal
 arrearage
 aerotropic
