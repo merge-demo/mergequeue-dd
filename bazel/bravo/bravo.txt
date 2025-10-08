@@ -3339,7 +3339,6 @@ beltine
 basifies
 bayberries
 breast
-balsam
 bellote
 buoyant
 bren
@@ -12751,6 +12750,7 @@ borg
 beeware
 bothriums
 betoyan
+balsam
 ballett
 bakutu
 botanic
