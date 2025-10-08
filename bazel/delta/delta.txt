@@ -8270,7 +8270,6 @@ drumbeat
 diaeretic
 dubiocrystalline
 diaetetae
-diageotropic
 dealbation
 diaglyphic
 desmopelmous
@@ -9693,6 +9692,7 @@ dispense
 daphnias
 devilward
 ditting
+diageotropic
 disbranching
 dungbred
 diageotropy
