@@ -4991,6 +4991,7 @@ claptrap
 collectarium
 cartwheel
 coannex
+crocin
 couchantly
 cartwheeler
 canopic
@@ -27609,7 +27610,6 @@ comous
 cocain
 caterwauled
 cornicle
-crocin
 ctelette
 covillager
 crisping
