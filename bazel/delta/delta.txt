@@ -6360,7 +6360,6 @@ depthwise
 doggerelism
 dermoidectomy
 depauperize
-discontiguous
 dgag
 dermoneural
 drassid
@@ -13536,6 +13535,7 @@ drawlers
 decouple
 dieffenbachia
 downplays
+discontiguous
 dissertate
 discerping
 dreariest
