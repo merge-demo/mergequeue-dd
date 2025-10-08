@@ -751,7 +751,6 @@ badinages
 bitstock
 bearcoot
 badiner
-badinerie
 bilo
 badious
 betrays
@@ -2477,6 +2476,7 @@ bravura
 bargellos
 barger
 biopyribole
+badinerie
 bardash
 bractea
 borscht
