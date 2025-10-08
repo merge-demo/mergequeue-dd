@@ -1246,6 +1246,7 @@ eelcake
 exposition
 eelery
 episomal
+eleemosynary
 evaluation
 endopleuritic
 enmanche
@@ -2721,7 +2722,6 @@ ebons
 electees
 edentate
 envoi
-eleemosynary
 etymology
 emetic
 engorge
