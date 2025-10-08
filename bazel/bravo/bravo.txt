@@ -5115,7 +5115,6 @@ befools
 budworm
 biotic
 broadside
-beggarer
 buccinatory
 bagpod
 beforeness
@@ -14358,6 +14357,7 @@ baken
 beglare
 brainlessness
 bescreen
+beggarer
 bacteroides
 baiocchi
 bicyclo

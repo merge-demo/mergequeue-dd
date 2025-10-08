@@ -13478,6 +13478,7 @@ disagio
 disseason
 disgood
 diphyodont
+downsize
 dismemberment
 donnism
 diving
@@ -16066,7 +16067,6 @@ dimedone
 diphtheritis
 disaffiliating
 dimanganous
-downsize
 disyllable
 decrepitude
 direct
