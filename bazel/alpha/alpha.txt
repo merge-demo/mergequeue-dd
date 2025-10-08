@@ -9729,7 +9729,6 @@ angleworm
 annamese
 agmas
 amaryllises
-antepreterit
 amphigen
 amarine
 amarity
@@ -23382,6 +23381,7 @@ antiprelate
 achroma
 amicus
 august
+antepreterit
 augustal
 apothegmatical
 alamosite
