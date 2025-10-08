@@ -1250,7 +1250,6 @@ exposition
 eelery
 episomal
 eleemosynary
-evaluation
 endopleuritic
 enmanche
 eelfare
@@ -10417,6 +10416,7 @@ ethrogim
 ehatisaht
 etymic
 ergosterin
+evaluation
 endomyces
 electrochronometer
 engraved

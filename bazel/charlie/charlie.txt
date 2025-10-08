@@ -1924,7 +1924,6 @@ carpophagous
 curdling
 colletic
 camenes
-coveters
 criophore
 confeder
 coeducational
@@ -8825,6 +8824,7 @@ chapote
 cave
 cymographic
 confoundingly
+coveters
 carposporic
 cachexic
 chapournet
