@@ -194,6 +194,7 @@ debitumenize
 dealfish
 daemons
 daemonurgist
+distiller
 devotement
 dequeued
 dechlorination
@@ -9604,7 +9605,6 @@ downloadable
 digrediency
 devolatilization
 digressed
-distiller
 dollie
 darn
 digressive
