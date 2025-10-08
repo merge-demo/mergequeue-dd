@@ -1541,7 +1541,6 @@ amalg
 abodement
 accordion
 accordionists
-acheirus
 adamical
 annoyance
 albuminocholia
@@ -5526,6 +5525,7 @@ againsay
 augmentive
 anticensorious
 against
+acheirus
 avellano
 affatuate
 antilens
