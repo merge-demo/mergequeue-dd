@@ -685,6 +685,7 @@ abortions
 absorbency
 afebrile
 apophysate
+amiral
 allegorising
 animadversion
 antiaesthetic
@@ -10612,7 +10613,6 @@ autoinoculable
 arthropomatous
 achroiocythaemia
 absinth
-amiral
 animosities
 aqueoigneous
 apprize
