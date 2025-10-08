@@ -13181,7 +13181,6 @@ bewit
 bipinnate
 bebouldered
 benzdiazine
-bose
 bannockburn
 bounder
 blaoners
@@ -18327,6 +18326,7 @@ bescratch
 breviaries
 balanta
 biasness
+bose
 boilable
 buttress
 bedding
