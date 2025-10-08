@@ -14967,6 +14967,7 @@ dodecarch
 dividedness
 dodecasemic
 dinic
+disrating
 decadi
 dodecasyllable
 diethylamine
@@ -15926,7 +15927,6 @@ dizzying
 depreciant
 devilship
 dioptrics
-disrating
 disregardant
 dhourras
 defecated
