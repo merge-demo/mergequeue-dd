@@ -8185,6 +8185,7 @@ browpiece
 blewits
 bigwiggery
 bifilar
+bemuzzling
 bobbery
 brecciating
 biflabellate
@@ -17701,7 +17702,6 @@ bawbees
 bumfs
 burnside
 bilharzia
-bemuzzling
 barquette
 boswellism
 buglewort
