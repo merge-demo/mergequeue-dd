@@ -4049,6 +4049,7 @@ exteriorize
 epiphonemae
 empathized
 egotistical
+educating
 eugenical
 electrotonize
 emil
@@ -13710,7 +13711,6 @@ elatine
 endnote
 extratemporal
 esteemed
-educating
 elfhood
 euphemised
 emblazoning
