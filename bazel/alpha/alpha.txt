@@ -1051,7 +1051,6 @@ abuilding
 abuleia
 applesnits
 apodictive
-antitorpedo
 allegers
 arietation
 atticizing
@@ -5958,6 +5957,7 @@ amphizoidae
 abrading
 alcyonarian
 aglint
+antitorpedo
 arbitrated
 autocytolytic
 avouches
