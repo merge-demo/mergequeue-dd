@@ -2293,7 +2293,6 @@ doughboys
 deceit
 dedan
 debase
-deceiving
 defuzes
 disdain
 disthroning
@@ -6839,6 +6838,7 @@ dermographic
 deslime
 dialyzate
 daubery
+deceiving
 docken
 decidingly
 dictyoceratina
