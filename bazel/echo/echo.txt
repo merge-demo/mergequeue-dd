@@ -1280,7 +1280,6 @@ epithalamion
 encircler
 endogenesis
 eassel
-enteroid
 epyllia
 earthless
 effectiveness
@@ -8253,6 +8252,7 @@ epergnes
 escribe
 epopoeia
 eulogize
+enteroid
 enatant
 epistolised
 eure
