@@ -15308,7 +15308,6 @@ clamorousness
 corallite
 clamorsome
 corgis
-clamour
 contune
 cordant
 copalchi
@@ -23850,6 +23849,7 @@ cosavior
 coupleteer
 chancellory
 classy
+clamour
 caramboling
 contrarious
 chondralgia
