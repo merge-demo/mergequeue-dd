@@ -11847,6 +11847,7 @@ deterrable
 dihelium
 diallagoid
 delations
+deoculate
 drawknives
 diformin
 designatory
@@ -16619,7 +16620,6 @@ dissimilarities
 disrank
 diatonically
 disharmonic
-deoculate
 disco
 decompile
 disclaims
