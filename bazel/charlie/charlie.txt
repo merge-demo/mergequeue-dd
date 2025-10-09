@@ -3299,7 +3299,6 @@ capitulate
 capitulates
 capitulator
 curlewberry
-cerium
 celebratory
 coilers
 caplin
@@ -6842,6 +6841,7 @@ colubrids
 chairmaker
 cathodofluorescence
 celloidin
+cerium
 constative
 counterbalance
 chirographic
