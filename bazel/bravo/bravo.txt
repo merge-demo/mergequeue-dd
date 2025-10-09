@@ -578,6 +578,7 @@ balisaur
 baconian
 breaths
 baconianism
+bankroll
 belleric
 brutishly
 bye
@@ -10743,7 +10744,6 @@ bebatter
 braeside
 brags
 blennosis
-bankroll
 beclart
 bregmate
 beethovenish
