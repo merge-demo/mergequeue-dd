@@ -3332,6 +3332,7 @@ berimes
 bronchobuster
 bedamning
 barbu
+boroglyceride
 basoid
 baraithas
 bus
@@ -17971,7 +17972,6 @@ blossomy
 bicornuous
 bromise
 busket
-boroglyceride
 baseness
 bellmouthed
 biotas
