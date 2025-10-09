@@ -2843,7 +2843,6 @@ emotionlessly
 eleusinia
 explicantia
 emasculator
-eventognath
 eleutherian
 eleutherios
 estuarian
@@ -13142,6 +13141,7 @@ embellishing
 experimenters
 enheaven
 ecesises
+eventognath
 extollation
 embolomycotic
 experimenting
