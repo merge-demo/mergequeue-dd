@@ -6732,7 +6732,6 @@ bemaddens
 bertolonia
 broiders
 bertrum
-bullarium
 butanone
 beachy
 birse
@@ -8216,6 +8215,7 @@ bakehouses
 bifocal
 betimes
 bejumbles
+bullarium
 berith
 berrichonne
 bb
