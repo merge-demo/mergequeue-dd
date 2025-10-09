@@ -6775,7 +6775,6 @@ caruncle
 casketing
 celestify
 chilion
-celestina
 celestite
 celestitude
 clivias
@@ -8925,6 +8924,7 @@ compendiousness
 charadriiformes
 charadrine
 caracas
+celestina
 cruciformly
 constance
 charadriomorphae
