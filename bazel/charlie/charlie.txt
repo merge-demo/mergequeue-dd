@@ -18459,7 +18459,6 @@ cutaway
 cementum
 cognisable
 catholicized
-crewelwork
 chatties
 calpulli
 corporal
@@ -24654,6 +24653,7 @@ chordotonal
 clamshell
 coplot
 comoquer
+crewelwork
 cauqui
 coplotter
 counterpaly
