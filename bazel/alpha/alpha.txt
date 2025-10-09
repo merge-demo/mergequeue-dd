@@ -8933,7 +8933,6 @@ achondrite
 aeromotor
 alps
 astrictiveness
-abacas
 attached
 alliant
 antimilitaristic
@@ -10344,6 +10343,7 @@ amiability
 archcharlatan
 amiableness
 amiably
+abacas
 aswooned
 annonce
 accomplishing
