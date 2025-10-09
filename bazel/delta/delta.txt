@@ -10550,7 +10550,6 @@ discoblastula
 diploe
 disbalancement
 demothball
-dependable
 debouched
 driveler
 drearies
@@ -16520,6 +16519,7 @@ deodorizing
 dracone
 docilities
 draconid
+dependable
 dracontian
 dhoni
 dandies
