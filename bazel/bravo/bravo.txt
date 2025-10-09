@@ -3031,7 +3031,6 @@ backswordsman
 bordermark
 bookbinderies
 bartramian
-buxeous
 bartree
 beetmister
 banakite
@@ -9761,6 +9760,7 @@ bitanhol
 bilineated
 beneplacito
 bandonion
+buxeous
 begin
 bongo
 bibracteolate
