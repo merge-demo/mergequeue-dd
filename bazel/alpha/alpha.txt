@@ -2822,7 +2822,6 @@ acropoleis
 acriflavin
 acropora
 acarologist
-acropore
 augustest
 acrosome
 acrosomes
@@ -14453,6 +14452,7 @@ apostematic
 aphenoscope
 anthroposociology
 altarlet
+acropore
 adoretus
 andalusian
 anthroposophy
