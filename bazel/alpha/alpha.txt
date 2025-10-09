@@ -2459,6 +2459,7 @@ amidate
 acoma
 arthropleura
 antluetic
+agitprop
 aurophore
 acomia
 anglicize
@@ -5936,7 +5937,6 @@ amyous
 austrogaea
 albuminoidal
 agitatrix
-agitprop
 agitprops
 aglaia
 aglance
