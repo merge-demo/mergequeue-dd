@@ -12769,7 +12769,6 @@ demode
 debouch
 deviators
 duplicatus
-derepression
 dysluite
 delicto
 dignify
@@ -13373,6 +13372,7 @@ divorced
 diffidentness
 deliverymen
 disquisit
+derepression
 dermophlebitis
 diplomatists
 dorsispinal
