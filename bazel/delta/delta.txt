@@ -1373,7 +1373,6 @@ discerners
 doup
 decipium
 deuced
-duelli
 definer
 daggerproof
 dauphine
@@ -2483,6 +2482,7 @@ destrudo
 diplodocus
 docetae
 decision
+duelli
 dnieper
 dozing
 decisional
