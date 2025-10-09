@@ -16967,7 +16967,6 @@ clumsier
 churchly
 coenosteal
 choule
-camera
 chondromyoma
 concretize
 cornetfish
@@ -23069,6 +23068,7 @@ consolator
 consolatory
 console
 crossfire
+camera
 companyless
 copist
 consoles
