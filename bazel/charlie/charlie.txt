@@ -1906,6 +1906,7 @@ chattelhood
 camelopardalis
 consubstantiation
 carcinus
+corrugated
 cinnamomum
 chiliarchy
 camelopards
@@ -25796,7 +25797,6 @@ colophonate
 cinclidotus
 corrugant
 corrugate
-corrugated
 cataphoric
 chout
 cleidosternal
