@@ -8753,7 +8753,6 @@ deescalations
 diatomist
 dot
 demimonk
-decime
 distastefully
 demythologisation
 devolute
@@ -13517,6 +13516,7 @@ dissentment
 diagraphic
 dissemination
 dalmatians
+decime
 dendritically
 distributival
 digredient
