@@ -6843,6 +6843,7 @@ boppist
 becudgel
 bismuthinite
 breccia
+bisector
 begrudges
 bede
 belam
@@ -12572,7 +12573,6 @@ bonnwis
 bonorum
 bouche
 baser
-bisector
 bagatelle
 bills
 brainchild
