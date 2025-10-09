@@ -5305,6 +5305,7 @@ blueblack
 billionaires
 bloodlines
 begorah
+bearer
 brevicipitidae
 bacteriogenic
 bonace
@@ -14377,7 +14378,6 @@ bisley
 bacterioscopic
 blighting
 basiparachromatin
-bearer
 behoving
 bassette
 barnstorm
