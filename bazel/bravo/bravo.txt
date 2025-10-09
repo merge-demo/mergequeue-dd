@@ -5738,6 +5738,7 @@ bugled
 bascule
 bimillenium
 biremes
+batton
 butlerism
 bandstop
 biotomy
@@ -13989,7 +13990,6 @@ bemouth
 buffooneries
 bracer
 backbenchers
-batton
 bibbled
 belaboured
 barriguda
