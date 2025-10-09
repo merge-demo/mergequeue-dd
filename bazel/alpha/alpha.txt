@@ -14761,7 +14761,6 @@ aitesis
 asseth
 akha
 anticlassical
-apprehend
 antiaphthic
 aburagiri
 advertize
@@ -22818,6 +22817,7 @@ atrochous
 aly
 an
 antimaterialism
+apprehend
 assessionary
 apsides
 apollonicon
