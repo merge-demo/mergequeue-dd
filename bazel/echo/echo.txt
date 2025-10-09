@@ -6772,6 +6772,7 @@ ergon
 educator
 extramural
 entire
+extroversion
 epithumetic
 engluts
 enjoys
@@ -7689,7 +7690,6 @@ ectocrine
 espece
 epicuticle
 elephanticide
-extroversion
 epicuticular
 entomotomist
 exacta
