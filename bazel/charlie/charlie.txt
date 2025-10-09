@@ -20248,7 +20248,6 @@ celure
 callicebus
 commissary
 commissars
-coccidiomorpha
 commissional
 cherubical
 commissioned
@@ -24646,6 +24645,7 @@ checkweighmen
 copyreader
 curiosos
 copyrightable
+coccidiomorpha
 copis
 chicnesses
 coattended
