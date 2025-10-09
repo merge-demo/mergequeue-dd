@@ -780,7 +780,6 @@ emden
 emydidae
 enolizing
 extramedullary
-eolotropic
 emotionalization
 electrobus
 equiponderance
@@ -6439,6 +6438,7 @@ eastern
 epithetician
 equatorial
 epeirogenetic
+eolotropic
 ecophene
 electromyography
 espave
