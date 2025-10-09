@@ -2919,6 +2919,7 @@ eriophyid
 equicostate
 elias
 epitomiser
+elongation
 eelworms
 epistomal
 egyptian
@@ -3158,7 +3159,6 @@ epigonousepigons
 entheasm
 eryx
 euphenics
-elongation
 edict
 epiplastral
 eom
