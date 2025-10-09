@@ -2640,7 +2640,6 @@ dorbug
 drainless
 decompensations
 dasylirion
-doorkeeper
 drossless
 deviceful
 decomposer
@@ -11706,6 +11705,7 @@ donnard
 discoverable
 disworth
 dorms
+doorkeeper
 decancellation
 dodoes
 downlinked
