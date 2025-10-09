@@ -5048,6 +5048,7 @@ economization
 eupolyzoan
 elan
 emerited
+expenthesis
 endoauscultation
 effervescently
 epitonic
@@ -9794,7 +9795,6 @@ efficiencies
 encouragements
 estab
 euphrates
-expenthesis
 electroplate
 estable
 ervils
