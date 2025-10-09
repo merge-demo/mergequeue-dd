@@ -7368,7 +7368,6 @@ defecters
 distruss
 determinantal
 damosels
-donnie
 decolonization
 depositum
 diphthongia
@@ -15539,6 +15538,7 @@ dona
 dict
 donaciform
 donack
+donnie
 daishiki
 deadman
 dragbar
