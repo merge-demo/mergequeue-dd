@@ -13204,6 +13204,7 @@ clavichordist
 cyclamen
 campshot
 cyclamens
+caprificator
 cyclamine
 cyclane
 cataphonic
@@ -14341,7 +14342,6 @@ cevadilla
 conamed
 cheiranthus
 chorioiditis
-caprificator
 circumrotate
 cuneonavicular
 circumsail
