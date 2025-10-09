@@ -5642,6 +5642,7 @@ beery
 beliefless
 botanophile
 badman
+bezan
 buzzardly
 benzacridine
 blemishing
@@ -7579,7 +7580,6 @@ barranca
 balanidae
 brasilins
 bilabiate
-bezan
 badarian
 biplace
 bezanty
