@@ -3326,6 +3326,7 @@ enteralgia
 epicnemial
 elaeodendron
 erythrin
+enchytrae
 euphroe
 equiangular
 emphemeralness
@@ -4680,7 +4681,6 @@ encyclopediacal
 execrableness
 equestrianship
 exceptionability
-enchytrae
 ectotropic
 endemics
 electromagnets

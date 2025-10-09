@@ -2242,6 +2242,7 @@ compassionable
 catchwords
 counterlathing
 centaurus
+comedo
 canadine
 corresponds
 celiectasia
@@ -19920,7 +19921,6 @@ comediette
 coolie
 coagulate
 chelydridae
-comedo
 coprophilic
 catacumbal
 cassareep
