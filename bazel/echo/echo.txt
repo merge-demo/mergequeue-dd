@@ -5218,6 +5218,7 @@ endoparasitica
 etiotropically
 endopathic
 endopelvic
+ectocondyloid
 encyclopaedist
 endoperidium
 externalised
@@ -13485,7 +13486,6 @@ equianharmonic
 egocentricities
 edge
 erk
-ectocondyloid
 editing
 etruscologist
 evaporite
