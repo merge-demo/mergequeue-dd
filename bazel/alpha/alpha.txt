@@ -9835,7 +9835,6 @@ abayah
 afferently
 abele
 ambarella
-activator
 aglimmer
 angustisellate
 ambari
@@ -21655,6 +21654,7 @@ authorcraft
 appliance
 aphroditic
 assertum
+activator
 amynodont
 acanaceous
 actus
