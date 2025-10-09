@@ -7737,6 +7737,7 @@ advent
 aleyrodes
 antilogarithm
 arcboutant
+antinatural
 aleknight
 agreat
 assurant
@@ -11397,7 +11398,6 @@ astrologous
 amusette
 amusia
 amusias
-antinatural
 antiguan
 amusingness
 anaphorical
