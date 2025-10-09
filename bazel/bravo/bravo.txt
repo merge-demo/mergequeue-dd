@@ -6992,7 +6992,6 @@ boweled
 bombidae
 benote
 bewhiskered
-barbute
 blaming
 bedazzlement
 bespangling
@@ -16266,6 +16265,7 @@ brelan
 blueing
 brummagen
 broidered
+barbute
 bootlicked
 brumous
 bullalaria
