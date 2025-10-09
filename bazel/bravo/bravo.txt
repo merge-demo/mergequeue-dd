@@ -11870,6 +11870,7 @@ bodrage
 boors
 boysenberries
 bodiliness
+barehanded
 baalite
 beylik
 bouillons
@@ -13703,7 +13704,6 @@ braking
 boutique
 boches
 bouto
-barehanded
 bandlet
 bedmaker
 butternose
