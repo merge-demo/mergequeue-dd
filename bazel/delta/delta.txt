@@ -11455,6 +11455,7 @@ dicotyledonous
 deterration
 degassing
 damasse
+dequantitate
 deskbound
 dyotheletic
 dilatingly
@@ -13596,7 +13597,6 @@ dullishly
 diminishment
 dissimilars
 dorize
-dequantitate
 diedral
 dissimilate
 diduction
