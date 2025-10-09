@@ -173,6 +173,7 @@ detraque
 dinornithoid
 doweral
 daedalea
+diagredium
 dears
 dysoxidizable
 diminish
@@ -8334,7 +8335,6 @@ dissimile
 defocus
 deprive
 diagraphs
-diagredium
 dermatopathia
 detestableness
 diadelphia
