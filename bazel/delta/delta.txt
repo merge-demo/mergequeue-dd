@@ -10632,6 +10632,7 @@ degeneration
 diploplaculate
 degarnish
 dolomize
+dockyards
 doon
 discoveries
 dioc
@@ -14834,7 +14835,6 @@ dockhand
 depilatories
 dockhouse
 deringers
-dockyards
 docking
 dominica
 depair
