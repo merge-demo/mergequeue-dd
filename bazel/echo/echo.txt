@@ -9207,6 +9207,7 @@ embound
 epikleses
 empannel
 epiderm
+exsiliency
 erotylidae
 enlarges
 extremer
@@ -11122,7 +11123,6 @@ euthycomi
 evangelicism
 exploitable
 enol
-exsiliency
 euthytatic
 exopt
 erne
