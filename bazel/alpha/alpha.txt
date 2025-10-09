@@ -8650,7 +8650,6 @@ anglist
 anticeremonially
 avery
 allie
-allies
 alligated
 acceders
 anabrosis
@@ -10528,6 +10527,7 @@ amyloidosis
 amyloleucite
 antivenine
 afterwrath
+allies
 adiathermic
 amylolysis
 arkite
