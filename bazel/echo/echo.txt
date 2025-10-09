@@ -4917,6 +4917,7 @@ endaspidean
 endbrains
 epipodite
 emusify
+endolysin
 euhemerize
 eyelight
 endocardium
@@ -5195,7 +5196,6 @@ eskers
 electromagnetic
 ergotize
 exitus
-endolysin
 eparchy
 esterification
 equipluve
