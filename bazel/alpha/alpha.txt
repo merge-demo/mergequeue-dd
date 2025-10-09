@@ -9722,6 +9722,7 @@ azimethylene
 ataraxy
 aforeward
 angioglioma
+anecdotic
 amaranthus
 amarantine
 amarantus
@@ -12297,7 +12298,6 @@ axisymmetry
 ajowan
 anecdote
 anecdotes
-anecdotic
 anova
 anecdotically
 aftmost
