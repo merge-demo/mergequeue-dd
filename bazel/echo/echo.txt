@@ -1238,7 +1238,6 @@ extremal
 eme
 extrascripturality
 epit
-enneastyle
 eel
 escalade
 externity
@@ -4344,6 +4343,7 @@ encephalosclerosis
 embraceor
 enantioses
 endoplastule
+enneastyle
 enoughs
 euornithes
 enapt
