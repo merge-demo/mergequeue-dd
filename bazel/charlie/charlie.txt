@@ -9412,7 +9412,6 @@ condemner
 compart
 chavicin
 combretum
-chomp
 chavicol
 cautelousness
 chaw
@@ -19354,6 +19353,7 @@ chiropodic
 choel
 colola
 cololite
+chomp
 colomb
 cruppering
 connexities
