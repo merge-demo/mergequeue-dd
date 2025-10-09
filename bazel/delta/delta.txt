@@ -11955,7 +11955,6 @@ deputizes
 descry
 dewater
 dilacerate
-deduced
 deleading
 direfulness
 diseme
@@ -17235,6 +17234,7 @@ distileries
 dysplastic
 drinkables
 disgaveled
+deduced
 dowitch
 drinks
 dynamics
