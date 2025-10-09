@@ -12381,6 +12381,7 @@ ephesian
 electrotonicity
 essencing
 electrolyze
+enties
 eucleidae
 earn
 estriol
@@ -13179,7 +13180,6 @@ evenglow
 entailment
 ewer
 embroil
-enties
 expiation
 ensilate
 expiational
