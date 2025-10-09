@@ -2065,7 +2065,6 @@ blossomry
 betide
 bcf
 blinkingly
-bannerols
 bannisters
 bizen
 birthmarks
@@ -3966,6 +3965,7 @@ beaconless
 bancales
 bicycles
 buoyancy
+bannerols
 beader
 bellmaker
 barnhardtite
