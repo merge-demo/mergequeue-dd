@@ -5599,6 +5599,7 @@ dispersed
 dukeship
 dowp
 disemplaned
+dreigh
 doronicum
 dollardee
 deperdit
@@ -17945,7 +17946,6 @@ duffed
 depopulates
 demodulate
 dispermous
-dreigh
 dekares
 dialyze
 diordinal
