@@ -5935,7 +5935,6 @@ depressibilities
 disrespectable
 discriminous
 deozonization
-dextrose
 declass
 defenses
 depressingly
@@ -6257,6 +6256,7 @@ dermatagra
 dermatophagus
 dermatotropic
 desiccator
+dextrose
 dizaine
 decagon
 dirged
