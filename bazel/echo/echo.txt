@@ -4993,6 +4993,7 @@ escalop
 encapsule
 enfoncee
 encamp
+epiphenomenon
 erogeneity
 eggplants
 epithelioblastoma
@@ -7035,7 +7036,6 @@ earphone
 effectuate
 enteric
 enactory
-epiphenomenon
 eundem
 euphonize
 emote
