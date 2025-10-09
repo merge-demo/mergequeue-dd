@@ -8698,7 +8698,6 @@ dichastasis
 decisions
 dactyliomancy
 deathrate
-do
 depolarizing
 diethylethanolamine
 diphenylene
@@ -16901,6 +16900,7 @@ dilacerated
 demipriest
 determinativeness
 discharity
+do
 dozes
 depreciations
 drawoff
