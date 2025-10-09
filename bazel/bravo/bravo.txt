@@ -918,7 +918,6 @@ bandyball
 broccoli
 bardiglio
 bagre
-berryless
 benzoquinone
 batoneer
 belligerently
@@ -4206,6 +4205,7 @@ begaud
 begat
 beardless
 benthamic
+berryless
 bathomania
 bishopbird
 banff
