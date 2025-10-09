@@ -577,6 +577,7 @@ endogastrically
 echis
 enthean
 euglenas
+exotropism
 echitamine
 eccentrical
 epigynum
@@ -13012,7 +13013,6 @@ expatiated
 efflate
 expedience
 engrossment
-exotropism
 elopement
 epopee
 endochondral
