@@ -8634,6 +8634,7 @@ brochette
 balcone
 bretons
 billtong
+bromthymol
 boatshop
 basins
 brachiating
@@ -11500,7 +11501,6 @@ bluffs
 boastfully
 behaves
 barytophyllite
-bromthymol
 budder
 bluggy
 bispore
