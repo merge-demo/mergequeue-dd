@@ -821,7 +821,6 @@ bafflingness
 burnsides
 bonelike
 bumpily
-betorcin
 barragon
 breakaxe
 bewinged
@@ -5854,6 +5853,7 @@ broadpiece
 brontothere
 buffaloes
 belauding
+betorcin
 baseman
 bejant
 belter
