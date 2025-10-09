@@ -2101,6 +2101,7 @@ achkan
 aristeas
 anthophilous
 awols
+adjurors
 alcovinometer
 ammobium
 admixing
@@ -19424,7 +19425,6 @@ adenotomy
 animatism
 anecdotal
 argonautid
-adjurors
 argonne
 argonon
 argons
