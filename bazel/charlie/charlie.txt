@@ -1598,6 +1598,7 @@ chiasmatype
 crureus
 cadillac
 calmest
+caddish
 calmiest
 calming
 calmness
@@ -25744,7 +25745,6 @@ camarilla
 cathodical
 canterburianism
 cephalotheca
-caddish
 conciliating
 cataleptize
 chairmanship
