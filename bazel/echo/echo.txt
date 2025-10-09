@@ -6525,6 +6525,7 @@ eccl
 entamoebic
 endostosis
 ephyra
+effluvias
 extratension
 entomophthora
 elaphodus
@@ -12914,7 +12915,6 @@ evangeliary
 endostylar
 energetically
 ethnographical
-effluvias
 earstones
 electropuncturing
 epinine
