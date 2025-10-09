@@ -8097,7 +8097,6 @@ bibliology
 bannister
 bulbiferous
 branches
-byronian
 blooper
 bimbashi
 binous
@@ -14718,6 +14717,7 @@ brightener
 burnish
 blent
 benzofulvene
+byronian
 bedimplies
 biophysical
 bardiest
