@@ -18266,7 +18266,6 @@ atossa
 araise
 aronia
 arakanese
-archaism
 archway
 anguillule
 antiunionist
@@ -20605,6 +20604,7 @@ alder
 anionically
 angami
 articularly
+archaism
 articulars
 apandry
 articulata
