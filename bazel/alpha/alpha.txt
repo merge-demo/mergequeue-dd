@@ -22006,7 +22006,6 @@ archeology
 aortae
 asthenolith
 asthenology
-asthenophobia
 anguid
 asthma
 allegiare
@@ -23448,6 +23447,7 @@ aphidolysin
 alinit
 aumrie
 apneumona
+asthenophobia
 alforjas
 amply
 allelomorph
