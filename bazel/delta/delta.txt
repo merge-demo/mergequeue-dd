@@ -465,7 +465,6 @@ dais
 dentel
 dramm
 dingthrift
-disinthrall
 donjons
 diathermous
 defiance
@@ -5518,6 +5517,7 @@ depictive
 depainted
 depancreatization
 disilluminate
+disinthrall
 downheaded
 depardieu
 dynamo
