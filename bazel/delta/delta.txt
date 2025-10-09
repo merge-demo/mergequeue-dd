@@ -8692,6 +8692,7 @@ dichastasis
 decisions
 dactyliomancy
 deathrate
+do
 depolarizing
 diethylethanolamine
 diphenylene
@@ -11111,7 +11112,6 @@ disarrays
 decamp
 desilicated
 disarranges
-do
 discernibility
 dendroctonus
 dulled
