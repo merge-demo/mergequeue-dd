@@ -7546,7 +7546,6 @@ detruncation
 damneder
 detrusion
 duvetyns
-deposal
 detuning
 defrayment
 disjoining
@@ -9072,6 +9071,7 @@ demerara
 dictaen
 disenchanting
 drophead
+deposal
 drinkproof
 depectible
 doping

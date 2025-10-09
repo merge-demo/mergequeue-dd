@@ -22329,6 +22329,7 @@ congenital
 congeon
 congeree
 congery
+catastrophe
 coloratura
 congers
 chemigraphically
@@ -29269,7 +29270,6 @@ cryptogame
 cryptogamy
 cryptogamic
 cryptogamical
-catastrophe
 cryptogamist
 cryptogenic
 copraemia
