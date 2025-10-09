@@ -3875,7 +3875,6 @@ disprized
 donought
 dentalization
 dannemorite
-deathfully
 deirid
 deiseal
 disquieting
@@ -14049,6 +14048,7 @@ deprivation
 diabantite
 distributionist
 divariant
+deathfully
 devouress
 defial
 demagnetiser
