@@ -2450,7 +2450,6 @@ appennage
 ascidiferous
 amoebicidal
 aculei
-acolythate
 amphiaster
 ardella
 autoserum
@@ -25223,6 +25222,7 @@ antediluvially
 arching
 azaserine
 asperated
+acolythate
 aldine
 ammonal
 azelaic
