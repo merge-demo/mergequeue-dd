@@ -4600,6 +4600,7 @@ elucubrate
 excellent
 exarchs
 egotists
+ephods
 equinities
 enchyma
 estheticism
@@ -7049,7 +7050,6 @@ enepidermic
 editorials
 eliquate
 excorticated
-ephods
 enheritance
 exclamation
 englishry
