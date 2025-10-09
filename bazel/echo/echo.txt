@@ -6262,6 +6262,7 @@ equisonant
 enrapts
 ethynyl
 experimentative
+eductor
 encoignure
 enraptured
 elemong
@@ -13224,7 +13225,6 @@ enzooty
 explainable
 expropriated
 explainableness
-eductor
 epiphytism
 eldred
 excluders
