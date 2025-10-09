@@ -5156,7 +5156,6 @@ behoove
 befringe
 branchiata
 befringing
-butenes
 breezed
 brontograph
 befuddle
@@ -11216,6 +11215,7 @@ blossoms
 benign
 bloopers
 blooth
+butenes
 blosmy
 bedights
 binocles
