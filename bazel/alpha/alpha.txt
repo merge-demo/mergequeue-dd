@@ -14220,6 +14220,7 @@ autobiographies
 antiquist
 asphyxiates
 alberto
+algivorous
 antiprimer
 achromatin
 anthologising
@@ -25359,7 +25360,6 @@ azotic
 azotises
 araby
 azotize
-algivorous
 andesites
 azotoluene
 azotorrhea
