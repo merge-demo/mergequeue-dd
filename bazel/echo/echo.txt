@@ -7975,7 +7975,6 @@ enterocholecystostomy
 evolutionary
 epineuria
 epineurium
-enclaving
 ergotinine
 endostea
 eczematization
@@ -12051,6 +12050,7 @@ enlivenment
 excoriation
 enwwove
 excoriations
+enclaving
 epiclike
 electrostenolytic
 effluvious
