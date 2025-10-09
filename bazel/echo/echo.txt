@@ -5701,6 +5701,7 @@ engineries
 embrace
 eau
 educabilia
+exhibitioner
 engirdle
 extraversive
 ebullient
@@ -8421,7 +8422,6 @@ embaying
 eumitosis
 ethoses
 eponge
-exhibitioner
 ethopoetic
 extensure
 eurytropic
