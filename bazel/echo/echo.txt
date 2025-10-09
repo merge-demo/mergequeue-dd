@@ -1331,7 +1331,6 @@ eriocomi
 eisteddfodism
 effeminise
 especial
-elemin
 eelspear
 excursiveness
 effeminising
@@ -9665,6 +9664,7 @@ espingole
 execrative
 equaling
 espino
+elemin
 erythroplastid
 evilsayer
 esplanade
