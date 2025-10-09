@@ -11096,7 +11096,6 @@ bilgier
 beguines
 blotty
 baldacchino
-balaklava
 beveto
 bilirubinic
 bioral
@@ -17634,6 +17633,7 @@ baghdad
 bordage
 betokening
 blisterous
+balaklava
 boviculture
 burlet
 butterfly
