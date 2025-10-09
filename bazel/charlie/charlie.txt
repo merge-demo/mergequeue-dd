@@ -4557,6 +4557,7 @@ cacomixls
 carnivals
 carnivoral
 carnivore
+calms
 cordialness
 comart
 carnivorousness
@@ -15905,7 +15906,6 @@ chesterfields
 chronomancy
 cleft
 cleidagra
-calms
 chamal
 cadaverize
 cleidocostal
