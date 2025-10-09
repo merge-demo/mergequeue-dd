@@ -4990,7 +4990,6 @@ bodings
 branchiosaur
 bawls
 barretries
-bedunces
 bronzings
 beetroots
 breviate
@@ -15975,6 +15974,7 @@ baluster
 bidery
 brim
 boskiest
+bedunces
 bigeminal
 bestness
 brookite

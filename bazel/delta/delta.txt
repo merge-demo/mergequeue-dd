@@ -7720,6 +7720,7 @@ development
 demiurge
 depthlessness
 developmental
+dyne
 disavowment
 developmentarian
 dustpan
@@ -10319,7 +10320,6 @@ debt
 disproportional
 desilverizer
 discophore
-dyne
 dioptrate
 dragoon
 dupla
