@@ -7941,6 +7941,7 @@ dewberries
 dolichosaur
 dewcap
 disklike
+dormers
 dewclaws
 dianthus
 dioestrus
@@ -15824,7 +15825,6 @@ dellaring
 disweapon
 detenu
 deproceduring
-dormers
 doeg
 dormette
 dormeuse
