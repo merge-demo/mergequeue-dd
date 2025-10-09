@@ -5720,7 +5720,6 @@ engirdling
 emplectite
 engirds
 eyeglance
-extraverted
 extemporised
 endofaradism
 enolases
@@ -7219,6 +7218,7 @@ exudate
 enthronize
 eyalet
 enzootics
+extraverted
 escheve
 entophytous
 electrophilically
