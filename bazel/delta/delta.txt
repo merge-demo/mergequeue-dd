@@ -3481,6 +3481,7 @@ dactyloid
 desaturate
 descensory
 desiccated
+dragee
 desmomyaria
 dufoil
 drapery
@@ -16592,7 +16593,6 @@ denar
 depicted
 disingenuity
 draft
-dragee
 dasyurus
 disputed
 drammach
