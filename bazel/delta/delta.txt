@@ -4697,6 +4697,7 @@ denarius
 dedolency
 dustproof
 demiscible
+dusked
 demise
 diopsides
 demised
@@ -18582,7 +18583,6 @@ deaconal
 downrightly
 decentration
 dantean
-dusked
 ditchdigger
 dissimilitude
 dusky
