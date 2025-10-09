@@ -2353,7 +2353,6 @@ ellipsis
 ecumenical
 euomphalus
 emulsifying
-egba
 episteme
 electrocolloidal
 edulcoration
@@ -10146,6 +10145,7 @@ elope
 extraorbital
 etherialised
 epicrates
+egba
 elaborators
 edgier
 emmove
