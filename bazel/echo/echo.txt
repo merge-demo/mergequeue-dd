@@ -5315,7 +5315,6 @@ epiphyte
 ectoethmoid
 epituberculous
 exasperation
-exposers
 embarrassing
 endosteoma
 essentialism
@@ -8623,6 +8622,7 @@ eunomia
 espantoon
 encirclements
 erythrogonium
+exposers
 erineum
 enzymotic
 endophytal
