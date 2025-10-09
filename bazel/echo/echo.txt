@@ -272,7 +272,6 @@ expressivism
 eucalyptole
 eightsmen
 electrostatic
-encashed
 electroplated
 expiries
 easterling
@@ -1440,6 +1439,7 @@ electrophoresis
 eelpout
 effort
 ethmovomer
+encashed
 emmenic
 emeline
 ergonomic

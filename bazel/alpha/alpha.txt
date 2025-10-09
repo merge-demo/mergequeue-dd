@@ -116,6 +116,7 @@ aludra
 ampere
 arsenicking
 appraisals
+awakings
 anthood
 antiheroes
 assertive
@@ -11021,7 +11022,6 @@ amperian
 amphistomum
 adnexopexy
 attenuation
-awakings
 aortitis
 athetosic
 apocatastasis
