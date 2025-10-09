@@ -2136,6 +2136,7 @@ camphorwood
 conference
 campi
 concurrency
+cabalistically
 campy
 campier
 campiest
@@ -10654,7 +10655,6 @@ crunchily
 chylophyllously
 comiakin
 catachresis
-cabalistically
 cashbook
 catogene
 chylopoiesis
