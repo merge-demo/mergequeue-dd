@@ -13619,6 +13619,7 @@ anophele
 angeldom
 anopheles
 anophelinae
+apoapsis
 ardea
 adamants
 anophoria
@@ -20792,7 +20793,6 @@ ambulating
 alveolar
 aliya
 acetifies
-apoapsis
 arthrogastra
 asbestoidal
 abscondence
