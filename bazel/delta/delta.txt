@@ -2814,6 +2814,7 @@ decastellate
 demist
 draggle
 decrypt
+dug
 dasyus
 decrowning
 detenus
@@ -5789,7 +5790,6 @@ dilating
 disjoint
 decasualizing
 depolymerize
-dug
 deaconed
 depoliticized
 donia
