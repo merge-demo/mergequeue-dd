@@ -429,6 +429,7 @@ ebulliate
 effervesces
 essera
 entocondyle
+ergastoplasmic
 ebulliently
 elfish
 exposits
@@ -9539,7 +9540,6 @@ eyesalve
 exannulate
 eccentrate
 endosmotic
-ergastoplasmic
 earmindedness
 enchytraeidae
 emigree
