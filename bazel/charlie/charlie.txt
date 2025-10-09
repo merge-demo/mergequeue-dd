@@ -3784,7 +3784,6 @@ carboy
 comate
 carboys
 cyathoid
-codger
 crubeen
 colpoptosis
 counteractingly
@@ -18050,6 +18049,7 @@ claymores
 crawlie
 cornerman
 corinthians
+codger
 ctenophora
 coelom
 careerism

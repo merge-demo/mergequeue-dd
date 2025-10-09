@@ -2535,7 +2535,6 @@ bloodberry
 boilerless
 barylalia
 beyondness
-bluestockings
 bunkums
 biduous
 bairnwort
@@ -5183,6 +5182,7 @@ blanky
 beworming
 basification
 blotless
+bluestockings
 breadboards
 bombyx
 bandeng
