@@ -9425,6 +9425,7 @@ aulostomatidae
 afterend
 attemperate
 angakut
+aetosaurian
 alternativeness
 alternatives
 angioblast
@@ -24107,7 +24108,6 @@ antisepalous
 aspish
 antievolutionist
 arythmia
-aetosaurian
 aventayle
 apteryxes
 arrive
