@@ -7721,7 +7721,6 @@ bursarship
 balcon
 babylonian
 bufonid
-byronist
 bituminised
 bongrace
 bravure
@@ -11348,6 +11347,7 @@ bonds
 bedcap
 bullety
 blubberers
+byronist
 balanism
 bestialising
 bankable
