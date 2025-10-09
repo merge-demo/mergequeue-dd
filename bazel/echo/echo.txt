@@ -2551,7 +2551,6 @@ electrometrical
 electromobile
 enchodontidae
 encopreses
-extremes
 exploitatively
 emydian
 enchanters
@@ -4000,6 +3999,7 @@ episporium
 ergotization
 equilibristic
 empyemata
+extremes
 empyemic
 evirato
 extensibleness
