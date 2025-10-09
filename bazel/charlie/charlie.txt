@@ -22730,7 +22730,6 @@ coleopteral
 connote
 crymotherapy
 connoted
-crile
 connoting
 connubial
 connubiality
@@ -29967,6 +29966,7 @@ calydon
 composting
 conserves
 craniotomies
+crile
 choromania
 crotaphite
 cratered
