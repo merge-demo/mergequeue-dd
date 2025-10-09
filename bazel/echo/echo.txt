@@ -4317,7 +4317,6 @@ enterodynia
 enamour
 encyclopaedia
 enamouredness
-expostulator
 eulogistical
 espouse
 espichellite
@@ -7055,6 +7054,7 @@ enheritance
 exclamation
 englishry
 evangely
+expostulator
 evidencive
 endotropic
 environment
