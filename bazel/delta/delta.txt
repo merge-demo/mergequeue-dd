@@ -7079,7 +7079,6 @@ desponder
 despondingly
 daffodowndilly
 diaster
-divinisation
 drainages
 dareall
 didle
@@ -18235,6 +18234,7 @@ diskindness
 disnature
 dunderpate
 dynamistic
+divinisation
 duckhearted
 disappearances
 debugger
