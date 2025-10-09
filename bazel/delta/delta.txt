@@ -154,7 +154,6 @@ deerwood
 dropsicalness
 demobilization
 dalea
-digitisation
 descensories
 decarboxylated
 dewtry
@@ -14858,6 +14857,7 @@ decimeter
 dirham
 decomponible
 diethylenediamine
+digitisation
 daylight
 dispensating
 demo
