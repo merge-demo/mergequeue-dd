@@ -1622,7 +1622,6 @@ convoluta
 churchreeve
 caloyer
 calomels
-calomorphic
 carnacian
 cynanchum
 contemporaneity
@@ -26530,6 +26529,7 @@ conidium
 coucal
 couchancy
 couchant
+calomorphic
 clothesmen
 cargos
 cutter
