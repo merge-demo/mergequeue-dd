@@ -5780,6 +5780,7 @@ environing
 elephant
 egyptologer
 elans
+enterocholecystostomy
 embraces
 eddy
 engrammic
@@ -7970,7 +7971,6 @@ enomaniac
 epidermous
 expenselessness
 epineuneuria
-enterocholecystostomy
 evolutionary
 epineuria
 epineurium
