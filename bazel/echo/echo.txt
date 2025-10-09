@@ -5855,6 +5855,7 @@ engreaten
 evirtuate
 evan
 erecting
+eloquent
 enocyte
 electrotyping
 entangledly
@@ -6324,7 +6325,6 @@ emmenagogue
 emendator
 elenchtic
 ensanguine
-eloquent
 evisite
 enlargingly
 emporium
