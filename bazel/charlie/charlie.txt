@@ -4327,6 +4327,7 @@ contaminator
 cyclospondylic
 continuativeness
 courge
+contraregular
 chimeras
 casuists
 cloches
@@ -15879,7 +15880,6 @@ circumbulbar
 capacitance
 clechee
 constants
-contraregular
 clechy
 cosmos
 cleck
