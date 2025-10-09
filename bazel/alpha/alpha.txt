@@ -6985,6 +6985,7 @@ arthresthesia
 androides
 akkadist
 aftershock
+antichresis
 avowal
 arthroderm
 amidic
@@ -7594,7 +7595,6 @@ ald
 adoors
 alands
 adrenitis
-antichresis
 aldebaran
 autoplastic
 arbours
