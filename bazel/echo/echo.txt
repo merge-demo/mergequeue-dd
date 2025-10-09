@@ -2071,6 +2071,7 @@ elon
 eupomatia
 edictal
 entraps
+energise
 enchainements
 ecphractic
 epi
@@ -12140,7 +12141,6 @@ excurvated
 extrados
 emphysematous
 esclavage
-energise
 elasticin
 exuviating
 exploits
