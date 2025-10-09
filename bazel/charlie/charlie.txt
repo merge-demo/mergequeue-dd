@@ -12376,7 +12376,6 @@ chromatype
 chromatist
 coracohyoid
 cholent
-chloroanaemia
 caudiform
 coroplasty
 chromatium
@@ -23468,6 +23467,7 @@ containership
 centenarianism
 containing
 covert
+chloroanaemia
 contains
 configuration
 canzonetta
