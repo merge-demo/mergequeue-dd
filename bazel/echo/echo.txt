@@ -3127,7 +3127,6 @@ euphonetic
 emissive
 empanelled
 endoscopy
-earthsmoke
 eloigning
 enactment
 euryte
@@ -13820,6 +13819,7 @@ extracivic
 engenderer
 enscale
 euchroite
+earthsmoke
 effacing
 erepsins
 encarditis
