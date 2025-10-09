@@ -5548,6 +5548,7 @@ disattire
 debunked
 deathbeds
 deutomala
+deerskin
 dermoskeletal
 disrobers
 decussion
@@ -13773,7 +13774,6 @@ dabbed
 duhat
 dignifies
 deflexible
-deerskin
 dysteleological
 dialogistically
 duckhood
