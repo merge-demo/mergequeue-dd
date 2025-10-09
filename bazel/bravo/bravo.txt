@@ -9350,7 +9350,6 @@ bacule
 baronetship
 bullyrook
 birdless
-bimucronate
 beauti
 birdlimes
 binghi
@@ -9423,6 +9422,7 @@ bioinstrumentation
 bestowable
 bronchodilatation
 bathymeter
+bimucronate
 blanket
 basaltine
 beglue
