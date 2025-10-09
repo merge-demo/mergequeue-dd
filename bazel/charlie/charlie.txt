@@ -25089,7 +25089,6 @@ colouring
 chromonematic
 coreometer
 cowbrute
-crocks
 complacential
 coreplastic
 corepressor
@@ -27157,6 +27156,7 @@ chrotta
 cynosarges
 countersworn
 countertack
+crocks
 countertally
 chubbedness
 countertaste
