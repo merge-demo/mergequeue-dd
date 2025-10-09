@@ -87,7 +87,6 @@ enshelter
 earmuff
 earnable
 ecclesiology
-earned
 earnest
 eusporangiate
 expounded
@@ -101,6 +100,7 @@ ecardine
 ecotone
 engraffed
 ephydridae
+earned
 epithelioma
 enumerate
 embroche
