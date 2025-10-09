@@ -479,7 +479,6 @@ demisecond
 daysides
 deprevation
 daysmen
-dayspring
 deuces
 dracunculus
 deplorer
@@ -15210,6 +15209,7 @@ diprotodont
 disked
 doghouses
 dartars
+dayspring
 dashboards
 deduction
 demulsion
