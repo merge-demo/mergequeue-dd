@@ -5168,7 +5168,6 @@ biglandular
 boxberries
 befuddling
 beautyship
-booted
 bumpkinet
 berating
 bullae
@@ -6199,6 +6198,7 @@ bourse
 bentgrass
 broilery
 beshames
+booted
 brachycatalectic
 benthal
 bellowslike
