@@ -7956,7 +7956,6 @@ bowpots
 bohemianism
 biceps
 bedlight
-berhyming
 beamingly
 bunemost
 bake
@@ -15178,6 +15177,7 @@ burgesses
 butomaceae
 biotype
 beach
+berhyming
 blueblaw
 balkier
 bestrewed
