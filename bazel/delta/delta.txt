@@ -14534,7 +14534,6 @@ defier
 dismiss
 discoverers
 divinized
-demarche
 dismembrated
 duodenary
 deleaded
@@ -18373,6 +18372,7 @@ denominationalism
 decrew
 departmentalizes
 drummock
+demarche
 duodenocholedochotomy
 diaphanoscope
 duodenoenterostomy
