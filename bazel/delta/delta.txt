@@ -1630,7 +1630,6 @@ decarburization
 destuffing
 deafened
 dummered
-dawe
 dismasted
 destruct
 deafmuteness
@@ -2607,6 +2606,7 @@ doxology
 decapitable
 discontinues
 decoloring
+dawe
 disavowed
 dainteous
 diogenes
