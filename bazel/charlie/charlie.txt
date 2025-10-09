@@ -4637,7 +4637,6 @@ chinas
 cholangitis
 companero
 comptoir
-carotinemia
 cronying
 cholecystoduodenostomy
 carotinoid
@@ -13222,6 +13221,7 @@ cyclecar
 coralbells
 cyclecars
 causals
+carotinemia
 crosspatch
 cyclers
 copulatory
