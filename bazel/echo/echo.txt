@@ -2163,7 +2163,6 @@ epizoan
 endocyclic
 evanescently
 elbowy
-elbowpiece
 elbows
 explores
 everywoman
@@ -3846,6 +3845,7 @@ emborder
 emigrating
 enflagellate
 enfeebled
+elbowpiece
 eclipsis
 eyeletting
 executers
