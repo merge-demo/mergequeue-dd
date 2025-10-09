@@ -4890,7 +4890,6 @@ demonetize
 dextrous
 doctorhood
 dilleniad
-ditali
 disembogue
 daneworts
 disrobed
@@ -16595,6 +16594,7 @@ disingenuity
 draft
 dasyurus
 disputed
+ditali
 drammach
 dragger
 diurnal
