@@ -1587,6 +1587,7 @@ diagenetic
 deadheartedness
 disagreeability
 drawback
+discussional
 dipterocarpous
 decoic
 defilades
@@ -5369,7 +5370,6 @@ displaced
 denticle
 dentification
 dentil
-discussional
 deconcatenate
 delivery
 disappropriation
