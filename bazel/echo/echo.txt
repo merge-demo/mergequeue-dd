@@ -165,7 +165,6 @@ ergusia
 earthly
 enriched
 exequy
-earmarked
 eelbobber
 expiring
 expressive
@@ -9569,6 +9568,7 @@ epizoology
 esocataphoria
 educationalism
 endocrinology
+earmarked
 euglenineae
 escapeless
 ecphoria
