@@ -7473,6 +7473,7 @@ biding
 blowpit
 basnat
 beloam
+backening
 befringes
 begirding
 beweary
@@ -15490,7 +15491,6 @@ brigander
 bronchitis
 borer
 bristliness
-backening
 bewigging
 bristols
 biotypes
