@@ -5270,7 +5270,6 @@ afghans
 aficionada
 aficionadas
 autogiro
-anglophobe
 almight
 aflat
 agons
@@ -6344,6 +6343,7 @@ algaesthesis
 amebula
 anticryptically
 alternant
+anglophobe
 autunian
 adult
 adeleidae
