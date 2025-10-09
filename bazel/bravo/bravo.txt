@@ -4831,7 +4831,6 @@ burrowstown
 beef
 battled
 briar
-beerage
 beefalo
 basketweaving
 balistarius
@@ -8618,6 +8617,7 @@ balladeroyal
 babyfied
 believed
 bemusing
+beerage
 bourride
 beekite
 billowiest
