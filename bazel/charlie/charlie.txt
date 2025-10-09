@@ -15116,7 +15116,6 @@ civitas
 chemosurgery
 civite
 chinchasuyu
-chattel
 crocodilia
 civory
 chocalho
@@ -25337,6 +25336,7 @@ cyclotrons
 cornelia
 concessioner
 cornell
+chattel
 cephalodiscida
 corneosclerotic
 cirsectomy
