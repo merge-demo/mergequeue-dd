@@ -7995,7 +7995,6 @@ algoesthesiometer
 annihilate
 aides
 acrologies
-avoidances
 algoid
 adroitness
 anglophiliac
@@ -19648,6 +19647,7 @@ astigmias
 araeostyle
 anteprandial
 ascriptive
+avoidances
 arithmocratic
 ammonite
 arizonian
