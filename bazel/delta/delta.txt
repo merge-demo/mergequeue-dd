@@ -1039,7 +1039,6 @@ didynamy
 darkliest
 dialin
 draffsack
-dedogmatize
 distains
 darkmans
 dewy
@@ -6156,6 +6155,7 @@ diphtheroid
 discipled
 dijudicant
 duperies
+dedogmatize
 deservedness
 demodocus
 driving
