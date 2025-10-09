@@ -3335,6 +3335,7 @@ alterum
 addisoniana
 abiliment
 anapleroses
+appraisal
 additiment
 amil
 amarillos
@@ -11609,7 +11610,6 @@ adsum
 arbalester
 alban
 amos
-appraisal
 anagyrine
 anagyris
 annulism
