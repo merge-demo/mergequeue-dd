@@ -14676,7 +14676,6 @@ brava
 bravade
 bronchophthisis
 bennet
-beanstalks
 betelnut
 blackmailing
 brazened
@@ -15224,6 +15223,7 @@ batrachidae
 brailled
 burds
 beflagged
+beanstalks
 benzidine
 ballyhoos
 bridgework
