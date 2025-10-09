@@ -7137,7 +7137,6 @@ byelorussia
 befancy
 bur
 bestiarian
-bestiarist
 bestirs
 brawlers
 bestowment
@@ -14794,6 +14793,7 @@ bronchopulmonary
 builders
 barcelonas
 blurping
+bestiarist
 bonetta
 becapped
 bedcovers
