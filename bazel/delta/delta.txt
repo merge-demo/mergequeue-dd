@@ -463,7 +463,6 @@ dentate
 dinted
 dairous
 dairt
-dosain
 dais
 dentel
 dramm
@@ -8725,6 +8724,7 @@ deliquesces
 danke
 dirl
 diatoma
+dosain
 diapase
 deems
 diastase
