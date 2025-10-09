@@ -6717,6 +6717,7 @@ conspiratorial
 colorfast
 cibarium
 celastrus
+consubstantive
 chieftain
 cuculla
 celation
@@ -23341,7 +23342,6 @@ consubstantiate
 consubstantiated
 culmen
 countervolition
-consubstantive
 cestuses
 chivareed
 caimans
