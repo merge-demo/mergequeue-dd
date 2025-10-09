@@ -5992,6 +5992,7 @@ arseniuretted
 alcidine
 aglossal
 aglossia
+altricial
 aglow
 aglucon
 anucleated
@@ -10693,7 +10694,6 @@ anorexias
 aselline
 arsenoxide
 aljofaina
-altricial
 analogicalness
 alzheimer
 alcoranist
