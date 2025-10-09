@@ -19902,7 +19902,6 @@ airworthier
 arabesques
 archantiquary
 armscye
-armseye
 aals
 amyelinic
 armure
@@ -22208,6 +22207,7 @@ admissively
 aluminising
 ataractic
 astrogation
+armseye
 adelantados
 astrogational
 ahorseback
