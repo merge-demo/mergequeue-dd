@@ -172,6 +172,7 @@ expressive
 elses
 escallop
 enticed
+emmenology
 echinostome
 echidna
 earthmaker
@@ -6817,7 +6818,6 @@ eumenes
 ectosarcs
 enl
 ethnogenic
-emmenology
 epicranial
 exoticism
 entombs
