@@ -5371,7 +5371,6 @@ disappropriation
 drub
 demonio
 donnees
-dalapon
 dwines
 dawned
 denting
@@ -6232,6 +6231,7 @@ decemvir
 derivativeness
 dacoit
 derivedness
+dalapon
 dawks
 devotees
 disvaluation
