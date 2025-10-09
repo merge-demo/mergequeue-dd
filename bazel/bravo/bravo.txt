@@ -661,6 +661,7 @@ barefacedly
 batfowler
 brosot
 basos
+bloomy
 brioche
 begall
 bronchiolitis
@@ -16555,7 +16556,6 @@ beparody
 bunkoing
 burros
 beurre
-bloomy
 buchnerite
 balconette
 buchonite
