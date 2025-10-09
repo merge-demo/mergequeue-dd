@@ -3238,7 +3238,6 @@ entrench
 episcleral
 emancipates
 esophagospasm
-eelgrasses
 embuia
 elute
 elution
@@ -5077,6 +5076,7 @@ endochorion
 encephalomeningitis
 endochorionic
 engrains
+eelgrasses
 elatha
 endocyst
 enucleate
