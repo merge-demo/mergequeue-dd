@@ -12249,6 +12249,7 @@ chrysome
 chrysomyia
 championships
 chaetophorous
+cyclostrophic
 chrysopal
 clistothecia
 chrysopee
@@ -19936,7 +19937,6 @@ comestible
 charmed
 cringles
 cradlesong
-cyclostrophic
 convolutions
 charade
 comestion
