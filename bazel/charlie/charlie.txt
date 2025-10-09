@@ -16927,6 +16927,7 @@ casebooks
 clubroots
 countervaunt
 clubs
+clodpoles
 clubstart
 clubster
 carpogonium
@@ -31350,7 +31351,6 @@ curfs
 causeys
 curia
 calxes
-clodpoles
 curiae
 cobwebbing
 curiage
