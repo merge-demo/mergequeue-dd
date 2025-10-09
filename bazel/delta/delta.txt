@@ -540,6 +540,7 @@ descended
 delegateship
 disguised
 demicadence
+deferrable
 dup
 denuclearizes
 discustom
@@ -3197,7 +3198,6 @@ dervishhood
 deipara
 distressing
 datiscetin
-deferrable
 disturbative
 densen
 deferrized
