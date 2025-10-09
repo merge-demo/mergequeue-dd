@@ -1177,7 +1177,6 @@ edrioasteroidea
 epipany
 edriophthalmatous
 educand
-emulsive
 educatability
 eident
 educatable
@@ -10372,6 +10371,7 @@ enthuses
 epistolary
 elkoshite
 ethnozoology
+emulsive
 ethography
 entropion
 ethology
