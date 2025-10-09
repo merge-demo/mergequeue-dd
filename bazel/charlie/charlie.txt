@@ -15163,6 +15163,7 @@ clavicornes
 collarband
 commissionerships
 constituent
+clergess
 cacumen
 cladodial
 cladodium
@@ -15979,7 +15980,6 @@ cold
 cleptomaniac
 christianly
 cliched
-clergess
 clergy
 clergyable
 callaloos
