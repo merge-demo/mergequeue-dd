@@ -4886,7 +4886,6 @@ aeroperitoneum
 anticipatorily
 aeroperitonia
 avondbloem
-applosion
 anomalogonatae
 arrhal
 alphonsism
@@ -16321,6 +16320,7 @@ armrests
 antra
 antralgia
 antres
+applosion
 autocollimation
 antrocele
 actuated
