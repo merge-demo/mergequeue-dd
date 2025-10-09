@@ -13630,7 +13630,6 @@ aspergilloses
 apogamic
 anoncillo
 anonym
-apikoros
 anonymously
 anoopsia
 anophele
@@ -19308,6 +19307,7 @@ alliably
 atomistics
 amuser
 argentan
+apikoros
 anacrisis
 altercations
 argentate
