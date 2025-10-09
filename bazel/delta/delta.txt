@@ -9115,7 +9115,6 @@ dictyotales
 dors
 dictyotic
 drinkability
-dailiness
 devow
 diffusedly
 diametric
@@ -16668,6 +16667,7 @@ distinguishingly
 dilutant
 diffeomorphic
 demeaning
+dailiness
 diacids
 detesting
 dragonwort
