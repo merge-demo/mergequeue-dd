@@ -9250,6 +9250,7 @@ collier
 chastity
 chastities
 chockstone
+colorimetrically
 castice
 cineast
 conducer
@@ -19529,7 +19530,6 @@ censorate
 colorific
 colorifics
 colorimeter
-colorimetrically
 chemmy
 colorimetrist
 carinthian
