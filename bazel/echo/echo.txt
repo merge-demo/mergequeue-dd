@@ -90,6 +90,7 @@ ecclesiology
 earned
 earnest
 eusporangiate
+expounded
 eccrine
 eclecticize
 ephedraceae
@@ -1610,7 +1611,6 @@ epiblastic
 egressed
 egresses
 extraphysiological
-expounded
 extrasensorial
 egret
 exsanguine
