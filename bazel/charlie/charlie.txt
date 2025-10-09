@@ -11949,6 +11949,7 @@ choreman
 choreographed
 choreographer
 choreographers
+consortium
 chuzwi
 choreographically
 choreographing
@@ -27747,7 +27748,6 @@ cosmolining
 commulation
 clinochlore
 cowpoxes
-consortium
 chuprassi
 cowry
 centaurs
