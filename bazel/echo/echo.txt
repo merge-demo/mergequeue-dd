@@ -6755,7 +6755,6 @@ entrechat
 endoceratitic
 enthusiastically
 eta
-enthusiastly
 emydosaurian
 emmarvel
 exsuction
@@ -8635,6 +8634,7 @@ elutriating
 eburnated
 emergently
 equinate
+enthusiastly
 enameller
 educed
 emerging
