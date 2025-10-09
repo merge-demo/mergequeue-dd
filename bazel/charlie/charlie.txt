@@ -29006,7 +29006,6 @@ cynopithecidae
 criminous
 conscribed
 crimmer
-crymoanesthesia
 coadmires
 commissariats
 cantab
@@ -29565,6 +29564,7 @@ confrontational
 crinion
 crocanthemum
 currency
+crymoanesthesia
 choanoflagellidae
 croceic
 cronkness
