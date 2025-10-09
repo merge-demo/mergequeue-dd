@@ -7311,6 +7311,7 @@ detenue
 desulfurize
 dephlegmator
 dentilation
+decontaminated
 deter
 deselected
 dilettantship
@@ -9524,7 +9525,6 @@ dextrocular
 deraigned
 disastrously
 digynian
-decontaminated
 drunkest
 digitalin
 delicioso
