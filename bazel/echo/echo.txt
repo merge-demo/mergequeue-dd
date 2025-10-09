@@ -3923,7 +3923,6 @@ extemporiser
 elisabeth
 evader
 enstate
-embalms
 emory
 estella
 escapologist
@@ -7363,6 +7362,7 @@ etiolates
 eccoprotic
 eleut
 epees
+embalms
 eparchies
 eternization
 equinoctial

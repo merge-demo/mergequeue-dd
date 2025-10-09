@@ -13257,6 +13257,7 @@ bedstaff
 basilidan
 blesser
 bokard
+baka
 bosh
 besmeared
 buckra
@@ -16270,7 +16271,6 @@ brunch
 balkiness
 brunching
 bemeaning
-baka
 bathool
 bedazed
 baptists
