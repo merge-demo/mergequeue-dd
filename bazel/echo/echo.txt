@@ -582,7 +582,6 @@ epigynum
 excision
 eurypelma
 ecclesiastes
-electrostatically
 excommunicates
 electromeric
 elocutionize
@@ -8832,6 +8831,7 @@ elsin
 egyptology
 endarteritis
 estrones
+electrostatically
 erectopatent
 equiprobabilist
 eriodendron

@@ -2010,6 +2010,7 @@ backlist
 banjuke
 bathymetry
 bank
+benignancy
 barblet
 bankalachi
 bidactyl
@@ -6770,7 +6771,6 @@ blibe
 bruchid
 blackmailed
 bacteriotoxic
-benignancy
 benkulen
 buicks
 bescourge
