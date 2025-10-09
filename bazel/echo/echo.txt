@@ -7705,7 +7705,6 @@ eriocaulaceous
 effluxion
 estrus
 esprise
-extruder
 ellipticalness
 epidemically
 escurialize
@@ -9409,6 +9408,7 @@ escaper
 embodied
 enfranchiser
 extent
+extruder
 elsewhere
 escapist
 endoss
