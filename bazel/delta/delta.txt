@@ -3909,7 +3909,6 @@ derogative
 discants
 doggerelize
 depriorize
-designating
 disherits
 deformed
 dartle
@@ -9683,6 +9682,7 @@ desulphurization
 dikaryophytic
 disfiguration
 durwaun
+designating
 dikdik
 dialysate
 disposableness
