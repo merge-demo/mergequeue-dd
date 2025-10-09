@@ -4596,6 +4596,7 @@ bedford
 bouilli
 brothier
 brainwasher
+baguets
 bustier
 bedframes
 broomed
@@ -12602,7 +12603,6 @@ broomstick
 busy
 bioherms
 bibio
-baguets
 brasque
 blubberhead
 bodement
