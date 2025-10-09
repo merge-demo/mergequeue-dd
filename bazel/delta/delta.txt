@@ -4629,6 +4629,7 @@ doyens
 diaskeuasis
 deforming
 dali
+didym
 drabbletail
 decopperization
 domelike
@@ -18536,7 +18537,6 @@ disownable
 durbars
 dissonate
 downstream
-didym
 dured
 diaplex
 drugman
