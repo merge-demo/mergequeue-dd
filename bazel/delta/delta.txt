@@ -9239,7 +9239,6 @@ descrial
 dentinoma
 dramshops
 derat
-dyeings
 declaiming
 dieldrin
 decahedrodra
@@ -12943,6 +12942,7 @@ dissoconch
 downbend
 delusionist
 downfallen
+dyeings
 disfavourer
 devisceration
 decomplex
