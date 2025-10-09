@@ -7517,6 +7517,7 @@ enhaemospore
 ensignhood
 estoil
 externate
+eponymus
 encyc
 elevato
 epiblasts
@@ -8433,7 +8434,6 @@ encarpus
 eponym
 earthmove
 etiolate
-eponymus
 epicier
 expulser
 elkhorn
