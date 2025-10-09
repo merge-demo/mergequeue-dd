@@ -1315,7 +1315,6 @@ demineralizer
 discina
 disestablished
 dysodyle
-determinative
 doitrified
 disgracive
 daturism
@@ -15587,6 +15586,7 @@ decameral
 decoke
 drawly
 done
+determinative
 dihydrocuprin
 donis
 dispendious
