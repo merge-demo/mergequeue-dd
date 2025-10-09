@@ -1669,7 +1669,6 @@ estraying
 electromotograph
 entarthrotic
 excruciate
-eyeberry
 envassal
 essentialist
 esophagi
@@ -4504,6 +4503,7 @@ easement
 encephalomyelitis
 entalent
 eery
+eyeberry
 enrange
 entrepreneurial
 erythromycin
