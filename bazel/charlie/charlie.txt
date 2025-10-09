@@ -20187,6 +20187,7 @@ characterologist
 cretinous
 continence
 corpselike
+coppaelite
 commercia
 chesset
 commercial
@@ -30248,7 +30249,6 @@ conversational
 crummer
 crummy
 consummativeness
-coppaelite
 cub
 crummiest
 crumming
