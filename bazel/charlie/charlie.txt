@@ -12512,6 +12512,7 @@ coincidences
 calantas
 chromonematal
 cataphracti
+cochlearifoliate
 chromophage
 chromophane
 chionodoxa
@@ -22581,7 +22582,6 @@ chorism
 conjon
 conjubilant
 conjuctiva
-cochlearifoliate
 chemosterilant
 conjugales
 conjugality
