@@ -2849,7 +2849,6 @@ eventognath
 eleutherian
 eleutherios
 estuarian
-elytriferous
 eleutheromaniac
 enterotoxin
 ectosteally
@@ -10541,6 +10540,7 @@ endogenic
 ermanaric
 exody
 engolden
+elytriferous
 euchlorine
 ectrodactylia
 enteropathy
