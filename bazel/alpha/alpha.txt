@@ -9350,6 +9350,7 @@ alstonia
 absurds
 anchylotic
 amphiblastic
+antinous
 alstonite
 alstroemeria
 alsweill
@@ -12146,7 +12147,6 @@ analog
 aphrodisiac
 aggroup
 agnoiology
-antinous
 atheromatous
 antipestilent
 academised
