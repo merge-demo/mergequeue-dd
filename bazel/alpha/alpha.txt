@@ -20428,7 +20428,6 @@ automatically
 allegorisation
 analyzes
 ametrope
-adventuring
 artesian
 aforesaid
 artgum
@@ -24563,6 +24562,7 @@ acanthaceous
 avatar
 athyroid
 adenoncus
+adventuring
 antipharmic
 actinophore
 amyraldism
