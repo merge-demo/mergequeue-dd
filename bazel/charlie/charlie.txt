@@ -11642,6 +11642,7 @@ chined
 clepsydrae
 copybooks
 choletelin
+cantharidal
 chack
 choline
 crumenal
@@ -31426,7 +31427,6 @@ cycladic
 coddle
 curlike
 curlily
-cantharidal
 curlylocks
 cocooned
 cadew
