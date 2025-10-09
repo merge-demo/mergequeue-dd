@@ -309,6 +309,7 @@ bourgeoises
 backarrows
 bipartible
 backbar
+badrans
 bedright
 blurry
 bletherskate
@@ -14189,7 +14190,6 @@ buttgenbachite
 bobbie
 bradyseismical
 beslave
-badrans
 bolsheviks
 bowels
 bestirring
