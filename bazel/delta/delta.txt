@@ -1575,6 +1575,7 @@ defleaed
 dyebeck
 deadlier
 drippings
+disexercise
 desertness
 deputising
 deadfalls
@@ -12135,7 +12136,6 @@ dramaturgy
 disturbant
 desulfuration
 discubitory
-disexercise
 disfaith
 disconsolance
 disfashion
