@@ -2128,7 +2128,6 @@ drupes
 dendrography
 demonologies
 digressingly
-dyophysite
 decaliters
 decalitre
 drapable
@@ -11441,6 +11440,7 @@ drungar
 dehaites
 dislocates
 degumming
+dyophysite
 draconis
 desertless
 diverted
