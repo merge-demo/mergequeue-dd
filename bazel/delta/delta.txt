@@ -6637,6 +6637,7 @@ decipherable
 digested
 deprecations
 denaturants
+durous
 dysmerogenesis
 duddie
 dedimus
@@ -12222,7 +12223,6 @@ disfrocking
 dysfunctional
 dysfunctioning
 deltoidal
-durous
 dysfunctions
 disfurnish
 dangerless
