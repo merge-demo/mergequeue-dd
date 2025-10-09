@@ -920,7 +920,6 @@ cal
 calaba
 calabari
 collared
-colpotomy
 canterburies
 calaboose
 chanfrin
@@ -21747,6 +21746,7 @@ condylopodous
 conjurator
 condylos
 ciliates
+colpotomy
 corditis
 clerically
 condylure
