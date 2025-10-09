@@ -9733,7 +9733,6 @@ censer
 cheyneys
 cabin
 cimex
-cheiranthus
 cheirogaleus
 cheirography
 cheirolin
@@ -14342,6 +14341,7 @@ cleanhandedness
 conferring
 cevadilla
 conamed
+cheiranthus
 chorioiditis
 caprificator
 circumrotate
