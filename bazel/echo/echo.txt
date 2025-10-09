@@ -85,7 +85,6 @@ extoolitic
 enshelter
 earmuff
 earnable
-essayer
 ecclesiology
 earned
 earnest
@@ -7550,6 +7549,7 @@ electroforming
 etesians
 espiglerie
 exocarp
+essayer
 experienceable
 epicede
 exion
