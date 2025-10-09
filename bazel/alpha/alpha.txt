@@ -289,7 +289,6 @@ axiomatic
 ankylodontia
 affiant
 abnormals
-abdominoscopy
 agas
 abridged
 abdominothoracic
@@ -6147,6 +6146,7 @@ aquavit
 agreation
 ampulla
 ambushes
+abdominoscopy
 agreeable
 aortoptosis
 audiovisual
