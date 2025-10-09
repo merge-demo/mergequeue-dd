@@ -5838,6 +5838,7 @@ ephedrins
 extrasensible
 extravagence
 engraver
+educed
 expalpate
 entree
 engysseismology
@@ -8641,7 +8642,6 @@ emergently
 equinate
 enthusiastly
 enameller
-educed
 emerging
 excretions
 equinumerally
