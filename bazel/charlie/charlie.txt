@@ -10985,6 +10985,7 @@ catechumenal
 chirospasm
 circumumbilical
 chirotherian
+cornets
 chirotherium
 chastacosta
 consubstantiality
@@ -25351,7 +25352,6 @@ comatulid
 cornetfishes
 centerboard
 cornetist
-cornets
 collation
 cornetter
 curds

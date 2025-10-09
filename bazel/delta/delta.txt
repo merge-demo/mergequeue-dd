@@ -5887,6 +5887,7 @@ doublers
 dermatocoptic
 devotary
 deprecating
+detonations
 desolations
 disconcert
 deepwatermen
@@ -7456,7 +7457,6 @@ digest
 disowned
 dissilition
 detersiveness
-detonations
 dusking
 detonative
 dantomania
