@@ -534,7 +534,6 @@ chozar
 cadism
 casearia
 coleophora
-cashmirian
 camlets
 cadlock
 colourlessly
@@ -2453,6 +2452,7 @@ contuse
 crystallitic
 cancrums
 congruously
+cashmirian
 cand
 coacervated
 candareen
