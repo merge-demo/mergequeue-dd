@@ -5843,6 +5843,7 @@ dujan
 dismarshall
 drukpa
 dramatic
+defeasibility
 disentrancing
 diamido
 dowel
@@ -6570,7 +6571,6 @@ descript
 descriptionless
 dangleberry
 distensile
-defeasibility
 deity
 disallowance
 descriptivism
