@@ -26707,6 +26707,7 @@ cardiotomy
 cars
 counterbattery
 counterbend
+cants
 calamitously
 cacique
 coomy
@@ -30951,7 +30952,6 @@ culverkeys
 culvers
 culverwort
 cum
-cants
 crystallizing
 cumay
 cotranslator
