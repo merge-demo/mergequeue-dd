@@ -1289,6 +1289,7 @@ discovert
 doum
 datiscosid
 datisi
+digress
 declaim
 dative
 dorking
@@ -10326,7 +10327,6 @@ driftpiece
 dowsing
 dozened
 derelictly
-digress
 dioramic
 diecious
 durions
