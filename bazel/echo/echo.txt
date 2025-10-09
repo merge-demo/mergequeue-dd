@@ -3932,7 +3932,6 @@ emolument
 elevator
 emotivity
 enragedness
-epileptology
 exorability
 epitases
 empaistic
@@ -5011,6 +5010,7 @@ echinocereus
 epichindrotic
 endia
 equerry
+epileptology
 endings
 elapsing
 emplace
