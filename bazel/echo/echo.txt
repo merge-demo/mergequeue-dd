@@ -2919,6 +2919,7 @@ eriophyid
 equicostate
 elias
 epitomiser
+epiklesis
 elongation
 eelworms
 epistomal
@@ -5569,7 +5570,6 @@ enrichment
 endogens
 ethologist
 enflaming
-epiklesis
 equuleus
 embryulcus
 enflower
