@@ -5398,6 +5398,7 @@ example
 elsewhither
 electronvolt
 endowment
+elds
 excantation
 earthtongue
 endpoints
@@ -7719,7 +7720,6 @@ expendability
 extrapopular
 epidemiologic
 emulsified
-elds
 ethylating
 egglike
 embreathe
