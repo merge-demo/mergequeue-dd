@@ -4782,6 +4782,7 @@ epiopticon
 excusatory
 endocarpic
 encode
+escrowing
 exculpative
 encoded
 ensnarements
@@ -9507,7 +9508,6 @@ electromotivity
 eruptives
 episodic
 escrow
-escrowing
 excitoglandular
 esculents
 esculin
