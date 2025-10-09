@@ -3363,6 +3363,7 @@ antonymic
 apposing
 acyloxymethane
 anatomicophysiologic
+antimonic
 addlebrained
 arisaema
 addleness
@@ -23051,7 +23052,6 @@ acy
 attests
 amphinesian
 asssembler
-antimonic
 anapaganize
 atticisms
 atticist
