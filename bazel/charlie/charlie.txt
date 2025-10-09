@@ -821,6 +821,7 @@ caymans
 caynard
 carpophyte
 chanticleer
+chock
 clydesdale
 chidingness
 caliph
@@ -7038,7 +7039,6 @@ cavort
 ceratostomataceae
 cornbole
 coolies
-chock
 centaur
 centaurdom
 capers
