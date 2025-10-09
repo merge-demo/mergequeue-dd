@@ -83,6 +83,7 @@ eulalia
 earmarkings
 equitation
 extoolitic
+enshelter
 earmuff
 earnable
 essayer
@@ -6356,7 +6357,6 @@ ensheathing
 endocervicitis
 eruditely
 endoangiitis
-enshelter
 ellice
 enthrals
 evenfalls
