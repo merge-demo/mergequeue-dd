@@ -11360,6 +11360,7 @@ acrostical
 appertains
 abmhos
 amsath
+avaram
 autolysis
 aldosteronism
 atrabilious
@@ -24541,7 +24542,6 @@ antijam
 acetolysis
 abstersiveness
 adenovirus
-avaram
 abilla
 applicably
 antecloset
