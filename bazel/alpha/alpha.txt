@@ -10635,7 +10635,6 @@ apprize
 amire
 amyris
 abattis
-amyrol
 actinoscopy
 alodiary
 amirs
@@ -13039,6 +13038,7 @@ animist
 aecium
 animistic
 accretionary
+amyrol
 anesthetize
 amaltas
 allactite
