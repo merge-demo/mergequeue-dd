@@ -1173,7 +1173,6 @@ edplot
 edrioasteroidea
 epipany
 edriophthalmatous
-extramental
 educand
 emulsive
 educatability
@@ -7444,6 +7443,7 @@ employes
 elenctic
 endogenously
 extraperiodic
+extramental
 extracurricular
 exercise
 elohimic
