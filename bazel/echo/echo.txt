@@ -9730,7 +9730,6 @@ extollers
 entophytic
 essency
 embastardize
-epoch
 extravertish
 esdragol
 eucommiaceae
@@ -13217,6 +13216,7 @@ expiringly
 empressement
 embroglios
 enchainment
+epoch
 elaeosaccharum
 embosser
 expiscation
