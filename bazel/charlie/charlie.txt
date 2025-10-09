@@ -4426,7 +4426,6 @@ caseates
 cert
 carli
 choruslike
-carlylean
 classifiable
 carlyleian
 chiromantical
@@ -27297,6 +27296,7 @@ coupage
 coupe
 couped
 casava
+carlylean
 cocus
 calked
 couping
