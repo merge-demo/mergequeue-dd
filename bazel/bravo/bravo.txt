@@ -155,7 +155,6 @@ barograms
 basidiocarp
 bedumbing
 beeheaded
-beachcomb
 bringdown
 butyrically
 bassine
@@ -5552,6 +5551,7 @@ beladying
 buzzwig
 bayz
 bastnaesite
+beachcomb
 buccaneers
 belah
 belaying
