@@ -1631,6 +1631,7 @@ entrez
 enterobacterium
 eyah
 embliss
+electrovalent
 equating
 earthpea
 eschaufe
@@ -2709,7 +2710,6 @@ earwigged
 eightyfold
 esquamulose
 evaporated
-electrovalent
 electrowinning
 exaggerators
 estampie
