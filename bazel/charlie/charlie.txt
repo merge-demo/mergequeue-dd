@@ -6586,7 +6586,6 @@ cebid
 creat
 contributors
 cebil
-ceboids
 ceratitic
 creesh
 cebollite
@@ -29416,6 +29415,7 @@ crystalling
 crystallisability
 caramel
 chancroids
+ceboids
 cothe
 correctedness
 cueist
