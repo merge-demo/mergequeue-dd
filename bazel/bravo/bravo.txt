@@ -5110,7 +5110,6 @@ breastplates
 balletomania
 bezels
 buff
-befools
 budworm
 biotic
 broadside
@@ -11039,6 +11038,7 @@ bottleholder
 blk
 birri
 blueness
+befools
 buckshot
 blo
 botryoidally
