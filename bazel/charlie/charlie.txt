@@ -9623,7 +9623,6 @@ ceramidium
 cubiculary
 contrabandism
 cheered
-cheerfulize
 cheerfuller
 columbier
 combatted
@@ -20314,6 +20313,7 @@ catamenia
 calligraphic
 corbeling
 commodity
+cheerfulize
 commodities
 commoigne
 cauter
