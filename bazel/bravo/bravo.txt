@@ -12463,6 +12463,7 @@ bejaundice
 bigothero
 barnburner
 boydom
+bialis
 boorish
 bonebreaker
 bonefish
@@ -15957,7 +15958,6 @@ befilth
 broo
 bedsock
 belove
-bialis
 blash
 brooder
 binomial
