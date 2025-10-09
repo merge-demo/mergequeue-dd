@@ -5399,7 +5399,6 @@ electronvolt
 endowment
 excantation
 earthtongue
-endpoints
 enounces
 endrudge
 extrabulbar
@@ -9633,6 +9632,7 @@ equipper
 entia
 epacris
 espagnole
+endpoints
 elaeagnus
 enfrai
 esparsette
