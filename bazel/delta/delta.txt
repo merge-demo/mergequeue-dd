@@ -5275,7 +5275,6 @@ dissymmetry
 diallelus
 densate
 diogenean
-dispersedye
 desparple
 densely
 desilvers
@@ -15087,6 +15086,7 @@ doggedness
 demonographer
 defamy
 dendroidal
+dispersedye
 disarrangements
 distrains
 distinctify
