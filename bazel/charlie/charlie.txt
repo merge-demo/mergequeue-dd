@@ -20936,6 +20936,7 @@ corrals
 composite
 chalices
 cursus
+cabals
 composites
 compositing
 comparatives
@@ -21254,7 +21255,6 @@ chorepiscopal
 codirect
 covalence
 chose
-cabals
 conserver
 concentrator
 communitywide
