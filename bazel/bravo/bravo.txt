@@ -1368,7 +1368,6 @@ britt
 brauronia
 bribable
 baldachino
-backhandedly
 bootle
 bowers
 bodywise
@@ -11321,6 +11320,7 @@ branniest
 banding
 boneyard
 biologism
+backhandedly
 blowse
 blundered
 bargeman
