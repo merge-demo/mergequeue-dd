@@ -8327,7 +8327,6 @@ diduced
 disrelation
 dynamiting
 downbeard
-dagesh
 digitation
 doombook
 db
@@ -12684,6 +12683,7 @@ disli
 dec
 dross
 dicotyles
+dagesh
 dislicense
 disperiwig
 diacromyodian
