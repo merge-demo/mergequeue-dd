@@ -7087,6 +7087,7 @@ dimethylsulphoxide
 dithioglycol
 destress
 devs
+drippy
 definish
 distracted
 dorje
@@ -11141,7 +11142,6 @@ dextrorotatary
 debonnaire
 dumbfound
 disastrous
-drippy
 doglegging
 dissipater
 diaphanous
