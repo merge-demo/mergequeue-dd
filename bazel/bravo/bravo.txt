@@ -3769,6 +3769,7 @@ brutus
 bauhinias
 barrington
 buddhahood
+bhavan
 baulked
 bearbane
 bequeaths
@@ -13292,7 +13293,6 @@ bronchotomy
 bitentaculate
 bacteriologically
 bazaar
-bhavan
 bastardizations
 bivaulted
 banzais
