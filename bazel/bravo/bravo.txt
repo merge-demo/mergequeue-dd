@@ -2695,6 +2695,7 @@ bogomile
 branching
 barnumism
 branchiostege
+bethanks
 bienne
 blitum
 brainsick
@@ -3343,7 +3344,6 @@ breast
 bellote
 buoyant
 bren
-bethanks
 bonuses
 broadcasting
 bottlesful
