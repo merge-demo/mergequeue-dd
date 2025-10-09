@@ -7134,6 +7134,7 @@ bestiarist
 bestirs
 brawlers
 bestowment
+bidenticulate
 burgee
 breaching
 bardel
@@ -17440,7 +17441,6 @@ bullragged
 bougar
 boat
 beata
-bidenticulate
 bullaria
 bhang
 biograph
