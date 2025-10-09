@@ -49,6 +49,7 @@ earbash
 eardropper
 euchromosome
 earflap
+ethanoyl
 expender
 enzyms
 excites
@@ -11978,7 +11979,6 @@ eusynchite
 ententes
 emergence
 excitometabolic
-ethanoyl
 embryonally
 excellently
 excitons
