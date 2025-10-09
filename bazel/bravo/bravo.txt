@@ -7042,7 +7042,6 @@ bulges
 bespill
 bathygraphic
 bepretty
-bastardies
 bicarbs
 bespoke
 bioecology
@@ -13383,6 +13382,7 @@ buffoonery
 boundlessness
 blasted
 bothrenchyma
+bastardies
 bhoosa
 bluenoses
 billsticker
