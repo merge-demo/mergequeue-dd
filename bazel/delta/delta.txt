@@ -395,7 +395,6 @@ dayman
 droughtiness
 detruss
 diabolisation
-daymares
 diarists
 discoloured
 daymark
@@ -3830,6 +3829,7 @@ deliveror
 disleaved
 dimidiating
 dronishly
+daymares
 diactinic
 diremption
 dejects
