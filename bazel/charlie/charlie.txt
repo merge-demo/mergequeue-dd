@@ -22002,6 +22002,7 @@ corpusculated
 chamberwoman
 chillers
 confervae
+cosmography
 conferval
 counterweight
 cows
@@ -26107,7 +26108,6 @@ conservatize
 cymogene
 cosmogoner
 cosmogonists
-cosmography
 cagey
 chigoe
 cirsophthalmia
