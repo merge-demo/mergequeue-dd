@@ -7883,7 +7883,6 @@ alexine
 agouties
 almanner
 apodeixis
-alexipyretic
 alexis
 alexiterical
 admirations
@@ -23806,6 +23805,7 @@ autoalkylation
 advancement
 autoanalytic
 aromatophore
+alexipyretic
 allomerism
 auriculariae
 animalcule
