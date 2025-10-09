@@ -1743,7 +1743,6 @@ condores
 comporting
 concisest
 carbonylate
-claqueurs
 calvados
 calvadoses
 componental
@@ -14457,6 +14456,7 @@ centripetal
 cirratulidae
 cortian
 caffa
+claqueurs
 coccosteidae
 cipolins
 cirri
