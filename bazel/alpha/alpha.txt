@@ -14111,6 +14111,7 @@ autovalet
 ahypnia
 antevert
 archbanc
+amusee
 americanist
 anthroposociologist
 agrobiological
@@ -14647,7 +14648,6 @@ anticaustic
 antiphilosophic
 affreighter
 anticensorial
-amusee
 anchorman
 ammonitish
 anticentralism
