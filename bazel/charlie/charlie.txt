@@ -3914,6 +3914,7 @@ carburetting
 cynophobia
 circumstellar
 carburettor
+cauchemar
 calendared
 carburised
 cytotoxic
@@ -13868,7 +13869,6 @@ cinerous
 catalysis
 chondrofetal
 cingle
-cauchemar
 chazzan
 chorei
 chronogenetic
