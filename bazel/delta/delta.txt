@@ -1827,7 +1827,6 @@ debarment
 dysaesthesia
 debarrance
 dessil
-depict
 duryl
 debarring
 droppers
@@ -7396,6 +7395,7 @@ discouragedly
 dialogically
 dalesmen
 douceurs
+depict
 disannulling
 devorative
 daffadilly
