@@ -3970,6 +3970,7 @@ estus
 emperors
 effloresce
 etherealized
+extraclassroom
 epilamellar
 etymologise
 evangelian
@@ -9272,7 +9273,6 @@ esdras
 erred
 errhines
 encyclopedize
-extraclassroom
 erron
 empathies
 electrotellurograph
