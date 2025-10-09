@@ -7531,7 +7531,6 @@ epiboulangerite
 efficacity
 entelechial
 extinguised
-echiuroid
 escalier
 endungeon
 eaceworm
@@ -9771,6 +9770,7 @@ embracive
 essexite
 explaining
 exsecting
+echiuroid
 essoined
 embolemia
 eachwhere
