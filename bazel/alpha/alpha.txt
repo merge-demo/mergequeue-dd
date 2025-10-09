@@ -4849,7 +4849,6 @@ antepartum
 aeromancer
 aeromechanic
 alphameric
-aeromedical
 asteroidal
 attacher
 affidare
@@ -9985,6 +9984,7 @@ amblotic
 anomaloscope
 advisiveness
 anythings
+aeromedical
 ambo
 acanthin
 ablatives
