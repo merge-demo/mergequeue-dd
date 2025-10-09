@@ -6749,7 +6749,6 @@ echidnae
 epitaxially
 erythraemia
 enthronizing
-emerit
 evacuation
 ediface
 enthusiasms
@@ -13968,6 +13967,7 @@ exumbrellar
 echinococcus
 exsuperance
 extraperiosteal
+emerit
 engem
 eurodollars
 exocardia
