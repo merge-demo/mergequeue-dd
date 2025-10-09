@@ -11428,6 +11428,7 @@ eli
 exhaustion
 emys
 elitists
+envine
 ennedra
 emblic
 edibility
@@ -13243,7 +13244,6 @@ endemical
 ethize
 engram
 explement
-envine
 edacity
 endocranium
 ephebeum
