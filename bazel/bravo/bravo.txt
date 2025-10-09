@@ -6798,6 +6798,7 @@ birlers
 bentinck
 bribe
 bookward
+britisher
 bendel
 beastie
 bridelope
@@ -15509,7 +15510,6 @@ bingy
 british
 besotment
 barwood
-britisher
 blandishingly
 britishhood
 britishism
