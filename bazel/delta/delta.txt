@@ -10105,7 +10105,6 @@ disengage
 dutiable
 dictatorially
 disamis
-dexiotropism
 disembocation
 dynastidan
 desertress
@@ -11017,6 +11016,7 @@ disconformably
 dieselized
 degusts
 diffusive
+dexiotropism
 differer
 doormaid
 disproportionable

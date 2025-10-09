@@ -1233,7 +1233,6 @@ equvalent
 estamin
 equicaloric
 exstemporal
-extremal
 eme
 extrascripturality
 epit
@@ -12296,6 +12295,7 @@ electronegative
 eczematous
 equilucent
 exerce
+extremal
 euxanthate
 equimultiple
 exceptious
