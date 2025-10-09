@@ -3721,7 +3721,6 @@ embroideries
 eulogizing
 eutaxitic
 etuvee
-embryon
 embroils
 ethnish
 endoceratite
@@ -12002,6 +12001,7 @@ eryngium
 enscrolls
 everyone
 enterfeat
+embryon
 exampleship
 essentials
 etherion
