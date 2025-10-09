@@ -9041,7 +9041,6 @@ errancy
 electrocardiographs
 evaginating
 euchring
-entria
 evocable
 ephesine
 emlen
@@ -11035,6 +11034,7 @@ elapoid
 euhages
 enisle
 electly
+entria
 encurtain
 earings
 euangiotic

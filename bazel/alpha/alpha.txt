@@ -14282,6 +14282,7 @@ albertine
 anthracosaurus
 anthracosis
 aphorismos
+apogon
 anthracothere
 anthracotherium
 acoustic
@@ -22177,7 +22178,6 @@ ableeze
 arterials
 apparition
 autopsychology
-apogon
 alrighty
 afterdrops
 astrochemistry
