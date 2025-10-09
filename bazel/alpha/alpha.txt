@@ -785,7 +785,6 @@ abruption
 abruptness
 apptd
 algarot
-auguration
 additur
 assault
 abstruse
@@ -16266,6 +16265,7 @@ ameerate
 adscription
 ameiurus
 avanti
+auguration
 abhorson
 abiological
 aleukemic
