@@ -5417,7 +5417,6 @@ emblematology
 endwise
 eneclann
 elaboratory
-equilaterally
 epigynies
 exaggerations
 emydosauria
@@ -7737,6 +7736,7 @@ erythraea
 epidermic
 epidermical
 epidermically
+equilaterally
 erechtheus
 electropolish
 ean
