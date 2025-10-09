@@ -6134,6 +6134,7 @@ cancan
 canonici
 chitterling
 contraflow
+celibacy
 cattleyak
 conhydrin
 cerebritis
@@ -6771,7 +6772,6 @@ celestitude
 clivias
 celiadelphus
 celialgia
-celibacy
 contrivancy
 costard
 celibatic
