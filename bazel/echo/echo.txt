@@ -9786,7 +9786,6 @@ ejectamenta
 envermeil
 essoinment
 essorant
-endarterial
 est
 engrave
 editchar
@@ -10535,6 +10534,7 @@ eucharitidae
 expenses
 ephebeubea
 expiscator
+endarterial
 energiser
 eugonic
 epitoxoid
