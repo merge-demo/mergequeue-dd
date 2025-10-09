@@ -13825,6 +13825,7 @@ drepanoid
 distaves
 demisuit
 debut
+doctorship
 doppia
 differency
 dystaxias
@@ -15171,7 +15172,6 @@ dogmatizer
 denierage
 dowdiness
 desmid
-doctorship
 destinal
 dogrib
 dreamwise
