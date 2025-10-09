@@ -3794,6 +3794,7 @@ bonos
 bicolours
 bestead
 bridgeward
+belgium
 babua
 blvd
 bol
@@ -6300,7 +6301,6 @@ benzofuran
 benzofuryl
 bracted
 biozone
-belgium
 bookshop
 bastioned
 beebees
