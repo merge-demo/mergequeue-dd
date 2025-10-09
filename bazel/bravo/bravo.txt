@@ -9534,6 +9534,7 @@ bracon
 biscuitroot
 burnets
 biscuits
+beglitter
 bhutia
 bonfires
 bromides
@@ -13342,7 +13343,6 @@ betsy
 botcherly
 biliary
 botchy
-beglitter
 becrimson
 bedunch
 botella
