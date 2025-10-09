@@ -10270,7 +10270,6 @@ biocatalytic
 basialveolar
 baconism
 beholden
-begnawn
 boultel
 bogard
 bundlerooted
@@ -12835,6 +12834,7 @@ boomtowns
 barracuda
 blueballs
 balloonfish
+begnawn
 backage
 boondogglers
 brevifoliate
