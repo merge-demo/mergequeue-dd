@@ -10971,7 +10971,6 @@ desalinating
 dreadnoughts
 disaffirmation
 dills
-desorption
 dulcinea
 damnonii
 disafforestment
@@ -15029,6 +15028,7 @@ dollarfish
 demiracle
 dhikr
 dilemmic
+desorption
 dirndl
 desoxyephedrine
 deviable
