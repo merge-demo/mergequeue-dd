@@ -9748,7 +9748,6 @@ emerick
 ectogenesis
 enrobing
 emaceration
-eucharist
 exfoliatory
 erythronium
 elamp
@@ -12502,6 +12501,7 @@ expertize
 exine
 escapology
 electicism
+eucharist
 erectly
 everyway
 embarrel
