@@ -3288,6 +3288,7 @@ baratheas
 believe
 brisant
 basirostral
+bacury
 barrators
 basiscopic
 banshee
@@ -10800,7 +10801,6 @@ blepharoncosis
 brachyceric
 benzylamine
 bellied
-bacury
 blepharoplastic
 bangboard
 blepharosynechia
