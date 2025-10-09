@@ -4783,6 +4783,7 @@ by
 beltwise
 bedspring
 baffing
+bolos
 beduncing
 begulfed
 botchiest
@@ -6677,7 +6678,6 @@ bendability
 berreaves
 brasser
 bisso
-bolos
 brandywine
 brog
 berret
