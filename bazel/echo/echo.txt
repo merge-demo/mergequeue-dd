@@ -4118,7 +4118,6 @@ eclegm
 extracranial
 energids
 expungement
-eczematous
 externum
 encl
 encaustes
@@ -12286,6 +12285,7 @@ exendospermous
 exenterate
 etheostomidae
 electronegative
+eczematous
 equilucent
 exerce
 euxanthate
