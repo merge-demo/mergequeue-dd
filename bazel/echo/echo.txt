@@ -4964,7 +4964,6 @@ expectable
 enravish
 embryotomy
 endellionite
-enarch
 eucephalous
 emigates
 electrocorticogram
@@ -10912,6 +10911,7 @@ electromuscular
 eastlander
 easternize
 enterokinase
+enarch
 enfin
 encephalocoele
 epibaterium
