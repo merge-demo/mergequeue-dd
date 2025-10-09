@@ -1661,7 +1661,6 @@ curelessly
 calorifics
 conniving
 contrariously
-chaksi
 corybulbin
 calorigenic
 chromatophore
@@ -4511,6 +4510,7 @@ carnauba
 carnaubas
 capra
 carneau
+chaksi
 carnegiea
 carneyed
 cabiritic
