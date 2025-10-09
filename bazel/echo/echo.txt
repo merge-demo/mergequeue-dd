@@ -590,6 +590,7 @@ electromeric
 elocutionize
 egomanias
 electrodynamics
+escalator
 endophyllaceae
 estancia
 emblematize
@@ -9363,7 +9364,6 @@ escalating
 escalations
 enkindle
 expectedly
-escalator
 excommunicable
 eupepsia
 escalated
