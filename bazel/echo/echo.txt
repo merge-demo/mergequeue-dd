@@ -4594,6 +4594,7 @@ epicerastic
 enamoured
 estradas
 ensigned
+epicranium
 eucryphiaceae
 epistolean
 erethizontidae
@@ -12817,7 +12818,6 @@ emajagua
 evangelicals
 exoterical
 espials
-epicranium
 exotericism
 extenuated
 emboldener
