@@ -10129,6 +10129,7 @@ exacerbations
 exheredation
 eupion
 exemplifier
+engraving
 endive
 earstone
 epithalami
@@ -11433,7 +11434,6 @@ extirpating
 encipherment
 ethanim
 elucidation
-engraving
 evocated
 ectonephridium
 elasticizes
