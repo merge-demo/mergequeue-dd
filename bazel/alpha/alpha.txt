@@ -15075,7 +15075,6 @@ antifebrin
 assignably
 apologized
 ambivalently
-antisynod
 ambitionlessly
 alunogen
 assentient
@@ -19976,6 +19975,7 @@ antitype
 allogeneity
 antiamboceptor
 aroynts
+antisynod
 arolia
 amphigenous
 animalculum
