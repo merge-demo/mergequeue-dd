@@ -16440,7 +16440,6 @@ chantor
 carnosity
 cosmetician
 coined
-clitoridotomy
 clitorises
 clitorism
 castana
@@ -31854,6 +31853,7 @@ crashes
 controverse
 cutlasses
 congealed
+clitoridotomy
 cutlassfishes
 confusive
 cutleries
