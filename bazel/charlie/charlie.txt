@@ -2883,6 +2883,7 @@ covets
 cours
 canopus
 concatenation
+coruscant
 coercion
 chairlady
 canossa
@@ -14781,7 +14782,6 @@ citharoedi
 chaplets
 catmint
 circumagitate
-coruscant
 cellared
 comber
 citherns
