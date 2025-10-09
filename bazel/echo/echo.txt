@@ -6878,7 +6878,6 @@ entomophobia
 earwaxes
 esthesiography
 essentialize
-epic
 electrochemical
 entomophthorales
 erythrodextrin
@@ -8797,6 +8796,7 @@ el
 ectoskeleton
 erasers
 eventuations
+epic
 eldmother
 equestrial
 elide
