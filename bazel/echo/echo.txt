@@ -6467,6 +6467,7 @@ earfuls
 excommunion
 encheck
 exercisable
+espanoles
 ensorcellment
 ensorrow
 encumberment
@@ -6481,7 +6482,6 @@ ensphering
 enlister
 enstar
 enrapturing
-espanoles
 elocation
 entr
 electrolyzing
