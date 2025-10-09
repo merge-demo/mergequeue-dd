@@ -6044,7 +6044,6 @@ avengers
 abrim
 agon
 agonal
-aurorae
 aparithmesis
 agoniada
 antiparabema
@@ -17682,6 +17681,7 @@ aspidosperma
 atopy
 antirusts
 agapornis
+aurorae
 appointers
 apotropaic
 analysand
