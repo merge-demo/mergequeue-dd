@@ -8089,7 +8089,6 @@ epiploitis
 embryoscopic
 enthuse
 expenseful
-epiprecoracoid
 extrude
 elegant
 epipterous
@@ -10272,6 +10271,7 @@ epiphyllospermous
 ethmofrontal
 esquamate
 empemata
+epiprecoracoid
 enteromycosis
 escorial
 emulsifiability
