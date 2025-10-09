@@ -3527,6 +3527,7 @@ caption
 carbohydrase
 captioned
 convenably
+court
 coemployee
 captiousness
 captivance
@@ -27364,7 +27365,6 @@ coursers
 courses
 churches
 coursing
-court
 carriers
 cosmist
 courtage
