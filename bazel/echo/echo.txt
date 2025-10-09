@@ -3180,6 +3180,7 @@ episcopation
 enamoring
 esperantist
 enamelwork
+ectrogenic
 emmeleia
 elopes
 elops
@@ -9435,7 +9436,6 @@ eschele
 embroaden
 effulging
 ecod
-ectrogenic
 embowering
 enneahedra
 eschew
