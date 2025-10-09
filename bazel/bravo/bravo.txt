@@ -16522,6 +16522,7 @@ becrampon
 blackarm
 battleship
 bejewelled
+bezil
 brawls
 bucco
 butte
@@ -17465,7 +17466,6 @@ burlesque
 burdigalian
 basipoditic
 bluethroat
-bezil
 burweeds
 barraged
 bricklay
