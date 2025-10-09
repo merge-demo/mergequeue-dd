@@ -8421,7 +8421,6 @@ enwrought
 epocha
 embaying
 eumitosis
-epollicate
 ethoses
 eponge
 exhibitioner
@@ -14051,6 +14050,7 @@ extravagance
 enterolith
 extravagances
 extravagantly
+epollicate
 enchantingly
 euemerism
 emulsibility
