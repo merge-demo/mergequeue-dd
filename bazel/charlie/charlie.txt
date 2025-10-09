@@ -2806,6 +2806,7 @@ cannons
 cigale
 coulure
 chedreux
+commemorated
 colluded
 corruptive
 counterbewitch
@@ -20110,7 +20111,6 @@ commelina
 canon
 commem
 commemorate
-commemorated
 carida
 carvoepra
 commemorative
