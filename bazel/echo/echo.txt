@@ -8846,6 +8846,7 @@ enjeopardy
 emptive
 euonymin
 eremic
+extravaginal
 enterocystoma
 egregiousness
 endocellular
@@ -14056,7 +14057,6 @@ euemerism
 emulsibility
 extravaganza
 eutectoid
-extravaginal
 electrify
 exteroceptist
 exorcists
