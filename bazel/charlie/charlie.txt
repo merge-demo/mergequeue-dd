@@ -5593,7 +5593,6 @@ combs
 clankety
 catalonian
 catalos
-catalufa
 capricornus
 catamarcan
 choufleur
@@ -8392,6 +8391,7 @@ chamaecranial
 cascade
 centry
 compinge
+catalufa
 corkir
 chamaelirium
 chamaesiphonales
