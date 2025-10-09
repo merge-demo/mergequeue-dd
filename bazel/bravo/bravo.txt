@@ -638,6 +638,7 @@ bellwethers
 borele
 butchering
 bacchic
+bonnethead
 boozed
 bels
 bankruptism
@@ -12557,7 +12558,6 @@ bagpiping
 bonne
 bonnet
 brachelytra
-bonnethead
 bedway
 burseed
 bonnetiere
