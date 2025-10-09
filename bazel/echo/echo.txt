@@ -1052,7 +1052,6 @@ elberta
 expeditions
 exadversum
 etchareottine
-excisable
 eyeless
 endoskeleton
 eqpt
@@ -11234,6 +11233,7 @@ entrenchment
 epithetize
 essentiality
 englyns
+excisable
 eely
 exceptionably
 effulgently
