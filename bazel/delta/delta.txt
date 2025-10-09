@@ -9635,7 +9635,6 @@ dowy
 dihybridism
 dihybrids
 disfunctions
-drizzle
 deathlike
 dupers
 dihydrochloride
@@ -13341,6 +13340,7 @@ discerns
 desanding
 discord
 drogher
+drizzle
 dunghills
 disputes
 dispicion
