@@ -19845,6 +19845,7 @@ albescence
 adenofibrosis
 anagnorisis
 apperceived
+allosteric
 anemochoric
 awry
 antileukemic
@@ -22133,7 +22134,6 @@ abdomen
 antiquarium
 anastomoses
 abetted
-allosteric
 attestations
 agencies
 alecize
