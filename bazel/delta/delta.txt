@@ -540,7 +540,6 @@ disguised
 demicadence
 deferrable
 dup
-denuclearizes
 discustom
 douse
 dallis
@@ -2588,6 +2587,7 @@ developoid
 decoctive
 deaminizing
 demishirt
+denuclearizes
 digitally
 drudgery
 decode
