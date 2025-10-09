@@ -12454,6 +12454,7 @@ chromitite
 conacre
 courtroom
 chromium
+collectibility
 chromiums
 chromize
 crocard
@@ -19074,7 +19075,6 @@ collected
 cranberry
 ctenoidean
 chinaphthol
-collectibility
 collection
 collectivise
 collectivism
