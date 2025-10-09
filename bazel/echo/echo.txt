@@ -5733,7 +5733,6 @@ etherol
 extinguish
 ephorus
 enticers
-englacial
 expose
 embossments
 esophagomalacia
@@ -5843,6 +5842,7 @@ ethiops
 episyntheton
 electrification
 estamp
+englacial
 endophytous
 erasures
 erg
