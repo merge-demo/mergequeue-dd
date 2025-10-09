@@ -6546,7 +6546,6 @@ bergamo
 blastoma
 bobcat
 bronchia
-beezers
 buchanite
 bimane
 begreen
@@ -10667,6 +10666,7 @@ blemmatrope
 breakfront
 brooches
 blandisher
+beezers
 bedarken
 berdash
 boutell
