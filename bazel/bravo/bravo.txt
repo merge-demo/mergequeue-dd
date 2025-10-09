@@ -12766,6 +12766,7 @@ bookselling
 bescreened
 beleaguerment
 borg
+bothersome
 beeware
 bothriums
 betoyan
@@ -13352,7 +13353,6 @@ botels
 beblubbered
 bradyphagia
 buhlbuhl
-bothersome
 bothered
 brender
 bothers
