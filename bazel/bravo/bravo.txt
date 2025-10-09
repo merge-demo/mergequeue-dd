@@ -9334,7 +9334,6 @@ bah
 bisulfid
 begets
 barnier
-borrel
 brachtmema
 birdhood
 birdhouse
@@ -11141,6 +11140,7 @@ benzazine
 brickliner
 byard
 believable
+borrel
 basophobia
 bache
 bellylike
