@@ -9994,6 +9994,7 @@ archaeopithecus
 argil
 ashfall
 amboina
+artotype
 amboinas
 aviatrixes
 arilled
@@ -20704,7 +20705,6 @@ amianthiform
 abraid
 artophagous
 antiproteolysis
-artotype
 asqueal
 alkylates
 applicate
