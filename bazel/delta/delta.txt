@@ -9374,6 +9374,7 @@ dragboat
 drupe
 differs
 dextrorsely
+disfigured
 difficileness
 deeded
 dignosle
@@ -10204,7 +10205,6 @@ dirdum
 dynode
 daguilla
 disimprovement
-disfigured
 distresses
 darkling
 depute
