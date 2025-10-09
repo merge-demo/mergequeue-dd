@@ -2972,7 +2972,6 @@ eliminable
 expurgative
 eradiation
 eliminate
-embind
 explait
 emony
 equiprobabilism
@@ -9372,6 +9371,7 @@ escalated
 exilition
 eighths
 eucti
+embind
 eulogistic
 esseda
 escalloped
