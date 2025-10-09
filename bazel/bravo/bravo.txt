@@ -8130,7 +8130,6 @@ boltonias
 boathouses
 brusure
 bidree
-befuddled
 birdbander
 blazed
 bloodroot
@@ -9942,6 +9941,7 @@ balustraded
 buddled
 baresma
 blattidae
+befuddled
 brevirostral
 breastrope
 brimfullness
