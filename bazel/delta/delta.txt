@@ -2499,7 +2499,6 @@ deckel
 ditchdown
 dispondaic
 dictaphones
-deckhand
 dovekies
 diblastula
 deckle
@@ -9919,6 +9918,7 @@ dentins
 ductilely
 dermatoptic
 desmidiology
+deckhand
 drear
 direly
 densimetry
