@@ -1226,7 +1226,6 @@ edwardean
 easternly
 edwardsiidae
 edwin
-exorcismal
 endoplastular
 equvalent
 estamin
@@ -11810,6 +11809,7 @@ ectothermic
 exists
 exauthorate
 exauthorizeexc
+exorcismal
 exceptio
 epileptics
 eplot
