@@ -1626,6 +1626,7 @@ bathorse
 bowshots
 blacklisting
 brahms
+bos
 beauties
 balloen
 brachycephalous
@@ -10160,7 +10161,6 @@ bloats
 blowflies
 bitreadle
 blackguard
-bos
 buckwasher
 bezette
 bechalks
