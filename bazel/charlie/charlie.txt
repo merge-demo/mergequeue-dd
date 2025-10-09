@@ -16495,7 +16495,6 @@ corncobs
 costumist
 chaunt
 cloakmaker
-constrainer
 cloakmaking
 correspondences
 cloakroom
@@ -20666,6 +20665,7 @@ capitalized
 compensates
 cebur
 cerrero
+constrainer
 compensatingly
 cypruses
 colometrically
