@@ -27855,7 +27855,6 @@ cq
 confuters
 craal
 craaling
-craals
 crabbedness
 crescendoed
 crabber
@@ -31421,6 +31420,7 @@ cyanemia
 corejoice
 curlicue
 choriambize
+craals
 cosmogonist
 candied
 curlycues
