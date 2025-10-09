@@ -3551,7 +3551,6 @@ bathkol
 bipartite
 biniodide
 bathmat
-bathmats
 bygoing
 bereaven
 blowfishes
@@ -9554,6 +9553,7 @@ bathypelagic
 belshazzaresque
 brulyie
 bisetous
+bathmats
 bishoplet
 birthplace
 bisexed
