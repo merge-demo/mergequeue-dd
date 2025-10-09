@@ -23623,7 +23623,6 @@ acara
 animalivore
 aerohydroplane
 antisyndicalist
-algorist
 affrightfully
 auspicious
 avaunt
@@ -23924,6 +23923,7 @@ autocracies
 apotelesmatic
 aesthetical
 autocraticalness
+algorist
 autocratrix
 arbalo
 autodecremented
