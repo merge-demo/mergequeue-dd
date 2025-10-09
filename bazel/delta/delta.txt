@@ -2811,7 +2811,6 @@ deify
 decriminalization
 dimensional
 disequalization
-decastellate
 demist
 draggle
 decrypt
@@ -7623,6 +7622,7 @@ discriminational
 dullhearted
 dextrality
 doncy
+decastellate
 doyly
 daedalean
 drawout
