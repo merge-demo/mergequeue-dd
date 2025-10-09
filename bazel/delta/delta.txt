@@ -2472,7 +2472,6 @@ dey
 dand
 diversifier
 decipherably
-deciphered
 damgalnunna
 disidentify
 drepane
@@ -11155,6 +11154,7 @@ disavail
 dayroom
 dissaves
 danceability
+deciphered
 dyslectic
 deactivations
 dismask
