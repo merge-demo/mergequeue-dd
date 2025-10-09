@@ -7371,7 +7371,6 @@ exstipulate
 epeiric
 enunciate
 embowerment
-ephesian
 ersatzes
 euclases
 eucyclic
@@ -12377,6 +12376,7 @@ eryon
 exhaustiveness
 earlock
 elegances
+ephesian
 electrotonicity
 essencing
 electrolyze
