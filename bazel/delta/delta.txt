@@ -10709,7 +10709,6 @@ depit
 digitalize
 demurs
 demethylchlortetracycline
-dipping
 drony
 deadpan
 divertingly
@@ -14741,6 +14740,7 @@ deicer
 demetallize
 dlvy
 dorsalward
+dipping
 detray
 degenerately
 deburse
