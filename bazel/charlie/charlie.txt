@@ -4514,6 +4514,7 @@ carnations
 chamaebatia
 carnauba
 carnaubas
+cupboard
 capra
 carneau
 chaksi
@@ -31142,7 +31143,6 @@ cruelness
 cunzie
 cupania
 ctenostome
-cupboard
 canaling
 cupboards
 cryosurgical
