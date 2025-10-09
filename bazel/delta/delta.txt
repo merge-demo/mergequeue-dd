@@ -6278,7 +6278,6 @@ dissipators
 deutobromide
 dermatomere
 despectant
-dermatomyces
 delocalizing
 dipteraceous
 diplokaryon
@@ -8300,6 +8299,7 @@ desitive
 denda
 dispopularize
 deserver
+dermatomyces
 dizzy
 disputableness
 dactylose
