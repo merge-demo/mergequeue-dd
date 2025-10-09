@@ -5596,7 +5596,6 @@ energistic
 europe
 epistemology
 elysium
-esophoria
 enforceable
 ectocarpous
 encitadel
@@ -6685,6 +6684,7 @@ encharged
 enright
 enterotoxemia
 enterotoxication
+esophoria
 evenmindedness
 equestrianize
 ecartes
