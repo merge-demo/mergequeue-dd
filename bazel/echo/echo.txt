@@ -10695,6 +10695,7 @@ ensigning
 embraced
 endopleural
 erebus
+ecphasis
 euglenoid
 evenworthy
 ecossaise
@@ -11679,7 +11680,6 @@ exoascus
 extralinguistically
 expends
 erythrogenic
-ecphasis
 ecoid
 entoplastic
 exaggeratively
