@@ -5429,6 +5429,7 @@ choring
 castled
 castlelike
 clitocybe
+cottar
 castles
 cortaderia
 cordies
@@ -6237,7 +6238,6 @@ cadre
 casquette
 calcaneocuboid
 cauldrifeness
-cottar
 caulds
 camize
 caraco

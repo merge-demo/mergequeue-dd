@@ -416,6 +416,7 @@ eutrophic
 embayed
 evangelist
 ebriose
+extravasation
 eyestalks
 elumbated
 entrenching
@@ -11096,7 +11097,6 @@ exulceratory
 ekacaesium
 epistemolog
 epiglottal
-extravasation
 eurytus
 erythrolysin
 engagedness
