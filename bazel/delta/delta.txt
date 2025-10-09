@@ -3253,7 +3253,6 @@ dynamisms
 devonite
 definiens
 derencephalocele
-diatomous
 demijohn
 duet
 dolabre
@@ -3546,6 +3545,7 @@ discontinued
 duco
 decussately
 detroit
+diatomous
 dermatocoptes
 drywall
 dawny
