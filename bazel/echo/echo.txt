@@ -1293,7 +1293,6 @@ escuages
 explicatively
 ericophyte
 efface
-effacers
 exhilarated
 effect
 endocardiac
@@ -7554,6 +7553,7 @@ epicedia
 encephalopathic
 earnie
 electronics
+effacers
 eastward
 epicedian
 epicedium
