@@ -1458,7 +1458,6 @@ acclimatiser
 acastus
 acclimatising
 aegagrus
-algid
 alpinery
 acclimatizer
 aleiptic
@@ -17269,6 +17268,7 @@ aerogun
 apostil
 arithmometer
 apostille
+algid
 antagonist
 apheliotropically
 apostles
