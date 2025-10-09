@@ -3922,7 +3922,6 @@ contrastively
 contributed
 carlylism
 carburizer
-carburizes
 caecilian
 cruster
 chrysophilite
@@ -28618,6 +28617,7 @@ ceraunograph
 crematory
 commissionate
 contrabassoonist
+carburizes
 crematorial
 cornicular
 cornel
