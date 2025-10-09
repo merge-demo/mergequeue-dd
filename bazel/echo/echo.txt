@@ -58,7 +58,6 @@ electroretinograph
 excursion
 epistolography
 eremite
-earjewel
 endothelium
 exhibiter
 evenblush
@@ -6767,6 +6766,7 @@ equatoreal
 empyema
 eole
 engagedly
+earjewel
 entify
 electrocutions
 enemied
