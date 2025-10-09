@@ -3946,6 +3946,7 @@ bisulphate
 basset
 boltspreet
 bromoiodide
+bacteriuria
 bondon
 becrinolined
 banisters
@@ -13908,7 +13909,6 @@ beswitch
 barwing
 bostonese
 bowsie
-bacteriuria
 boxful
 bushmaking
 blackboys
