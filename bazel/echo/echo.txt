@@ -136,6 +136,7 @@ europocentric
 enderonic
 excellency
 epoxidize
+epistoler
 evaporativity
 economizes
 extravasating
@@ -2948,7 +2949,6 @@ elides
 electrotropism
 etuis
 europiums
-epistoler
 ekronite
 entomology
 elidible

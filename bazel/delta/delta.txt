@@ -485,6 +485,7 @@ deplorer
 disthrall
 disinhabit
 daswen
+direfully
 daytide
 daunder
 dressily
@@ -10830,7 +10831,6 @@ desugared
 deposable
 dissilience
 deificatory
-direfully
 decagramme
 dirempt
 direness
