@@ -4788,7 +4788,6 @@ bolos
 beduncing
 begulfed
 botchiest
-begowned
 bewrapped
 barbette
 baston
@@ -16079,6 +16078,7 @@ bemole
 bangash
 brought
 bignesses
+begowned
 blandish
 brahmani
 bokos
