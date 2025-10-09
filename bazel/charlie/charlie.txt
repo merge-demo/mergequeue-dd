@@ -22388,7 +22388,6 @@ copilot
 colorisms
 congratulational
 congratulations
-congratulatory
 congree
 commandant
 congregable
@@ -28922,6 +28921,7 @@ curtseyed
 crancelin
 crimmy
 cricetids
+congratulatory
 cricetus
 cricked
 cricket
