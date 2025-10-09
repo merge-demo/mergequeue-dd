@@ -1458,7 +1458,6 @@ acclimatiser
 acastus
 acclimatising
 aegagrus
-alpinery
 acclimatizer
 aleiptic
 anthela
@@ -8657,6 +8656,7 @@ anabrosis
 activators
 arctoid
 alligatorfish
+alpinery
 aromatically
 alligatorfishes
 aphicide
