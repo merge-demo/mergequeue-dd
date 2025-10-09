@@ -5994,7 +5994,6 @@ drillstock
 dissimulator
 devonic
 dollish
-desiatin
 deadeningly
 dukely
 deprograms
@@ -12680,6 +12679,7 @@ dissimilarity
 dendric
 dystomic
 dimorphous
+desiatin
 disli
 dec
 dross
