@@ -744,6 +744,7 @@ caponniere
 chicomecoatl
 cartouches
 centenionales
+cataplane
 criticist
 cardamoms
 caginess
@@ -5634,7 +5635,6 @@ cataphrenic
 cataphrygian
 caulicle
 cataphrygianism
-cataplane
 cataplasia
 cawnie
 conepate
