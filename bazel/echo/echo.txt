@@ -9557,7 +9557,6 @@ edgebone
 exitious
 ergatandry
 elevations
-eslisor
 eatberry
 easeless
 evection
@@ -10579,6 +10578,7 @@ earthiness
 expectance
 euchrome
 euclideanism
+eslisor
 euclidian
 exhalant
 eucnemidae
