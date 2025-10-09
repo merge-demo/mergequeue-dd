@@ -8735,7 +8735,6 @@ danke
 dirl
 diatoma
 dosain
-diapase
 deems
 diastase
 din
@@ -18162,6 +18161,7 @@ docimasy
 dumpage
 divaricately
 driveaway
+diapase
 disherison
 desmidiales
 disappointed
