@@ -1895,7 +1895,6 @@ bycoket
 brainsickly
 barometry
 bando
-bell
 bodiced
 blackguardry
 box
@@ -7072,6 +7071,7 @@ ballyrags
 boxiana
 berhymes
 bawling
+bell
 brambliest
 burbot
 bifoliate
