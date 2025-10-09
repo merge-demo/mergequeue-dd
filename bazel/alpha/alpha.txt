@@ -272,6 +272,7 @@ autoserotherapy
 armoire
 arsines
 aplodontiidae
+alantin
 abdominalian
 appurtenances
 accuracy
@@ -7109,7 +7110,6 @@ alagau
 amurru
 azilian
 alantic
-alantin
 aquabib
 alantolactone
 antityphoid

@@ -1479,6 +1479,7 @@ diatomic
 desipiency
 damages
 disbarred
+disreputability
 dismembers
 daze
 derotrematous
@@ -17883,7 +17884,6 @@ despatcher
 discomedusoid
 dezincing
 dudism
-disreputability
 defilement
 drought
 dammar
