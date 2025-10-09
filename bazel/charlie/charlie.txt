@@ -26949,6 +26949,7 @@ cotonier
 countermined
 countermission
 coinfeftment
+cuniculus
 chromophor
 cyclindroid
 circumsciss
@@ -31118,7 +31119,6 @@ cacodylate
 cunicular
 cuniculi
 camelid
-cuniculus
 crosspatches
 cuniforms
 chickenbill
