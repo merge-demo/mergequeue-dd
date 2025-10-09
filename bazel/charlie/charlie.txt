@@ -6858,7 +6858,6 @@ cassoni
 cellules
 cellulifugal
 crevasse
-clamor
 cellulin
 contangoes
 chauldron
@@ -24792,6 +24791,7 @@ carnel
 carolinas
 causticiser
 copulation
+clamor
 copulative
 colorum
 conquian
