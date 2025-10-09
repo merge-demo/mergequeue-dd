@@ -143,7 +143,6 @@ casterless
 cayleyan
 cables
 cabling
-cablish
 cardiogram
 contentiousness
 campmaster
@@ -213,6 +212,7 @@ counteravouchment
 chelydra
 cheiroline
 cacam
+cablish
 cottons
 cacara
 chthonophagia
