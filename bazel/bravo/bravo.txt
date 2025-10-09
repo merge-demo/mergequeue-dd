@@ -1647,6 +1647,7 @@ billbergia
 boyarism
 boc
 benzothiodiazole
+bacteriorhodopsin
 burletta
 butyrous
 biocellate
@@ -9421,7 +9422,6 @@ bioinstrumentation
 bestowable
 bronchodilatation
 bathymeter
-bacteriorhodopsin
 blanket
 basaltine
 beglue
