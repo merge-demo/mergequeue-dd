@@ -3216,7 +3216,6 @@ basifugal
 bonchief
 barkpeel
 banner
-basilary
 blossomless
 bankbooks
 bana
@@ -16654,6 +16653,7 @@ biconvex
 burrower
 bahama
 blinder
+basilary
 biacetyls
 bucrane
 bromised
