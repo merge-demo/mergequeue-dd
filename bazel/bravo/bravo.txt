@@ -13185,7 +13185,6 @@ bedecking
 brachycephalize
 bourlaw
 borwort
-bloodthirst
 battlepiece
 barbiturate
 bloodbath
@@ -17099,6 +17098,7 @@ baritenor
 bestarve
 boozy
 balsamical
+bloodthirst
 benedictional
 bromine
 baizes
