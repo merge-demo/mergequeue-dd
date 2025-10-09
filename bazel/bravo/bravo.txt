@@ -14965,7 +14965,6 @@ byzantian
 bengalic
 bepillared
 bacteriol
-binapthyl
 befetter
 bygane
 breezeway
@@ -16579,6 +16578,7 @@ busby
 buckeyed
 blueline
 befringed
+binapthyl
 bushfighter
 briquetted
 balms
