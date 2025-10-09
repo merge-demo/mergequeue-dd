@@ -13544,7 +13544,6 @@ anointment
 aponeurotic
 anticosmetic
 anointments
-awiggle
 assails
 amtrack
 avalvular
@@ -16084,6 +16083,7 @@ angiophorous
 antispastic
 aplustre
 amphigenesis
+awiggle
 aroras
 apelet
 afterimpression
