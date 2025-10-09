@@ -4342,7 +4342,6 @@ divisiveness
 diastalsis
 demagnetising
 diacranteric
-demetallize
 different
 daffydowndilly
 driller
@@ -14733,6 +14732,7 @@ describent
 deadener
 dankest
 deicer
+demetallize
 dlvy
 dorsalward
 detray
