@@ -11860,7 +11860,6 @@ bodysurfed
 besmiling
 buteos
 boskopoid
-birthstones
 bodywork
 blackberries
 bodkin
@@ -17976,6 +17975,7 @@ bellmouthed
 biotas
 beautied
 brothership
+birthstones
 busload
 biochemically
 bondmanship
