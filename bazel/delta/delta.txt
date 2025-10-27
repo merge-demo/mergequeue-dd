@@ -398,7 +398,6 @@ droughtiness
 detruss
 diabolisation
 diarists
-discoloured
 daymark
 doupion
 daimiel
@@ -17130,6 +17129,7 @@ dedicatorial
 divisory
 diaconus
 decessit
+discoloured
 dismally
 diclinies
 disrange
