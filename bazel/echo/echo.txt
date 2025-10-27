@@ -4141,6 +4141,7 @@ ergotized
 epopt
 extrications
 empoririums
+exploit
 emporiums
 eyewink
 ethynyls
@@ -12095,7 +12096,6 @@ expostulation
 extollingly
 erepsin
 enflames
-exploit
 editress
 eartag
 electromagnet

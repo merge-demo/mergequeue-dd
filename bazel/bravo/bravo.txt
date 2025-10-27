@@ -6795,7 +6795,6 @@ biliverdic
 bescribble
 botchers
 botel
-bescutcheon
 brotherred
 bondservant
 basalia
@@ -17294,6 +17293,7 @@ baul
 bejeled
 bunglers
 bungling
+bescutcheon
 bungos
 baetylic
 bungtown
