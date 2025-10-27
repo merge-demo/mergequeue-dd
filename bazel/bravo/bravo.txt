@@ -6074,7 +6074,6 @@ buntline
 blepharodyschroia
 benedictinism
 briolet
-blenniiform
 benedictively
 bitolyl
 biggonet
@@ -11303,6 +11302,7 @@ bushidos
 belage
 bredstitch
 blowiron
+blenniiform
 blenniiformes
 baaskaaps
 backsides
