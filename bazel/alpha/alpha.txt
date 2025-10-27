@@ -6204,7 +6204,6 @@ anaphylaxis
 abraders
 acraldehyde
 amoeban
-appomatox
 agriological
 animate
 agriot
@@ -17736,6 +17735,7 @@ arrearage
 aerotropic
 arras
 amedeo
+appomatox
 apposition
 avouching
 araeosystyle
