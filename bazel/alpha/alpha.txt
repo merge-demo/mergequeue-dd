@@ -9895,6 +9895,7 @@ ambidexterities
 ambidextral
 andrenid
 avidya
+archruler
 ambidextrously
 autarkikal
 asyllabical
@@ -18999,7 +19000,6 @@ archrobber
 arg
 archrogue
 alcazava
-archruler
 apparentness
 arachnophagous
 archsee
