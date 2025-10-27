@@ -548,7 +548,6 @@ cadmiums
 centrosome
 christianography
 cyanomaclurin
-costated
 cadres
 ciconiiform
 councilors
@@ -7722,6 +7721,7 @@ commissar
 cern
 canaliferous
 cavaliership
+costated
 cityward
 croquet
 cerniture
