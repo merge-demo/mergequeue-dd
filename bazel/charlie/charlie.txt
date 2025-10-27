@@ -433,7 +433,6 @@ cactus
 civilisable
 chancered
 cactuslike
-cassavas
 cacuminal
 catheretic
 cacuminous
@@ -28046,6 +28045,7 @@ chameleonic
 crammingly
 cleistogamic
 conjurer
+cassavas
 cygnus
 cramp
 cramped
