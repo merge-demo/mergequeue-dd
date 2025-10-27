@@ -9008,7 +9008,6 @@ enargite
 etiolize
 equiponderous
 ebcasc
-erythrasma
 excalate
 effund
 erythremia
@@ -9626,6 +9625,7 @@ effervescible
 endoblast
 encense
 entangleable
+erythrasma
 equipper
 entia
 epacris
