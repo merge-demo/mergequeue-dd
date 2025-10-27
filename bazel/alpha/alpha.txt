@@ -8815,6 +8815,7 @@ advertisable
 allonym
 allonymously
 allonyms
+achillobursitis
 allonomous
 arithmetize
 apodan
@@ -11126,7 +11127,6 @@ amphicyon
 apocryphal
 abelicea
 apickpack
-achillobursitis
 amphicytula
 astrobiologists
 amphicoelous
