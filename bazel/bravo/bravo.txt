@@ -4578,7 +4578,6 @@ bedecked
 bebannered
 bullrushes
 braies
-bens
 boeing
 bedevilling
 barbershops
@@ -10871,6 +10870,7 @@ bibbling
 brompicrin
 begroans
 baldpated
+bens
 bifid
 befingered
 bangers
