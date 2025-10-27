@@ -4505,7 +4505,6 @@ churchshot
 carnalness
 conidial
 carnaptious
-congratulate
 carnaria
 chalque
 carnassial
@@ -10084,6 +10083,7 @@ cabernet
 caribisi
 creamcup
 culpableness
+congratulate
 composers
 cherubim
 cherubimic
