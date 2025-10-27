@@ -5150,7 +5150,6 @@ alingual
 antihierarchal
 anapophysial
 alligation
-anteporch
 archigony
 affinely
 alogia
@@ -19418,6 +19417,7 @@ antiracemate
 afforestational
 azimuths
 antimodernization
+anteporch
 accessoriness
 accumulativeness
 assaults
