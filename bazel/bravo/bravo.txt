@@ -4412,6 +4412,7 @@ bambuco
 bungs
 becometh
 becoresh
+bebump
 bouchee
 bankruptly
 biurea
@@ -10220,7 +10221,6 @@ blackmailers
 bloomingness
 bedirter
 blackness
-bebump
 beggiatoaceous
 bilged
 broomwort
