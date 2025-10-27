@@ -7871,7 +7871,6 @@ diplospondylic
 desmarestia
 distentions
 devons
-desirability
 devoration
 dedenda
 drawsheet
@@ -11860,6 +11859,7 @@ deoculate
 drawknives
 diformin
 designatory
+desirability
 dragonnade
 dieri
 dopers
