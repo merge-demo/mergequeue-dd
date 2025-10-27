@@ -6102,7 +6102,6 @@ bromvoel
 boxwood
 biophore
 beneficial
-beneficialness
 beneficiated
 boskiness
 bloodthirsting
@@ -15144,6 +15143,7 @@ brickle
 bismosol
 bulbospinal
 backstrip
+beneficialness
 bisharin
 bucketing
 benchers
