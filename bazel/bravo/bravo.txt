@@ -6581,6 +6581,7 @@ barpost
 berycomorphi
 bemixes
 burlies
+braguette
 berigora
 borocaine
 beryl
@@ -17161,7 +17162,6 @@ boltings
 babels
 bubalises
 buttermouth
-braguette
 breakweather
 barbitos
 bedown
