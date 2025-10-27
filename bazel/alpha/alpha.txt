@@ -11748,7 +11748,6 @@ antiparliamentary
 analphabete
 adelaster
 angelus
-acyanopsia
 aluminised
 ariolate
 ancerata
@@ -18189,6 +18188,7 @@ abstinent
 arabist
 arabit
 antiatheistically
+acyanopsia
 acetone
 acetometrical
 anticoagulants
