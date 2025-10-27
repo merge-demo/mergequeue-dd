@@ -6027,7 +6027,6 @@ diwata
 disregardance
 depsides
 discommoded
-diaschistic
 dearies
 disgustedness
 depth
@@ -10462,6 +10461,7 @@ dispost
 degeneroos
 diphthongation
 dilutedness
+diaschistic
 divaricating
 dendrodra
 diphthonging
