@@ -11846,7 +11846,6 @@ anapterygotism
 ariettas
 awe
 anaptychus
-anaptyctic
 anaptotic
 anaesthetized
 allothigenetically
@@ -20294,6 +20293,7 @@ allerion
 arsenobenzol
 arsenobismite
 antilogistically
+anaptyctic
 authorities
 arsenofuran
 artocarpad
