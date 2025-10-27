@@ -3735,7 +3735,6 @@ copunctal
 cephalomenia
 carbamyls
 castaneous
-carpodetus
 carbamine
 cowquake
 cantatrices
@@ -11203,6 +11202,7 @@ carosse
 chloranthaceae
 chloranthaceous
 cryptozonia
+carpodetus
 circumsession
 colonizers
 carousers
