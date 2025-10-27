@@ -4858,6 +4858,7 @@ bassy
 blithered
 bushmen
 barkentines
+billtong
 burhinidae
 beccaccia
 bract
@@ -8637,7 +8638,6 @@ blackpot
 brochette
 balcone
 bretons
-billtong
 bromthymol
 boatshop
 basins
