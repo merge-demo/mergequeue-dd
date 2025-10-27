@@ -5362,6 +5362,7 @@ banstickle
 benthamite
 bloodripeness
 babelic
+breedy
 boozier
 begummed
 butcher
@@ -14956,7 +14957,6 @@ bungle
 barraters
 breedable
 borderies
-breedy
 byzantian
 bengalic
 bacteriol
