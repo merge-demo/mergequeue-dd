@@ -7350,6 +7350,7 @@ blueys
 boatings
 burez
 baudekins
+bumps
 blackfish
 betread
 burglarproofed
@@ -10337,7 +10338,6 @@ bloodalp
 blakeite
 bargepole
 billot
-bumps
 bounderish
 bewrought
 bamboozlers
