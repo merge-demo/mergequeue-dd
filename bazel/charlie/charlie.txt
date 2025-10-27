@@ -5075,7 +5075,6 @@ closemouthed
 cuber
 cellepora
 canaliform
-credensive
 clons
 cocaigne
 crowsteps
@@ -10897,6 +10896,7 @@ chiral
 ceilidh
 clerids
 creeper
+credensive
 cardstock
 contortioned
 chiralgia
