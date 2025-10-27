@@ -8241,7 +8241,6 @@ bifurcately
 bergschrund
 bolewort
 bolivares
-bardling
 bolomen
 bad
 bekilted
@@ -9539,6 +9538,7 @@ biscutate
 bisdiapason
 binary
 butat
+bardling
 bisectors
 bisectrices
 busybodyness
