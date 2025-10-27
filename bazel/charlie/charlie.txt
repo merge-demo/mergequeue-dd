@@ -24652,7 +24652,6 @@ comoquer
 crewelwork
 cauqui
 coplotter
-counterpaly
 catchpolled
 copolar
 cryaesthesia
@@ -24886,6 +24885,7 @@ chestful
 coralliform
 cobreathe
 ciderist
+counterpaly
 coralligena
 coralligenous
 chrysoaristocracy
