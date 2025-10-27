@@ -3583,7 +3583,6 @@ egocentric
 esperantism
 expostulatingly
 epitomically
-embows
 exanimate
 enculturate
 entamoeba
@@ -4049,6 +4048,7 @@ ecthymata
 euthymy
 esthetophore
 emboil
+embows
 equitant
 erotophobia
 exteriorize
