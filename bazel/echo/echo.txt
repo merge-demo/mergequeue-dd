@@ -3749,7 +3749,6 @@ efforce
 embussing
 espigle
 enecate
-explored
 emceeing
 escalader
 enquirer
@@ -9077,6 +9076,7 @@ equivocations
 educe
 erythrolein
 enteromorpha
+explored
 electrothermostatic
 ennobled
 eschalots
