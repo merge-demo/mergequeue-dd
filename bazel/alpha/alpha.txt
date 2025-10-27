@@ -5212,7 +5212,6 @@ autotherapy
 afflictingly
 arviculture
 afflictionless
-agranulocytosis
 arere
 attaining
 apoop
@@ -20418,6 +20417,7 @@ arterionecrosis
 antiasthmatic
 arterioplasty
 arteriorenal
+agranulocytosis
 accentless
 americanisms
 amnesty
