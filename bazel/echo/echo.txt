@@ -1423,7 +1423,6 @@ espoused
 ethnicon
 exaggeratory
 execratory
-euskaldun
 effluviviums
 electrodentistry
 efflux
@@ -3961,6 +3960,7 @@ essie
 evenhand
 empearl
 electroretinography
+euskaldun
 each
 exultancy
 esothyropexy
