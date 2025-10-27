@@ -16762,7 +16762,6 @@ burhead
 bacteriform
 bichromatic
 bathysophic
-buffoonish
 baret
 birostrated
 beyerite
@@ -17360,6 +17359,7 @@ bunny
 bunnia
 bromizes
 beknots
+buffoonish
 bunodont
 brickleness
 bacteroid
