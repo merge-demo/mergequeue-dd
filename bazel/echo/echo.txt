@@ -2852,6 +2852,7 @@ ecbasis
 expt
 endomorphic
 epitympa
+embanks
 effable
 eleutherophobia
 elaphomycetaceae
@@ -9457,7 +9458,6 @@ escopeta
 euphemistical
 evulgate
 ethylsulphuric
-embanks
 entocoel
 eliquation
 electronic

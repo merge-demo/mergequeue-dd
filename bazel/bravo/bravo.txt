@@ -5497,7 +5497,6 @@ bahaism
 bridehead
 bebled
 breeziest
-bierstubes
 blowziest
 biopsies
 backslapping
@@ -7310,6 +7309,7 @@ blindfolds
 betime
 blotching
 blowzy
+bierstubes
 betinge
 betire
 bubbling
