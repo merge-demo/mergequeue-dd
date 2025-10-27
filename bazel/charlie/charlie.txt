@@ -18736,6 +18736,7 @@ coining
 coinmate
 coinmates
 catallactics
+chemiotropism
 coinspire
 cyclopentene
 chesil
@@ -30434,7 +30435,6 @@ ctenoid
 cartwright
 crosnes
 choicelessness
-chemiotropism
 ctenolium
 ctenophore
 citramontane
