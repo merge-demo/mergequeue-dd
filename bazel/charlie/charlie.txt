@@ -4550,6 +4550,7 @@ carnifies
 colonel
 croisad
 cmdg
+contrapposto
 cnidocell
 consummatory
 chukar
@@ -23819,7 +23820,6 @@ corregimiento
 chauk
 contrapositive
 contrapositives
-contrapposto
 contrappostos
 contraption
 contraptions
