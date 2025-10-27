@@ -11527,7 +11527,6 @@ degausses
 decapitating
 downton
 dunker
-diallist
 defeats
 discommodities
 discommoned
@@ -17993,6 +17992,7 @@ duikerboks
 dantonesque
 droskies
 dianthera
+diallist
 duinhewassel
 didrachm
 demirhumb
