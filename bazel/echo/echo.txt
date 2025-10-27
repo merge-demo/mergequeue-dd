@@ -4001,7 +4001,6 @@ evirato
 extensibleness
 epirogenetic
 evaporative
-exedent
 evidenced
 esuriency
 evangelize
@@ -11390,6 +11389,7 @@ euxanthone
 erpetoichthys
 escaladed
 extrinsical
+exedent
 eden
 embanking
 evangelising
