@@ -3694,6 +3694,7 @@ dozinesses
 dehydrate
 doze
 dehydrator
+disinvigorate
 diploidies
 depiedmontize
 demonstrating
@@ -17715,7 +17716,6 @@ dubb
 dwarves
 deuteroelastose
 decaffeinating
-disinvigorate
 disconfirmation
 disinvestiture
 dubber
