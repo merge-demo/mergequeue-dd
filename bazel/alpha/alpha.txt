@@ -9597,7 +9597,6 @@ ararauna
 auxotrophy
 alveolate
 alveolation
-acescents
 alveoli
 arrojadite
 accidie
@@ -15971,6 +15970,7 @@ arteritis
 autocoenobium
 apocrita
 antischolasticism
+acescents
 anita
 antischool
 anthecological
