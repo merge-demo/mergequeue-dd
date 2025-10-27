@@ -3116,6 +3116,7 @@ downfolded
 defaults
 dayworker
 detritus
+disunities
 denumberment
 defeasanced
 deerstalkers
@@ -3809,7 +3810,6 @@ drabness
 digestibility
 deign
 dreamsiness
-disunities
 deigned
 distrainable
 driftless
