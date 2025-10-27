@@ -19486,6 +19486,7 @@ colorative
 centrifugally
 capsid
 champart
+crustiness
 cere
 crossarms
 coloraturas
@@ -21670,7 +21671,6 @@ copremias
 convent
 condemnations
 chichimecan
-crustiness
 condemners
 condemning
 callot
