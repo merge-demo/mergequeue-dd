@@ -4946,7 +4946,6 @@ endeavourer
 encouragement
 enstamp
 endeavouring
-egression
 endeictic
 entropium
 expectable
@@ -11767,6 +11766,7 @@ extracorpuscular
 enscroll
 euripidean
 ekphore
+egression
 epimerise
 exareolate
 extrospective
