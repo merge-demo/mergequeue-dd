@@ -14352,7 +14352,6 @@ drug
 doctrix
 dephlegmedness
 demeaned
-defiling
 dermamycosis
 dapperling
 designator
@@ -14577,6 +14576,7 @@ disseverment
 dryfarm
 deeming
 darkle
+defiling
 diatomine
 dedoggerelize
 disinfeudation
