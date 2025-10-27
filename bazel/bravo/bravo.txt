@@ -7777,7 +7777,6 @@ began
 biaxiality
 buffalos
 baccalaureates
-bugara
 brooklyn
 bumble
 bazaars
@@ -13224,6 +13223,7 @@ buggier
 bewitch
 belays
 barbels
+bugara
 barrio
 binocle
 bosporanic
