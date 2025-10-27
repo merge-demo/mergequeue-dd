@@ -3477,6 +3477,7 @@ biennium
 biotherapy
 boyla
 batamote
+bryanite
 biosis
 bitterworm
 benzoglyoxaline
@@ -14138,7 +14139,6 @@ bestowal
 bractlets
 bashlyks
 breton
-bryanite
 bawdily
 bespot
 bradyauxesis
