@@ -10511,7 +10511,6 @@ epilachnides
 estop
 eucharistial
 eurylaimoid
-eudaemony
 eucharistic
 epitomatory
 eucharistically
@@ -11332,6 +11331,7 @@ eolienne
 estrildine
 eth
 eveline
+eudaemony
 even
 entortill
 epitrochlear
