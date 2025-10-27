@@ -10686,7 +10686,6 @@ cryptesthetic
 conenchyma
 conglomerated
 comfortably
-cervicorn
 constructional
 chronicles
 calcaemia
@@ -30142,6 +30141,7 @@ circumstant
 credulousness
 chimango
 chemotherapies
+cervicorn
 chemicoengineering
 chiaroscuros
 cruciferae
