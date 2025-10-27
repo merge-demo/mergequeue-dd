@@ -3273,6 +3273,7 @@ esophagismus
 enviable
 eugenols
 eperlan
+elaphrium
 embattlement
 elapidae
 eremitish
@@ -11805,7 +11806,6 @@ eutechnic
 empoisoned
 epiphytous
 enrolment
-elaphrium
 euryon
 exaudi
 esselen
