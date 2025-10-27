@@ -5393,7 +5393,6 @@ ebonige
 esthesiometer
 enfester
 ed
-emigrants
 eightsman
 example
 elsewhither
@@ -13756,6 +13755,7 @@ encloak
 exosperm
 entea
 extispicious
+emigrants
 extoling
 epitympanum
 edingtonite
