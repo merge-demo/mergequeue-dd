@@ -4465,6 +4465,7 @@ barbarea
 bulbiform
 blastoff
 basellaceous
+bacteroidal
 burree
 befleaing
 basaltware
@@ -11167,7 +11168,6 @@ bloodstreams
 beparch
 bisdimethylamino
 bighting
-bacteroidal
 bandarlog
 boiloff
 balloters
