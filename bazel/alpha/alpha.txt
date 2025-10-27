@@ -5319,7 +5319,6 @@ alkalizable
 anthomania
 ageratum
 astylosternus
-africanoid
 affrettando
 astartian
 antifelon
@@ -22774,6 +22773,7 @@ acroparesthesia
 atren
 atalayas
 ablewhackets
+africanoid
 athlete
 anodally
 atrepsy
