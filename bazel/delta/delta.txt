@@ -5341,7 +5341,6 @@ ducks
 distincter
 dialkylamine
 distitle
-disannuls
 defiant
 dentatoserrate
 decennary
@@ -7038,6 +7037,7 @@ decease
 drovers
 druidesses
 dioestrous
+disannuls
 dreams
 diets
 dehache
