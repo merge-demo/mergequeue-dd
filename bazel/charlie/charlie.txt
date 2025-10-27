@@ -13296,7 +13296,6 @@ cyclohexadienyl
 cindy
 crass
 cyclohexanone
-cyclohexyl
 cycloheximide
 chetverik
 compensator
@@ -14501,6 +14500,7 @@ commation
 centimetres
 cirrostomi
 cochylis
+cyclohexyl
 cirrostrative
 cathay
 citharoedus
