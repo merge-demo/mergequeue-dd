@@ -660,7 +660,6 @@ damnify
 dearth
 damnificatus
 disoccupation
-damnifies
 damningly
 disposals
 dicotyls
@@ -12082,6 +12081,7 @@ disentrance
 discostate
 dyophysitism
 disentwined
+damnifies
 dinnerly
 dupped
 destemper
