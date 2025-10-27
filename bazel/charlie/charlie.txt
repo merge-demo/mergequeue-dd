@@ -3030,6 +3030,7 @@ conducingly
 cantonal
 cantonalism
 crapelike
+cresols
 cantoner
 cellocut
 compartment
@@ -20511,7 +20512,6 @@ cryptogrammatical
 conjurison
 compadres
 compagnies
-cresols
 condonative
 chromdiagnosis
 companage
