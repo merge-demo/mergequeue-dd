@@ -790,6 +790,7 @@ cycadales
 completes
 cytophagy
 chonta
+chloromelanite
 cayenned
 chattelize
 contouring
@@ -11335,7 +11336,6 @@ chaneled
 campoody
 chloromata
 cyanize
-chloromelanite
 chlorometer
 chloromethane
 collectedness
