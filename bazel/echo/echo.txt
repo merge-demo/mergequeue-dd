@@ -2681,7 +2681,6 @@ epispadia
 electrotherapeutical
 escrol
 expectorating
-enmesh
 enduros
 electrotherapy
 electrotheraputic
@@ -4221,6 +4220,7 @@ electrodispersive
 exclusivism
 eptatretus
 emulsion
+enmesh
 exemplifiable
 exopathic
 esotrope
