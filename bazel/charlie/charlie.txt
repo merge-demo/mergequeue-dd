@@ -6997,7 +6997,6 @@ codable
 capitellar
 cenobies
 cenobitic
-caseworkers
 chimbe
 circumaction
 cenobitically
@@ -11976,6 +11975,7 @@ cowhages
 chondroganoidei
 crwths
 choreus
+caseworkers
 corticoline
 choreutic
 crevassing
