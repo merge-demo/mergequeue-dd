@@ -8658,6 +8658,7 @@ aromatically
 alligatorfishes
 aphicide
 azimuthal
+airtight
 abstractedly
 adela
 arbinose
@@ -10111,7 +10112,6 @@ antiscripturism
 archive
 autophagous
 arrant
-airtight
 anthocyanidin
 anthropomorphitic
 autogauge
