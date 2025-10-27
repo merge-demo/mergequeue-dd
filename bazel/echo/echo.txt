@@ -3999,7 +3999,6 @@ extremes
 empyemic
 evirato
 extensibleness
-epirogenetic
 evaporative
 evidenced
 esuriency
@@ -8429,6 +8428,7 @@ extensure
 eurytropic
 electroencephalography
 encarpus
+epirogenetic
 eponym
 earthmove
 etiolate
