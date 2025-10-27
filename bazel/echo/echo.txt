@@ -10052,6 +10052,7 @@ ethambutol
 ethmovomerine
 exitial
 entamoebiasis
+endocrinopathy
 epopoeist
 election
 etceteras
@@ -11841,7 +11842,6 @@ excandescent
 explemental
 erythrochroic
 errs
-endocrinopathy
 expenders
 excarnificate
 encolpion
