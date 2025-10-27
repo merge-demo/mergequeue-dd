@@ -17353,7 +17353,6 @@ churrigueresque
 coapparition
 coappear
 calyciflorous
-cuirass
 chauffeurs
 coappearance
 coappeared
@@ -27511,6 +27510,7 @@ carnaubic
 covarecas
 covary
 chelicerae
+cuirass
 covariable
 cathartical
 cheongsam

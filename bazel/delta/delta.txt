@@ -1887,6 +1887,7 @@ deblai
 deblock
 distingue
 dragooned
+drossiness
 disappointer
 depiction
 decretal
@@ -9953,7 +9954,6 @@ denticulation
 daintily
 delators
 diminuent
-drossiness
 dewlap
 distances
 dillydallying
