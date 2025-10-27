@@ -12897,7 +12897,6 @@ anhydridization
 antisimoniacal
 acetimeter
 anhydridize
-anhydroglocose
 androgonia
 abacisci
 anhidrosis
@@ -14312,6 +14311,7 @@ axifugal
 astoundable
 aeronomics
 anthratriol
+anhydroglocose
 anthrenus
 agriculturalists
 anthribidae
