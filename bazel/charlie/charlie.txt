@@ -4215,7 +4215,6 @@ cabala
 colletarium
 careered
 cmdr
-cenoby
 chloroplatinic
 cassites
 carefreeness
@@ -28555,6 +28554,7 @@ creekfish
 cycloloma
 creekfishes
 cothurnni
+cenoby
 catoptrical
 cheliferous
 creel
