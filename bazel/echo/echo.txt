@@ -2242,6 +2242,7 @@ encyclopedian
 encell
 epauletted
 electragy
+encincturing
 electress
 excessive
 epitomist
@@ -12635,7 +12636,6 @@ equiaxial
 epexegeses
 exodic
 equipped
-encincturing
 emeralds
 essancia
 elateroid
