@@ -2004,7 +2004,6 @@ cyanospiza
 copperproof
 camla
 camlet
-camleting
 coletit
 camletted
 consignification
@@ -22704,6 +22703,7 @@ connive
 concertanti
 clinker
 crypted
+camleting
 connived
 captance
 countertrespass
