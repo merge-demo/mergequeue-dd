@@ -9921,7 +9921,6 @@ declivity
 debarred
 dekarch
 dioecisms
-defectless
 dislock
 dismissing
 dentins
@@ -12765,6 +12764,7 @@ debouch
 deviators
 duplicatus
 dysluite
+defectless
 delicto
 dignify
 dislustered
