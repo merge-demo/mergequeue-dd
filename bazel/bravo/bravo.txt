@@ -5516,7 +5516,6 @@ belait
 behaviored
 boxwallah
 broombush
-bejumbling
 byzant
 bunko
 belatedness
@@ -8377,6 +8376,7 @@ babu
 brachygraphic
 bulgier
 bistoury
+bejumbling
 bolshevizing
 bismuthal
 byhand
