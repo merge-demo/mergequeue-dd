@@ -8655,7 +8655,6 @@ alligatorfishes
 aphicide
 azimuthal
 airtight
-abstractedly
 adela
 arbinose
 allying
@@ -10209,6 +10208,7 @@ amenance
 amydon
 amending
 amoebian
+abstractedly
 amendment
 amendments
 amene
