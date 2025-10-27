@@ -8755,6 +8755,7 @@ equivoluminal
 engrain
 explainers
 equipoised
+exsiccant
 enfume
 elementarist
 equoidean
@@ -13544,7 +13545,6 @@ embroidery
 eateries
 exsibilation
 evadable
-exsiccant
 exsiccatae
 elucidate
 embowment
