@@ -5097,6 +5097,7 @@ denaturing
 demonial
 denaturalizing
 disfigures
+dermatagra
 dextrogyrate
 denaturization
 dite
@@ -6260,7 +6261,6 @@ dedolomitizing
 delimited
 dippy
 dermasurgery
-dermatagra
 dermatophagus
 dermatotropic
 desiccator
