@@ -11858,6 +11858,7 @@ becrowding
 bepale
 bodykins
 bodilize
+belays
 bahuvrihi
 barytocelestine
 benzophenanthrazine
@@ -13222,7 +13223,6 @@ buzzers
 boxberry
 buggier
 bewitch
-belays
 barbels
 bugara
 barrio
