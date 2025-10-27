@@ -12207,6 +12207,7 @@ exceptor
 extravagancies
 epitrichium
 elachistaceae
+erratum
 epigraph
 epilachna
 enhort
@@ -13657,7 +13658,6 @@ extensional
 encomiendas
 enphytotic
 endorsors
-erratum
 ephoric
 epistolizable
 exteriorness

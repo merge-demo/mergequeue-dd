@@ -11461,7 +11461,6 @@ dispositional
 discoglossidae
 doublehearted
 dieted
-diamyl
 digredience
 dekaliter
 dishier
@@ -17987,6 +17986,7 @@ deaerator
 demulsifier
 duhr
 desamidization
+diamyl
 dui
 drinker
 duikerboks
