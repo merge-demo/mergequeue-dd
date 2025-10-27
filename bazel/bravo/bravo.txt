@@ -1796,7 +1796,6 @@ bedrabbling
 bromohydrin
 blennocystitis
 bizardite
-bepurple
 bowkail
 boulework
 banago
@@ -18025,6 +18024,7 @@ bustles
 biologize
 bustlingly
 bandmaster
+bepurple
 betsimisaraka
 bullweeds
 bloom
