@@ -5535,7 +5535,6 @@ beedi
 beknottedly
 bermudite
 bedrabbled
-bobet
 blimpishly
 bel
 bela
@@ -12779,6 +12778,7 @@ booleans
 booly
 betatters
 book
+bobet
 bronchially
 borocarbide
 brasses
