@@ -2878,6 +2878,7 @@ cataclysm
 canopies
 caffoline
 clarigate
+cleavingly
 corticated
 canopying
 covets
@@ -11542,7 +11543,6 @@ cholate
 chamberer
 crafting
 calciphile
-cleavingly
 chold
 commiphora
 choleate
