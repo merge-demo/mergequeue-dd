@@ -316,7 +316,6 @@ adherents
 annexing
 abecedaire
 autointoxication
-anacara
 aerolith
 acidifiers
 abecedarians
@@ -3194,6 +3193,7 @@ aquatintist
 amalgamators
 adai
 arrestors
+anacara
 amplect
 abiogenous
 adays
