@@ -1149,7 +1149,6 @@ drawnet
 dumpfile
 dreamful
 dasheen
-destructional
 deiparous
 dasheens
 downdale
@@ -4584,6 +4583,7 @@ disembody
 demidistance
 diaphane
 dishabilitate
+destructional
 demifarthing
 demissness
 diabetogenic
