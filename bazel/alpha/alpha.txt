@@ -7444,7 +7444,6 @@ acini
 alembicate
 alcaydes
 acounter
-anerly
 abote
 alcalde
 atelomitic
@@ -20257,6 +20256,7 @@ agama
 arrowplate
 abortifacient
 adenectopic
+anerly
 arrowsmith
 arrowworm
 arroz
