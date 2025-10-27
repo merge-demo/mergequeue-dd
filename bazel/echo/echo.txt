@@ -4292,7 +4292,6 @@ enamelless
 eluder
 enamels
 emit
-edibles
 estranging
 enamorado
 enamorato
@@ -10033,6 +10032,7 @@ endocrinism
 endoperidial
 endogamous
 eterne
+edibles
 endangerment
 escargots
 eternisation
