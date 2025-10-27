@@ -19577,7 +19577,6 @@ coemptive
 colotomies
 configurational
 colourable
-colourably
 colouration
 colourational
 crossbones
@@ -29007,6 +29006,7 @@ candleberries
 crimper
 crimpiness
 crimping
+colourably
 crimps
 cracovienne
 cantatory
