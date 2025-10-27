@@ -6069,7 +6069,6 @@ deflocculator
 diagonally
 daffadowndillies
 depe
-dirtier
 dragonfish
 dacryocystorhinostomy
 darkrooms
@@ -7473,6 +7472,7 @@ dagomba
 detouring
 diaheliotropic
 dissociated
+dirtier
 deactivation
 dermacentor
 dipsie

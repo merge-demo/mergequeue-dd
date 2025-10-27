@@ -6970,6 +6970,7 @@ commendation
 creamed
 cemetery
 copesettic
+crescive
 complexest
 concours
 culm
@@ -18497,7 +18498,6 @@ crop
 capucine
 cognized
 cognizing
-crescive
 chemisette
 cognizor
 cognomens
