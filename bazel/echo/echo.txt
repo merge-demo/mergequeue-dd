@@ -2708,7 +2708,6 @@ earwigged
 eightyfold
 esquamulose
 evaporated
-electrowinning
 exaggerators
 estampie
 essenianism
@@ -12209,6 +12208,7 @@ epitrichium
 elachistaceae
 epigraph
 epilachna
+electrowinning
 enhort
 executioneering
 engarb
