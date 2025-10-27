@@ -2180,6 +2180,7 @@ australia
 achromatosis
 achromobacter
 amygdalolith
+adoniram
 achromous
 articulability
 allows
@@ -6893,7 +6894,6 @@ ake
 appraisingly
 akebia
 actinia
-adoniram
 armature
 anticommercialistic
 althorns

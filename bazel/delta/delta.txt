@@ -2316,7 +2316,6 @@ dissocialize
 decempunctate
 decemstriate
 disceptator
-disentrancement
 decemuiri
 downcut
 dilapidation
@@ -9533,6 +9532,7 @@ dighter
 decelerator
 delfts
 dialysers
+disentrancement
 derivation
 dights
 dextrocular
