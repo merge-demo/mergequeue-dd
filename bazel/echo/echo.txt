@@ -3066,7 +3066,6 @@ endarterium
 entellus
 esther
 escar
-et
 embeds
 emp
 encyclical
@@ -11448,6 +11447,7 @@ elasticizes
 erinnic
 effectually
 endomictic
+et
 electrotypist
 escapades
 empyreumatize
