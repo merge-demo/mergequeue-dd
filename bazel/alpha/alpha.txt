@@ -9866,6 +9866,7 @@ angioneurotic
 anciency
 ambergris
 ahchoo
+amicability
 amberite
 artiller
 arrival
@@ -10367,7 +10368,6 @@ amiantuses
 amyatonic
 amic
 assumpt
-amicability
 amicabilities
 amicably
 amphipodous
