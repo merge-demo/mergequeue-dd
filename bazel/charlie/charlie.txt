@@ -23467,7 +23467,6 @@ containing
 covert
 chloroanaemia
 contains
-configuration
 canzonetta
 courtby
 contaminant
@@ -23573,6 +23572,7 @@ carbonarism
 conterminously
 conventionize
 coverslut
+configuration
 calving
 conterminousness
 conterraneous
