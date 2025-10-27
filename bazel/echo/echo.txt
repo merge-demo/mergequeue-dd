@@ -121,6 +121,7 @@ enginehouse
 equisetaceae
 engobe
 egotistically
+exomorphism
 eartab
 exodermal
 eparch
@@ -5668,7 +5669,6 @@ emerson
 epistapedial
 engallant
 enlargedly
-exomorphism
 exameter
 engarble
 exogastric
