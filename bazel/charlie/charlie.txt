@@ -1391,6 +1391,7 @@ caliphship
 calmato
 contradebt
 criollas
+calculator
 calypso
 corseque
 criminis
@@ -23553,7 +23554,6 @@ contentedly
 counterartillery
 caribbeans
 contenting
-calculator
 cipo
 caphs
 contentional
