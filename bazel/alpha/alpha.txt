@@ -10186,7 +10186,6 @@ ameliorates
 abjectly
 algins
 anacrusis
-amomales
 ameliorations
 amelioratory
 amellus
@@ -17756,6 +17755,7 @@ adoptable
 appraising
 abacate
 appraisive
+amomales
 almique
 agrarianize
 appreciatingly
