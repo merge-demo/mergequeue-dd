@@ -2784,7 +2784,6 @@ demarches
 duodecahedral
 drowsier
 disintegrative
-dint
 diurnals
 delaware
 dipnoan
@@ -13400,6 +13399,7 @@ defenceless
 defectlessness
 disregarded
 drumskin
+dint
 disregardfulness
 disregarding
 dingbat
