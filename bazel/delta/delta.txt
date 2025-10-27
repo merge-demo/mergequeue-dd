@@ -8854,6 +8854,7 @@ dichotomal
 desilver
 dissimilation
 dibenzopyrrole
+dealate
 distraining
 disproportionates
 debilissima
@@ -17422,7 +17423,6 @@ declined
 doughboy
 diurnalness
 disframe
-dealate
 durationless
 dulcets
 departmentalisation

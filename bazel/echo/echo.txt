@@ -4065,6 +4065,7 @@ entoilment
 emplaster
 enantiomer
 elevating
+election
 emplastic
 emplastration
 ectrodactylism
@@ -10053,7 +10054,6 @@ exitial
 entamoebiasis
 endocrinopathy
 epopoeist
-election
 etceteras
 ethanediol
 erianthus
