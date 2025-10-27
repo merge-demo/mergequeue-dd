@@ -8387,6 +8387,7 @@ disruptable
 dioestrum
 duchies
 dialed
+dematerialise
 depredation
 disvouch
 deafly
@@ -17209,7 +17210,6 @@ distichlis
 debentureholder
 dipodies
 doley
-dematerialise
 dispensator
 drunkenness
 decine
