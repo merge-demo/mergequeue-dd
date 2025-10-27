@@ -13944,7 +13944,6 @@ astur
 antimission
 academize
 antefact
-antefix
 antefurcae
 antehall
 antehypophysis
@@ -21318,6 +21317,7 @@ aspect
 aspectable
 aspectant
 aspects
+antefix
 aspens
 asper
 aldehol
