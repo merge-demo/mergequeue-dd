@@ -2591,7 +2591,6 @@ electrophysiological
 eunectes
 electrocutioner
 ebulus
-exportability
 etherical
 ecphova
 electrophoresing
@@ -5644,6 +5643,7 @@ extinct
 extraterrestrially
 eucalypts
 enfree
+exportability
 exposable
 exoarteritis
 eligibly
