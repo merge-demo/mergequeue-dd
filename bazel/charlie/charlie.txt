@@ -3059,7 +3059,6 @@ capitonidae
 cantrip
 cantuta
 cantwise
-canula
 clack
 canulae
 canulas
@@ -31851,6 +31850,7 @@ cutiterebra
 crashes
 controverse
 cutlasses
+canula
 congealed
 clitoridotomy
 cutlassfishes
