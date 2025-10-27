@@ -2465,6 +2465,7 @@ agitprop
 aurophore
 acomia
 anglicize
+alces
 acomous
 abolitionists
 aconative
@@ -7338,7 +7339,6 @@ albugines
 amban
 albugo
 album
-alces
 atrazine
 adjuvate
 ankylosis
