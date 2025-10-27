@@ -4280,6 +4280,7 @@ entrenches
 esture
 elytroclasia
 expulsive
+expressness
 enactor
 exinanition
 eloquence
@@ -10154,7 +10155,6 @@ emeraldine
 etherially
 eyedropper
 exertion
-expressness
 electrothermally
 endocarpoid
 elenctical
