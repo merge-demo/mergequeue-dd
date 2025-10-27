@@ -5965,7 +5965,6 @@ diversifications
 duchesse
 depressurize
 dices
-dispossessed
 disentraced
 defeatee
 depreter
@@ -11354,6 +11353,7 @@ departures
 deodands
 dowhacky
 devoter
+dispossessed
 dehydrogenise
 disrupted
 defatigation
