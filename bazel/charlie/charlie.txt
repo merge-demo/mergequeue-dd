@@ -6552,6 +6552,7 @@ circumundulate
 caza
 cazimi
 clangored
+callot
 chamois
 counterattacked
 crossability
@@ -21678,7 +21679,6 @@ chichimecan
 crustiness
 condemners
 condemning
-callot
 counteroffensives
 condensaries
 condensates
