@@ -17116,7 +17116,6 @@ dressoir
 dittoes
 daintrel
 despume
-dobe
 dryadetum
 drused
 divinely
@@ -17807,6 +17806,7 @@ discussionis
 duckery
 duckers
 duces
+dobe
 dollardom
 duckfoot
 disfigurements
