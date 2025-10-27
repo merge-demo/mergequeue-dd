@@ -4821,7 +4821,6 @@ demonologer
 dispells
 dumbfounder
 democratising
-directeur
 democratism
 democratize
 democratizer
@@ -6658,6 +6657,7 @@ desesperance
 dissimuler
 demerol
 disadvancing
+directeur
 dreamwhile
 desert
 deserters
