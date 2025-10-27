@@ -8075,7 +8075,6 @@ bicrofarad
 bicrural
 balalaika
 broodiness
-biometrics
 bridecup
 bituminized
 billeters
@@ -17893,6 +17892,7 @@ bugged
 badinaging
 branial
 bibliopoly
+biometrics
 beautifulness
 btise
 boanerges

@@ -1486,7 +1486,6 @@ calligraphy
 chiba
 cooeying
 cirsotome
-consularity
 chiefly
 chuvashes
 callynteria
@@ -5415,6 +5414,7 @@ cooing
 corseleting
 castilleja
 castillo
+consularity
 coattestation
 chapourn
 chon
