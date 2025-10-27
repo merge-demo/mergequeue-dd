@@ -404,7 +404,6 @@ emeries
 egoists
 ectoproctan
 eriphyle
-entorganism
 equivocator
 emotiveness
 ebonized
@@ -8984,6 +8983,7 @@ erythrocytes
 exhilarant
 explorative
 ecumenist
+entorganism
 electrophonic
 epizootiological
 effected
