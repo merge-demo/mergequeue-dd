@@ -4952,6 +4952,7 @@ adularescent
 albruna
 allantoidal
 aerotonometric
+amomal
 aeruginous
 animikite
 aerugo
@@ -10912,7 +10913,6 @@ antidepressive
 ahuaca
 amolilla
 albumoscope
-amomal
 aceite
 autoecous
 amomis
