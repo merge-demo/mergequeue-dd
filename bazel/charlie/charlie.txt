@@ -1461,6 +1461,7 @@ conversus
 coffeepot
 commise
 callboy
+contradictories
 callboys
 called
 cot
@@ -11829,7 +11830,6 @@ chop
 chopa
 chalcids
 cyanopia
-contradictories
 camber
 cyclopedia
 crapshooters
