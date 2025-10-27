@@ -8948,7 +8948,6 @@ cunoniaceous
 cyclosilicate
 circumocular
 counterattacking
-coyotero
 chrysophanus
 crenelet
 concyclic
@@ -29101,6 +29100,7 @@ cryogenics
 cryogens
 cosmopolitan
 catwalks
+coyotero
 clauster
 costards
 cryological
