@@ -52,6 +52,7 @@ earflap
 ethanoyl
 expender
 enzyms
+extoolitic
 excites
 exciton
 electroretinograph
@@ -82,7 +83,6 @@ ellebore
 eulalia
 earmarkings
 equitation
-extoolitic
 enshelter
 earmuff
 earnable
