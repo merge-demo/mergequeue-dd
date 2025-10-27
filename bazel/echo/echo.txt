@@ -2278,7 +2278,6 @@ excretal
 eger
 encased
 egest
-ester
 equality
 enleagued
 electrifiers
@@ -7495,6 +7494,7 @@ esterify
 endeign
 eugenia
 epidiascopic
+ester
 effluency
 ephor
 ekphory
