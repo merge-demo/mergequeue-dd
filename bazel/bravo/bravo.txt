@@ -3950,6 +3950,7 @@ bumpiest
 bromometrical
 bisulphate
 basset
+blaff
 boltspreet
 bromoiodide
 bacteriuria
@@ -12137,7 +12138,6 @@ boarishness
 bureaucracies
 biclinium
 bowdlerism
-blaff
 bullnecked
 beaumontia
 broses
