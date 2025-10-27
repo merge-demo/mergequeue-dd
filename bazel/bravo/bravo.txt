@@ -13512,7 +13512,6 @@ bags
 bourre
 beseek
 boneyards
-botulisms
 brief
 brodequin
 briquette
@@ -17802,6 +17801,7 @@ botein
 bobeches
 barks
 biga
+botulisms
 burthened
 burthens
 belayer
