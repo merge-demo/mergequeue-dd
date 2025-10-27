@@ -3298,7 +3298,6 @@ discloister
 daemonurgy
 divisionistic
 dicot
-damnable
 distressfulness
 dismast
 denims
@@ -18087,6 +18086,7 @@ dullity
 disgaveling
 deluster
 damnifying
+damnable
 disgavelled
 degreeing
 delusional
