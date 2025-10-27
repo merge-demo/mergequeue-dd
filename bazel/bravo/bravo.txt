@@ -979,6 +979,7 @@ boyards
 bayamos
 brownier
 bromocresol
+borderer
 brigand
 bayano
 birlie
@@ -5215,7 +5216,6 @@ bastes
 bothsided
 buddleia
 begazing
-borderer
 bedabbling
 bridesmaiding
 brominize
