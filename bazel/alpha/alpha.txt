@@ -3730,7 +3730,6 @@ airwaves
 antitropous
 angiorrhexis
 amblystoma
-anteropygal
 approachableness
 adipolytic
 atheistically
@@ -16449,6 +16448,7 @@ apaesthetize
 articulatory
 apagoge
 anophthalmus
+anteropygal
 apagogic
 advise
 agrafes
