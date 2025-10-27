@@ -3745,6 +3745,7 @@ abolished
 adnouns
 aloha
 archbeadle
+antifascism
 adipsy
 awonder
 anaphylactin
@@ -15056,7 +15057,6 @@ antifanatic
 allocochick
 antipathogene
 autoinhibited
-antifascism
 antifascist
 antifascists
 aplanogamete
