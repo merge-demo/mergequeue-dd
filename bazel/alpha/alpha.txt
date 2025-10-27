@@ -4612,7 +4612,6 @@ ambrotype
 aeolist
 aeolotropy
 atrenne
-aesculapian
 aeon
 anacrustically
 aeonic
@@ -20556,6 +20555,7 @@ anserous
 arthroses
 applauds
 arthrosynovitis
+aesculapian
 analecta
 acequias
 arthrosis
