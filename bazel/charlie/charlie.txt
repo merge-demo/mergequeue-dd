@@ -3061,7 +3061,6 @@ clack
 canulae
 canulas
 canulates
-comatic
 coalier
 canun
 coumarouna
@@ -5792,6 +5791,7 @@ chondrified
 cessionary
 cholanthrene
 calipee
+comatic
 categories
 cardiazol
 cestodaria
