@@ -10740,7 +10740,6 @@ communicates
 chinaman
 chinamaniac
 curmurging
-chinamen
 condemnable
 chinaroot
 confectionaries
@@ -24836,6 +24835,7 @@ coracias
 cloverleafs
 charissa
 coracii
+chinamen
 coryzas
 coracle
 cathect
