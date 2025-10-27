@@ -1439,6 +1439,7 @@ euphuisms
 enarbour
 esconson
 electrophoresis
+efferous
 eelpout
 effort
 ethmovomer
@@ -7289,7 +7290,6 @@ empolder
 establisher
 epa
 equiatomic
-efferous
 explodent
 exoascaceae
 ejicient

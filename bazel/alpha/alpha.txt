@@ -18074,6 +18074,7 @@ adequately
 adelomorphous
 aquascope
 alltud
+arise
 aquate
 arithmetician
 anaptomorphus
@@ -19586,7 +19587,6 @@ arising
 amidone
 alterius
 arisard
-arise
 athyrium
 account
 aas
