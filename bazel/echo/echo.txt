@@ -2041,7 +2041,6 @@ elaic
 enteroplegia
 elaioplast
 elamite
-elamitish
 electrophorese
 evilly
 eudialyte
@@ -13056,6 +13055,7 @@ egueiite
 evaluations
 euphonized
 expermentized
+elamitish
 emus
 exies
 expensefully
