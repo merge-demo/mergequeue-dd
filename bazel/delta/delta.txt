@@ -5717,7 +5717,6 @@ dermoid
 desterilized
 daypeep
 dialysed
-disposit
 dacryocystoblennorrhea
 deplenish
 dialup
@@ -11239,6 +11238,7 @@ disbranch
 duffies
 demonstrators
 disbranched
+disposit
 destructors
 dogbush
 desoxybenzoin
