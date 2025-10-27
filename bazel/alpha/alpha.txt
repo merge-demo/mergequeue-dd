@@ -12067,7 +12067,6 @@ anchoress
 anchoret
 anchorets
 acquittals
-amblyopsis
 angiometer
 altruism
 anticourt
@@ -16724,6 +16723,7 @@ aphanites
 apprend
 aphra
 aphrite
+amblyopsis
 aphrodesiac
 abastral
 apoharmine
