@@ -959,7 +959,6 @@ absterge
 asparagus
 acuity
 archdeacon
-abstergent
 antares
 absterges
 angelican
@@ -13593,6 +13592,7 @@ anomaluridae
 archmonarchy
 alcoholomania
 anomiacea
+abstergent
 acquiet
 atrabilarian
 aneurysmally
