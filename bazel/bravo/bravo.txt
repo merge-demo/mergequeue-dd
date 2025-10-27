@@ -10058,7 +10058,6 @@ bestamp
 bks
 bkt
 butterback
-baboosh
 bicephalic
 balneae
 bylander
@@ -17206,6 +17205,7 @@ broadsider
 blazons
 bumpkin
 balmoral
+baboosh
 bumpkins
 bumptious
 bibliothecae
