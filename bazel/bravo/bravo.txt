@@ -8558,6 +8558,7 @@ bearskin
 benefits
 billfolds
 ballaton
+brominism
 bringing
 barytes
 bessy
@@ -10214,7 +10215,6 @@ broomwort
 blackpatch
 beavering
 batara
-brominism
 blennorrhoea
 bilobiate
 bellicism
