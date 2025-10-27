@@ -1564,7 +1564,6 @@ callowest
 cretinization
 clothmaker
 callowman
-callowness
 cholecystalgia
 cinderella
 corded
@@ -17929,6 +17928,7 @@ chlamys
 cryptanalytics
 confidentially
 camas
+callowness
 codicology
 calycule
 codifications
