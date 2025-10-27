@@ -12133,7 +12133,6 @@ diffiding
 dermatoscopy
 dramaturgy
 disturbant
-desulfuration
 discubitory
 disfaith
 disconsolance
@@ -17035,6 +17034,7 @@ deviltry
 demonises
 daughterling
 doge
+desulfuration
 dredgers
 discreet
 dovefoot
