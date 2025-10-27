@@ -7252,7 +7252,6 @@ billfishes
 blunter
 boletaceous
 bannet
-bigly
 beperiwigged
 bethesda
 babirussa
@@ -14369,6 +14368,7 @@ bicyclo
 bunomastodontidae
 braggadocios
 bemocked
+bigly
 bisischiadic
 brainpan
 brainpans
