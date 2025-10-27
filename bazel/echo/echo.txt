@@ -5195,6 +5195,7 @@ electromagnetic
 ergotize
 exitus
 eparchy
+enjambed
 esterification
 equipluve
 epistrophic
@@ -10376,7 +10377,6 @@ explains
 encommon
 epiphenomenalist
 edmund
-enjambed
 exactment
 endeavoured
 exophagy
