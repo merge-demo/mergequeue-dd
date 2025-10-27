@@ -3702,7 +3702,6 @@ depiedmontize
 demonstrating
 diam
 delapse
-dehydrochlorinase
 dulciloquy
 dowlas
 daytale
@@ -5219,6 +5218,7 @@ didromy
 downstater
 disuniters
 decarburation
+dehydrochlorinase
 discomposure
 denigrated
 dipolarize
