@@ -21054,6 +21054,7 @@ assiduate
 accipitrary
 appropriate
 autotomy
+anciennete
 atomicism
 amyotrophic
 alighted
@@ -24725,7 +24726,6 @@ angioasthenia
 alexines
 avidous
 avifaunas
-anciennete
 anhalonium
 arbute
 avifaunistic
