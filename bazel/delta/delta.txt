@@ -13311,7 +13311,6 @@ disprovide
 distillate
 daintier
 datism
-dustpoint
 dispurvey
 disputability
 dotters
@@ -15490,6 +15489,7 @@ despicability
 detoxify
 djebel
 ducklet
+dustpoint
 dolichoprosopic
 dealkylate
 diapophysial
