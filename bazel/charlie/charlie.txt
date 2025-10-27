@@ -4189,6 +4189,7 @@ carbamido
 carnet
 chiron
 carabideous
+consulships
 carburise
 cardsharp
 cardsharping
@@ -23348,7 +23349,6 @@ curiouser
 comparascope
 consulates
 ceratoglossus
-consulships
 clavieristic
 consulta
 coarct
