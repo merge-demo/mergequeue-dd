@@ -4389,7 +4389,6 @@ downrushing
 disrobe
 demagogue
 demagoguery
-demagogues
 demal
 daylit
 diode
@@ -12355,6 +12354,7 @@ distrained
 dithyrambically
 dromaeognathous
 dielectrics
+demagogues
 discharged
 disclaimed
 digestor
