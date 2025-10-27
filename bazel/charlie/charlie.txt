@@ -17905,6 +17905,7 @@ cabook
 codette
 codfish
 childbed
+coresidual
 centers
 codewords
 codfisher
@@ -30330,7 +30331,6 @@ cynipid
 cataphysic
 crusaders
 coastways
-coresidual
 crusets
 crushed
 cowpokes
