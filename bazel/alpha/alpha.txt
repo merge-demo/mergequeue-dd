@@ -11977,7 +11977,6 @@ arterioverter
 acedia
 arteriofibrosis
 anatomiser
-anatomize
 anatomized
 accoucheurs
 anatomizer
@@ -23318,6 +23317,7 @@ alvina
 alleviaters
 auditorium
 addition
+anatomize
 anagrammatist
 alginate
 avanious
