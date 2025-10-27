@@ -2663,7 +2663,6 @@ cyprid
 canfield
 counterstatement
 cantillating
-clumsiness
 cangia
 constitutively
 cangler
@@ -13011,6 +13010,7 @@ catamnesis
 cotty
 corella
 celled
+clumsiness
 crunode
 coleopteron
 campanulaceae
