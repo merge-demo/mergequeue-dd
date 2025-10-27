@@ -2457,7 +2457,6 @@ equivalence
 electrogenic
 electrogild
 eudemonia
-electrogilt
 ejecting
 electrogram
 endows
@@ -14005,6 +14004,7 @@ endogen
 extraregularly
 expirers
 exiling
+electrogilt
 eduskunta
 exsertile
 elderbrotherly
