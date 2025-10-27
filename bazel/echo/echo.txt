@@ -3101,6 +3101,7 @@ empennage
 equiangularity
 elaphomyces
 epicalyces
+egence
 encomiums
 endogenies
 echinorhinidae
@@ -4687,7 +4688,6 @@ encyclopedical
 etherialisation
 erpetology
 exacerbating
-egence
 ellasar
 envire
 esrogs
