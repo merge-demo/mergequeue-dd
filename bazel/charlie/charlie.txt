@@ -11680,6 +11680,7 @@ cinematographic
 crossroading
 chololithic
 craunched
+cruciated
 cholones
 cholophaein
 coven
@@ -23877,7 +23878,6 @@ cactales
 contravene
 contravener
 cardueline
-cruciated
 chlorinous
 contravening
 contraversion
