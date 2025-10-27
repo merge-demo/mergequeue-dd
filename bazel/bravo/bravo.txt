@@ -751,6 +751,7 @@ bride
 bechatter
 boric
 badinages
+beadles
 bitstock
 bearcoot
 badiner
@@ -9232,7 +9233,6 @@ bipotentiality
 bromoiodid
 biprism
 byproducts
-beadles
 bemata
 butacaine
 bleezy
