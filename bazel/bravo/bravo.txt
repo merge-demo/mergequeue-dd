@@ -5170,7 +5170,6 @@ biglandular
 boxberries
 befuddling
 beautyship
-bumpkinet
 berating
 bullae
 bardish
@@ -14510,6 +14509,7 @@ branchiostegidae
 bounciest
 balbriggan
 brookable
+bumpkinet
 branchiostomous
 bombload
 barkey
