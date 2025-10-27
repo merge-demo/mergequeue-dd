@@ -8896,7 +8896,6 @@ allotments
 anapsidan
 algaesthesia
 aden
-autarkically
 achillea
 allotriognathi
 accruing
@@ -9481,6 +9480,7 @@ abrastol
 abichite
 altos
 altostratus
+autarkically
 altrices
 antipart
 averager
