@@ -10354,6 +10354,7 @@ auxosubstance
 amianth
 aminolysis
 appreciational
+abranchian
 actinometer
 antireactive
 apposability
@@ -23308,7 +23309,6 @@ accommodational
 auditory
 atrichosis
 androgonium
-abranchian
 auditorial
 attitudinarian
 alvina
