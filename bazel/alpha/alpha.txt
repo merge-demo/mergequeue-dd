@@ -4963,7 +4963,6 @@ abbreviates
 alliancer
 agonies
 archaised
-actionized
 alpenstock
 aeronomies
 arabesk
@@ -8140,6 +8139,7 @@ accenting
 australite
 aculea
 artefac
+actionized
 ache
 aftermarket
 axonal
