@@ -13336,6 +13336,7 @@ desanding
 discord
 drogher
 drizzle
+divinister
 dunghills
 disputes
 dispicion
@@ -14529,7 +14530,6 @@ decarburised
 disjointly
 deoxidate
 dyadic
-divinister
 defier
 dismiss
 discoverers
