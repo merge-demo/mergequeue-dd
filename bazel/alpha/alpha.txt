@@ -4271,7 +4271,6 @@ adullamite
 affrayer
 abencerrages
 adulterated
-antiquary
 adulterateness
 arteriopalmus
 acromiosternal
@@ -8322,6 +8321,7 @@ actinomycestal
 alkalinity
 abactor
 antiquer
+antiquary
 archology
 abiegh
 avenage
