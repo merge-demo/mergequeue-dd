@@ -911,7 +911,6 @@ eschewing
 enures
 emperies
 extrastate
-electrostrictive
 eugenist
 episedia
 encomiastic
@@ -5515,6 +5514,7 @@ enfeeblements
 earwort
 exorcising
 evertors
+electrostrictive
 exoterics
 espiritual
 enfeebles
