@@ -20504,6 +20504,7 @@ comites
 chives
 compadre
 curstfully
+cryptogrammatical
 conjurison
 compadres
 compagnies
@@ -29274,7 +29275,6 @@ custody
 cryptogram
 cryptogrammatic
 corybantic
-cryptogrammatical
 concelebrated
 craggedly
 certiorating
