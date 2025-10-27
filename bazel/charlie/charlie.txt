@@ -4243,7 +4243,6 @@ chiffoniers
 carelessly
 carelessness
 careme
-carene
 carer
 chyometer
 capsulotome
@@ -26375,6 +26374,7 @@ cotidal
 cotylar
 cotyledonal
 cotyledonary
+carene
 catalyzing
 cowitch
 cotyledons

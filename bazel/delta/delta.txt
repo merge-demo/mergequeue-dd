@@ -15779,7 +15779,6 @@ deflectors
 dorbel
 dorbugs
 dorcastry
-diadermic
 disnosed
 doucet
 disentrain
@@ -17284,6 +17283,7 @@ drivership
 dmarche
 demirobe
 dittoed
+diadermic
 disulfate
 desolater
 decrepitation
