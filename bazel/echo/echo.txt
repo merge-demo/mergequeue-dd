@@ -5114,7 +5114,6 @@ ember
 elaeoblast
 emforth
 elatives
-engirt
 endocrines
 endocrinic
 existentialistic
@@ -12456,6 +12455,7 @@ explorate
 exfiltrate
 equilibrial
 electrolysing
+engirt
 exhuming
 epifaunal
 enthronization

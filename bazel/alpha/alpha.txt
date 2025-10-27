@@ -1784,7 +1784,6 @@ auroauric
 aluminum
 auletai
 acentrous
-alizarine
 anastalsis
 antacrid
 afterage
@@ -15556,6 +15555,7 @@ agile
 antioxidants
 antiabrin
 afterking
+alizarine
 alderling
 amygdalectomy
 agrito
