@@ -12173,6 +12173,7 @@ apophysial
 abruptly
 andirin
 andirine
+apokreos
 aeromantic
 anopisthograph
 assassinate
@@ -17991,7 +17992,6 @@ allometry
 affusions
 antereformation
 accounsel
-apokreos
 aptote
 artocarpus
 aludra
