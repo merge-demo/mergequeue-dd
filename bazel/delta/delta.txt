@@ -708,6 +708,7 @@ disbody
 dropshots
 damsons
 doctorally
+dendrachate
 ductule
 dissonous
 durned
@@ -7322,7 +7323,6 @@ deselected
 dilettantship
 dinumeration
 diporpa
-dendrachate
 droddum
 diptera
 dishware
