@@ -11150,6 +11150,7 @@ dissipater
 diaphanous
 deplaceable
 donating
+dyotheism
 diols
 disattaint
 diplomacy
@@ -17375,7 +17376,6 @@ disincorporated
 deisidaimonia
 drawhead
 detoxified
-dyotheism
 disquisition
 desirers
 drooly
