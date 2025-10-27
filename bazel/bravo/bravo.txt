@@ -814,7 +814,6 @@ bronzine
 biffed
 burrfishes
 bafflers
-baffling
 bafflingly
 bulbus
 bafflingness
@@ -16486,6 +16485,7 @@ brisky
 backed
 bubblish
 banaba
+baffling
 bedmakers
 bothnic
 bubinga
