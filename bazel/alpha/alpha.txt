@@ -19251,7 +19251,6 @@ archrepresentative
 allalinite
 altogetherness
 asse
-argal
 argala
 aphididae
 asteroxylon
@@ -21413,6 +21412,7 @@ auxoaction
 asphyxiated
 amarantite
 asphyxiator
+argal
 airbound
 android
 almeries
