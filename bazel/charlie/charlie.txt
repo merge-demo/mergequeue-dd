@@ -8201,7 +8201,6 @@ chairmans
 crestmoreite
 chondroclasis
 congrid
-chairmanships
 checkoff
 chairpersons
 crematoririums
@@ -16018,6 +16017,7 @@ chlorocarbon
 crookesite
 cervicobuccal
 clerkships
+chairmanships
 comrado
 clernly
 cramper
