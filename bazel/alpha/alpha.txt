@@ -9315,6 +9315,7 @@ anthralin
 armgaunt
 alpieu
 alpine
+ambulanced
 appointive
 alpinesque
 anachronistical
@@ -16544,7 +16545,6 @@ alang
 aperients
 aperiodically
 analgia
-ambulanced
 alliterates
 acme
 aperiodicity
