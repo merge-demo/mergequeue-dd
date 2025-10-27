@@ -6183,7 +6183,6 @@ ennoblements
 euryhaline
 excrescences
 exaspidean
-esker
 ennobling
 embarren
 ectotrophic
@@ -6420,6 +6419,7 @@ emulate
 ecotypic
 excellencies
 ensweeten
+esker
 exceptioner
 exarchy
 enleen
