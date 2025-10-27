@@ -928,7 +928,6 @@ enteritidis
 endosteum
 echinoids
 extropical
-encapsulating
 escalation
 electrotonic
 emplaces
@@ -12101,6 +12100,7 @@ enframement
 epicerebral
 egressor
 electral
+encapsulating
 electorates
 edrioasteroid
 excerpter
