@@ -9700,7 +9700,6 @@ cheesiest
 cyclopedias
 curbs
 convince
-crabeater
 cubbish
 chevre
 convocate
@@ -26540,6 +26539,7 @@ cyclopaedias
 choosiest
 calumniate
 cardiometry
+crabeater
 cougher
 coronillin
 commandeered
