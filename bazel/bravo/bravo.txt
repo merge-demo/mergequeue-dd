@@ -1130,7 +1130,6 @@ brewmaster
 boyg
 budgereegah
 bookies
-berne
 banquets
 botete
 blockishness
@@ -14716,6 +14715,7 @@ biophysical
 bardiest
 braxies
 brunt
+berne
 brazenfacedness
 blackmails
 bicaudal
