@@ -6811,6 +6811,7 @@ detachments
 dioecian
 desinent
 dispend
+disendower
 dallying
 defectious
 deevey
@@ -10668,7 +10669,6 @@ demulcent
 digoxin
 disinfected
 dreadlessness
-disendower
 drownproofing
 disorganizing
 dendrologous
