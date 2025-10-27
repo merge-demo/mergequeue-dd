@@ -6718,6 +6718,7 @@ dilatations
 dactylis
 dioptres
 dreche
+defectious
 derision
 diminutely
 dermatoptera
@@ -6809,7 +6810,6 @@ desinent
 dispend
 disendower
 dallying
-defectious
 deevey
 dopatta
 dentality
