@@ -7931,7 +7931,6 @@ conned
 cesural
 cetaceans
 collieshangie
-cetanes
 cete
 cetera
 cetes
@@ -29572,6 +29571,7 @@ crocheting
 codebook
 croci
 crocidura
+cetanes
 craspedal
 crock
 chalazion
