@@ -5253,7 +5253,6 @@ anticonservative
 affrontedness
 anidiomatic
 apostatic
-affrontive
 assassinative
 autostylic
 affronts
@@ -12296,6 +12295,7 @@ algesis
 armchairs
 autonomical
 atomiferous
+affrontive
 axisymmetry
 ajowan
 anecdote
