@@ -1992,7 +1992,6 @@ deckload
 debunkers
 drawbench
 diaphragms
-debunks
 dribblement
 disedify
 deadhouse
@@ -10507,6 +10506,7 @@ diplantidian
 drynaria
 diarial
 dissaturate
+debunks
 diplarthrism
 dilapidator
 decentest
