@@ -817,7 +817,6 @@ ectype
 entities
 everliving
 enwrite
-epizoa
 erythrinidae
 eral
 extremest
@@ -13412,6 +13411,7 @@ energizer
 embruted
 expressio
 exploring
+epizoa
 ensnaringly
 expressional
 erupted
