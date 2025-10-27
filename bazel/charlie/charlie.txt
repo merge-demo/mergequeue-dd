@@ -186,7 +186,6 @@ cotutor
 colpohyperplasia
 celioelytrotomy
 committal
-cohort
 coadmit
 cabresta
 cabrestas
@@ -11584,6 +11583,7 @@ cholecystotomy
 cholecystotomies
 creatures
 choledochal
+cohort
 choledochoduodenostomy
 colpeurysis
 connotively
