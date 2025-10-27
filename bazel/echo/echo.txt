@@ -4954,6 +4954,7 @@ entropium
 expectable
 enravish
 embryotomy
+exploding
 endellionite
 eucephalous
 emigates
@@ -9113,7 +9114,6 @@ entwist
 etruscan
 erythropsin
 eltrot
-exploding
 erythrosiderite
 exosporous
 egoistically
