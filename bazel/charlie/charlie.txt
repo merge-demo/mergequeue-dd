@@ -11900,6 +11900,7 @@ crispiness
 chordaceae
 conchiform
 chordacentrous
+caseless
 contend
 chordal
 cosharer
@@ -14832,7 +14833,6 @@ cablese
 clinician
 cytoblastemal
 colportage
-caseless
 conjecturableness
 crotophaga
 cytoblastemous
