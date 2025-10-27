@@ -6426,6 +6426,7 @@ deallocating
 disspread
 debuts
 desmology
+dollops
 dillisk
 donation
 derotremata
@@ -16918,7 +16919,6 @@ dsname
 disceptation
 decanically
 ddt
-dollops
 dicyclic
 diiambus
 dataria
