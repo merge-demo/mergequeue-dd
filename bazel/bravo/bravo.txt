@@ -2531,7 +2531,6 @@ bosque
 burghalpenny
 bloodberry
 boilerless
-barylalia
 beyondness
 bunkums
 biduous
@@ -4214,6 +4213,7 @@ berryless
 bathomania
 bishopbird
 banff
+barylalia
 blowball
 babbitter
 bellhanging
