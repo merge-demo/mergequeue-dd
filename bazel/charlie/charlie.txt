@@ -8348,7 +8348,6 @@ challas
 contraponend
 caissoned
 chromatopathic
-consignable
 calcifuge
 challengeful
 chorine
@@ -27409,6 +27408,7 @@ carap
 cabinetmaker
 cauldron
 chaperon
+consignable
 courting
 courtly
 corslets
