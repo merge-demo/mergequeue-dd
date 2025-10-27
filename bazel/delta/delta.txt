@@ -12553,7 +12553,6 @@ daffed
 departmentalized
 disintegrated
 dipterological
-denotation
 diamantoid
 denominators
 disintegrator
@@ -17395,6 +17394,7 @@ dismays
 dichotomies
 druggier
 disavouch
+denotation
 droopiest
 demarcators
 doney
