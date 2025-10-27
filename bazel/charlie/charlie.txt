@@ -8996,6 +8996,7 @@ charger
 charybdian
 crankman
 conjugacy
+chaster
 charybdis
 chestnutty
 charicleia
@@ -9236,7 +9237,6 @@ carbonylic
 caducibranchiata
 chastener
 coplanation
-chaster
 crombec
 chastest
 chasteweed
