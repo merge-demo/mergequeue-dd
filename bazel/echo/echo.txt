@@ -6696,7 +6696,6 @@ endostyle
 entosclerite
 eulogiser
 ecrevisse
-epulis
 espundia
 endamebiasis
 entertainingly
@@ -11638,6 +11637,7 @@ equianchorate
 epitaphical
 exacting
 electroirrigation
+epulis
 electivity
 eburnian
 exaction
