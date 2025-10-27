@@ -6143,6 +6143,7 @@ canonici
 chitterling
 contraflow
 cattleyak
+cataphracti
 conhydrin
 cerebritis
 catullian
@@ -12511,7 +12512,6 @@ chromonemal
 coincidences
 calantas
 chromonematal
-cataphracti
 cochlearifoliate
 chromophage
 chromophane
