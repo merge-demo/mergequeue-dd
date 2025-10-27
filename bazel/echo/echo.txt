@@ -1346,7 +1346,6 @@ efferently
 efferents
 enallage
 effervescency
-eastermost
 epode
 endoskeletal
 exomis
@@ -3755,6 +3754,7 @@ emcumbering
 eyewater
 electroneutral
 eclaircise
+eastermost
 eradicatory
 erect
 epilogs
