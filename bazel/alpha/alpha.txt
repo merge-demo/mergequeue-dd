@@ -9024,6 +9024,7 @@ allworthy
 antdom
 anticaste
 antechambers
+automatize
 activation
 almacigo
 anaspid
@@ -24174,7 +24175,6 @@ awardee
 apair
 abstractedness
 acutenaculum
-automatize
 aerogels
 agonia
 automatonta
