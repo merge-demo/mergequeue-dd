@@ -4813,7 +4813,6 @@ encomiumia
 encompassment
 embira
 excusation
-episiotomy
 echard
 embosks
 erased
@@ -13046,6 +13045,7 @@ eulogistically
 expeditiously
 erythrocarpous
 episcopable
+episiotomy
 ecstasies
 euge
 epipodia
