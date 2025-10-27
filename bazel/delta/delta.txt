@@ -13213,6 +13213,7 @@ dyspneas
 diapensiaceae
 disbanded
 dorsocephalad
+degases
 dimity
 dodecastylos
 dyspnoeal
@@ -13612,7 +13613,6 @@ diplosis
 deplorableness
 demivolts
 durity
-degases
 dissymmetric
 degender
 dampy
