@@ -16500,7 +16500,6 @@ accessibly
 amberies
 aparthrosis
 apartness
-arresting
 apass
 apatan
 antihierarchically
@@ -16754,6 +16753,7 @@ alterate
 abscissin
 aphthartodocetism
 acron
+arresting
 aspergilla
 acromonogrammatic
 armlets
