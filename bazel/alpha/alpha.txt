@@ -9500,7 +9500,6 @@ annulet
 altruists
 altun
 anisomeles
-alture
 altus
 aluco
 alpaca
@@ -24760,6 +24759,7 @@ avisos
 ambassadorships
 avitaminosis
 anoxic
+alture
 avocado
 adaption
 augmentatively
