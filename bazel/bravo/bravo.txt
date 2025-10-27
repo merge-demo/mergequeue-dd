@@ -6128,7 +6128,6 @@ buckhorn
 barrigudo
 beatifical
 buchmanism
-befinger
 buttinsky
 bedraggles
 beetle
@@ -6356,6 +6355,7 @@ bluestem
 benzoquinoxaline
 balau
 bioassay
+befinger
 benzosulfimide
 byron
 benzosulphimide
