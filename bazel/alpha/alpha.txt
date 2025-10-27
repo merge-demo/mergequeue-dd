@@ -3098,7 +3098,6 @@ aplomb
 assident
 actuary
 aphis
-acaroid
 anastomotic
 arianist
 ashlar
@@ -3790,6 +3789,7 @@ anapaestic
 allioniaceae
 amidship
 adjoints
+acaroid
 asianic
 apieces
 adjourn
