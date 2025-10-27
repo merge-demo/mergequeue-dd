@@ -9266,6 +9266,7 @@ chateaux
 cordmaker
 chatelaines
 chemotherapists
+chartophylax
 corrosionproof
 conceive
 chatoyant
@@ -20617,7 +20618,6 @@ carreta
 cusparia
 codon
 crapon
-chartophylax
 commistion
 cambalo
 canonlike
