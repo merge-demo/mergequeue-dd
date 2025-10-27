@@ -14831,7 +14831,6 @@ copremia
 cytoarchitectural
 cablese
 clinician
-cemetaries
 cytoblastemal
 colportage
 caseless
@@ -21594,6 +21593,7 @@ cuartino
 concresce
 concrescence
 cephalohumeral
+cemetaries
 concrescive
 colocentesis
 curtseying
