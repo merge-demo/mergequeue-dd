@@ -3167,6 +3167,7 @@ embosomed
 expounders
 emblemize
 eidetic
+escroll
 ejaculum
 extraserous
 entomophagous
@@ -6040,7 +6041,6 @@ epistolical
 epistles
 edgemaker
 ecumenopolis
-escroll
 endognath
 eolith
 exhusband
