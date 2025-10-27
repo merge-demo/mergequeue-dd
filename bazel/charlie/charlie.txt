@@ -12970,6 +12970,7 @@ cia
 crystallised
 cyan
 cyanamid
+chromicize
 contemporizing
 cookies
 conspires
@@ -22164,7 +22165,6 @@ commemorize
 counterclaiming
 confluent
 confluxes
-chromicize
 champert
 conormal
 cheateries
