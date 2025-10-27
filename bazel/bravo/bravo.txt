@@ -6411,7 +6411,6 @@ backdown
 bepepper
 biotite
 bobbysoxer
-bacteriotrypsin
 booley
 bielid
 boltropes
@@ -13331,6 +13330,7 @@ betsy
 botcherly
 biliary
 botchy
+bacteriotrypsin
 becrimson
 bedunch
 botella
