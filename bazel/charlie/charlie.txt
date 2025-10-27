@@ -2182,7 +2182,6 @@ cooperate
 compasser
 chugalugging
 carbocer
-ceratophyte
 coordinating
 cootch
 coronofacial
@@ -16296,6 +16295,7 @@ clinohumite
 crumbled
 cowhide
 codswallop
+ceratophyte
 childermas
 constringency
 clinology
