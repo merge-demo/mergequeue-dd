@@ -7330,7 +7330,6 @@ catalinite
 crossroads
 carpologist
 chemigraphy
-corrigenda
 cepes
 civ
 conchitis
@@ -11067,6 +11066,7 @@ chocolaty
 chitarroni
 clitoris
 copularium
+corrigenda
 cyclicly
 coalize
 chitimacha
