@@ -547,7 +547,6 @@ enzymologist
 eclipsises
 entosthoblast
 echinococcosis
-epedaphic
 epithelioceptor
 edgy
 enciphered
@@ -11050,6 +11049,7 @@ euroaquilo
 earthier
 ejaculators
 eurobin
+epedaphic
 enlevement
 elargement
 equipotent
