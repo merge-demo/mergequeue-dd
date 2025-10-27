@@ -4569,6 +4569,7 @@ endpleasure
 enam
 emplore
 effigies
+espino
 ectochondral
 ectomesoblast
 expede
@@ -9659,7 +9660,6 @@ ensearcher
 espingole
 execrative
 equaling
-espino
 erythroplastid
 evilsayer
 esplanade
