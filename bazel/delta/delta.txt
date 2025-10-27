@@ -10094,7 +10094,6 @@ dynamitism
 dynamos
 dialycarpous
 dinanderie
-deuteranomaly
 disfrocks
 dobrao
 dinantian
@@ -14055,6 +14054,7 @@ dietics
 districted
 diplexer
 drawarm
+deuteranomaly
 districting
 disharmonizing
 defoaming
