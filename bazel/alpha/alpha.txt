@@ -8601,7 +8601,6 @@ arrhythmous
 atheology
 actinopod
 allergin
-allergists
 allographic
 anconad
 aryl
@@ -16078,6 +16077,7 @@ antispasmodic
 adradially
 angiophorous
 antispastic
+allergists
 aplustre
 amphigenesis
 awiggle
