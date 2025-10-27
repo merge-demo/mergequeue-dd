@@ -143,7 +143,6 @@ draughtmanship
 deviascope
 dekko
 dinar
-dola
 disrump
 dipcoat
 dyophone
@@ -3325,6 +3324,7 @@ discommend
 drumslade
 dreng
 diversifolious
+dola
 deuteronomical
 disconfirmed
 disperser
