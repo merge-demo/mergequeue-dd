@@ -5743,7 +5743,6 @@ ensalada
 englanders
 engleim
 enshrines
-exchangeability
 extranidal
 exhilarating
 exterritoriality
@@ -6452,6 +6451,7 @@ euctical
 ectropionize
 eskars
 eyeflap
+exchangeability
 encroachment
 extensionless
 errantness
