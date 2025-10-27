@@ -5287,6 +5287,7 @@ biannulate
 bigeneric
 becurry
 blueheads
+boney
 barbacoan
 billbeetle
 bivariate
@@ -10706,7 +10707,6 @@ bogijiab
 buzuki
 bettering
 brachistocephali
-boney
 bathycolpian
 beaverboard
 balls
