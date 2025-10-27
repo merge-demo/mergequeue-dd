@@ -1798,6 +1798,7 @@ adduct
 acephalus
 azotaemia
 atridean
+aflagellar
 acequia
 acer
 acquisition
@@ -3782,7 +3783,6 @@ angoumian
 agaphite
 anagrammatism
 adjoinedly
-aflagellar
 analphabetism
 amalgamating
 anapaestic
