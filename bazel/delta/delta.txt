@@ -2152,7 +2152,6 @@ dishonourary
 dissembles
 defter
 demoded
-doab
 diagnostics
 dolomite
 despoilment
@@ -17500,6 +17499,7 @@ demonstrational
 dhobi
 drove
 delocalising
+doab
 drench
 debussing
 dismortgaging
