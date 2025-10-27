@@ -19246,7 +19246,6 @@ automatist
 arethusas
 aretinian
 arew
-arithmetized
 arf
 archrepresentative
 allalinite
@@ -20925,6 +20924,7 @@ acknowledgedly
 accumulators
 ascite
 aceconitic
+arithmetized
 ascitical
 asclepiad
 asclepiadaceae
