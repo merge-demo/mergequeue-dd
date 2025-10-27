@@ -7039,6 +7039,7 @@ acidic
 adamantoma
 alabaster
 alabastrine
+autolaryngoscopy
 alabastrites
 ascenders
 alabastrums
@@ -17055,7 +17056,6 @@ anisochromia
 allochroous
 aculeata
 apogeotropism
-autolaryngoscopy
 amethodical
 abiogeny
 acoelomate
