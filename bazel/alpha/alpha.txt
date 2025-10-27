@@ -2526,6 +2526,7 @@ acoumetry
 autumn
 adjection
 acouometer
+anhydric
 acousticon
 acousticophobia
 antihalation
@@ -10818,7 +10819,6 @@ asseal
 acclamation
 amosite
 aselli
-anhydric
 availably
 amnions
 allodialism
