@@ -6143,7 +6143,6 @@ cancan
 canonici
 chitterling
 contraflow
-celibacy
 cattleyak
 conhydrin
 cerebritis
@@ -9948,6 +9947,7 @@ chemotactic
 cresylene
 cohelper
 chondrocyte
+celibacy
 charpie
 chemotaxonomy
 controls
