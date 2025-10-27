@@ -2936,6 +2936,7 @@ cantefable
 childlier
 currawong
 carving
+climacterical
 catchflies
 continentals
 canter
@@ -21586,7 +21587,6 @@ concourse
 calycle
 clinkstone
 coelastrum
-climacterical
 celestialize
 cuartino
 concresce
