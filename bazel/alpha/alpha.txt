@@ -10371,6 +10371,7 @@ assumpt
 amicabilities
 amicably
 amphipodous
+angaries
 amarettos
 answerableness
 anesis
@@ -12514,7 +12515,6 @@ angaria
 ambrette
 angariation
 abulias
-angaries
 aeronomist
 alkahestical
 actinotrichium
