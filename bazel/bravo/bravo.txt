@@ -1952,7 +1952,6 @@ bagginess
 baylet
 birl
 bullragging
-bentiness
 bolshy
 belk
 bantoid
@@ -7493,6 +7492,7 @@ bumblefoot
 botflies
 brainworker
 bulkin
+bentiness
 bartended
 banagos
 beweeps
