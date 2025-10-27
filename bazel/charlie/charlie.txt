@@ -3980,7 +3980,6 @@ carcinoid
 compartmental
 crystalloluminescence
 carcinoma
-counterannouncement
 carbocyclic
 curtesy
 croisette
@@ -19925,6 +19924,7 @@ coolie
 coagulate
 chelydridae
 coprophilic
+counterannouncement
 catacumbal
 cassareep
 comely
