@@ -690,7 +690,6 @@ excursionism
 enumerative
 ebriated
 esteros
-epithelial
 ecol
 ethnogeny
 earlesss
@@ -7719,6 +7718,7 @@ epidemiologic
 emulsified
 ethylating
 egglike
+epithelial
 embreathe
 earache
 equidensity
