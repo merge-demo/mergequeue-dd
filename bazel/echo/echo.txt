@@ -8093,6 +8093,7 @@ extrude
 elegant
 epipterous
 epipubis
+echoisms
 expostulations
 esterifying
 electrophotomicrography
@@ -12677,7 +12678,6 @@ exomphalos
 erotogenic
 effrontery
 entame
-echoisms
 expatiative
 epicotyledonary
 epaulette
