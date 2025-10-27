@@ -7736,6 +7736,7 @@ actinology
 alphitomancy
 advent
 aleyrodes
+augite
 antilogarithm
 arcboutant
 antinatural
@@ -23347,7 +23348,6 @@ augh
 aboveboard
 aughts
 aepyornis
-augite
 acrididae
 augitophyre
 augment
