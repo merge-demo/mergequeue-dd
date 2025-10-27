@@ -11489,7 +11489,6 @@ bluffs
 boastfully
 behaves
 barytophyllite
-budder
 bluggy
 bispore
 blastomycotic
@@ -15628,6 +15627,7 @@ brocht
 bathycentesis
 babblishly
 buckers
+budder
 brock
 bombsight
 bryonies
