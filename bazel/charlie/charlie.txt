@@ -13295,7 +13295,6 @@ cycloheximide
 chetverik
 compensator
 cataloguer
-chemiatry
 cycloid
 coalternation
 coalshed
@@ -21446,6 +21445,7 @@ chloremic
 conciliatoriness
 codfishes
 confidentiary
+chemiatry
 chavish
 caryatidal
 cineasts
