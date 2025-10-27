@@ -3691,7 +3691,6 @@ amiray
 arcticologist
 acaridea
 adiathetic
-adiating
 automatons
 adiation
 adib
@@ -11001,6 +11000,7 @@ amove
 ampangabeite
 archsin
 angling
+adiating
 angiemphraxis
 ampasimenite
 ampelidaceous
