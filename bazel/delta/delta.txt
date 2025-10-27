@@ -12630,7 +12630,6 @@ disker
 disgusted
 disagreement
 darraign
-definitized
 dermatropic
 dextroses
 didy
@@ -13145,6 +13144,7 @@ desalinator
 dysanagnosia
 dondia
 dysphasia
+definitized
 dreamery
 druffen
 desulphuret
