@@ -5303,6 +5303,7 @@ ballistics
 biaxal
 bambos
 ballroom
+brontophobia
 barkary
 begone
 boxlike
@@ -8156,7 +8157,6 @@ blimpish
 busybodied
 beardie
 bendable
-brontophobia
 banishes
 bechalk
 bisie
