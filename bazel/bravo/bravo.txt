@@ -12253,6 +12253,7 @@ blee
 bombaster
 berakoth
 beadswomen
+beverse
 begob
 bowfront
 biquartz
@@ -13115,7 +13116,6 @@ borneols
 belaced
 bovids
 borning
-beverse
 bornite
 brusquer
 baksheesh
