@@ -2645,6 +2645,7 @@ dozers
 dorbug
 drainless
 decompensations
+dharna
 dasylirion
 doorkeeper
 drossless
@@ -4905,7 +4906,6 @@ disrobed
 doweries
 decimus
 deepness
-dharna
 decadal
 deathcups
 distringas
