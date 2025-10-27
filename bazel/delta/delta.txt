@@ -10325,6 +10325,7 @@ diopsidae
 daroo
 dioramas
 determiners
+dermatogen
 diophantine
 driftpiece
 dowsing
@@ -15000,7 +15001,6 @@ danae
 desulfured
 daubentonia
 daisied
-dermatogen
 dreadless
 denizen
 demophile
