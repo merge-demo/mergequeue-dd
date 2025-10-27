@@ -3659,6 +3659,7 @@ dispassion
 drupaceae
 daffadowndilly
 desulphurizing
+dogmatist
 dactylopterus
 dumbbell
 daunting
@@ -11159,7 +11160,6 @@ deciphered
 dyslectic
 deactivations
 dismask
-dogmatist
 devvel
 djins
 dreamers
