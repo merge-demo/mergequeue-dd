@@ -2995,6 +2995,7 @@ bialveolar
 boyd
 bargeload
 bess
+bistournage
 ballote
 bidirectionally
 boist
@@ -9063,7 +9064,6 @@ benzonitrol
 beclout
 birds
 bushwhacking
-bistournage
 biennia
 baradari
 bicalcarate
