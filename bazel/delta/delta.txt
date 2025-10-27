@@ -3689,7 +3689,6 @@ diploidies
 depiedmontize
 demonstrating
 diam
-delapse
 dehydrochlorinase
 dulciloquy
 dowlas
@@ -6160,6 +6159,7 @@ duperies
 dedogmatize
 deservedness
 demodocus
+delapse
 driving
 demicylindrical
 deratized
