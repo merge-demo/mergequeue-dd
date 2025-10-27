@@ -10060,6 +10060,7 @@ anagrammatic
 almogavar
 ambulacra
 aguroth
+alfaquins
 acuation
 ambulacrum
 anyways
@@ -23726,7 +23727,6 @@ amended
 anbury
 apilary
 ashed
-alfaquins
 allhallowtide
 amphigouris
 adephagan
