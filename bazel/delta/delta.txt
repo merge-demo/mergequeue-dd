@@ -5474,7 +5474,6 @@ dirca
 diabology
 deorganization
 deistic
-deregister
 disenablement
 deorsum
 deorsumversion
@@ -7929,6 +7928,7 @@ drassidae
 drammage
 dover
 dewani
+deregister
 depress
 disenshroud
 diffluence
