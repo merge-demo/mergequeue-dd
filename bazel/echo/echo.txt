@@ -3977,6 +3977,7 @@ enage
 extirpated
 epionychia
 empexa
+ellipsoidal
 emphasize
 emphasized
 embargos
@@ -6884,7 +6885,6 @@ epaulets
 evitable
 entomosporium
 ethically
-ellipsoidal
 endangered
 entomostraca
 electrum
