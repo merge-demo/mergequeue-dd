@@ -5944,7 +5944,6 @@ enframing
 enigma
 egotism
 enigmas
-enrapturer
 enjambements
 enigmata
 eluvial
@@ -10212,6 +10211,7 @@ eavesdropped
 equisized
 eclair
 emotionalistic
+enrapturer
 euphausia
 elzevirian
 elaborates
