@@ -1243,7 +1243,6 @@ datary
 divorcers
 datasetname
 datcha
-disparison
 demiassignation
 deciliter
 dragooner
@@ -8989,6 +8988,7 @@ dihydride
 dichroitic
 draba
 dichromasia
+disparison
 deltafication
 disafforestation
 dippiest
