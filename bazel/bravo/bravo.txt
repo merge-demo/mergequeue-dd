@@ -9498,7 +9498,6 @@ bulliform
 birthstool
 birthwort
 blatancies
-bitnet
 breviger
 bakerdom
 bluebills
@@ -15557,6 +15556,7 @@ burred
 benzoazurine
 broadcast
 bannerfish
+bitnet
 balayeuse
 bromeliaceous
 bacteriologist
