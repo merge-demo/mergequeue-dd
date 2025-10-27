@@ -4217,7 +4217,6 @@ benthamic
 berryless
 bathomania
 bishopbird
-banff
 barylalia
 blowball
 babbitter
@@ -16617,6 +16616,7 @@ blinders
 bids
 bistorta
 butterflylike
+banff
 bucktooth
 bronzitite
 beggingwise
