@@ -2602,7 +2602,6 @@ draffy
 dacoitage
 dita
 diadema
-disinformation
 duplicitas
 decoll
 deguelia
@@ -18501,6 +18500,7 @@ dyschronous
 dvorak
 dissolutionism
 dacryoma
+disinformation
 dupper
 denat
 durably
