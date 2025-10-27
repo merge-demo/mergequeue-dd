@@ -6384,7 +6384,6 @@ epist
 enunciator
 eluvivia
 elapid
-ensemble
 engastrimyth
 engrained
 electrocontractility
@@ -6503,6 +6502,7 @@ erubescence
 excludable
 estimative
 execration
+ensemble
 erosiveness
 ephemeric
 englishes
