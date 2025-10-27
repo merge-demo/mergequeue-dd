@@ -3358,7 +3358,6 @@ bassalia
 bootable
 bullnut
 brythonic
-baculum
 bassan
 bassanite
 biotechnics
@@ -17285,6 +17284,7 @@ bunger
 basketworm
 begrudging
 breadearning
+baculum
 biathlons
 bemourn
 baul
