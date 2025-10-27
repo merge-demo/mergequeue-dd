@@ -212,6 +212,7 @@ epidermolysis
 erinaceous
 elaphure
 earthsets
+eruditeness
 earthshaker
 earthman
 erythritic
@@ -13903,7 +13904,6 @@ extrametrical
 extramission
 erythrism
 expiscated
-eruditeness
 eliminatory
 extorter
 ectoderm
