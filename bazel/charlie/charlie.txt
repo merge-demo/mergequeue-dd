@@ -6314,7 +6314,6 @@ chinchillette
 cause
 caused
 causey
-calesin
 causerie
 cursorious
 causes
@@ -25543,6 +25542,7 @@ coronofrontal
 carbaryls
 catenates
 conemaker
+calesin
 crenelation
 canvasman
 coronopus
