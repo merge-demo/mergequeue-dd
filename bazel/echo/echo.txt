@@ -5418,6 +5418,7 @@ egretta
 easterly
 enfirm
 eaglelike
+enterosepsis
 esthetology
 endure
 endurer
@@ -6682,7 +6683,6 @@ enterorrhaphy
 eutychianism
 electromotiv
 enchelycephali
-enterosepsis
 enterotome
 encharged
 enright
