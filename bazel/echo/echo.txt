@@ -4947,7 +4947,6 @@ emulsifiable
 embole
 expertly
 exteriorisation
-entopical
 epineurial
 enthronise
 entoplastron
@@ -8570,6 +8569,7 @@ electrotherapeutic
 encompassing
 egall
 ergatomorph
+entopical
 equid
 equidimensional
 equidist
