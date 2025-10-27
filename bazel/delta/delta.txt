@@ -145,7 +145,6 @@ dekko
 dinar
 disrump
 dipcoat
-dyophone
 deepest
 daddles
 dowdyism
@@ -2198,6 +2197,7 @@ decapitation
 dorm
 dwindlement
 decapitations
+dyophone
 disassemble
 dehydrogenation
 downfall
