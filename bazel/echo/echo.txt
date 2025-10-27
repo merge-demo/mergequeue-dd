@@ -6053,6 +6053,7 @@ echinorhinus
 eoanthropus
 enlargeableness
 enlarged
+expires
 eupepsias
 exoclinal
 emydinae
@@ -13205,7 +13206,6 @@ elicited
 elapinae
 emphatically
 embale
-expires
 earthworms
 endosalpingitis
 expressivity
