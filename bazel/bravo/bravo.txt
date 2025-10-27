@@ -3163,7 +3163,6 @@ backtracks
 brocket
 bandolero
 bashyle
-boshvark
 blissfully
 bombastically
 balanopsidales
@@ -15781,6 +15780,7 @@ bromidically
 brasseys
 bromidrosis
 bene
+boshvark
 barbarism
 bibbs
 bromination
