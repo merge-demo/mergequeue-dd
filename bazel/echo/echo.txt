@@ -5090,6 +5090,7 @@ experted
 extraditions
 eclogites
 eardrums
+editchar
 exited
 endoclinal
 endocoelar
@@ -9782,7 +9783,6 @@ essoinment
 essorant
 est
 engrave
-editchar
 efficiencies
 encouragements
 estab
