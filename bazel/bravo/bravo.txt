@@ -3245,6 +3245,7 @@ birder
 beleaped
 binormal
 basilweed
+behorn
 broadsheet
 basinal
 bushland
@@ -14550,7 +14551,6 @@ boletuses
 bearbine
 broncobuster
 bellyband
-behorn
 brangled
 bught
 beanies
