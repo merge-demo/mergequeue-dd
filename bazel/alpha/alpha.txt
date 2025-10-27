@@ -6867,7 +6867,6 @@ ajax
 acouasm
 ajiva
 astrolabical
-aftercomer
 adhibits
 acaridans
 armageddonist
@@ -19566,6 +19565,7 @@ aryls
 ascaridole
 abbaye
 ablactated
+aftercomer
 ancraophobia
 agglutinins
 arioian
