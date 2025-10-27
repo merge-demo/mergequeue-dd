@@ -2845,7 +2845,6 @@ discordia
 denicotinized
 discussive
 dittologies
-depriver
 disposure
 diplodocuses
 disgenius
@@ -9890,6 +9889,7 @@ dimensioning
 dimer
 deludable
 decolonising
+depriver
 demagog
 disproportionately
 diestock

@@ -9281,7 +9281,6 @@ error
 ebricty
 entertains
 euchologia
-eugeosynclinal
 epitaphize
 elytrin
 errors
@@ -10508,6 +10507,7 @@ endaortic
 epistoma
 explosions
 everymen
+eugeosynclinal
 eucaryote
 endogastritis
 extraplacental
