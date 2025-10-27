@@ -1675,6 +1675,7 @@ devotional
 discretive
 daunter
 dicephalus
+downface
 darkhaired
 desilverized
 deprival
@@ -5135,7 +5136,6 @@ dafla
 duikers
 dendrocoele
 dendrocolaptidae
-downface
 desipience
 dendrocolaptine
 dendrodic
