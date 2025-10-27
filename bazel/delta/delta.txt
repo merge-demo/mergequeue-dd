@@ -4223,7 +4223,6 @@ dewberry
 dressed
 denigrates
 depasturing
-dyslogy
 debtors
 dilemite
 delphically
@@ -14418,6 +14417,7 @@ dyssynergia
 diversity
 datedness
 disgeneric
+dyslogy
 dueness
 diversory
 disfiguringly

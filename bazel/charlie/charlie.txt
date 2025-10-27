@@ -3315,6 +3315,7 @@ capmaking
 combatter
 creaker
 colonizes
+cresyls
 capnomancy
 capnomor
 cirripede
@@ -28775,7 +28776,6 @@ cameoing
 cresylic
 cometographical
 cresylite
-cresyls
 cresive
 cornucopian
 cresoline
