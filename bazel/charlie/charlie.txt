@@ -8215,6 +8215,7 @@ comfortabilities
 chevreuil
 circumbendibuses
 chaitra
+couplet
 cheekpiece
 chakavski
 chakdar
@@ -15146,7 +15147,6 @@ clad
 confated
 cladanthous
 cobnut
-couplet
 callosomarginal
 conducta
 chlorophyceous
