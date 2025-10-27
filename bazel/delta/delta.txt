@@ -4073,6 +4073,7 @@ dissipable
 dynam
 deface
 dhava
+denumeration
 dustoor
 disfeature
 dominance
@@ -13791,7 +13792,6 @@ diag
 dindle
 distain
 distance
-denumeration
 drumroll
 descried
 doddard
