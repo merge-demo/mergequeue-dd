@@ -12565,6 +12565,7 @@ akhmimic
 antimedicative
 angeluses
 agonizer
+anaunter
 anger
 angered
 alvan
@@ -23298,7 +23299,6 @@ absentation
 arteriovenous
 ans
 auditing
-anaunter
 aftersong
 alkalescency
 abelmosks
