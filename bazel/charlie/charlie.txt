@@ -19785,7 +19785,6 @@ comanches
 comandantes
 cutis
 cinematics
-comandra
 countercathexis
 capetown
 cheir
@@ -22545,6 +22544,7 @@ coronetlike
 cacomorphosis
 cantata
 carotinaemia
+comandra
 conjecturally
 continuance
 cytoma
