@@ -5648,7 +5648,6 @@ eligibly
 erysiphaceae
 ectocelic
 extranatural
-everbearing
 elephanta
 eng
 esurience
@@ -14024,6 +14023,7 @@ epitrophic
 electromotive
 exr
 enthrallingly
+everbearing
 enteroclisis
 epidemy
 extractorship
