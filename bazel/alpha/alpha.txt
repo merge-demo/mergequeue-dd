@@ -5869,7 +5869,6 @@ aginner
 audacious
 anamnionic
 apoplectiform
-adlumidin
 almacantar
 autodecomposition
 ancillary
@@ -18228,6 +18227,7 @@ asor
 arachnoidea
 antinial
 apostolicity
+adlumidin
 arachnology
 arachnologist
 arad
