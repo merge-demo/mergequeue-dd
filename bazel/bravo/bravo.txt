@@ -4212,6 +4212,7 @@ bless
 begaud
 begat
 beardless
+barbastel
 benthamic
 berryless
 bathomania
@@ -8682,7 +8683,6 @@ boatbill
 bimaxillary
 bimbisara
 bridgemen
-barbastel
 bracketted
 basibranchial
 borborygmies
