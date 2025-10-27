@@ -3812,7 +3812,6 @@ dinocerata
 dismayingness
 depositors
 deliveryman
-dismalize
 daidling
 dollmaker
 dangerful
@@ -15062,6 +15061,7 @@ dogeys
 dislodgment
 detruncated
 dogeship
+dismalize
 dicentrine
 dunderhead
 decalvation
