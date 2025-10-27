@@ -3300,7 +3300,6 @@ basitemporal
 biprong
 basommatophorous
 beguilers
-basked
 baggiest
 breakable
 blatters
@@ -16919,6 +16918,7 @@ buyable
 bayman
 bungalow
 braces
+basked
 bulimus
 baler
 bimahs
