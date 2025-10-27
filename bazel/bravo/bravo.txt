@@ -10238,7 +10238,6 @@ blacksmithing
 biochemy
 barf
 beastdom
-botargo
 buckboards
 biflorous
 beehead
@@ -17505,6 +17504,7 @@ balante
 blayne
 blore
 bugle
+botargo
 burgau
 bullyragging
 braconidae
