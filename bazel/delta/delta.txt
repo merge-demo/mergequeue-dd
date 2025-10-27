@@ -7655,7 +7655,6 @@ disinters
 dedicative
 dilute
 djellaba
-deuton
 demurral
 deutonymph
 danli
@@ -18579,6 +18578,7 @@ disanimated
 dyslexic
 disbarment
 diffeomorphism
+deuton
 deaconal
 downrightly
 decentration
