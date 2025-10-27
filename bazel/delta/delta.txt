@@ -3825,7 +3825,6 @@ disjecting
 dropped
 despatched
 dame
-duvetines
 discommender
 deimos
 daffs
@@ -8505,6 +8504,7 @@ directionize
 dodecyl
 downgrades
 diamondback
+duvetines
 disulphone
 drawl
 diplomatize
