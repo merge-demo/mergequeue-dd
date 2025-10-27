@@ -8705,7 +8705,6 @@ backslashes
 bimillionaire
 battish
 bellbind
-bubblingly
 bimodule
 buckeroo
 bimonthlies
@@ -15696,6 +15695,7 @@ breadfruits
 bullied
 backbeat
 breeder
+bubblingly
 balas
 beaconing
 boltwork
