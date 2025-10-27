@@ -1238,7 +1238,6 @@ acarapis
 asaphic
 acarari
 antaphrodisiac
-acarian
 acariasis
 acarid
 accord
@@ -5755,6 +5754,7 @@ acclaiming
 agglutogenic
 avoure
 aggrades
+acarian
 accademia
 anent
 atrocha
