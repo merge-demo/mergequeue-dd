@@ -3826,7 +3826,6 @@ copywriter
 carlot
 combings
 carbonators
-carbondale
 coinsure
 chlorate
 cincha
@@ -14229,6 +14228,7 @@ corroborating
 cancellate
 contingencies
 circumcellion
+carbondale
 circumcenter
 circumcincture
 cambyuskan
