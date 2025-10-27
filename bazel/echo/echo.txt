@@ -6083,7 +6083,6 @@ eltime
 eugenic
 eulachon
 elasmosaur
-ebullience
 evanesce
 epifauna
 epirrhema
@@ -11902,6 +11901,7 @@ eyr
 enhypostatic
 entrepreneurship
 emissivity
+ebullience
 exceptless
 emends
 eightfoil
