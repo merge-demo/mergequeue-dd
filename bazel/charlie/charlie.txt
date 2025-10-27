@@ -1621,6 +1621,7 @@ childbirths
 cyanastraceae
 circumnutating
 chilver
+conferva
 convoluta
 churchreeve
 caloyer
@@ -2250,7 +2251,6 @@ comedo
 canadine
 corresponds
 celiectasia
-conferva
 casbah
 celtdom
 coquina
