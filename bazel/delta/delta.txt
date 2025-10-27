@@ -2410,6 +2410,7 @@ deregulationize
 decohere
 dewclaw
 decidence
+decouples
 dwyka
 deciders
 disguisements
@@ -8261,7 +8262,6 @@ digeny
 despairful
 digitalization
 disabusing
-decouples
 dyadics
 diaplasma
 diadkokinesia
