@@ -17240,7 +17240,6 @@ cuttingness
 chrysophenine
 capsaicin
 counterclockwise
-coagulator
 coagulators
 chagrined
 coracobrachial
@@ -22313,6 +22312,7 @@ corpuscularian
 carkingly
 cynthian
 coeffluent
+coagulator
 coleseeds
 congenial
 commiserative
