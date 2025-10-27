@@ -2888,7 +2888,6 @@ elf
 elfenfolk
 ecodeme
 endogeny
-entablature
 elfinwood
 exfoliating
 extremity
@@ -12251,6 +12250,7 @@ ecphorias
 ensheaths
 electroaffinity
 ensued
+entablature
 eds
 emarginating
 electromerism
