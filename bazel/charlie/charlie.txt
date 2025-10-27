@@ -22166,7 +22166,6 @@ counterclaiming
 confluent
 confluxes
 champert
-conormal
 cheateries
 corticoid
 conformability
@@ -23021,6 +23020,7 @@ consiliary
 consilience
 consilient
 consimilate
+conormal
 carnified
 cafoy
 consisently
