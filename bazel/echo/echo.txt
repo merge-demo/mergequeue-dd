@@ -8937,7 +8937,6 @@ eudaemonist
 erical
 exoskeletal
 eteoclus
-endosmotically
 ericales
 exteroceptive
 equatorially
@@ -12673,6 +12672,7 @@ emerse
 encephaloma
 elzevir
 extrapolation
+endosmotically
 exomphalos
 erotogenic
 effrontery
