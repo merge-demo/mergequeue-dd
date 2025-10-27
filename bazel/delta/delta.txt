@@ -2304,6 +2304,7 @@ deflex
 durian
 demnition
 dowset
+devastavit
 dyewoods
 disburden
 decemfoliate
@@ -18491,7 +18492,6 @@ distinctive
 discontentive
 dermatophony
 decile
-devastavit
 diose
 deceasing
 diactine
