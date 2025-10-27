@@ -13744,7 +13744,6 @@ chronologize
 chambul
 cheers
 cinchonization
-crunodal
 cinchonize
 chiffonnieres
 communiqu
@@ -27636,6 +27635,7 @@ cowardy
 chrobat
 cowardish
 chionophobia
+crunodal
 chuffiest
 coecum
 cowardly
