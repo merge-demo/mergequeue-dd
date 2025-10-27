@@ -11813,7 +11813,6 @@ corky
 collyba
 chonk
 collaborate
-chippendale
 calfhood
 coarbiter
 cholochrome
@@ -28797,6 +28796,7 @@ coauthor
 crest
 confiserie
 clinostat
+chippendale
 congrue
 cursoriidae
 crestal
