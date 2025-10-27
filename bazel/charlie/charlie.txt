@@ -4743,6 +4743,7 @@ clementine
 canicular
 couldnt
 carpocephalum
+chicos
 caryotins
 centaurium
 carpocerite
@@ -31885,7 +31886,6 @@ calefactive
 chromolithographic
 capillarily
 cheaper
-chicos
 creamfruit
 chloragen
 corticiferous
