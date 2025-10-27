@@ -8703,7 +8703,6 @@ bimethyls
 backslashes
 bimillionaire
 battish
-bellbind
 bubblingly
 bimodule
 bimonthlies
@@ -14516,6 +14515,7 @@ branchless
 bollocks
 branchlet
 blennorrhea
+bellbind
 branchman
 brandenburg
 beatification
