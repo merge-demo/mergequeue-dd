@@ -17832,7 +17832,6 @@ diaphanie
 dehiscent
 duckmeat
 duckpin
-diabolarch
 dower
 distinguishability
 dermatological
@@ -18454,6 +18453,7 @@ dietotherapy
 duplication
 dogsbody
 duplicators
+diabolarch
 duncehood
 devocalizing
 dimeters
