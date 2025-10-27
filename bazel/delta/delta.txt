@@ -12600,6 +12600,7 @@ duennaship
 dutymonger
 discourage
 dunlin
+diastema
 duntle
 daredevils
 demineralization
@@ -15490,7 +15491,6 @@ dealkylate
 diapophysial
 directing
 dereliction
-diastema
 dichotomously
 dorsocaudad
 disappendancy
