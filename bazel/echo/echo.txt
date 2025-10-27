@@ -518,7 +518,6 @@ effeminated
 ecdysone
 ecesic
 ectropometer
-ecgonin
 ecgonine
 evenhandedness
 emballonurid
@@ -4998,6 +4997,7 @@ endogastric
 enders
 expelled
 endgate
+ecgonin
 enneads
 extorsively
 emplane
