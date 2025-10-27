@@ -2450,7 +2450,6 @@ acolyctine
 appennage
 ascidiferous
 amoebicidal
-aculei
 amphiaster
 ardella
 autoserum
@@ -15850,6 +15849,7 @@ abettal
 agglutinating
 antiquaries
 antiquartan
+aculei
 acquital
 athletism
 aliasing

@@ -2754,6 +2754,7 @@ daddies
 drawhorse
 decousu
 douane
+deepened
 dihydrate
 daun
 dryopithecid
@@ -11497,7 +11498,6 @@ dissectional
 disconformity
 demiparallel
 dysbulia
-deepened
 demimondaines
 dismark
 dwarfy
