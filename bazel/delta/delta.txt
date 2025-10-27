@@ -5142,7 +5142,6 @@ dendroeca
 drakes
 degrade
 duplicating
-dendrohyrax
 deneutralization
 dacryoadenalgia
 detect
@@ -6792,6 +6791,7 @@ doubly
 deceased
 duplicidentata
 disregular
+dendrohyrax
 dodecatyl
 dirtboard
 datatype
