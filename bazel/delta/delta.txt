@@ -699,6 +699,7 @@ dyehouse
 dampness
 diacetylene
 doumaist
+dermatotherapy
 distributes
 damselfishes
 disbody
@@ -6332,7 +6333,6 @@ devulcanize
 diselder
 decuple
 decrete
-dermatotherapy
 depurated
 doughfeet
 deadens
