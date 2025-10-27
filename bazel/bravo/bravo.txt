@@ -1879,7 +1879,6 @@ bewend
 bevies
 boisterously
 batukite
-bishoplike
 bougeron
 bifilarly
 bandit
@@ -14320,6 +14319,7 @@ burstones
 braidism
 braidist
 braids
+bishoplike
 barabora
 brushet
 bambocciade
