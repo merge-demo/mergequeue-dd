@@ -10719,7 +10719,6 @@ euhemerism
 epitomizer
 endosmometer
 emplacement
-euhemerist
 erichthus
 encrease
 emacerate
@@ -12164,6 +12163,7 @@ elytron
 endpoint
 exposure
 ellipse
+euhemerist
 econometrical
 emboldened
 ethmoturbinate
