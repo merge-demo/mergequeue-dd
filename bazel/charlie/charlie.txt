@@ -4846,7 +4846,6 @@ clachans
 correctiveness
 copals
 crumminess
-chars
 crucilly
 comicocynical
 carriages
@@ -8125,6 +8124,7 @@ carcer
 chondri
 clavicornia
 chaffs
+chars
 cavitation
 costlessly
 carnifying
