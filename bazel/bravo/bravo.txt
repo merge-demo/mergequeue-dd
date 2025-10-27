@@ -8711,7 +8711,6 @@ battish
 bellbind
 bubblingly
 bimodule
-buckeroo
 bimonthlies
 berendo
 bemixt
@@ -9988,6 +9987,7 @@ bossism
 befog
 bivoluminous
 bivouaced
+buckeroo
 balaphon
 baining
 bushranger
