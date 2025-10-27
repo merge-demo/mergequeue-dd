@@ -7933,6 +7933,7 @@ estragol
 ensilation
 expounds
 epimanikion
+excruciated
 echar
 epimeres
 electrostenolysis
@@ -12100,7 +12101,6 @@ electromagnet
 emasculation
 effervescing
 excruciable
-excruciated
 eudesmol
 enframement
 epicerebral
