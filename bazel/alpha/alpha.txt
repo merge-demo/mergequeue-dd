@@ -4982,7 +4982,6 @@ antienzymic
 audivision
 amberfishes
 aesthetes
-aesthetic
 astomous
 arenicolor
 archibuteo
@@ -12492,6 +12491,7 @@ anarithia
 anfractuose
 antirationalism
 antitraditionalist
+aesthetic
 authentications
 albuminiform
 addleheadedly
