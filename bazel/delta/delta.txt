@@ -6290,6 +6290,7 @@ dipteraceous
 diplokaryon
 doldrums
 dermatoneurosis
+dysacousma
 dacryocystitis
 deprecates
 disapprobative
@@ -9997,7 +9998,6 @@ defensor
 dasyatidae
 dimness
 decisiveness
-dysacousma
 deuteroscopic
 debriefs
 disopinion
