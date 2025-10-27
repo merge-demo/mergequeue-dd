@@ -7561,7 +7561,6 @@ cercopithecus
 cimbri
 cramberry
 cursoria
-cercosporella
 chyloid
 canalisation
 cercus
@@ -8664,6 +8663,7 @@ canccelli
 commissaryship
 concocting
 changeful
+cercosporella
 changefully
 copolymerism
 cynosural
