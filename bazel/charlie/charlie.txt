@@ -22750,7 +22750,6 @@ cubicles
 coderiving
 clubhauls
 conodont
-chrysatropic
 cob
 conoidic
 chessboard
@@ -30482,6 +30481,7 @@ cahokia
 corozos
 cubane
 cubangle
+chrysatropic
 consolan
 cubanite
 contraclockwise
