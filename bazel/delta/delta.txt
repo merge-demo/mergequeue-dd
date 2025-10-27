@@ -996,6 +996,7 @@ dargah
 dignitaries
 derequisition
 disproportionate
+deval
 devwsor
 darien
 democratical
@@ -4902,7 +4903,6 @@ dilleniad
 disembogue
 daneworts
 disrobed
-deval
 doweries
 decimus
 deepness
