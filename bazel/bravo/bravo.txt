@@ -6200,6 +6200,7 @@ benson
 bostrychid
 birdseyes
 bourse
+bethorns
 bentgrass
 broilery
 beshames
@@ -7282,7 +7283,6 @@ basest
 blastodisk
 bicuspidate
 biorhythmicities
-bethorns
 befogs
 blackbirds
 backsaw
