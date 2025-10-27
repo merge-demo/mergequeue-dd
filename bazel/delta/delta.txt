@@ -12796,6 +12796,7 @@ disshadow
 deliquiesce
 demiparadise
 didelphia
+drawloom
 dismals
 dismantles
 donors
@@ -16892,7 +16893,6 @@ drillbit
 darbukka
 dilettante
 dose
-drawloom
 dilacerated
 demipriest
 determinativeness

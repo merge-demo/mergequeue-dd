@@ -4352,7 +4352,6 @@ canacuas
 crestfish
 carpe
 caridean
-carunculous
 cirrhous
 carien
 constructs
@@ -15805,6 +15804,7 @@ consanguinity
 cateye
 cankeredly
 coiffeuse
+carunculous
 chainlet
 chevalier
 cleanliest
