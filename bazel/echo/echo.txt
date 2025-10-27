@@ -8156,6 +8156,7 @@ ephippium
 entrepas
 engyscope
 episcopization
+espec
 ecospecies
 emballonurine
 ethmosphenoid
@@ -13661,7 +13662,6 @@ erratum
 ephoric
 epistolizable
 exteriorness
-espec
 emotionlessness
 ergotoxin
 eurygnathic

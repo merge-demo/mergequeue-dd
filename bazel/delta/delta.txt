@@ -1156,7 +1156,6 @@ disapproves
 dexter
 dyeweed
 dispatching
-decempennate
 downpour
 dirging
 dashmaker
@@ -11483,6 +11482,7 @@ discolorations
 defalcations
 discolorment
 discolouring
+decempennate
 decatyl
 discolourization
 discourt
