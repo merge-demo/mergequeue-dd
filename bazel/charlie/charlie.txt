@@ -11125,7 +11125,6 @@ chivalresque
 cowshot
 cosovereign
 chorogi
-chivaree
 compear
 chivareing
 coextended
@@ -24106,6 +24105,7 @@ converges
 conversancy
 camarillas
 cosmonautic
+chivaree
 conversantly
 conversation
 classfellow
