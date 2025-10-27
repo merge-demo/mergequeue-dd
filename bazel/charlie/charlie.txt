@@ -24696,7 +24696,6 @@ citral
 coppersmithing
 chafferers
 copperware
-clapboarding
 cabmen
 conrad
 copperwing
@@ -30754,6 +30753,7 @@ canonical
 composing
 circum
 crawdads
+clapboarding
 correctional
 chloroauric
 creoleize
