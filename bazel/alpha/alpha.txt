@@ -5890,7 +5890,6 @@ affiances
 acquiesced
 aversation
 allamanda
-aretalogy
 autophotoelectric
 agists
 agit
@@ -14567,6 +14566,7 @@ antiarthritic
 amphicondylous
 arcs
 acraze
+aretalogy
 afrogaea
 accentuate
 autokinesis
