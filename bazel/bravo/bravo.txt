@@ -4028,7 +4028,6 @@ backbreaker
 bedolt
 brisure
 bumperette
-bannerets
 benetnasch
 bovoid
 beefeaters
@@ -9775,6 +9774,7 @@ biteche
 barbicans
 bowdlerization
 balawa
+bannerets
 beamy
 brassica
 bromouracil
