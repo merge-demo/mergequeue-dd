@@ -1427,7 +1427,6 @@ effluviviums
 electrodentistry
 efflux
 expressionlessly
-endoenteritis
 erythroclastic
 erythroscope
 emblazons
@@ -8028,6 +8027,7 @@ evident
 eject
 expound
 entertaining
+endoenteritis
 enteroscope
 epiphanise
 ealdormen
