@@ -751,6 +751,7 @@ archlet
 abreed
 anchylosing
 asyle
+allround
 abri
 aigremore
 abrico
@@ -8954,7 +8955,6 @@ alloxuraemia
 abord
 alloxuremia
 aumaga
-allround
 ascertained
 agynarious
 assyrian
