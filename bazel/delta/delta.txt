@@ -7393,6 +7393,7 @@ deathtraps
 deplaned
 dimissorial
 dipneumona
+downthrow
 defensibly
 dyspnoeas
 deckings
@@ -9559,7 +9560,6 @@ digitizing
 desorbed
 dictionaries
 decimosexto
-downthrow
 decimated
 draggly
 dramaticule
