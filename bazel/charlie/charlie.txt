@@ -26322,7 +26322,6 @@ craie
 coleopterous
 collisional
 cotabulate
-carya
 calander
 centipedal
 commutative
@@ -27753,6 +27752,7 @@ cc
 calina
 cowroid
 catbrier
+carya
 connecters
 cowshed
 cowsheds
