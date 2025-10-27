@@ -1316,7 +1316,6 @@ bromin
 bobadil
 biogasses
 biddies
-bury
 bedbug
 boleite
 bacterioprecipitin
@@ -4502,6 +4501,7 @@ bedaggle
 berrybush
 beday
 barrack
+bury
 bulbed
 babul
 biddable
