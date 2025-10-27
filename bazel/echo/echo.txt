@@ -6018,7 +6018,6 @@ eurhythmics
 ectodermoidal
 enumerates
 enkidu
-ekatantalum
 enterospasm
 excursus
 empaler
@@ -8087,6 +8086,7 @@ epiplocele
 emda
 epiploitis
 embryoscopic
+ekatantalum
 enthuse
 expenseful
 extrude
