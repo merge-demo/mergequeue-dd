@@ -2284,7 +2284,6 @@ dunnakin
 divulgences
 droschken
 derrire
-drongo
 drivescrew
 doris
 doughfaceism
@@ -12610,6 +12609,7 @@ drate
 durational
 delegant
 doomsman
+drongo
 deregulation
 descendentalist
 decorament
