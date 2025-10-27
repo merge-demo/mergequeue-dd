@@ -5800,7 +5800,6 @@ epicele
 expiations
 eluviated
 emagram
-exibilate
 epiblastema
 engrailed
 encyrtid
@@ -12229,6 +12228,7 @@ edriasteroidea
 ergotine
 eskuara
 ecclesiolater
+exibilate
 eternalization
 equipment
 epanalepsis
