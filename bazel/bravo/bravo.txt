@@ -6648,7 +6648,6 @@ blurted
 beardom
 brawler
 bermudas
-boerhavia
 bucketfull
 benzoiodohydrin
 buffoons
@@ -10821,6 +10820,7 @@ bhikku
 blethe
 buttals
 bromomethane
+boerhavia
 brackened
 balsamation
 bedevilled
