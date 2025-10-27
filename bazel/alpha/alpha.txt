@@ -5276,7 +5276,6 @@ amnionic
 afluking
 afore
 aforehand
-arachnomorphae
 alleluiatic
 anemoclastic
 ampelideous
@@ -6654,6 +6653,7 @@ aglipayan
 airfoil
 airfoils
 actualising
+arachnomorphae
 archfelon
 adiate
 accretion
