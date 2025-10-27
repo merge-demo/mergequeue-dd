@@ -4926,7 +4926,6 @@ earnestful
 ephemerally
 endearedness
 enterocele
-endearingness
 epinglette
 eurylaimus
 eyelid
@@ -12068,6 +12067,7 @@ expediate
 evzone
 eriglossate
 enplanes
+endearingness
 estivation
 epacridaceae
 excrementitiousness
