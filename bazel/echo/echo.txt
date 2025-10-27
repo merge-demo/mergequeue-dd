@@ -8312,6 +8312,7 @@ epitheliomas
 enteria
 egyptians
 eskimoic
+embowered
 embroiler
 earthy
 evg
@@ -12080,7 +12081,6 @@ entailable
 excuseless
 endemisms
 excresence
-embowered
 excreta
 escheator
 endued
