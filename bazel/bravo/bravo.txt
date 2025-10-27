@@ -7998,7 +7998,6 @@ bicycler
 bbls
 bickerer
 bailsman
-breathalyse
 blamer
 basket
 blastomere
@@ -13299,6 +13298,7 @@ botanica
 boweryish
 bandoleered
 bronchotomy
+breathalyse
 bitentaculate
 bacteriologically
 bazaar
