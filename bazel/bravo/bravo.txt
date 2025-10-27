@@ -10925,7 +10925,6 @@ berginize
 baldacchini
 bacterium
 barth
-baroqueness
 brooched
 bourrees
 blinkard
@@ -17300,6 +17299,7 @@ bunyah
 butoxyl
 bislings
 bunyan
+baroqueness
 bayadeers
 buninahua
 balaenoidean
