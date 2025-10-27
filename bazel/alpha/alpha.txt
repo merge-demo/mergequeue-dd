@@ -4878,7 +4878,6 @@ admissibleness
 aeropathy
 arriero
 aerope
-aeroperitoneum
 anticipatorily
 aeroperitonia
 avondbloem
@@ -17604,6 +17603,7 @@ antipasto
 actinians
 agrostis
 agathology
+aeroperitoneum
 appl
 applanation
 applaudable

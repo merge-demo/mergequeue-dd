@@ -3987,7 +3987,6 @@ eileen
 elucidations
 emphysema
 endobronchitis
-enchalice
 emphyteutic
 euphuism
 endboard
@@ -11366,6 +11365,7 @@ exalters
 expensefulness
 eccyesis
 exaristate
+enchalice
 embolism
 evennesses
 eventful
