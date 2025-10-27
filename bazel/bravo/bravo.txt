@@ -1912,7 +1912,6 @@ buckayros
 brockle
 baaskaap
 biotechs
-brevipen
 bandore
 baselard
 bandrol
@@ -6125,6 +6124,7 @@ beatifical
 buchmanism
 buttinsky
 bedraggles
+brevipen
 beetle
 battledore
 braced
