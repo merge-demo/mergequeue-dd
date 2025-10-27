@@ -11443,7 +11443,6 @@ adenotomic
 anabasse
 aldermanly
 asperously
-astigmism
 ariose
 amnesias
 anabia
@@ -18906,6 +18905,7 @@ archiver
 archjockey
 audiometrist
 athetotic
+astigmism
 amoroso
 archknave
 aponeurology
