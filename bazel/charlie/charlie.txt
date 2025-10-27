@@ -19776,7 +19776,6 @@ comamie
 carrara
 coman
 comanche
-comanchean
 cohesion
 chlordan
 comanches
@@ -21418,6 +21417,7 @@ conchubar
 cryptonymic
 coplots
 creosols
+comanchean
 containers
 concierges
 concile
