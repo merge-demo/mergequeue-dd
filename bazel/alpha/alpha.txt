@@ -18289,6 +18289,7 @@ arank
 aranzada
 acceding
 ankylotia
+awesome
 attempered
 arapaho
 araphorostic
@@ -18658,7 +18659,6 @@ aguilarite
 aristocratical
 archebiosis
 acetract
-awesome
 ameloblastic
 auctioneer
 autophobia
