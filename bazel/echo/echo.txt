@@ -1315,6 +1315,7 @@ effects
 enlarge
 equilibristat
 enclog
+erosive
 effectuated
 encastage
 effectuating
@@ -8363,7 +8364,6 @@ estranged
 expeding
 eastlins
 epicontinental
-erosive
 exportation
 endogenetic
 electrobiology
