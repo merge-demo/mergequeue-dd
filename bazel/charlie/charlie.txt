@@ -8934,7 +8934,6 @@ charadrius
 chorioidal
 chlorobenzene
 colibacillosis
-chuddars
 charbocle
 charbonnier
 cartography
@@ -30250,6 +30249,7 @@ conversational
 crummer
 crummy
 consummativeness
+chuddars
 cub
 crummiest
 copleased
