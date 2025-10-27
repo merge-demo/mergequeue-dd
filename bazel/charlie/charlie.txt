@@ -11931,7 +11931,6 @@ choreal
 circumflant
 cuchan
 chored
-cubiculum
 characteristical
 calculative
 culet
@@ -20882,6 +20881,7 @@ compo
 counterstream
 compoed
 cabiri
+cubiculum
 coimplore
 citriculture
 compone
