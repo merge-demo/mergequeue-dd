@@ -17129,7 +17129,6 @@ bumblepuppy
 ballerine
 bespecklement
 beltene
-bezant
 bedriveled
 blamably
 burgherhood
@@ -17661,6 +17660,7 @@ begazed
 basker
 backhands
 beshouts
+bezant
 bagonet
 bookways
 bombshell
