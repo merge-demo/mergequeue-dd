@@ -13264,7 +13264,6 @@ ankylotic
 anklejack
 amasta
 ankles
-aetolian
 ankoli
 awny
 ankush
@@ -25085,6 +25084,7 @@ affecters
 antiamylase
 alii
 accredited
+aetolian
 axillar
 argyrite
 ascender

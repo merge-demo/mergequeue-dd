@@ -11665,7 +11665,6 @@ cequi
 clerkdoms
 cholla
 cryogen
-chollas
 choller
 chameleonize
 claries
@@ -17594,6 +17593,7 @@ cocautioner
 capitaling
 coccaceae
 consentant
+chollas
 crucifix
 colloid
 coccaceous
