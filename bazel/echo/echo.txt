@@ -5602,7 +5602,6 @@ enforceable
 ectocarpous
 encitadel
 ecologists
-enlisters
 egalitarianism
 ensconcing
 extispicy
@@ -13457,6 +13456,7 @@ eatanswill
 emf
 elizabethanize
 expurgate
+enlisters
 equivocate
 ethionine
 extramorainal
