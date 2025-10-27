@@ -3505,6 +3505,7 @@ clamer
 capsulitis
 capsulizing
 cabman
+callityping
 capsulogenous
 cacozeal
 cataphyllum
@@ -18643,7 +18644,6 @@ clypeole
 coltpixy
 coif
 caustics
-callityping
 coiffeur
 coiffeurs
 coiffeuses
