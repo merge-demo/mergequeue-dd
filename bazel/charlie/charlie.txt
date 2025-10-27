@@ -5922,7 +5922,6 @@ catharping
 correlating
 complexion
 cashboxes
-cathars
 cromfordite
 cathartes
 cathartic
@@ -10523,6 +10522,7 @@ created
 cichoraceous
 cynically
 childless
+cathars
 childly
 contacting
 coalfield
