@@ -1813,6 +1813,7 @@ camaron
 costata
 cosmetological
 ceyx
+clupeidae
 camass
 camasses
 channelly
@@ -16846,7 +16847,6 @@ chiloplasty
 cloverlay
 citizen
 checkstrap
-clupeidae
 cloverleaves
 cloverley
 cycadophyte
