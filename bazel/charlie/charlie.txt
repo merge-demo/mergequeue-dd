@@ -5273,7 +5273,6 @@ carinule
 cassocked
 carnaubyl
 chlorioninae
-chevrony
 cuculine
 crinoidea
 cantar
@@ -28917,6 +28916,7 @@ cricked
 cricket
 charlatanries
 cricketer
+chevrony
 cricketers
 chuckler
 cicindelid
