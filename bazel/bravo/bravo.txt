@@ -4490,7 +4490,6 @@ bienness
 bool
 bouffante
 busts
-beballed
 blitzkrieging
 beagles
 bookmen
@@ -10222,6 +10221,7 @@ bedirter
 blackness
 bebump
 beggiatoaceous
+beballed
 bilged
 broomwort
 blackpatch
