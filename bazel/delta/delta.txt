@@ -2671,7 +2671,6 @@ dogies
 duckies
 dimidiation
 desmognathous
-dcollet
 deconcentrate
 dakoity
 delightedness
@@ -6398,6 +6397,7 @@ defined
 dissceptered
 drepanis
 djinny
+dcollet
 davies
 demurrable
 doctrinized
