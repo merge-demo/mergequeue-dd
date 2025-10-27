@@ -473,7 +473,6 @@ benzoates
 backspaces
 backspacing
 backus
-bestselling
 begarie
 bucentaur
 butteries
@@ -9414,6 +9413,7 @@ bulimiac
 benthopelagic
 bivascular
 baccheion
+bestselling
 bensh
 bandwidths
 brawl
