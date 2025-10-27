@@ -882,7 +882,6 @@ cajolements
 coagulating
 caproic
 crimple
-chloroacetophenone
 cheddar
 cajoles
 cajoling
@@ -22183,6 +22182,7 @@ conformal
 convives
 costively
 confess
+chloroacetophenone
 complexed
 cloyne
 consistence
