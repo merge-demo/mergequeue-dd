@@ -10062,6 +10062,7 @@ aguroth
 acuation
 ambulacrum
 anyways
+actinocarp
 ambulance
 alkalinised
 anatomising
@@ -17144,7 +17145,6 @@ agrafe
 adoxa
 apomixis
 apomorphia
-actinocarp
 agnamed
 antireductive
 apomorphin
