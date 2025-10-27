@@ -4835,6 +4835,7 @@ epigne
 ephydriad
 expertise
 emblematizing
+embattled
 encourages
 embusy
 effortfully
@@ -6566,7 +6567,6 @@ eulogious
 excusive
 eccritic
 echiuroidea
-embattled
 eccles
 epimedium
 ellipses
