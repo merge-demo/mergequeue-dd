@@ -9964,7 +9964,6 @@ diatesseron
 dodged
 decemvirship
 disconcerts
-deeplier
 dardistan
 deaerates
 dryers
@@ -13806,6 +13805,7 @@ defoliators
 delayage
 deriv
 decus
+deeplier
 derogatively
 dysphemia
 defeminize
