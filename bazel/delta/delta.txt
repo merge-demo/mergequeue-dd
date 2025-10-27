@@ -1105,6 +1105,7 @@ darwesh
 daggering
 dablet
 decrement
+demography
 drillers
 dicacodyl
 douce
@@ -17731,7 +17732,6 @@ decolouriser
 defer
 disennoble
 dicarbonate
-demography
 dubio
 devot
 diene
