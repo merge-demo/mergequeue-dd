@@ -13587,7 +13587,6 @@ aequorin
 anomaluridae
 archmonarchy
 alcoholomania
-augmenter
 anomiacea
 acquiet
 atrabilarian
@@ -22923,6 +22922,7 @@ attainture
 apheta
 attalea
 attalid
+augmenter
 aquafer
 adoxy
 achenocarp
