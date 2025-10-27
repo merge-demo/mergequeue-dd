@@ -405,7 +405,6 @@ daimiel
 davallia
 dol
 diluvialist
-dawdlers
 drinkers
 defension
 deployable
@@ -15116,6 +15115,7 @@ drapet
 dados
 dyn
 distritbuted
+dawdlers
 disusing
 dhamma
 describing
