@@ -2526,7 +2526,6 @@ excepting
 engines
 epithelilia
 echoist
-electromagnetism
 elaborations
 endosmose
 egremoigne
@@ -4326,6 +4325,7 @@ embody
 electromobilism
 emphlysis
 eritrean
+electromagnetism
 esoenteritis
 exotically
 embrasure
