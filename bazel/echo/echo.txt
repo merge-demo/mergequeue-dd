@@ -606,7 +606,6 @@ echometer
 echopractic
 examinate
 elitisms
-ebonise
 exobiological
 echt
 ecchymosed
@@ -1146,6 +1145,7 @@ elsa
 ecphory
 expunction
 enclosed
+ebonise
 emblematising
 editorializers
 elephantic
