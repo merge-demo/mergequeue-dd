@@ -2768,7 +2768,6 @@ eutropic
 equipartition
 epidiplosis
 economicalness
-encroach
 empalement
 elementalistic
 extrathoracic
@@ -5181,6 +5180,7 @@ embroider
 endoglobular
 eleme
 existibility
+encroach
 eagled
 embossment
 epigastrial
