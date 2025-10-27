@@ -13141,6 +13141,7 @@ cycadaceae
 convulsional
 cicadas
 cycadeoidea
+configurational
 cooner
 cotys
 catstone
@@ -19575,7 +19576,6 @@ colostrum
 colotomy
 coemptive
 colotomies
-configurational
 colourable
 colouration
 colourational
