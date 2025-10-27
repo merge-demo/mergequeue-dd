@@ -1696,7 +1696,6 @@ ependymitis
 enamel
 exindusiate
 electrolyses
-empory
 earpieces
 echolocate
 endogenicity
@@ -3834,6 +3833,7 @@ eysoge
 ecclesiologist
 engendering
 environmental
+empory
 extracted
 emigr
 endometry
