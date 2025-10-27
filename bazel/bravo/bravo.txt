@@ -9106,6 +9106,7 @@ botanists
 bubbles
 becalmment
 biotelemetries
+biggening
 biotical
 bardiness
 bespreads
@@ -9599,7 +9600,6 @@ bisyllabic
 benefactions
 braize
 bedlike
-biggening
 breaches
 bisymmetry
 bisymmetrical
