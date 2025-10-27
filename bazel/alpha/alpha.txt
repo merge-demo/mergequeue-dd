@@ -13072,6 +13072,7 @@ askable
 artamus
 anisaldehyde
 araks
+auk
 airmanship
 anucleate
 antiphysician
@@ -14914,7 +14915,6 @@ anticryptic
 aglossate
 airbus
 autocriticism
-auk
 achyrodes
 abranchialism
 anticlinorium
