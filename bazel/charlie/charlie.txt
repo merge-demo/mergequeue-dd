@@ -2911,7 +2911,6 @@ cantabrigian
 cantaliver
 cantaloup
 careerer
-cantando
 copart
 certificating
 cantankerous
@@ -12807,6 +12806,7 @@ chumpaka
 cyclopedic
 concomitate
 chumpiness
+cantando
 crosscurrented
 chumpish
 chumps
