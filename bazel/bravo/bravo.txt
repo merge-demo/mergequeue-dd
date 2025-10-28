@@ -347,6 +347,7 @@ bkpr
 backcross
 bewept
 backdates
+banlieue
 beplaster
 berceuses
 bistetrazole
@@ -15476,7 +15477,6 @@ baldberry
 bristled
 belowstairs
 bushily
-banlieue
 bristlelike
 berycoidean
 blindfoldedness
