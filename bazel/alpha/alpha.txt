@@ -2091,7 +2091,6 @@ apocryphalist
 achinesses
 aching
 alinasal
-adjectivally
 antiscrofulous
 achirite
 achkan
@@ -9016,7 +9015,6 @@ anarchosyndicalism
 aluminosis
 antiphlogistic
 autism
-allodium
 abhorring
 alky
 anemometric
@@ -11295,6 +11293,7 @@ aphislion
 amplest
 amplexicaul
 aeciostage
+adjectivally
 amplexicauline
 aliturgical
 artels
@@ -22528,6 +22527,7 @@ abaised
 archbuffoon
 ark
 ateuchi
+allodium
 atherosclerosis
 androgen
 amphiboles
