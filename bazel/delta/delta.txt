@@ -13861,7 +13861,6 @@ demurrage
 debind
 distemperoid
 distenant
-dorsicornu
 demodulations
 dolichocephali
 deles
@@ -17488,6 +17487,7 @@ duddy
 dermatographic
 damascener
 dentiroster
+dorsicornu
 diplogenetic
 devitrified
 drouking
