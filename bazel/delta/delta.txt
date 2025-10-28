@@ -11585,7 +11585,6 @@ devillike
 disconsent
 dithering
 discerpibility
-disconsideration
 discoursers
 dispeopling
 digester
@@ -16621,6 +16620,7 @@ deepsome
 dissembly
 darwinian
 dragman
+disconsideration
 dragoman
 dognaper
 dissimilarities
