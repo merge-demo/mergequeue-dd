@@ -335,6 +335,7 @@ depressors
 dicast
 darnix
 dayak
+distinctest
 dum
 dabba
 dayanim
@@ -5623,7 +5624,6 @@ desmognathae
 deperdite
 domain
 decalogue
-distinctest
 deperms
 disserves
 dichromatopsia
