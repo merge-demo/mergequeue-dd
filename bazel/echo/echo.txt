@@ -769,6 +769,7 @@ easternizing
 ecoute
 exscinding
 ecphonema
+emphasising
 emotes
 echinal
 enfonce
@@ -2188,7 +2189,6 @@ enchurch
 epimyocardial
 eths
 electrovalently
-emphasising
 epistropheal
 elderman
 eggwhisk
