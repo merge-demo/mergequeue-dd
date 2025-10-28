@@ -27502,7 +27502,6 @@ cuirass
 covariable
 cathartical
 cheongsam
-coal
 cobwebbed
 chimers
 catachrestic
@@ -28948,6 +28947,7 @@ cries
 carsmith
 crig
 crying
+coal
 climatography
 crimeful
 cellulocutaneous
