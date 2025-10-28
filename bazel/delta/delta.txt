@@ -6895,7 +6895,6 @@ desmorrhexis
 dimpsy
 deifies
 desmoscolecidae
-desmoscolex
 deft
 desemer
 dynast
@@ -11833,6 +11832,7 @@ dewcup
 divet
 domineered
 debtorship
+desmoscolex
 dbl
 discurtain
 disarticulation
