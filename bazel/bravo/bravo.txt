@@ -3950,6 +3950,7 @@ bowed
 bogs
 bumpiest
 bromometrical
+bught
 bisulphate
 basset
 blaff
@@ -14551,7 +14552,6 @@ bearbine
 broncobuster
 bellyband
 brangled
-bught
 beanies
 banghy
 brank
