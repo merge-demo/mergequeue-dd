@@ -4441,7 +4441,6 @@ allentiacan
 acridium
 algicidal
 aselar
-avantlay
 adstipulated
 accent
 advisedness
@@ -21347,6 +21346,7 @@ azarole
 antitegula
 asperge
 acetobacter
+avantlay
 authorish
 asperges
 approvable
