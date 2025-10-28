@@ -16320,7 +16320,6 @@ decrown
 deferrize
 ductilimeter
 dossel
-daniglacial
 divers
 diaheliotropism
 doryanthes
@@ -16567,6 +16566,7 @@ decollation
 decorticating
 dodderer
 dithiol
+daniglacial
 distrix
 dextrad
 diagrammatic

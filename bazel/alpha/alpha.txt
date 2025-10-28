@@ -2091,7 +2091,6 @@ apocryphalist
 achinesses
 aching
 alinasal
-adjectivally
 antiscrofulous
 achirite
 achkan
@@ -11297,6 +11296,7 @@ aphislion
 amplest
 amplexicaul
 aeciostage
+adjectivally
 amplexicauline
 aliturgical
 artels
