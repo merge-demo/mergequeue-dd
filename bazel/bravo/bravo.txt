@@ -8590,7 +8590,6 @@ bywalk
 billiards
 billyboy
 bivalved
-brules
 billies
 blinkers
 biostatics
@@ -14048,6 +14047,7 @@ brachydont
 badaud
 brachydontism
 brachyfacial
+brules
 boilers
 brachyglossal
 burgul
