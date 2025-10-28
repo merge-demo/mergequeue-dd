@@ -7138,7 +7138,6 @@ engrossed
 envisage
 established
 examples
-edriophthalmous
 envisioning
 epistolising
 esca
@@ -11824,6 +11823,7 @@ extractible
 equiproducing
 elecive
 eulogization
+edriophthalmous
 extromit
 excalceate
 excalceation
