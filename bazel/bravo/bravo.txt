@@ -1562,6 +1562,7 @@ ballaster
 ballastic
 bovidae
 buddie
+beaker
 ballata
 batikulin
 ballatoon
@@ -11224,7 +11225,6 @@ bizonia
 bestrapped
 blote
 brillolette
-beaker
 bracts
 bf
 bezesteen
