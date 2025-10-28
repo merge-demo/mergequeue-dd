@@ -9378,7 +9378,6 @@ catamarans
 chaus
 cabbalistical
 cataian
-cofounds
 cyclamin
 corvee
 constatory
@@ -14217,6 +14216,7 @@ cityish
 circumanal
 cauterizes
 circumantarctic
+cofounds
 circumarticular
 circumaviate
 circumaviator
