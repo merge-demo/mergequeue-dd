@@ -4751,6 +4751,7 @@ equidifferent
 episcopally
 establishments
 exploratory
+earthshock
 extracardial
 encloister
 exhausted
@@ -7201,7 +7202,6 @@ evenlight
 exposed
 endodontium
 ejidos
-earthshock
 enderon
 erythropoietic
 electrotropic
