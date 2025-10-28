@@ -8364,7 +8364,6 @@ adaptable
 alarms
 alacreatinine
 alkalizer
-astarte
 aerophysicist
 ascyrum
 antifrost
@@ -21991,6 +21990,7 @@ accordature
 aristophanic
 asterophyllite
 asterophyllites
+astarte
 adorno
 agnathous
 anerythroplastic
