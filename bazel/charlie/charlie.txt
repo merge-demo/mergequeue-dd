@@ -11445,7 +11445,6 @@ choanoflagellida
 cotta
 choanophorous
 cataplasm
-choate
 crumbed
 coldfinch
 cautioned
@@ -22785,6 +22784,7 @@ cyananthrol
 conoscenti
 columnizes
 conoscopic
+choate
 conplane
 centuriation
 counterevidence
