@@ -5437,7 +5437,6 @@ bromopicrin
 behymn
 bruit
 brutes
-behither
 berrigan
 brood
 bechamel
@@ -18305,6 +18304,7 @@ backstroking
 buoyantly
 buttonholder
 bedel
+behither
 baliti
 bennis
 bowlegs
