@@ -2483,7 +2483,6 @@ aluminic
 aconitine
 abolitionism
 anoscope
-atypical
 argante
 aratory
 aconitums
@@ -3014,6 +3013,7 @@ aspirating
 abrachias
 apiculation
 anatoly
+atypical
 actinotherapeutics
 award
 actinozoa
