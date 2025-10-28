@@ -15498,7 +15498,6 @@ circuted
 clarissa
 counterraising
 cardionosus
-concussing
 certification
 clarissimo
 correption
@@ -26366,6 +26365,7 @@ connotative
 coticing
 cotidal
 cotylar
+concussing
 cotyledonal
 cotyledonary
 carene
