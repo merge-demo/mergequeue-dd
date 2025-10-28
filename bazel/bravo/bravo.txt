@@ -376,7 +376,6 @@ besmutting
 backflowing
 briefer
 backframe
-backfriend
 bottegas
 blasting
 backgame
@@ -16082,6 +16081,7 @@ bulimiform
 browbeating
 bathmotropism
 baiter
+backfriend
 browet
 brander
 bristletail
