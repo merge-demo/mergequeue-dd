@@ -8214,6 +8214,7 @@ elydoric
 exaltee
 epistases
 epistasies
+enterobiliary
 energy
 enhancers
 extrusive
@@ -8775,7 +8776,6 @@ elegist
 equitability
 erections
 eviller
-enterobiliary
 etcetera
 energises
 electrocardiograms
