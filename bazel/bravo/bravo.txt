@@ -1779,6 +1779,7 @@ bumblingly
 bamboozles
 buzzwigs
 briars
+billiard
 brambles
 bilanders
 brachman
@@ -8576,7 +8577,6 @@ bracioles
 bismuthine
 bonitoes
 bedrench
-billiard
 beepers
 bioactivity
 brickset
