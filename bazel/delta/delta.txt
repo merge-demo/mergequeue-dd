@@ -7943,6 +7943,7 @@ depone
 dicaryophyte
 dewberries
 dolichosaur
+dock
 dewcap
 disklike
 dormers
@@ -11191,7 +11192,6 @@ disbarring
 drivelled
 disbars
 disbrain
-dock
 disbeliefs
 diswit
 dodgiest
