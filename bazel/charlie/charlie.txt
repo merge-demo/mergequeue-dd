@@ -7470,7 +7470,6 @@ ceramographic
 colchian
 canvass
 chloroformed
-crockeryware
 cerasein
 cerastes
 conciliatory
@@ -10197,6 +10196,7 @@ chevrolet
 chevrolets
 chlorodized
 coracoclavicular
+crockeryware
 chiropatagium
 charioteer
 cumbha
