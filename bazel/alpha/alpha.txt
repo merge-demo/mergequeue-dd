@@ -4815,6 +4815,7 @@ aerogeologist
 aerogramme
 apomecometry
 almsfolk
+alkahestica
 asked
 adjurations
 aristogenic
@@ -22942,7 +22943,6 @@ alluviation
 attars
 augurs
 ahungry
-alkahestica
 autorhythmic
 archplagiarist
 atrabiliarious
