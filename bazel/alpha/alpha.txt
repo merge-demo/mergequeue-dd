@@ -7585,7 +7585,6 @@ alcoran
 apposiopestic
 alcoranic
 aphetically
-alcove
 analyticities
 airward
 adnascence
@@ -9887,6 +9886,7 @@ attachers
 absorptance
 antisepticise
 adirondack
+alcove
 aperu
 agrufe
 albinuria
