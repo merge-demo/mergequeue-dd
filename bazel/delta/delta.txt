@@ -8564,7 +8564,6 @@ diaphyseal
 discommodious
 dermographia
 diaphysis
-demonomy
 dracontiasis
 druggists
 diaphony
@@ -13098,6 +13097,7 @@ degami
 dripstick
 diorism
 deutocarbonate
+demonomy
 dispensatively
 displicency
 diastyle
