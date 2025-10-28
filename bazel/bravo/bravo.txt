@@ -621,7 +621,6 @@ boatels
 backen
 brilliants
 birdcages
-baraka
 barytosulphate
 bullated
 bylined
@@ -10482,6 +10481,7 @@ belgian
 benignities
 blastoneuropore
 babingtonite
+baraka
 bacteriopathology
 bogan
 blastophyllum
