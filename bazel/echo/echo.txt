@@ -4122,7 +4122,6 @@ encl
 encaustes
 exporter
 elaeosia
-engraphy
 epiphora
 eyeroot
 escaloped
@@ -7155,6 +7154,7 @@ extraequilibrium
 enwallow
 excandescence
 evernioid
+engraphy
 enwheel
 ensampler
 eposes
