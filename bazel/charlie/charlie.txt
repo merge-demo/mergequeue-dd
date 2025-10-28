@@ -13574,6 +13574,7 @@ cort
 caloricity
 cathartically
 cymaphyte
+compositive
 cymaphytic
 cymaphytism
 cymarin
@@ -27196,7 +27197,6 @@ cosin
 countervailing
 crawleyroot
 camisade
-compositive
 chondrogenetic
 countervair
 coprocessor
