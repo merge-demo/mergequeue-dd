@@ -793,7 +793,6 @@ endosulfan
 earthmaking
 exodus
 epeira
-eurytopic
 encephalography
 ectally
 enter
@@ -5799,6 +5798,7 @@ eluviated
 emagram
 epiblastema
 engrailed
+eurytopic
 encyrtid
 elsewards
 epizoicide
