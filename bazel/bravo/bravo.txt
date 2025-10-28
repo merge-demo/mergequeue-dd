@@ -5683,7 +5683,6 @@ belight
 budgers
 baaed
 bulldozer
-belike
 bribes
 bedsheets
 barrator
@@ -11563,6 +11562,7 @@ becolme
 borane
 blurriness
 bloodlust
+belike
 boatmanship
 boiloffs
 bovinely
