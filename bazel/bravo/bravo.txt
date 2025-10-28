@@ -1714,6 +1714,7 @@ bedikah
 buskers
 breastheight
 biscayner
+balsamum
 brokerage
 bodgery
 broon
@@ -7913,7 +7914,6 @@ butic
 baseline
 bankrupting
 besmirchment
-balsamum
 biblists
 bowlders
 bezoar
