@@ -4995,6 +4995,7 @@ castigable
 curmudgeon
 cust
 chiclero
+cabulla
 curcuma
 canalman
 chemosynthetic
@@ -19956,7 +19957,6 @@ comestion
 colopuncture
 cryobiology
 cometaria
-cabulla
 closh
 countertenors
 cometlike
