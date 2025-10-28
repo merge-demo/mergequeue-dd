@@ -5521,7 +5521,6 @@ again
 asphalts
 againbuy
 againsay
-augmentive
 anticensorious
 against
 acheirus
@@ -9082,6 +9081,7 @@ alternates
 almonership
 almonry
 almonries
+augmentive
 antimellin
 albany
 angiochondroma
