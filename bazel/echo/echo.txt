@@ -747,6 +747,7 @@ extoled
 effaces
 endermatic
 effascinate
+eucharistize
 exuvium
 ecotype
 ecotypes
@@ -7170,7 +7171,6 @@ enamines
 eyedness
 egoize
 elytroptosis
-eucharistize
 ecthymatous
 enwomb
 epharmonic
