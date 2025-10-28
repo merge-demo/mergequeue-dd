@@ -1381,7 +1381,6 @@ embolden
 effigiate
 expirator
 ethnocentrically
-electrifier
 epiderma
 erythroxylaceae
 eurasiatic
@@ -12522,6 +12521,7 @@ enhalos
 enneacontahedron
 exist
 existed
+electrifier
 elucidating
 esne
 electrooptical
