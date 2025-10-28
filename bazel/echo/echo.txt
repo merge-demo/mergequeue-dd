@@ -6326,7 +6326,6 @@ enseal
 estancias
 esophoric
 extrovertish
-epuloid
 enseated
 equiponderate
 exgorgitation
@@ -8114,6 +8113,7 @@ enaction
 enseel
 extratabular
 episcopalianism
+epuloid
 existimation
 engineered
 enclosers
