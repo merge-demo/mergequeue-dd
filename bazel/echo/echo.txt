@@ -5105,7 +5105,6 @@ edentulous
 exsanguinous
 endocoele
 exploiter
-evanishment
 endoconidia
 edificate
 epiplanktonic
@@ -9172,6 +9171,7 @@ eusuchia
 elfishly
 erythrulose
 esoneural
+evanishment
 erotema
 edenize
 electrofuse
