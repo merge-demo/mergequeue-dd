@@ -1733,7 +1733,6 @@ byssolite
 bookrest
 beetrooty
 beneplacit
-balsamine
 basongo
 buenos
 become
@@ -1792,6 +1791,7 @@ balanops
 bambute
 blackheart
 becombed
+balsamine
 belgravian
 bruiting
 bechtler
