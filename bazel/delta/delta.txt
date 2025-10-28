@@ -15722,7 +15722,6 @@ decontrolled
 doorstop
 devotionality
 dephlogisticated
-decolorant
 desensitizer
 diastole
 downheartedly
@@ -17291,6 +17290,7 @@ demirobe
 dittoed
 diadermic
 disulfate
+decolorant
 desolater
 decrepitation
 dingoes
