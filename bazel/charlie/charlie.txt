@@ -17069,6 +17069,7 @@ catepuce
 coltoria
 cnidae
 cnidarian
+corecipient
 cnidian
 crayoned
 cnidoblast
@@ -25042,7 +25043,6 @@ cloves
 core
 counterinvestment
 coreceiver
-corecipient
 chital
 circumlocutory
 corectome
