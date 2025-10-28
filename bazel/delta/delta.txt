@@ -4098,7 +4098,6 @@ deliquescence
 divertila
 disobeyed
 delictum
-delieret
 dripped
 divaricate
 diascord
@@ -10473,6 +10472,7 @@ dendrodra
 diphthonging
 diphthongisation
 demolishes
+delieret
 deisticalness
 dimiss
 dramatist
