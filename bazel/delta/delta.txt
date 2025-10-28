@@ -4479,6 +4479,7 @@ daff
 douper
 deadhearted
 delegable
+dermoreaction
 dolesome
 dethroned
 dissonances
@@ -12789,7 +12790,6 @@ detents
 dislustre
 diffusedness
 dismay
-dermoreaction
 diathermancy
 dicyema
 degame

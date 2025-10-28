@@ -6488,6 +6488,7 @@ bimong
 bettong
 bewelcome
 bavarois
+bobol
 bagel
 bookkeeping
 birdshot
@@ -11742,7 +11743,6 @@ bobjerom
 bioelectricity
 behung
 buzzword
-bobol
 bedamns
 backpointer
 brynza
