@@ -2843,7 +2843,6 @@ boskage
 biform
 buddage
 bendays
-basyl
 brachymetropic
 bugaboo
 bunjara
@@ -12607,6 +12606,7 @@ bulged
 basinlike
 bonxie
 blastostyle
+basyl
 blancs
 bistriazole
 bleekbok
