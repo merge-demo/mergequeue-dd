@@ -15774,7 +15774,6 @@ antiportable
 aromata
 anthoxanthin
 anglicizing
-adenoid
 albuminorrhea
 amora
 antipoverty
@@ -20512,6 +20511,7 @@ amniote
 accumb
 atenism
 arthrodirous
+adenoid
 atlantes
 anurous
 arthrodonteae
