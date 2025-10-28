@@ -4583,7 +4583,6 @@ cuarto
 colleger
 commonsensible
 cryonics
-carob
 caroba
 caroch
 cyclarthrsis
@@ -22792,6 +22791,7 @@ conquerer
 conquerers
 conqueress
 conquering
+carob
 conqueror
 china
 coalized

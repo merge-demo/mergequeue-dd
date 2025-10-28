@@ -2608,7 +2608,6 @@ bechained
 belostoma
 beastliness
 bumpkinly
-broncs
 barkier
 beduchess
 bescoundrel
@@ -5561,6 +5560,7 @@ bruscus
 backsaws
 blobbed
 behalf
+broncs
 bumbard
 belaboring
 bulletheaded
