@@ -4649,6 +4649,7 @@ exdelicto
 evolve
 eremiteship
 enchoric
+evisceration
 encyclopedias
 ekoi
 entanglers
@@ -8414,7 +8415,6 @@ epulones
 eighteen
 exchange
 electrizer
-evisceration
 egyptianize
 equip
 eglogue
