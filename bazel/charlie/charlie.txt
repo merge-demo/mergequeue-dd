@@ -3022,7 +3022,6 @@ chromophore
 churner
 canto
 confederatism
-cortege
 capiteaux
 convokes
 colander
@@ -15531,6 +15530,7 @@ casseroles
 claroes
 curiousness
 collegian
+cortege
 claromontane
 crouchant
 cubitocarpal
