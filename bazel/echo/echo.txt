@@ -5699,6 +5699,7 @@ engineless
 engineman
 epitheliolysis
 eudidymite
+extracurial
 egalites
 engineries
 embrace
@@ -7864,7 +7865,6 @@ elaeagnaceae
 eunuchised
 endolaryngeal
 expertizing
-extracurial
 edgingly
 emancipist
 enchantresses
