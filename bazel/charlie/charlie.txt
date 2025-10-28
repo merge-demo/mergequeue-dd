@@ -14048,7 +14048,6 @@ cilioflagellata
 croupier
 chitra
 chemosensitive
-cornels
 crimp
 cypraeidae
 confinement
@@ -30655,6 +30654,7 @@ cheero
 counterpoised
 calliopes
 cuddled
+cornels
 cuddlesome
 cuddliest
 celiagra
