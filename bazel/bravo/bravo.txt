@@ -4499,7 +4499,6 @@ besmooths
 baptismal
 bahiaite
 banally
-bienness
 bool
 bouffante
 busts
@@ -16450,6 +16449,7 @@ belling
 bubastid
 backorder
 blightingly
+bienness
 bubby
 benedictory
 brachiocrural
