@@ -3496,7 +3496,6 @@ exon
 emblemizing
 electrootiatrics
 exsiccative
-eproboscidea
 explementary
 endow
 encarpi
@@ -14204,6 +14203,7 @@ equiradiate
 exerciser
 exust
 encaging
+eproboscidea
 excitron
 exxon
 exzodiacal
