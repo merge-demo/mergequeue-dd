@@ -3386,7 +3386,6 @@ embarkment
 erythrophagous
 elegises
 embarks
-equipage
 exteroceptor
 equilibrium
 elohist
@@ -11029,6 +11028,7 @@ eyne
 elderwomen
 episcopacies
 eliminator
+equipage
 eurythmics
 epiphenomena
 endotrophic
