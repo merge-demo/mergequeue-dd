@@ -8107,6 +8107,7 @@ enew
 exhumator
 episclera
 ell
+excoriated
 episcopacy
 expensilation
 ensanguined
@@ -12030,7 +12031,6 @@ excommunicator
 epihyal
 expetible
 extrication
-excoriated
 electroanalysis
 excoriating
 egestions
