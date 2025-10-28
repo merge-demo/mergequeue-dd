@@ -8545,6 +8545,7 @@ etheriform
 equatorwards
 excessmen
 ectomeric
+expeditiousness
 equestrian
 epigeous
 exceptant
@@ -12899,7 +12900,6 @@ erythropenia
 engr
 eosaurus
 enticingly
-expeditiousness
 ecchymose
 epithymetic
 evangeliary

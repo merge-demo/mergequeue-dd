@@ -307,7 +307,6 @@ brahmism
 benignancies
 bourgeoises
 backarrows
-bipartible
 backbar
 badrans
 bedright
@@ -3018,6 +3017,7 @@ bullace
 beech
 bartisan
 ballrooms
+bipartible
 barflies
 branglement
 biomasses
