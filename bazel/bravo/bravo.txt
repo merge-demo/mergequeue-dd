@@ -5837,6 +5837,7 @@ balopticon
 bilboa
 butterbur
 betaines
+brisement
 bradmaker
 beloeilite
 bateleur
@@ -10402,7 +10403,6 @@ botong
 breaker
 borstals
 blanketlike
-brisement
 beedged
 byrling
 blankish
