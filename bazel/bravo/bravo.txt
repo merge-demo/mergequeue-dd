@@ -4598,6 +4598,7 @@ benedicks
 brunhild
 beltmaking
 bedfellows
+befingered
 buildable
 barlows
 bescorn
@@ -10870,7 +10871,6 @@ begroans
 baldpated
 bens
 besteaded
-befingered
 bangers
 boxball
 bismark
