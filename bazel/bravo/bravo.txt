@@ -2107,6 +2107,7 @@ byrlady
 brouillon
 bantayan
 bidstand
+baptizing
 bergamiol
 badiaga
 bantamize
@@ -16874,7 +16875,6 @@ beauetry
 biochore
 bimotor
 bulbously
-baptizing
 bigoted
 bonhomously
 barometrograph
