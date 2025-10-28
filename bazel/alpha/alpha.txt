@@ -2358,7 +2358,6 @@ ackees
 apprehensibility
 antismut
 agrising
-afterfeed
 asplenioid
 aurantiaceous
 acanthocephali
@@ -8874,6 +8873,7 @@ appetisse
 aveny
 allorhythmia
 autocratship
+afterfeed
 autobolide
 ataghan
 arsnicker
