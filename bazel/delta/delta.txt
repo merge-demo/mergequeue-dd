@@ -6277,7 +6277,6 @@ dermatitises
 dyschromatoptic
 dermatodynia
 distrainer
-dermatography
 decentralizing
 dezincation
 diplonephridia
@@ -14553,6 +14552,7 @@ dismembrated
 duodenary
 deleaded
 divinizing
+dermatography
 detribalization
 denomination
 dimmable
