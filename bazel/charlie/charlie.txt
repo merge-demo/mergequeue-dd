@@ -13459,6 +13459,7 @@ cofeatures
 confederator
 cydonium
 cie
+carbazylic
 coastal
 cierge
 cierzos
@@ -22379,7 +22380,6 @@ codlings
 cheeps
 conventionalise
 congolese
-carbazylic
 cynical
 confabbed
 coincline
