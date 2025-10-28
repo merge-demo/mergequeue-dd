@@ -3057,7 +3057,6 @@ disgustfully
 disquietingly
 diaphragming
 disorder
-deltidia
 deadliness
 downbent
 daygoing
@@ -9503,6 +9502,7 @@ delesseriaceae
 draftsman
 dinornithidae
 digesting
+deltidia
 digestively
 desisting
 dewormed
