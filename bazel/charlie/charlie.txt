@@ -729,7 +729,6 @@ conjurors
 cagy
 cagier
 cecil
-collybist
 carbureter
 crematoriria
 clairvoyance
@@ -19959,6 +19958,7 @@ cometaria
 closh
 countertenors
 cometlike
+collybist
 cometography
 coeloblastic
 cometology
