@@ -5531,7 +5531,6 @@ antilens
 againward
 ardeid
 agal
-anabong
 agalactic
 appoggiaturas
 anisomelus
@@ -9047,6 +9046,7 @@ almander
 astromantic
 almandine
 accrescence
+anabong
 aeginetic
 apoplectic
 astrophysical
