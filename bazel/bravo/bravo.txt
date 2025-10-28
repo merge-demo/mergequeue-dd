@@ -111,6 +111,7 @@ bladderwrack
 battements
 blackcoat
 balanophore
+battiks
 baroclinity
 banditry
 biforine
@@ -8106,7 +8107,6 @@ bracken
 bumicky
 bannock
 brattiness
-battiks
 bookkeepers
 beleaguering
 becarpet
