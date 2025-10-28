@@ -4263,7 +4263,6 @@ deuteride
 dryfarmer
 damiana
 dermatopsy
-decoherer
 dorsad
 dels
 demast
@@ -17643,6 +17642,7 @@ disrates
 dichotomisation
 decolouring
 dishevels
+decoherer
 dyslexia
 drusy
 descriptiveness
