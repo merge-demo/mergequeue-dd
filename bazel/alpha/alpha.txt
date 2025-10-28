@@ -8450,7 +8450,6 @@ alkool
 alkoxy
 antagonize
 abarambo
-antipodagric
 analytical
 assise
 amylophagia
@@ -15235,6 +15234,7 @@ antipragmaticism
 arabophil
 alpha
 antihuman
+antipodagric
 acrobatholithic
 anteriad
 agreing
