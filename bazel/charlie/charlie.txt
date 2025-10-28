@@ -7141,7 +7141,6 @@ centiles
 catamited
 coagule
 clunker
-cadent
 cumaldehyde
 caliculus
 centimetre
@@ -28205,6 +28204,7 @@ cricothyreoid
 cyclostomatidae
 cund
 crapy
+cadent
 craping
 crapped
 crapper
