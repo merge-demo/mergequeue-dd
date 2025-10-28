@@ -14765,7 +14765,6 @@ abe
 attendancy
 antibibliolatry
 antilogs
-arling
 anticipations
 anticipative
 attensity
@@ -15706,6 +15705,7 @@ antiphony
 anomorhomboid
 antichloristic
 antiphonic
+arling
 antiphonies
 antiphonon
 abjudging
