@@ -9050,6 +9050,7 @@ distortive
 disa
 desegmented
 debel
+diethylaminoethanol
 deadpay
 dicots
 dicoumarin
@@ -9352,7 +9353,6 @@ dipso
 depolarised
 destroyers
 dottled
-diethylaminoethanol
 doited
 differed
 dummerer

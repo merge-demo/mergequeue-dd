@@ -8040,7 +8040,6 @@ brachygnathism
 blindfoldly
 brawned
 browband
-bedizen
 bicorn
 bourrelet
 boatman
@@ -16934,6 +16933,7 @@ beniseed
 bedsore
 biocoenosis
 bromizer
+bedizen
 brachiocephalic
 bacterize
 berceaunette
