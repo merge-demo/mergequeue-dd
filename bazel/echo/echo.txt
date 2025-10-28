@@ -4310,7 +4310,6 @@ enamouredness
 eulogistical
 espouse
 espichellite
-espadrille
 enamours
 episperm
 euphrasia
@@ -11908,6 +11907,7 @@ expurgation
 ephidrosis
 excerebration
 extraphysical
+espadrille
 endemiology
 eudaemonistically
 excursory
