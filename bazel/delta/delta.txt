@@ -14216,7 +14216,6 @@ depopulated
 dangerous
 deirdre
 diswashing
-diswere
 deodorize
 debatable
 debriefings
@@ -17912,6 +17911,7 @@ durgan
 dinks
 dayflowers
 docible
+diswere
 dawdle
 derricks
 dullsome
