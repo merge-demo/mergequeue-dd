@@ -12679,7 +12679,6 @@ exonerate
 exonerating
 ephemerous
 encephalotomies
-euclase
 episcopicide
 essays
 eunicidae
@@ -13990,6 +13989,7 @@ embargoist
 epicoracohumeral
 exaltate
 extralimital
+euclase
 enfigure
 engaud
 extrapolatory
