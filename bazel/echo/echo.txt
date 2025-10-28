@@ -5200,6 +5200,7 @@ epistrophic
 endomitosis
 endomorphy
 exta
+expire
 ekebergite
 either
 endoneurium
@@ -6032,7 +6033,6 @@ estoque
 expromissor
 expelling
 endosarcs
-expire
 ere
 epiglottises
 enkindles
