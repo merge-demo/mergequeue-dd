@@ -3650,7 +3650,6 @@ exomion
 excogitates
 engarment
 emaciated
-erythrons
 everse
 everywheres
 entrancer
@@ -11053,6 +11052,7 @@ electrostereotype
 endomixis
 europium
 expressionistically
+erythrons
 epipharynx
 eurus
 emunctory
