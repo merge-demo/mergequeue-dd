@@ -19599,7 +19599,6 @@ anticlea
 arisen
 ariser
 apl
-aristae
 affirmatively
 alfarga
 aristarchian
@@ -23719,6 +23718,7 @@ allosaurus
 autarkist
 aute
 ade
+aristae
 autechoscope
 adenopathy
 autecy
