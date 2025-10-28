@@ -14054,7 +14054,6 @@ angiitis
 antepirrhema
 anteporticoes
 alloxantin
-anteporticos
 addenda
 ashily
 aptiana
@@ -17001,6 +17000,7 @@ aerophotography
 agranulocyte
 apodal
 actian
+anteporticos
 anemogram
 apodedeipna
 acrotarsium
