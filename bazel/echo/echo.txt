@@ -6084,6 +6084,7 @@ electionary
 eltime
 eugenic
 eulachon
+exudate
 elasmosaur
 evanesce
 epifauna
@@ -7211,7 +7212,6 @@ erythropoietic
 electrotropic
 ephemeromorphic
 eupnoeas
-exudate
 enthronize
 enzootics
 extraverted
