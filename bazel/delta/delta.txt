@@ -4619,6 +4619,7 @@ dukhobor
 destination
 diaphones
 dynastically
+diffraction
 doegling
 demilitarise
 diaxone
@@ -5479,7 +5480,6 @@ deistic
 disenablement
 deorsum
 deorsumversion
-diffraction
 diesel
 damoisel
 disintegrate
