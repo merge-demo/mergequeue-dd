@@ -6707,7 +6707,6 @@ ceratosaurus
 coathangers
 cuscus
 colligation
-ceja
 charcia
 ciceronic
 celadon
@@ -21540,6 +21539,7 @@ cannibality
 concoct
 coemption
 concocted
+ceja
 concocter
 counteraddress
 cornerpiece
