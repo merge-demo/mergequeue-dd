@@ -9243,6 +9243,7 @@ biprism
 byproducts
 bemata
 butacaine
+beautifier
 bleezy
 birring
 bootyless
@@ -15015,7 +15016,6 @@ bucorvinae
 boughy
 breastplate
 burrowed
-beautifier
 bloodthirstier
 bowllike
 bret
