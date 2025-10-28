@@ -989,6 +989,7 @@ doughmen
 directcarving
 drosophila
 diaphonia
+dobber
 dared
 denudes
 dambrod
@@ -16987,7 +16988,6 @@ dreamsy
 denaries
 displeasingness
 doukhobor
-dobber
 dianthaceae
 debugs
 ditrematous

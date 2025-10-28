@@ -1253,6 +1253,7 @@ epigrammatise
 eelcake
 exposition
 eelery
+eccentric
 episomal
 eleemosynary
 endopleuritic
@@ -12065,7 +12066,6 @@ excrementive
 enfolder
 excrescency
 excrescent
-eccentric
 enfoldment
 entailable
 excuseless
