@@ -16525,6 +16525,7 @@ clobbered
 clobbers
 cloche
 clochette
+catallactics
 clockbird
 cursiveness
 comodato
@@ -18745,7 +18746,6 @@ cytozymase
 coining
 coinmate
 coinmates
-catallactics
 chemiotropism
 coinspire
 cyclopentene

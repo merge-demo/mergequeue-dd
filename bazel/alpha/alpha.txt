@@ -8637,7 +8637,6 @@ apicifixed
 agalaxia
 amblosis
 arachidonic
-apemantus
 autogeny
 allhallows
 alliance
@@ -20216,6 +20215,7 @@ antichristianity
 arrogated
 angus
 allotriuria
+apemantus
 abater
 afocal
 anthracemia
