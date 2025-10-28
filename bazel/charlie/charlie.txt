@@ -15883,7 +15883,6 @@ cleaver
 cleavers
 coremaker
 consummating
-clamb
 cleche
 circumbulbar
 capacitance
@@ -19364,6 +19363,7 @@ colomb
 cruppering
 connexities
 colombia
+clamb
 colombians
 clogging
 clerics
