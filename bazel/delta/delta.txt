@@ -3129,6 +3129,7 @@ dialings
 doorbell
 defeasive
 duplicia
+didna
 downhill
 defeated
 directs
@@ -8797,7 +8798,6 @@ dequeen
 dementholize
 diazoalkane
 darger
-didna
 depeter
 dragonkind
 diazoaminobenzene
