@@ -6861,6 +6861,7 @@ detrudes
 deterrer
 dietetical
 dacryohelcosis
+dombeya
 dreadfuls
 decayed
 devchar
@@ -15432,7 +15433,6 @@ dysphasic
 depilous
 deglazing
 disbogue
-dombeya
 dome
 dyssnite
 delis
