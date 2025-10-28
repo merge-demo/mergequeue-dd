@@ -5146,6 +5146,7 @@ birdseeds
 befoulment
 befreight
 bacula
+burster
 biocenosis
 burbank
 blueball
@@ -17787,7 +17788,6 @@ burst
 bathyscaph
 booksellers
 bishopful
-burster
 blutwurst
 bursty
 bitterhead
