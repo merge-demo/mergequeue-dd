@@ -6885,7 +6885,6 @@ ethically
 endangered
 entomostraca
 electrum
-endamageable
 epispore
 ectocardia
 endometria
@@ -13730,6 +13729,7 @@ ententophil
 etaballi
 ectoenzym
 enzyme
+endamageable
 extinguished
 extinguisher
 extinguishers
