@@ -5286,6 +5286,7 @@ cassia
 cassicus
 cassidid
 cassidulina
+coeloscope
 cohorn
 crookback
 cassiduloid
@@ -27762,7 +27763,6 @@ caryophylleous
 comephorous
 cuttlefishes
 coxae
-coeloscope
 crepusculum
 coxalgias
 cholents
