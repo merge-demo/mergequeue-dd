@@ -23100,7 +23100,6 @@ calash
 companioned
 camels
 consonance
-consonancy
 consonantalize
 compurgatory
 chlorpheniramine
@@ -24447,6 +24446,7 @@ cooniness
 challenge
 coontah
 collaborateur
+consonancy
 coop
 crozer
 cooped
