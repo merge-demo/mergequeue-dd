@@ -3861,7 +3861,6 @@ assonantly
 austerlitz
 apologer
 athletic
-adjutory
 ahistoric
 adjutorious
 adjutrice
@@ -24284,6 +24283,7 @@ antiscientific
 anodendron
 aquaducts
 autoracemization
+adjutory
 autoradiograph
 autoreflection
 allopurinol
