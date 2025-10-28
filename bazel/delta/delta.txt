@@ -2798,7 +2798,6 @@ delaware
 dipnoan
 deflectable
 dichotriaene
-decresc
 delphinus
 deknight
 devas
@@ -17104,6 +17103,7 @@ determinateness
 disalicylide
 diabolicalness
 delumbate
+decresc
 debaters
 dressline
 dumas
