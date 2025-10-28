@@ -4858,7 +4858,6 @@ carryall
 carrick
 carrycot
 chromatoplasm
-commutant
 carryed
 carrier
 carryings
@@ -28901,6 +28900,7 @@ cribriform
 cribriformity
 convertaplane
 cribs
+commutant
 conelike
 cribworks
 convocated
