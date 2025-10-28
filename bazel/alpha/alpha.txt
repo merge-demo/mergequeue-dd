@@ -10068,7 +10068,6 @@ ambrosio
 aesture
 ambsace
 anterosuperior
-anagrammatic
 almogavar
 ambulacra
 aguroth
@@ -12355,6 +12354,7 @@ antipacifist
 anemography
 ablatival
 anemographically
+anagrammatic
 avoided
 anticonfederationist
 argeers
