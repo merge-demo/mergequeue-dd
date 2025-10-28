@@ -5297,7 +5297,6 @@ didelphic
 desmodactyli
 disobligingly
 dabbled
-disocclude
 darr
 docs
 decreed
@@ -10505,6 +10504,7 @@ divinize
 dipyrenous
 dipyridyl
 diosmose
+disocclude
 diplantidian
 drynaria
 diarial
