@@ -9825,7 +9825,6 @@ cheliped
 chelys
 cydon
 chellean
-counterfoil
 cheloids
 chemotaxonomically
 chloroacetone
@@ -30537,6 +30536,7 @@ cubitale
 chylifaction
 caninal
 cubiti
+counterfoil
 cubitiere
 cottonwick
 cubito
