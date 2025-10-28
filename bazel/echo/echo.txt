@@ -10881,7 +10881,6 @@ emmetropia
 eutectic
 extensor
 embryoplastic
-esthetic
 enchaser
 electrothanasia
 euphonically
@@ -13220,6 +13219,7 @@ enrheum
 enzooty
 explainable
 expropriated
+esthetic
 explainableness
 epiphytism
 eldred
