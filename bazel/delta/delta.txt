@@ -13672,6 +13672,7 @@ dialkyl
 dioptrical
 danegeld
 derelict
+druidisms
 donates
 dolomedes
 diplasion
@@ -17559,7 +17560,6 @@ denumeral
 disincarcerate
 diploblastic
 drouked
-druidisms
 dorsibranchiate
 diencephalic
 druids
