@@ -958,7 +958,6 @@ dures
 darb
 darby
 diapnoic
-deutencephalic
 decerp
 dumpers
 dipneustal
@@ -6503,6 +6502,7 @@ descantist
 discriminators
 discourtesies
 damoclean
+deutencephalic
 disenabling
 diastatic
 dime
