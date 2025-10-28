@@ -4760,7 +4760,6 @@ aerodynamically
 anchoritism
 appoggiatura
 amyosthenia
-amphibiology
 aloma
 atake
 amphistomous
@@ -4768,6 +4767,7 @@ aerodynamics
 agonium
 ambitionist
 allochirally
+amphibiology
 agadic
 aerodyne
 apastron
