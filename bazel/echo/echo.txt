@@ -1163,6 +1163,7 @@ editorships
 elasticness
 encrown
 enthrill
+exotica
 expilator
 emanationism
 exploitationist
@@ -13188,7 +13189,6 @@ expiration
 exponentiation
 epihydric
 epaxial
-exotica
 eremophyte
 environmentalist
 emmantle
