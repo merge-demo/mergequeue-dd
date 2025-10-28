@@ -687,6 +687,7 @@ env
 ethel
 engaging
 excursionism
+effraction
 enumerative
 ebriated
 esteros
@@ -1462,7 +1463,6 @@ etaerio
 endotoxoid
 enfarce
 efforts
-effraction
 etymologised
 endpapers
 eurythermic
