@@ -6144,7 +6144,6 @@ cicely
 coze
 cancan
 canonici
-chitterling
 contraflow
 cattleyak
 cataphracti
@@ -16072,6 +16071,7 @@ coude
 cotypes
 clablaria
 computative
+chitterling
 collusion
 clew
 casemated
