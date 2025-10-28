@@ -20685,7 +20685,6 @@ artist
 artistic
 atemoya
 ashiver
-actinomyces
 aeroplankton
 appartement
 alkylation
@@ -21324,6 +21323,7 @@ aerialist
 aspasia
 anathematized
 atimy
+actinomyces
 aspect
 aspectable
 aspectant

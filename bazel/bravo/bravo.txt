@@ -12822,7 +12822,6 @@ bodily
 birkies
 baresarks
 bullhoof
-blight
 bedelve
 beware
 bucketeer
@@ -17805,6 +17804,7 @@ belayer
 basilicalike
 brazilein
 backwashing
+blight
 burthensome
 beround
 blockheadedly
