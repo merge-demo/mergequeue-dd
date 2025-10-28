@@ -1800,7 +1800,6 @@ eogaea
 episepalous
 emanium
 esrogim
-emigrant
 exhorters
 engraulis
 erodium
@@ -2137,6 +2136,7 @@ elastomers
 elastose
 epeisodia
 embryologists
+emigrant
 emcees
 engarde
 egged
