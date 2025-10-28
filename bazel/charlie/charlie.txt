@@ -4688,6 +4688,7 @@ catty
 compatibles
 crazies
 cyathi
+conformities
 chapmen
 carpetbaggism
 commuter
@@ -25651,7 +25652,6 @@ confirmatorily
 cubicly
 chalcophyllite
 correctionalist
-conformities
 corrective
 cocona
 computers
