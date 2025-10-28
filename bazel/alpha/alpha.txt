@@ -2527,6 +2527,7 @@ anhydric
 acousticon
 acousticophobia
 antihalation
+analepsis
 autotomous
 acoustoelectric
 astr
@@ -23103,7 +23104,6 @@ alalonga
 attntrp
 amorousness
 attorn
-analepsis
 apertum
 attornare
 anisopleural
