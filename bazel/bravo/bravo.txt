@@ -9541,7 +9541,6 @@ bardling
 bisectors
 bisectrices
 busybodyness
-bullheadedness
 bisects
 bouvardia
 borrow
@@ -15444,6 +15443,7 @@ brisances
 barometer
 benefactive
 brewsterite
+bullheadedness
 barbacan
 brises
 brisker
