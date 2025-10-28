@@ -4506,7 +4506,6 @@ blitzkrieging
 beagles
 bookmen
 batrachotoxin
-buttressless
 bunch
 bedad
 bedaggle
@@ -11662,6 +11661,7 @@ butterwife
 boatloader
 bringal
 bulldoggish
+buttressless
 beigy
 busied
 bisymmetric
