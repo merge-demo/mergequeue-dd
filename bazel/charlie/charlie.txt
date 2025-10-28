@@ -16033,6 +16033,7 @@ cleromancy
 canniness
 clerstory
 clingstones
+colloquialize
 cyamelid
 coolheadedness
 cleruchy
@@ -24344,7 +24345,6 @@ cokuloris
 comprehendible
 coof
 caspar
-colloquialize
 cooghneiorvlt
 correctness
 cyclovertebral
