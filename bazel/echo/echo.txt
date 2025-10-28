@@ -1281,6 +1281,7 @@ ecorche
 eblis
 eucairite
 eleonorite
+enamoured
 epinephrin
 eq
 eeriness
@@ -4580,7 +4581,6 @@ embryophagous
 eeriest
 effectuates
 epicerastic
-enamoured
 estradas
 ensigned
 epicranium
