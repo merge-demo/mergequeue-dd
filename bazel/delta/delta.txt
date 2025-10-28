@@ -2747,6 +2747,7 @@ dragged
 durum
 demilancer
 dammars
+detachable
 dividuous
 delabializing
 disfeatured
@@ -5457,7 +5458,6 @@ discretiveness
 detd
 dauk
 disprover
-detachable
 deodorisation
 dividualism
 deodorised
