@@ -516,6 +516,7 @@ blackacre
 burbling
 baddish
 backstops
+bemeaned
 backstrapped
 blastophoric
 butomaceous
@@ -16795,7 +16796,6 @@ beglic
 bussu
 bibulosities
 beudanite
-bemeaned
 buginese
 bec
 bookmonger
