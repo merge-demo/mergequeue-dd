@@ -7010,7 +7010,6 @@ bridgetin
 brickbatted
 bloodleaf
 brockages
-biaxillary
 bennetweed
 bannerette
 briquetting
@@ -12636,6 +12635,7 @@ boogeymen
 backfold
 bane
 brazilwood
+biaxillary
 blattoid
 bellical
 bullwort
