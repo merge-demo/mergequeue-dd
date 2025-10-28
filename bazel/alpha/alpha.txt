@@ -2816,7 +2816,6 @@ anabolite
 acrophonetic
 avengingly
 astrol
-ascophorous
 acropodium
 acropoleis
 acriflavin
@@ -4721,6 +4720,7 @@ aerobiotic
 amies
 aerobious
 areopagus
+ascophorous
 admittable
 alkalization
 aeroboat
