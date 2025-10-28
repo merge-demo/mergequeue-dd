@@ -10848,7 +10848,6 @@ amobyr
 airbag
 assayer
 allative
-amygdalitis
 amoebae
 abel
 attainment
@@ -21051,6 +21050,7 @@ anguillulidae
 acquisitiveness
 asem
 antecell
+amygdalitis
 alphabetics
 asemic
 asepses
