@@ -2093,7 +2093,6 @@ dispraise
 decagram
 decagrams
 declasse
-despised
 decahedron
 degamis
 dentatocrenate
@@ -4271,6 +4270,7 @@ dislocate
 deltahedra
 dismayed
 dismaler
+despised
 diadrome
 distensibility
 disbelief
