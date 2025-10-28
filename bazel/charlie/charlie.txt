@@ -4075,7 +4075,6 @@ criminalistician
 collops
 calibrate
 cardiectasis
-conformance
 compileable
 cardiectomize
 cavalcaded
@@ -5774,6 +5773,7 @@ chanceful
 catechizes
 coeldership
 corporalcy
+conformance
 coyotillo
 catechumenism
 cuttages
