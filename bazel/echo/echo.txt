@@ -4781,7 +4781,6 @@ embrocate
 ergasterion
 enbusshe
 epicrisis
-electroionic
 etymologize
 esox
 executioners
@@ -10426,6 +10425,7 @@ esculapian
 etiology
 etiological
 europeanism
+electroionic
 enlacing
 etiologist
 entocoelic
