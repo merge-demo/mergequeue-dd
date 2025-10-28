@@ -3986,6 +3986,7 @@ elucidations
 emphysema
 endobronchitis
 emphyteutic
+episynthetic
 euphuism
 endboard
 emolumentary
@@ -12205,7 +12206,6 @@ electrowinning
 enhort
 executioneering
 engarb
-episynthetic
 elric
 executor
 excur
