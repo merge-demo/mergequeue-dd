@@ -22785,7 +22785,6 @@ centuriation
 counterevidence
 cryosphere
 capitoline
-chartless
 conquerer
 conquerers
 conqueress
@@ -31590,6 +31589,7 @@ crestline
 catawbas
 coteau
 cleave
+chartless
 cornett
 corregidors
 caulk
