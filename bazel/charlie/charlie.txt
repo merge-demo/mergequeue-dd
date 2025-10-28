@@ -12396,6 +12396,7 @@ chromatist
 coracohyoid
 cholent
 caudiform
+cacophonist
 coroplasty
 chromatium
 chromatize
@@ -23811,7 +23812,6 @@ contraltos
 cera
 contraoctave
 caste
-cacophonist
 coyote
 crimped
 curchef
