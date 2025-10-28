@@ -9469,6 +9469,7 @@ eulogia
 electrolithotrity
 eczematoid
 entach
+essancia
 escout
 equipondious
 escry
@@ -12630,7 +12631,6 @@ epexegeses
 exodic
 equipped
 emeralds
-essancia
 elateroid
 egurgitating
 excussio

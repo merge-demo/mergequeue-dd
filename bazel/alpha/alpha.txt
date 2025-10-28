@@ -1191,7 +1191,6 @@ acanthocereus
 acanthocladous
 argenton
 acanthodean
-abbots
 antalkalies
 alabastoi
 agonothetic
@@ -6302,6 +6301,7 @@ antignostical
 archlute
 ameliorant
 agujon
+abbots
 arnold
 apostrophic
 akov
