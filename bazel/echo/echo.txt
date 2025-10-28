@@ -2518,7 +2518,6 @@ entozoic
 euphausiidae
 enami
 extraconstellated
-enounce
 epiphytal
 emancipators
 enwheeling
@@ -9845,6 +9844,7 @@ ecbatic
 entophyte
 epoophoron
 esthesiogeny
+enounce
 eurypterid
 enragedly
 exuberation
