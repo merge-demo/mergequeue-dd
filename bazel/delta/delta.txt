@@ -8875,7 +8875,6 @@ dibranch
 defiguration
 draglines
 dirten
-dibranchiata
 dropperful
 dialecticize
 dibstone
@@ -14380,6 +14379,7 @@ droving
 divan
 dewier
 decolouration
+dibranchiata
 dieselization
 divans
 dichromaticism
