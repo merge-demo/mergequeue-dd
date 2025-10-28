@@ -3440,6 +3440,7 @@ cycloidei
 cheerios
 clergywoman
 caprin
+cavatinas
 castrensial
 cimelia
 cynicist
@@ -19445,7 +19446,6 @@ colonnade
 cologne
 coughwort
 colonnaded
-cavatinas
 choreographical
 colonnette
 congregationer
