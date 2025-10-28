@@ -8908,7 +8908,6 @@ ergograph
 embitter
 emeroids
 ergomaniac
-eragrostis
 eyers
 ergostat
 experimentally
@@ -12936,6 +12935,7 @@ enhaunt
 eulogiae
 expectancy
 endotherm
+eragrostis
 epistemophilia
 ecologist
 entotic
