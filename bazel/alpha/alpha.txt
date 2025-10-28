@@ -9615,6 +9615,7 @@ auditorially
 alveolite
 angelographer
 achene
+allantoidea
 albacea
 abnormalised
 alveololingual
@@ -10441,7 +10442,6 @@ articled
 armourers
 ambience
 atmiatrics
-allantoidea
 ascomycetous
 amidol
 amidophenol
