@@ -7383,7 +7383,6 @@ cephalocentesis
 cornwall
 colourific
 coprocessors
-cushlamochree
 cephalochord
 cowmen
 cephalochordal
@@ -9861,6 +9860,7 @@ collocates
 chemicodynamic
 cyclostome
 chemicomineralogical
+cushlamochree
 chemicophysical
 crucifige
 curtaining
