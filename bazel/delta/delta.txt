@@ -6893,7 +6893,6 @@ drevel
 dicotylidae
 deltic
 domesticative
-derivative
 diaphanometry
 deheathenize
 dentary
@@ -10837,6 +10836,7 @@ deposable
 dissilience
 deificatory
 decagramme
+derivative
 dirempt
 direness
 dolly
