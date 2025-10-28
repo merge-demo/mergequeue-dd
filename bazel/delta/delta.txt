@@ -6023,6 +6023,7 @@ dragons
 diopside
 delictus
 disappoints
+digressive
 deed
 diwata
 disregardance
@@ -9619,7 +9620,6 @@ devolatilization
 digressed
 dollie
 darn
-digressive
 digressory
 disproved
 demonolatrously
