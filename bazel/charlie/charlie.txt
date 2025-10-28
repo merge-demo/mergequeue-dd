@@ -13772,7 +13772,6 @@ cinclis
 clinah
 cinclus
 cephalocathartic
-conquistadors
 cure
 chisels
 crevalles
@@ -18218,6 +18217,7 @@ collars
 campman
 chromatophilic
 coequalness
+conquistadors
 coequals
 centerward
 chincha
