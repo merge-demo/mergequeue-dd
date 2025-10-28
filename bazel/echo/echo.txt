@@ -8474,6 +8474,7 @@ exterminators
 electrodissolution
 eydent
 expansions
+echiuroid
 externally
 exculpation
 elelments
@@ -9763,7 +9764,6 @@ embracive
 essexite
 explaining
 exsecting
-echiuroid
 essoined
 embolemia
 eachwhere
