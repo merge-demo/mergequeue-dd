@@ -12493,6 +12493,7 @@ backdoor
 burliness
 bradoon
 boarded
+boosted
 bongoes
 bongoist
 borrows
@@ -16118,7 +16119,6 @@ balneographer
 burlesqued
 bundh
 bogginess
-boosted
 bandboxy
 blackit
 boxhauls
