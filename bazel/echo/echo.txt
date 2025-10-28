@@ -951,7 +951,6 @@ ectropium
 eluvia
 elects
 effatum
-ectrosyndactyly
 earring
 ectrotic
 electrological
@@ -11756,6 +11755,7 @@ exorcista
 exaration
 elodea
 epithelioid
+ectrosyndactyly
 extracorpuscular
 enscroll
 euripidean
