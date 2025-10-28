@@ -21570,7 +21570,6 @@ clementness
 cardiophobia
 concordances
 cantalas
-catface
 concordant
 candlemaking
 classifically
@@ -29482,6 +29481,7 @@ cathedraled
 cotsetle
 crithidia
 chiasmodontidae
+catface
 cytoblast
 crithomancy
 criticality
