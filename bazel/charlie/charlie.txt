@@ -14166,7 +14166,6 @@ colistins
 copula
 cibola
 coffers
-cryalgesia
 circularisation
 cronus
 circularised
@@ -20101,6 +20100,7 @@ cyclohexanol
 conjectural
 compaginate
 commassation
+cryalgesia
 carot
 closet
 carcinogenicity
