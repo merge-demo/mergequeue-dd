@@ -17176,6 +17176,7 @@ dyssystole
 danaidae
 detenebrate
 driftbolt
+disentrammel
 disallowing
 duller
 danaid
@@ -17246,7 +17247,6 @@ dowitch
 drinks
 dynamics
 dreary
-disentrammel
 dimensions
 dryops
 dryopteroid
