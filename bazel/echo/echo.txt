@@ -765,7 +765,6 @@ emotive
 embryoctony
 equilibrist
 easternizing
-ecoute
 exscinding
 ecphonema
 emphasising
@@ -6628,6 +6627,7 @@ excitator
 empyreumata
 enantiomeric
 encraty
+ecoute
 elephantlike
 enzymologies
 enterohydrocele
