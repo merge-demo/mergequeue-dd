@@ -1074,6 +1074,7 @@ expellent
 edged
 eidolon
 edger
+eugubine
 edgeshot
 edgeway
 embalmment
@@ -10696,7 +10697,6 @@ eugregarinida
 endrumpf
 epithecicia
 entodermic
-eugubine
 entoderm
 epiphanised
 euhemerising
