@@ -22128,6 +22128,7 @@ confiscation
 cacajao
 confiscations
 confiscators
+confinedness
 churnable
 clairschacher
 coldheartedly
@@ -25623,7 +25624,6 @@ closestool
 corpulentness
 converginerved
 cantador
-confinedness
 completed
 corpuscularity
 colossal
