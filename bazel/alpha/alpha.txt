@@ -7850,7 +7850,6 @@ aleurone
 adiposuria
 antimicrobic
 argynnis
-annotto
 amyroot
 aleurons
 aleut
@@ -22048,6 +22047,7 @@ aquench
 auxiliate
 asynapsis
 astigmatoscope
+annotto
 astigmic
 astigmometer
 adaptably
