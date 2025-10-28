@@ -370,7 +370,6 @@ cacomixle
 canoeing
 claudetites
 cyprian
-colonialist
 calvous
 ceramography
 confabulation
@@ -15193,6 +15192,7 @@ clunk
 clinamen
 consensus
 copilots
+colonialist
 colchis
 cephalochordate
 cladose
