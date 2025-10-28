@@ -406,7 +406,6 @@ embouchment
 ensear
 enchondromatous
 emeries
-egoists
 ectoproctan
 eriphyle
 equivocator
@@ -11761,6 +11760,7 @@ extracorpuscular
 enscroll
 euripidean
 ekphore
+egoists
 egression
 epimerise
 exareolate
