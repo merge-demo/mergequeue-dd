@@ -3056,6 +3056,7 @@ curlyheads
 capitonidae
 cantrip
 cantuta
+coni
 cantwise
 clack
 canulae
@@ -22451,7 +22452,6 @@ congustable
 cashier
 coerects
 contradicted
-coni
 camerine
 conia
 coniacian
