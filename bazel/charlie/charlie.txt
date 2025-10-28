@@ -24693,7 +24693,6 @@ cambrics
 chinoa
 corimelaena
 copperskin
-coppersmith
 citral
 coppersmithing
 chafferers
@@ -28581,6 +28580,7 @@ confectiones
 colemanite
 civilizes
 creeshed
+coppersmith
 creeshes
 cavillation
 cornball
