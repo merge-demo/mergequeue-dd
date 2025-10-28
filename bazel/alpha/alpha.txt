@@ -4211,7 +4211,6 @@ acetmethylanilide
 arecaine
 atabrine
 amortizing
-actiniferous
 arteriotrepsis
 adscriptitious
 averment
@@ -10232,6 +10231,7 @@ arrhenotoky
 arundineous
 allotheria
 ankylopoietic
+actiniferous
 autompne
 amentiform
 aplodiorite

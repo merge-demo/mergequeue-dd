@@ -739,6 +739,7 @@ ecumenically
 ecosystem
 ephthianura
 enstyle
+enveigle
 erythristic
 ecospecific
 episomes
@@ -9344,7 +9345,6 @@ emotionally
 emane
 enrobement
 effecter
-enveigle
 epilimnionia
 educable
 escalades
