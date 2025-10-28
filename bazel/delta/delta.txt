@@ -1821,7 +1821,6 @@ dinitril
 dilation
 debark
 dropseed
-drawknife
 destigmatizing
 debarking
 discriminatory
@@ -3757,6 +3756,7 @@ dyssynergy
 dehorns
 disputer
 decaudate
+drawknife
 declinations
 defoliage
 dehorted
