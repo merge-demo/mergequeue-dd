@@ -5210,7 +5210,6 @@ bombyx
 bandeng
 bandos
 begarlanded
-basaltic
 boxwork
 bicentenary
 bimastoid
@@ -17828,6 +17827,7 @@ barbotine
 bushbody
 boatbills
 blotchier
+basaltic
 bearbush
 balaenicipites
 bordered
