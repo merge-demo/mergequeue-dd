@@ -1733,6 +1733,7 @@ beetrooty
 beneplacit
 balsamine
 basongo
+blusterous
 buenos
 become
 bengaline
@@ -5777,7 +5778,6 @@ besieged
 bldg
 bricks
 beyonds
-blusterous
 bromometry
 bs
 buildress
