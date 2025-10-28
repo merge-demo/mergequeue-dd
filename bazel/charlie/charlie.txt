@@ -7232,7 +7232,6 @@ centrifugalize
 catawba
 centrifugaller
 centrifugate
-centrifuge
 centrifugence
 crowdle
 centrifuging
@@ -24876,6 +24875,7 @@ coproduct
 coralbush
 coralene
 coralist
+centrifuge
 coralita
 coralla
 clavodeltoid
