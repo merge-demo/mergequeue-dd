@@ -24928,6 +24928,7 @@ congroid
 combfishes
 celia
 corantoes
+colophonian
 centesimi
 chan
 crowbill
@@ -25080,7 +25081,6 @@ clethraceous
 caimakam
 cooperancy
 cueball
-colophonian
 corema
 cipherdom
 coremaking

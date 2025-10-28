@@ -8574,7 +8574,6 @@ allelomorphic
 allelotropic
 anatomization
 aquamanilia
-attendantly
 aldehydase
 allelotropism
 alleluia
@@ -23423,6 +23422,7 @@ atalaya
 auletic
 allokinetic
 agnat
+attendantly
 amaas
 aggest
 aromatize
