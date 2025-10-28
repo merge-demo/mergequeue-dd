@@ -11711,6 +11711,7 @@ bounders
 bismanol
 benthon
 bucket
+bhoosa
 bronchomucormycosis
 bartlett
 bobby
@@ -13384,7 +13385,6 @@ boundlessness
 blasted
 bothrenchyma
 bastardies
-bhoosa
 bluenoses
 billsticker
 ballhawks
