@@ -646,7 +646,6 @@ embryogeny
 epizoite
 eluviating
 etwees
-elocute
 eclegma
 ehrman
 equisufficiency
@@ -7121,6 +7120,7 @@ epiplexis
 ergotamine
 extrabranchial
 employees
+elocute
 electrophysiologically
 epithesis
 energic
