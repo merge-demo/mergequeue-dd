@@ -12331,7 +12331,6 @@ bobfly
 baste
 broideries
 bombing
-beautifies
 bonkers
 byronize
 boastingly
@@ -16125,6 +16124,7 @@ bandboxy
 blackit
 boxhauls
 bereavements
+beautifies
 bloodguilt
 bonaght
 bimillenial
