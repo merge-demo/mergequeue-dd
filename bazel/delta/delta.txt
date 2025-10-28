@@ -562,6 +562,7 @@ deaccessions
 deliber
 dao
 damagers
+drachms
 dumber
 duodecillionth
 dextrorotation
@@ -679,7 +680,6 @@ diffuseness
 darnel
 damosel
 deferents
-drachms
 decapitalize
 derationalize
 damped
