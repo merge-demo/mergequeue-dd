@@ -132,7 +132,6 @@ exanthemata
 enigmatized
 ethnological
 exterminable
-evolate
 erosionist
 elocutioner
 embrew
@@ -12123,6 +12122,7 @@ ejam
 eloper
 ebonite
 ensorcerize
+evolate
 erpetologist
 eg
 eyelike
