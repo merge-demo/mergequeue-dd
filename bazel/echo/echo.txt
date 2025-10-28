@@ -8607,7 +8607,6 @@ ectophyte
 ectal
 equilibrates
 ethylamide
-egol
 equilibria
 equilibriate
 ergasia
@@ -9988,6 +9987,7 @@ exorhason
 endangers
 esmeraldite
 enterprises
+egol
 externality
 epichile
 etched

@@ -981,7 +981,6 @@ calando
 columnarity
 cyclostomous
 cytodifferentiation
-clanger
 claretian
 capuche
 calanque
@@ -25258,6 +25257,7 @@ corkline
 calendars
 corks
 corkscrew
+clanger
 cyanotrichite
 cacophonize
 cpo
