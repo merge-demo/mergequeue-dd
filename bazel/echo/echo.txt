@@ -6293,7 +6293,6 @@ enrolle
 enrolled
 extraorbitally
 embryologies
-efformative
 episcenia
 earmarking
 enrollers
@@ -11534,6 +11533,7 @@ extypal
 extraburghal
 emesidae
 elenchus
+efformative
 encodement
 embrittled
 epitrochlea
