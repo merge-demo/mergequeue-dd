@@ -8601,7 +8601,6 @@ diaplases
 discriminoid
 disk
 dinosaurian
-diarist
 destroying
 dicotyledons
 disvertebrate
@@ -12581,6 +12580,7 @@ decennium
 disinterestedly
 disinterment
 doggereler
+diarist
 disheaven
 dognapper
 dewatering
