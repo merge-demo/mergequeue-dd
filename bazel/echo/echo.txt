@@ -4360,7 +4360,6 @@ enbrave
 eggheadedness
 embar
 egotize
-eruptively
 electromechanical
 experiential
 eperva
@@ -11076,6 +11075,7 @@ emoloa
 edo
 egoity
 erymanthian
+eruptively
 exulceratory
 ekacaesium
 epistemolog
