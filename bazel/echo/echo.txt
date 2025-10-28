@@ -5530,7 +5530,6 @@ enfeoffment
 exestuate
 enfettering
 enophthalmos
-expandability
 episcopality
 enfevered
 ecphrasis
@@ -5873,6 +5872,7 @@ excessman
 expend
 epiplastron
 emphases
+expandability
 enhalo
 explees
 ecarinate
