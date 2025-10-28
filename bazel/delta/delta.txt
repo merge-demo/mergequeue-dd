@@ -3418,7 +3418,6 @@ dang
 defoamed
 diacetylmorphine
 damozels
-desisting
 defoamer
 dratchell
 doltishness
@@ -9509,6 +9508,7 @@ draftsman
 dinornithidae
 digesting
 digestively
+desisting
 dewormed
 distaff
 diapedeses
