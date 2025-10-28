@@ -1374,7 +1374,6 @@ damagement
 dart
 discerners
 doup
-decipium
 deuced
 definer
 daggerproof
@@ -12577,6 +12576,7 @@ decennium
 disinterestedly
 disinterment
 doggereler
+decipium
 disheaven
 dognapper
 dewatering
