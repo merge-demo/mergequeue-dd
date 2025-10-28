@@ -8143,7 +8143,6 @@ bindweeds
 bidri
 brutelike
 barmaids
-blossomed
 bivalencies
 bornane
 bielbrief
@@ -12694,6 +12693,7 @@ bacteria
 biometric
 bookhood
 bloodhounds
+blossomed
 bicycle
 botticellian
 blah
