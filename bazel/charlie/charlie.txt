@@ -5754,7 +5754,6 @@ catechised
 cylindrophis
 chuff
 ceramic
-chevesne
 colasciones
 catechising
 crooktoothed
@@ -29980,6 +29979,7 @@ covent
 crotonaldehyde
 crotonate
 chitchat
+chevesne
 condue
 crotons
 crottal
