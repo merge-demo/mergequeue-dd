@@ -7247,7 +7247,6 @@ emulsification
 exsector
 electrosynthetic
 echoless
-electrocatalytic
 epidemiology
 energetics
 eccaleobion
@@ -8183,6 +8182,7 @@ expirant
 episodical
 earsh
 episodically
+electrocatalytic
 eviscerates
 exuded
 enchylematous
