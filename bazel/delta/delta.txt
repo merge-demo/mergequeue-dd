@@ -476,6 +476,7 @@ daysides
 deprevation
 daysmen
 deuces
+discovered
 dracunculus
 deplorer
 disthrall
@@ -1848,7 +1849,6 @@ deassimilation
 dunned
 diapensiaceous
 deme
-discovered
 divalence
 debauched
 debauchedly
