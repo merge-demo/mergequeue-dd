@@ -13288,6 +13288,7 @@ club
 calendarian
 crossbencher
 climbable
+counterpunch
 cycloganoidei
 cyclogenesis
 calking
@@ -18221,7 +18222,6 @@ coequalness
 coequals
 centerward
 chincha
-counterpunch
 chronologist
 chinbone
 chairless
