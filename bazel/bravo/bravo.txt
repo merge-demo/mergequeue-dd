@@ -6040,6 +6040,7 @@ bend
 barmy
 bester
 bub
+bluntly
 bendee
 bullwhips
 braza
@@ -15732,7 +15733,6 @@ brekky
 boubou
 bunkerage
 bioplasmic
-bluntly
 beno
 batts
 barographic
