@@ -10657,6 +10657,7 @@ eosin
 easternism
 eugenically
 eugenie
+expilation
 eugenism
 epikouros
 elatedness
@@ -11190,7 +11191,6 @@ extatic
 evanescible
 evanescing
 exorbitancy
-expilation
 exostracism
 endover
 epibolies
