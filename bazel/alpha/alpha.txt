@@ -6876,7 +6876,6 @@ acuteness
 ajourise
 arolium
 apasttra
-ajuga
 ajutment
 akal
 akalimba
@@ -25072,6 +25071,7 @@ amyelonic
 alauda
 alumstone
 apothegms
+ajuga
 autoradiography
 abaptistum
 assorting
