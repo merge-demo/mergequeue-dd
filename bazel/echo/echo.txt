@@ -1283,7 +1283,6 @@ endosternite
 extraditable
 ecorche
 eblis
-eucairite
 eleonorite
 enamoured
 epinephrin
@@ -6263,6 +6262,7 @@ experimentative
 eductor
 encoignure
 enraptured
+eucairite
 elemong
 executors
 enomotarch

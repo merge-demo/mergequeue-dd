@@ -2216,7 +2216,6 @@ dromon
 decapodal
 depayse
 dawn
-doubted
 drays
 del
 dilatator
@@ -4945,6 +4944,7 @@ demonizing
 drame
 dailies
 detestable
+doubted
 detecting
 demonography
 demonographies
