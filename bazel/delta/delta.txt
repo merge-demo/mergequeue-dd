@@ -5459,7 +5459,6 @@ discretiveness
 detd
 dauk
 disprover
-divagational
 detachable
 deodorisation
 dividualism
@@ -10396,6 +10395,7 @@ dioxime
 defenselessly
 diverges
 dagbane
+divagational
 dioxindole
 diverticulum
 decoyers
