@@ -1975,7 +1975,6 @@ deferments
 despotes
 dehisced
 desire
-dawsonite
 deaccession
 darat
 dissatisfyingly
@@ -9623,6 +9622,7 @@ deboning
 dihalide
 diakinetic
 deil
+dawsonite
 drayed
 differentiating
 dihdroxycholecalciferol
