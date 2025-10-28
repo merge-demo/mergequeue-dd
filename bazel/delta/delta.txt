@@ -3685,6 +3685,7 @@ disentitling
 degust
 dasnt
 divort
+devilize
 dooja
 disprove
 diopsimeter
@@ -10247,7 +10248,6 @@ doornail
 dedicates
 disseated
 dioctophyme
-devilize
 dubitable
 deave
 defaulting
