@@ -1315,6 +1315,7 @@ balanoid
 beknown
 betorcinol
 bromin
+bagie
 bobadil
 biogasses
 biddies
@@ -12354,7 +12355,6 @@ bluebill
 beggable
 bombonne
 bombora
-bagie
 belfather
 blackgum
 botchedly
