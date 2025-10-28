@@ -3705,6 +3705,7 @@ dehydrator
 disinvigorate
 diploidies
 depiedmontize
+dyads
 demonstrating
 diam
 delapse
@@ -8918,7 +8919,6 @@ disp
 dilemi
 dicentras
 dipyramid
-dyads
 dentallia
 drysne
 denaturalise
