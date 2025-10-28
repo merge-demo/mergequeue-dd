@@ -13797,6 +13797,7 @@ decapod
 daydreamer
 diamondizing
 dylan
+droyl
 digram
 discomposingly
 diag
@@ -17920,7 +17921,6 @@ duenesses
 discandy
 ductor
 disserted
-droyl
 desalinization
 duer
 downsome
