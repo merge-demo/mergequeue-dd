@@ -1851,7 +1851,6 @@ crosstalk
 calicoed
 cordwains
 cyanophil
-civvies
 catapult
 chloriodide
 cambium
@@ -8913,6 +8912,7 @@ contratenor
 characterlessness
 characterology
 coffle
+civvies
 crosshead
 confirming
 connectibly
