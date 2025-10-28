@@ -6672,7 +6672,6 @@ enterorrhaphy
 eutychianism
 electromotiv
 enchelycephali
-enterotome
 encharged
 enright
 enterotoxemia
@@ -12494,6 +12493,7 @@ exaggeration
 enteropneusta
 erythrophage
 envisages
+enterotome
 epicentral
 embosture
 executrixship
