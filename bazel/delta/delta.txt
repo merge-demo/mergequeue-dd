@@ -11801,6 +11801,7 @@ disorientation
 disembrangle
 ditty
 deferrals
+decreement
 dislodges
 decemberly
 diacodion
@@ -16769,7 +16770,6 @@ divellicate
 dramatized
 dramaturgically
 diphtheritic
-decreement
 dramme
 discurrent
 desmopexia
