@@ -8563,7 +8563,6 @@ dystomous
 dampishness
 dilactone
 debateful
-daimonion
 dewfall
 diaphanously
 douglas
@@ -9040,6 +9039,7 @@ daler
 dinucleotide
 doublehanded
 domineerer
+daimonion
 dezinc
 dodecuplet
 dicodeine
