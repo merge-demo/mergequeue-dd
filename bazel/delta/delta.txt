@@ -4704,6 +4704,7 @@ degerminate
 denunciative
 diphylla
 deflea
+diazeuxis
 demonastery
 diddle
 dermohemal
@@ -14202,7 +14203,6 @@ deconcentration
 dismasts
 dramatists
 dicer
-diazeuxis
 disvisage
 disyoked
 dungari
