@@ -8332,7 +8332,6 @@ dispossess
 dimethyltryptamine
 dissimile
 defocus
-deprive
 diagraphs
 dermatopathia
 detestableness
@@ -13347,6 +13346,7 @@ dewatered
 disputeful
 dacrydium
 diminutional
+deprive
 dorsally
 diehard
 dosadh
