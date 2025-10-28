@@ -9119,7 +9119,6 @@ brack
 biotypic
 biotites
 behaviourist
-bolometric
 bromcamphor
 bruja
 badged
@@ -14977,6 +14976,7 @@ biseptate
 blastophore
 babasco
 bordel
+bolometric
 brokenheartedness
 brehonia
 brehonship
