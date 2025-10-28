@@ -14106,7 +14106,6 @@ cypselus
 collinsia
 cyptozoic
 cedi
-cyrano
 compend
 chocked
 cosmogonical
@@ -30412,6 +30411,7 @@ cannikins
 cholecystectomies
 csmp
 cankerbird
+cyrano
 crimpled
 csp
 csw
