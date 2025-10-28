@@ -2822,6 +2822,7 @@ enshrine
 enshrining
 eleotrid
 enseat
+exurge
 electroluminescent
 embosk
 explicans
@@ -14194,7 +14195,6 @@ exurbs
 endlong
 equidistance
 exportations
-exurge
 exuscitate
 enlists
 effecters
