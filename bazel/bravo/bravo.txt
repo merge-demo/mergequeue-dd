@@ -612,7 +612,6 @@ bacterin
 beggiatoa
 bacteriochlorophyll
 bootprint
-bacteriocin
 bostangi
 bacteriodiagnosis
 bromates
@@ -8145,6 +8144,7 @@ bornane
 bielbrief
 bullyboy
 bateaux
+bacteriocin
 bieldy
 ballistite
 bossa
