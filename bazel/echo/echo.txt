@@ -8208,7 +8208,6 @@ euthenic
 eeten
 earlobe
 electrotechnologist
-ethnomaniac
 exodontic
 effaceable
 episcia
@@ -8731,6 +8730,7 @@ explodable
 equities
 equivalenced
 equivalent
+ennerve
 equivaluer
 exposited
 evulgation
@@ -11331,7 +11331,6 @@ epitrochlear
 electrohemostasis
 equiparate
 evenfall
-ennerve
 electroscission
 exclusively
 eupnoeic
@@ -12114,6 +12113,7 @@ excud
 europeanize
 excudate
 entwite
+ethnomaniac
 ennoblment
 erotizing
 excurrent
