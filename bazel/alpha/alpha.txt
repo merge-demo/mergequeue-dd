@@ -10,6 +10,7 @@ altimeters
 ampullae
 aaliis
 apocatastatic
+apatornis
 acromyodous
 arrested
 anidrosis
@@ -7902,7 +7903,6 @@ alfaje
 alfalfas
 anapaest
 alfaquin
-apatornis
 alfaquis
 alfenide
 aefaldness
