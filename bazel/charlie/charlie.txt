@@ -3748,6 +3748,7 @@ captress
 consequent
 cambibia
 ciconia
+classed
 carbazic
 chlorpikrin
 civilist
@@ -15583,7 +15584,6 @@ claspt
 coplanarity
 cyclops
 classbook
-classed
 cyclicism
 classers
 classicalist
