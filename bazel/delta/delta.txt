@@ -7790,7 +7790,6 @@ devilfish
 djalmaite
 darkeners
 dorsoventrad
-decelerators
 devily
 detail
 deviling
@@ -11279,6 +11278,7 @@ duckpins
 divinistre
 diminutival
 deposure
+decelerators
 duncishly
 dieretic
 dystrophy
