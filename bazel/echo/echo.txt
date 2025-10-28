@@ -534,7 +534,6 @@ echelle
 exhibitant
 electrosurgeries
 extraphenomenal
-estate
 erminites
 entosphenal
 echeneidae
@@ -4823,6 +4822,7 @@ encountering
 eros
 equilibrate
 ecize
+estate
 exhalate
 equitable
 enforcedly
