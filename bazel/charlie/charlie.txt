@@ -22928,6 +22928,7 @@ cognateness
 consertion
 chemophysiological
 conservacy
+corpus
 conservancy
 campagna
 culicoides
@@ -27527,7 +27528,6 @@ covelline
 covellite
 coveted
 conceptualistic
-corpus
 cocas
 cammed
 corrodant

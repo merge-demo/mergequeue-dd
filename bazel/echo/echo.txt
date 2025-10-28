@@ -7318,6 +7318,7 @@ extremital
 epalpebrate
 escruage
 eyelids
+exogamy
 eurypylous
 eternises
 empiercement
@@ -9419,7 +9420,6 @@ enfeoff
 eschatological
 enaliosauria
 epistemonical
-exogamy
 effeminised
 ersar
 eggshell
