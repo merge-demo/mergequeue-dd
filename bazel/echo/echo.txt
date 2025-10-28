@@ -7045,7 +7045,6 @@ englishry
 evangely
 expostulator
 evidencive
-endotropic
 environment
 embolic
 entwines
@@ -11988,6 +11987,7 @@ exclamatory
 exclaves
 expensed
 eryngium
+endotropic
 enscrolls
 everyone
 enterfeat
