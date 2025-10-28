@@ -4998,6 +4998,7 @@ baching
 boutade
 buoying
 bovld
+buckle
 beefily
 balsamic
 backspeer
@@ -16583,7 +16584,6 @@ buckishness
 brezhnev
 buckism
 bilkers
-buckle
 borderers
 blush
 buckled
