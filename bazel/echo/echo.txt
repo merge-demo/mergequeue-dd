@@ -897,6 +897,7 @@ excitableness
 ectoplastic
 elusiveness
 enucleation
+etiologist
 endore
 evilspeaker
 encourager
@@ -10429,7 +10430,6 @@ etiology
 etiological
 europeanism
 enlacing
-etiologist
 entocoelic
 emetology
 ettling
