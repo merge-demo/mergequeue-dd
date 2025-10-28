@@ -18193,7 +18193,6 @@ arabin
 arabinosic
 andevo
 argusfishes
-anthropidae
 alibility
 arabism
 anorthitite
@@ -24257,6 +24256,7 @@ avie
 accomplish
 amphigastrium
 autopore
+anthropidae
 autoportraiture
 antiparalytical
 autopotent
