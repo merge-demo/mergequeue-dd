@@ -7927,7 +7927,6 @@ anthosiderite
 autoconverter
 alga
 aromatization
-algaecide
 archhouse
 abeyant
 algaeological
@@ -18488,6 +18487,7 @@ arbuscular
 arbust
 arbusta
 analytics
+algaecide
 arbutean
 autoagglutinin
 alarmisms
