@@ -5844,7 +5844,6 @@ engysseismology
 ethiops
 episyntheton
 electrification
-estamp
 englacial
 endophytous
 erasures
@@ -9466,6 +9465,7 @@ escot
 endbrain
 emperor
 excurved
+estamp
 eupneas
 earthquaking
 eulogia
