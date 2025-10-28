@@ -5204,7 +5204,6 @@ exta
 ekebergite
 either
 endoneurium
-edify
 equestrianism
 entier
 emendates
@@ -11492,6 +11491,7 @@ endlessly
 embryoma
 evincible
 elegancies
+edify
 eldership
 epicurean
 elastometer

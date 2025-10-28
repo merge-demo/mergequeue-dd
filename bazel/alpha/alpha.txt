@@ -13744,7 +13744,6 @@ anoxemias
 ashrams
 allophane
 androgenetic
-adhara
 avicularium
 abdomina
 apocyneous
@@ -22499,6 +22498,7 @@ athenaeums
 anisopia
 atheneum
 aerates
+adhara
 adjudicator
 annalism
 alpinisms
