@@ -9373,7 +9373,6 @@ dryad
 drawnness
 deepwater
 distraction
-destroyable
 deutoplasmic
 disavowable
 directionless
@@ -10823,6 +10822,7 @@ dispartment
 dissave
 deviates
 deistically
+destroyable
 departing
 directors
 directorships
