@@ -6275,6 +6275,7 @@ craterlike
 complimented
 caum
 convolutedness
+chainette
 condolences
 charismata
 copulas
@@ -30927,7 +30928,6 @@ culturally
 colibacterin
 culture
 culturine
-chainette
 cystoids
 cataleptics
 coigns
