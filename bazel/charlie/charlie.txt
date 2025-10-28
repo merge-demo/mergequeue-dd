@@ -3712,7 +3712,6 @@ coroparelcysis
 chetty
 caravans
 caravansary
-caravansaries
 caravanserai
 chromoxylography
 caravanserial
@@ -25925,6 +25924,7 @@ cograil
 cortlandtite
 chloridize
 caulotaxy
+caravansaries
 corton
 cordages
 cordwood
