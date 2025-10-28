@@ -24078,7 +24078,6 @@ conventionally
 conventionary
 conventioneers
 cyanocrystallin
-countercoup
 conventioner
 copperworks
 conventions
@@ -31570,6 +31569,7 @@ chaperonless
 curteous
 curter
 centillion
+countercoup
 cordaitales
 curtesies
 curtlax
