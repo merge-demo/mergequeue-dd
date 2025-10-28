@@ -2532,7 +2532,6 @@ candle
 coehorn
 candleball
 candlebomb
-candlefish
 corporeal
 chaldaical
 crack
@@ -3889,6 +3888,7 @@ conceptional
 commendatories
 carboxylation
 carboxylic
+candlefish
 chuckrum
 cachets
 carbuncles
