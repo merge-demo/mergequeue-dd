@@ -1505,6 +1505,7 @@ auricular
 ahuatle
 airborn
 adjoin
+asthenolith
 accomplicity
 arreptitious
 astrolog
@@ -22014,7 +22015,6 @@ arrowstone
 acidification
 archeology
 aortae
-asthenolith
 asthenology
 anguid
 asthma
