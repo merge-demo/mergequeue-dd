@@ -7412,6 +7412,7 @@ chalazium
 compute
 clavolae
 cephalomere
+charisma
 chipling
 cyclostylar
 cephalometric
@@ -9026,7 +9027,6 @@ chalchihuitl
 conceivability
 charism
 coriaria
-charisma
 chokecherry
 charismatic
 collationer
