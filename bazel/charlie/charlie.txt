@@ -19918,6 +19918,7 @@ chontalan
 cecomorphae
 chalehs
 coatings
+crystallizability
 cricotomy
 cribrose
 crepitous
@@ -31531,7 +31532,6 @@ cundite
 cursory
 cuproid
 cursorily
-crystallizability
 cursoriness
 coffeecake
 chile
