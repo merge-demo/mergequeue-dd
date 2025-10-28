@@ -6288,7 +6288,6 @@ alcor
 aguglia
 aguilt
 astucious
-antipriming
 antiweed
 aguirage
 aguise
@@ -17680,6 +17679,7 @@ autocab
 applies
 antispasis
 applique
+antipriming
 appliqueing
 anteluminary
 appetizer
