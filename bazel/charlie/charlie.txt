@@ -26939,7 +26939,6 @@ chromophor
 cyclindroid
 circumsciss
 carburizing
-calyptrogyne
 countermoved
 casebound
 countermure
@@ -27650,6 +27649,7 @@ cowbinds
 clapperclawer
 consul
 cowboy
+calyptrogyne
 calumny
 cervicolumbar
 cowcatchers
