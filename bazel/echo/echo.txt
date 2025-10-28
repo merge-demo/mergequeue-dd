@@ -3800,6 +3800,7 @@ estamene
 emery
 europa
 emerying
+extensions
 estatesmen
 emeril
 exarticulate
@@ -13616,7 +13617,6 @@ eponychium
 extensibility
 euphemization
 epilemma
-extensions
 eggcup
 expansometer
 engrosses
