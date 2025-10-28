@@ -7812,7 +7812,6 @@ cerumen
 calzoons
 calibres
 cerumens
-copraemic
 ceruminal
 cagayan
 costean
@@ -27127,6 +27126,7 @@ chengal
 crossbanded
 chittered
 clarify
+copraemic
 counterstimulate
 counterstimulation
 counterstimulus
