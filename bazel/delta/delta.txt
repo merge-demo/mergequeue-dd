@@ -378,6 +378,7 @@ dorylinae
 delightfully
 dcor
 daughtership
+deserve
 duggler
 dailamite
 disorienting
@@ -6692,7 +6693,6 @@ damndest
 desertlessly
 dungaree
 deserts
-deserve
 definability
 divertissant
 dustrags
