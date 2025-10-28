@@ -4513,7 +4513,6 @@ dependant
 delftware
 demerit
 dotonidae
-disreputable
 demiluster
 discourager
 damoetas
@@ -15903,6 +15902,7 @@ distinctor
 dorsiduct
 does
 deluge
+disreputable
 demidome
 dorsimeson
 disyllabize
