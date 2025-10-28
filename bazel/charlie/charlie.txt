@@ -5997,6 +5997,7 @@ centraliser
 collatress
 courtesans
 cardinalated
+clefted
 cryptostomata
 chalkography
 carbonometer
@@ -18558,7 +18559,6 @@ cohabitate
 cohabitation
 cohabited
 cohabiting
-clefted
 coharmonious
 coharmonize
 cohead
