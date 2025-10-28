@@ -5410,6 +5410,7 @@ contribution
 cyrillaceae
 contradictoriness
 castilla
+canalled
 comdg
 coliforms
 cooing
@@ -23275,7 +23276,6 @@ chuckle
 consperg
 cromlechs
 constricted
-canalled
 constricting
 constriction
 coelomic

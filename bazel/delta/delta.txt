@@ -8914,6 +8914,7 @@ dice
 decurrencies
 desume
 diceboard
+droops
 disp
 dilemi
 dicentras
@@ -15910,7 +15911,6 @@ diminishing
 disfrancnise
 dhurry
 defers
-droops
 displenish
 dildo
 dorsolumbar
