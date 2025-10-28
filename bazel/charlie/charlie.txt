@@ -8925,7 +8925,6 @@ charadriiformes
 charadrine
 caracas
 celestina
-cruciformly
 constance
 charadriomorphae
 chingpaw
@@ -13709,6 +13708,7 @@ circumventive
 cyanometry
 cynaroid
 cystiferous
+cruciformly
 chromatical
 cinch
 colleges
