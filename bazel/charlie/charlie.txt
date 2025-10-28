@@ -9870,6 +9870,7 @@ chemigraphic
 caudotibialis
 chylidrosis
 chemiluminescence
+cotbetty
 chemiotactic
 chemiotaxic
 chemiotaxis
@@ -22534,7 +22535,6 @@ coniospermous
 conyrin
 coniroster
 conirostral
-cotbetty
 cheechako
 conisance
 conite
