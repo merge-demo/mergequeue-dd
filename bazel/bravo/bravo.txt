@@ -1688,7 +1688,6 @@ balmorals
 biforked
 buqsha
 bijugous
-brilliantness
 bagnios
 bratty
 babbishly
@@ -1756,6 +1755,7 @@ belgas
 baltimore
 bumblebeefishes
 baluba
+brilliantness
 berogue
 baluch
 bullet
