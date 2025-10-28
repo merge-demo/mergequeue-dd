@@ -28479,7 +28479,6 @@ chirper
 carapo
 creatureship
 conversibility
-creaturize
 churchanity
 creaze
 camises
@@ -30331,6 +30330,7 @@ cataphysic
 crusaders
 coastways
 crusets
+creaturize
 crushed
 cowpokes
 crusile
