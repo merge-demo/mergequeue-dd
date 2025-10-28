@@ -400,7 +400,6 @@ daymark
 doupion
 daimiel
 davallia
-dol
 diluvialist
 drinkers
 defension
@@ -1902,6 +1901,7 @@ digressions
 dissimulation
 dalespeople
 disaltern
+dol
 dispirit
 deliverables
 deboite
