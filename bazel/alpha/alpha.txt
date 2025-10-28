@@ -3211,6 +3211,7 @@ antidromy
 archery
 atresic
 atelets
+aphorises
 auberge
 andean
 adamellite
@@ -6704,7 +6705,6 @@ asyndesis
 alezan
 astomatous
 axons
-aphorises
 apanages
 aromatizing
 admonitor
