@@ -5561,6 +5561,7 @@ canalis
 copr
 cofactor
 catalyses
+cropland
 catalyte
 condominium
 cyclopean
@@ -19454,7 +19455,6 @@ cunctatorship
 childlessness
 colophenic
 colophony
-cropland
 cavillatory
 cosalite
 colophonic
