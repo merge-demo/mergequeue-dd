@@ -1428,7 +1428,6 @@ epicranius
 erythrocytolytic
 espoused
 ethnicon
-exaggeratory
 execratory
 effluviviums
 electrodentistry
@@ -6494,6 +6493,7 @@ enswathement
 elementariness
 evidently
 ephelis
+exaggeratory
 envisaging
 epimere
 evaluating
