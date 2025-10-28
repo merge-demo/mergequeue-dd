@@ -7501,7 +7501,6 @@ diureticalness
 dissava
 disapproved
 diamicton
-devest
 dukuma
 decarbonylating
 denizenize
@@ -13485,6 +13484,7 @@ dissatisfiedly
 doubleleaf
 dinitrile
 dozening
+devest
 destain
 dysury
 downtrodden
