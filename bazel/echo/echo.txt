@@ -2107,7 +2107,6 @@ elastica
 elastically
 eurycephalous
 elasmobranchian
-edenite
 emberiza
 excitors
 embroiling
@@ -6871,6 +6870,7 @@ erythrodextrin
 exculpates
 exemplifiers
 enfeoffed
+edenite
 estruses
 extremism
 epaulets
