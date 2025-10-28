@@ -2372,6 +2372,7 @@ bobtails
 bedgowns
 bardesanite
 bardess
+bemangle
 buttling
 bushbeck
 balantidiasis
@@ -5928,7 +5929,6 @@ betangle
 bastardizes
 bushet
 brigued
-bemangle
 bevaring
 bemask
 barbarical
