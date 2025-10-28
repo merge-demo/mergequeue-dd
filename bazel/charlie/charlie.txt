@@ -15712,6 +15712,7 @@ canion
 custroun
 chromascope
 clavated
+criterium
 cytoryctes
 coinfinity
 camwood
@@ -31293,7 +31294,6 @@ curbside
 curbstone
 curbstoner
 cadie
-criterium
 curculio
 curculios
 cerebratulus
