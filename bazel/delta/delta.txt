@@ -3441,7 +3441,6 @@ dorsabdominally
 dorsobranchiata
 dereism
 defoliate
-dichroscope
 decelerating
 disarraying
 dehydrochlorination
@@ -7478,6 +7477,7 @@ dermacentor
 dipsie
 dilos
 dooms
+dichroscope
 daric
 delabialized
 detoxicant
