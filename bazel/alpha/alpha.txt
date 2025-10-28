@@ -3520,7 +3520,6 @@ adenologaditis
 airmonger
 adenological
 adenomyofibroma
-adenomyoma
 adenomyxosarcoma
 adenoneural
 alkalimetrically
@@ -9397,6 +9396,7 @@ adopt
 alterative
 altercated
 algebraization
+adenomyoma
 alterers
 anglicanum
 acupunctuate
