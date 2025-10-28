@@ -5925,7 +5925,6 @@ deleting
 declassicize
 droshky
 disarm
-depredatory
 deontic
 deodars
 diablene
@@ -10571,6 +10570,7 @@ division
 decoctible
 diegesis
 demounts
+depredatory
 diploidic
 discanonized
 dunderbolt
