@@ -457,7 +457,6 @@ akvavit
 anticipatory
 aquocellolitis
 agriotes
-abdominous
 arachnid
 autosymbolical
 abysses
@@ -10851,6 +10850,7 @@ amobyr
 airbag
 assayer
 allative
+abdominous
 amoebae
 abel
 attainment
