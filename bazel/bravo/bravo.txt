@@ -16224,7 +16224,6 @@ bruits
 baddeleyite
 bacchius
 biacetylene
-brujeria
 botryolite
 blepharemphysema
 beglerbeglik
@@ -18379,6 +18378,7 @@ bepaint
 bespatter
 buzz
 buroo
+brujeria
 buzzard
 beasts
 bluebook
