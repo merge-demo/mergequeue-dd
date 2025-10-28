@@ -8078,6 +8078,7 @@ carburetest
 chrismatine
 chaetosomidae
 chaetotactic
+cogons
 calculus
 chaetura
 chafe
@@ -17425,7 +17426,6 @@ coastguardsmen
 cacheted
 cruder
 classicism
-cogons
 cimaise
 coastland
 couscouses
