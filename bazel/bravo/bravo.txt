@@ -13960,7 +13960,6 @@ bowmaker
 boxmaking
 bottonhook
 bitterer
-bondable
 birdbrains
 burmese
 bashawdom
@@ -15026,6 +15025,7 @@ babylonize
 bebops
 biscot
 brett
+bondable
 brettice
 betty
 brickwork
