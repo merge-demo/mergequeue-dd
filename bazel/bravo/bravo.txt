@@ -5849,6 +5849,7 @@ bakuba
 bombycina
 banderillero
 belonidae
+bestuur
 bullions
 beprose
 ballader
@@ -15370,7 +15371,6 @@ bibliologist
 bryndza
 barrater
 bleaters
-bestuur
 bearskins
 bloodworm
 baahling
