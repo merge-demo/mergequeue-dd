@@ -463,6 +463,7 @@ eftsoons
 ecchymosis
 ecchondroma
 exurbia
+electroballistics
 emperize
 explicated
 exoderms
@@ -2315,7 +2316,6 @@ electroanalytic
 electroanesthesia
 eavesdrop
 entrapper
-electroballistics
 emetatrophia
 encrypted
 electrobath
