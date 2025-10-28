@@ -6391,7 +6391,6 @@ ensignry
 enervates
 ensile
 ensiled
-ectophytic
 embezzler
 endopod
 engineering
@@ -12020,6 +12019,7 @@ excogitator
 engrossingly
 extraembryonic
 enquere
+ectophytic
 excommunication
 exploitage
 episcias
