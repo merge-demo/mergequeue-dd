@@ -3731,7 +3731,6 @@ delustrant
 descanter
 dehisce
 domitic
-desmitis
 durmasts
 dopperbird
 defaceable
@@ -13691,6 +13690,7 @@ dissite
 deseret
 disintermediation
 defects
+desmitis
 dense
 disengagedness
 dystrophies
