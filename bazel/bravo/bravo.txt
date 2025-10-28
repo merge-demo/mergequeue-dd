@@ -6527,7 +6527,6 @@ breadnut
 baryglossia
 balanorrhagia
 blotter
-bluff
 broquineer
 betons
 bartsia
@@ -17045,6 +17044,7 @@ bala
 bullocks
 bulldog
 booklice
+bluff
 bolography
 boder
 butomus
