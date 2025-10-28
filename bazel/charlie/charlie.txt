@@ -3320,7 +3320,6 @@ cirripede
 cowgram
 celli
 capo
-chaufers
 coughweed
 capoc
 capocchia
@@ -19987,6 +19986,7 @@ comfortableness
 comfortation
 comfortative
 crumped
+chaufers
 climatology
 comfortlessly
 comfortlessness
