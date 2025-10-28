@@ -3808,6 +3808,7 @@ belgium
 babua
 blvd
 bol
+bhikku
 bulgur
 balsas
 bohireen
@@ -10806,7 +10807,6 @@ bristliest
 blessingly
 bandala
 bider
-bhikku
 blethe
 buttals
 bromomethane
