@@ -7411,7 +7411,6 @@ balconied
 bengals
 biomicroscope
 bastards
-besant
 befits
 backrest
 bully
@@ -17632,6 +17631,7 @@ boviculture
 burlet
 butterfly
 biotically
+besant
 blarney
 bewailable
 brachioganoid
