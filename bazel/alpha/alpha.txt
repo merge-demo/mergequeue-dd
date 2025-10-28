@@ -19793,6 +19793,7 @@ autobus
 antoinette
 angelfishes
 acetocinnamene
+articulare
 aranyaka
 abthainry
 archhypocrite
@@ -22422,7 +22423,6 @@ atelestite
 admittances
 attractively
 atelier
-articulare
 archetypical
 affeeror
 agentess

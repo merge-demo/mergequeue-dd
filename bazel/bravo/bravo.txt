@@ -5311,7 +5311,6 @@ begnaw
 big
 biharmonic
 ballistics
-biaxal
 bambos
 ballroom
 brontophobia
@@ -6128,6 +6127,7 @@ blotchy
 bedclothing
 belabored
 brachydome
+biaxal
 beneighbored
 beneme
 buckhorn
