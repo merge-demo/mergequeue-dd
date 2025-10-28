@@ -12664,6 +12664,7 @@ angiopressure
 angiorrhagia
 angiosarcoma
 anareta
+aphthongia
 ammocoetid
 arlington
 angiosymphysis
@@ -14836,7 +14837,6 @@ anticommerciality
 anachronic
 antimagnetic
 anticommunistical
-aphthongia
 antimetropic
 apportioned
 anovular
