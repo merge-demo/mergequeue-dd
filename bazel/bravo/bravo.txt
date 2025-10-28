@@ -6093,7 +6093,6 @@ blastment
 bucayo
 berbery
 blest
-beneficed
 brangle
 bancos
 bushlands
@@ -8619,6 +8618,7 @@ babyfied
 believed
 bemusing
 beerage
+beneficed
 bourride
 beekite
 billowiest
