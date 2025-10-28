@@ -1113,7 +1113,6 @@ edificed
 enlightens
 edified
 essayish
-edifying
 ectoblastic
 egolatrous
 edile
@@ -13284,6 +13283,7 @@ exhaustlessness
 exploitatory
 endocrinopath
 elytrum
+edifying
 episcopy
 expiscate
 effie
