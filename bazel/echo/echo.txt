@@ -4259,7 +4259,6 @@ ejectment
 exaltedness
 exothermic
 electrochemical
-entangle
 exosmoses
 enflowered
 echiniform
@@ -4427,6 +4426,7 @@ epidermal
 embreach
 emanates
 extremists
+entangle
 econometrically
 elliptical
 erbia
