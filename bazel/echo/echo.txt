@@ -488,7 +488,6 @@ extended
 endoconidium
 extorsion
 ecclesiastics
-encup
 ecclesioclastic
 expenditure
 expositionary
@@ -13685,6 +13684,7 @@ evolutionist
 elizabeth
 enteroclysis
 extrajudicially
+encup
 externe
 excursionize
 epitaxy
