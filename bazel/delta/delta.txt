@@ -5796,7 +5796,6 @@ depolymerize
 deaconed
 depoliticized
 donia
-dreck
 deponing
 dented
 distributee
@@ -13150,6 +13149,7 @@ dressmakers
 derelicta
 descartes
 dispersing
+dreck
 dispersoidological
 dynastid
 dispersonate
