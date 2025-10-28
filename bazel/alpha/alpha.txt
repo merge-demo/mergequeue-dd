@@ -16616,6 +16616,7 @@ alleleu
 antiworld
 albitophyre
 amidoazobenzol
+archoplasmic
 aphanes
 asphaltum
 aphanisia
@@ -18961,7 +18962,6 @@ awink
 archontia
 anonymuncule
 apocatharsis
-archoplasmic
 archorrhagia
 aerohydropathy
 antidemocracy

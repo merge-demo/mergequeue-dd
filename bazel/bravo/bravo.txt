@@ -5675,7 +5675,6 @@ behindhand
 birdcage
 bloomery
 blankite
-budge
 bushongo
 brerd
 burgess
@@ -11340,6 +11339,7 @@ bedcap
 bullety
 blubberers
 byronist
+budge
 balanism
 bestialising
 bankable
