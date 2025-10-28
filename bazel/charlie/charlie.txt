@@ -520,7 +520,6 @@ chronaxy
 counselors
 christofer
 casualist
-chlorobromide
 cadying
 costusroot
 cadillo
@@ -1100,6 +1099,7 @@ calcinosis
 calciobiotite
 calcioferrite
 calcioscheelite
+chlorobromide
 calciphylactic
 calciphylaxis
 clomping
