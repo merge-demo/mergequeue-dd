@@ -10769,7 +10769,6 @@ daintiest
 denunciatory
 dipstick
 deceitful
-department
 divinization
 dipterygian
 dipterocarp
@@ -16541,6 +16540,7 @@ dracontium
 drad
 dearworth
 dungan
+department
 dradge
 draegermen
 disregards
