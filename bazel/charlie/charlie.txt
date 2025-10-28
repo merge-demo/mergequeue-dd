@@ -5290,7 +5290,6 @@ cohorn
 crookback
 cassiduloid
 cistus
-cassiepeia
 cassimere
 caurus
 corymbed
@@ -21538,6 +21537,7 @@ chapellage
 congestions
 chaetangiaceae
 cluniac
+cassiepeia
 cannibality
 concoct
 coemption
