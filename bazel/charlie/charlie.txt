@@ -4276,6 +4276,7 @@ caretta
 careworn
 concorporation
 carex
+cronies
 cottages
 carfare
 carfares
@@ -29695,7 +29696,6 @@ currach
 cigaritos
 communicated
 coachway
-cronies
 cronyisms
 chumar
 cardipaludism
