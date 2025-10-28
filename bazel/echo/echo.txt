@@ -830,6 +830,7 @@ ectypography
 eliminating
 epitheton
 entrecote
+enneastylos
 exulate
 ectiris
 equations
@@ -9963,7 +9964,6 @@ edibleness
 endophagy
 erythromelalgia
 esugarization
-enneastylos
 endowers
 entonement
 entreatment
