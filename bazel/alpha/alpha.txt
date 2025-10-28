@@ -13752,7 +13752,6 @@ apatetic
 absonant
 ansar
 aerobium
-anseis
 anselm
 anser
 accouchement
@@ -24285,6 +24284,7 @@ anodendron
 aquaducts
 autoracemization
 adjutory
+anseis
 autoradiograph
 autoreflection
 allopurinol
