@@ -11143,7 +11143,6 @@ amongst
 aspersions
 analabos
 amphictyon
-amphictyony
 amphictyonian
 achaenodon
 amphictyons
@@ -17892,6 +17891,7 @@ azoformic
 anthypophora
 anteverting
 ascocarpous
+amphictyony
 approvingly
 aye
 approximable
