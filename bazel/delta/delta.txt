@@ -1752,6 +1752,7 @@ disembed
 decidedly
 defensibility
 dentinalgia
+dehydrofreeze
 deaspiration
 dishonest
 daredevilry
@@ -8550,7 +8551,6 @@ deaccessioning
 diapedetic
 daggletailed
 diapente
-dehydrofreeze
 diet
 dyschromatopsia
 documentable
