@@ -11817,7 +11817,6 @@ astrometry
 ancille
 autoschediastical
 anaphylactogenic
-anaphylatoxin
 auntish
 apectomy
 autovaccination
@@ -21495,6 +21494,7 @@ anisogeny
 antadiform
 ambassiate
 aglucone
+anaphylatoxin
 ayurvedas
 alkyl
 allegement
