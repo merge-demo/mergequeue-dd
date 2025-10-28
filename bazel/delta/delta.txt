@@ -11569,7 +11569,6 @@ dipsadine
 dispassionately
 decrepitly
 diandrous
-dipt
 disconectae
 dosology
 danaro
@@ -15929,6 +15928,7 @@ decatoic
 daimyo
 drosometer
 disboweling
+dipt
 dorsoposterior
 dishumor
 dorsoscapular
