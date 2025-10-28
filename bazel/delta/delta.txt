@@ -3493,6 +3493,7 @@ dodginess
 dartsman
 defrayed
 dinghies
+diffusibility
 defrayers
 dactyloid
 desaturate
@@ -17202,7 +17203,6 @@ damara
 dislocated
 dichotic
 disenvelop
-diffusibility
 dishclout
 divagations
 dactylographer
