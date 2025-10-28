@@ -3744,6 +3744,7 @@ encrypts
 efforce
 embussing
 espigle
+electropuncturation
 enecate
 emceeing
 escalader
@@ -8294,7 +8295,6 @@ epithalline
 einstein
 earthwards
 epistolize
-electropuncturation
 ecumenicality
 embryonated
 eluxate
