@@ -4802,7 +4802,6 @@ emulously
 encomic
 excipient
 encomiumia
-encompassment
 embira
 excusation
 echard
@@ -12338,6 +12337,7 @@ edgeling
 economical
 evase
 ectrodactyly
+encompassment
 expects
 exhibitors
 endorsers
