@@ -8431,6 +8431,7 @@ extensure
 eurytropic
 electroencephalography
 encarpus
+erythematic
 epirogenetic
 eponym
 earthmove
@@ -8940,7 +8941,6 @@ eteoclus
 ericales
 exteroceptive
 equatorially
-erythematic
 ericas
 ericetal
 exothecium
