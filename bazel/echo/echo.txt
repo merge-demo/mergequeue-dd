@@ -840,6 +840,7 @@ eriophorum
 eosinophil
 ectocommensal
 ectocondylar
+empacket
 endophytic
 efficient
 electrolyser
@@ -12818,7 +12819,6 @@ ensepulchered
 ecanda
 edgeways
 excavation
-empacket
 expansive
 exothecal
 eccentrics
