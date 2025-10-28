@@ -1079,6 +1079,7 @@ bunns
 broadspread
 boogymen
 bainie
+biternate
 bedizenment
 baioc
 braciole
@@ -7387,7 +7388,6 @@ berlines
 barbeau
 bookstack
 budgeting
-biternate
 bushbashing
 boilery
 buccocervical
