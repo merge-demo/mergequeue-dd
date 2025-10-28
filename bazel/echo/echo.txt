@@ -2774,6 +2774,7 @@ elementalistic
 extrathoracic
 estrangements
 elementalize
+enharden
 ephori
 elementaloid
 emperil
@@ -5883,7 +5884,6 @@ enharbour
 electrometallurgy
 exocytosis
 endsweep
-enharden
 especially
 eurytopicity
 exoenzymic
