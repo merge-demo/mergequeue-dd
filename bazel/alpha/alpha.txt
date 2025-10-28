@@ -11279,7 +11279,6 @@ acquainted
 anthracite
 aeronautism
 alcaptonuria
-ackeys
 amphore
 aquifers
 amphoteric
@@ -17046,6 +17045,7 @@ alebion
 assedat
 aerialists
 apogee
+ackeys
 apogees
 apogeic
 acceptor
