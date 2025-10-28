@@ -2464,6 +2464,7 @@ degorder
 dilettantish
 disequilibria
 decimetre
+ditrochous
 demoid
 decimolar
 drainpipe
@@ -10081,7 +10082,6 @@ disinfectant
 debilitation
 dynamogenesis
 defibrillator
-ditrochous
 dough
 dynamogeny
 darlingtonia
