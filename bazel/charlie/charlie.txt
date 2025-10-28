@@ -2766,6 +2766,7 @@ courtliness
 cancerphobia
 claviers
 coypu
+chrysographer
 cereless
 cannibalized
 chaplin
@@ -10258,7 +10259,6 @@ cheesecakes
 cotesian
 chloasmata
 camacan
-chrysographer
 chiasmas
 chiasmata
 chase
