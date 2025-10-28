@@ -4954,6 +4954,7 @@ eucephalous
 emigates
 electrocorticogram
 envy
+embryoniform
 extirpative
 equinia
 engraphic
@@ -6773,7 +6774,6 @@ embargoed
 echoized
 entiris
 extinguishing
-embryoniform
 entitatively
 entitle
 elixed
