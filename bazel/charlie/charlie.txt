@@ -11514,7 +11514,6 @@ certif
 coddling
 catastrophically
 chokeberries
-chokedamp
 camerata
 chewable
 congenetic
@@ -16166,6 +16165,7 @@ culturable
 climacter
 cabarets
 climacteric
+chokedamp
 chiropractic
 climacterically
 climactical
