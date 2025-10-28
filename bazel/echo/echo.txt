@@ -1990,7 +1990,6 @@ enolate
 exophoric
 ekphorias
 empetrum
-experienceless
 eryngo
 ekron
 ensafe
@@ -3811,6 +3810,7 @@ entreasured
 emerizing
 engrieve
 emerods
+experienceless
 emersed
 estivator
 eggcupful
