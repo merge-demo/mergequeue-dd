@@ -5850,6 +5850,7 @@ diamido
 dowel
 dressings
 daeva
+diagonals
 dibbers
 dozenths
 disfranchising
@@ -8310,7 +8311,6 @@ dactylose
 decursive
 diagnosing
 dandyprat
-diagonals
 deducting
 dentalism
 disordeine
