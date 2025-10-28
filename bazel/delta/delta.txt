@@ -4996,6 +4996,7 @@ demophilism
 demophobia
 decurrence
 disbursed
+decocts
 dictators
 demoraliser
 drumler
@@ -6138,7 +6139,6 @@ dispirits
 derailing
 desc
 derailment
-decocts
 disinvolve
 divvied
 dynapolis
