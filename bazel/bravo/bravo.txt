@@ -2660,7 +2660,6 @@ brither
 budgeters
 bascules
 bebeerine
-balmlike
 barnaby
 besnivel
 burnettizing
@@ -12734,6 +12733,7 @@ baronry
 begut
 beerish
 bioprecipitation
+balmlike
 burhmoot
 blurs
 burnishment
