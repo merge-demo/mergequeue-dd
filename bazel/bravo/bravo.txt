@@ -13576,7 +13576,6 @@ boughpots
 bibliolatrist
 boughs
 bougie
-benefaction
 bimodulus
 boulanger
 boulangism
@@ -18324,6 +18323,7 @@ berzelianite
 botherheaded
 boosy
 bescratch
+benefaction
 breviaries
 balanta
 biasness
