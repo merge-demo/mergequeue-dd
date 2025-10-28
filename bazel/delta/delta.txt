@@ -1341,6 +1341,7 @@ dryermen
 declinate
 dauding
 desorb
+drunk
 directest
 dissaved
 diobolons
@@ -12192,7 +12193,6 @@ depurates
 displeasuring
 disambiguates
 displeasant
-drunk
 discording
 dermataneuria
 dysphonic
