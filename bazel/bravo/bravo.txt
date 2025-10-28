@@ -1756,7 +1756,6 @@ belgas
 baltimore
 bumblebeefishes
 baluba
-berogue
 baluch
 bullet
 bitripinnatifid
@@ -15177,6 +15176,7 @@ bestrewed
 blitzes
 bridesmaids
 bedrocks
+berogue
 baybolt
 beholding
 birdsall
