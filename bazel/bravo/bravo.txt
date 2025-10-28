@@ -7607,6 +7607,7 @@ beeball
 becloaking
 befooled
 brahmany
+brevities
 biventral
 boe
 blackflies
@@ -15048,7 +15049,6 @@ boresomely
 bawty
 battalia
 brevity
-brevities
 byeworker
 boar
 ballastage
