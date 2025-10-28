@@ -4138,7 +4138,6 @@ epopt
 extrications
 empoririums
 eyewink
-ethynyls
 emporte
 ecstasy
 exegeses
@@ -12796,6 +12795,7 @@ engraves
 exoteric
 exoterica
 elementalistically
+ethynyls
 excitomotor
 embryology
 epicystotomy

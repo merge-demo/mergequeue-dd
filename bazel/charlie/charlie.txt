@@ -2762,6 +2762,7 @@ clatsop
 cannoneers
 colts
 crinolines
+courtliness
 cancerphobia
 claviers
 coypu
@@ -24512,7 +24513,6 @@ cupfuls
 cannular
 clr
 carafes
-courtliness
 clavis
 copalite
 copalm
