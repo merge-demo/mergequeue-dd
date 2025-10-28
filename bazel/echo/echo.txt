@@ -3755,7 +3755,6 @@ eastermost
 eradicatory
 erect
 epilogs
-estonia
 entrusts
 emeers
 emeership
@@ -11426,6 +11425,7 @@ embryotic
 expdt
 elided
 evetide
+estonia
 extirpating
 encipherment
 ethanim
