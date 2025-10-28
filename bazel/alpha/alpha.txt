@@ -3112,7 +3112,6 @@ autospray
 acuductor
 acuities
 antiendotoxin
-antizymic
 amblyomma
 archfire
 antisyndicalism
@@ -11039,6 +11038,7 @@ amperian
 amphistomum
 adnexopexy
 attenuation
+antizymic
 aortitis
 athetosic
 apocatastasis
