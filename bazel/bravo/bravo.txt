@@ -1787,7 +1787,6 @@ bilanders
 brachman
 bamboula
 boswellized
-bowmen
 balanops
 bambute
 blackheart
@@ -14067,6 +14066,7 @@ baldy
 bullyboys
 bistipular
 besieging
+bowmen
 brachiorrheuma
 blot
 butsudan
