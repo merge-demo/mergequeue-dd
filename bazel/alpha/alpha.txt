@@ -8030,6 +8030,7 @@ algonkian
 antiromanticism
 applicant
 anastasis
+absentness
 aiglette
 algonquin
 algophagous
@@ -15414,7 +15415,6 @@ appendicularian
 arricci
 auxochromic
 agreeability
-absentness
 astrophysics
 arecaceae
 anthracnose
