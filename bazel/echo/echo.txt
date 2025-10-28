@@ -6073,7 +6073,6 @@ enlistments
 erasion
 encomienda
 electionary
-emotional
 eltime
 eugenic
 eulachon
@@ -13063,6 +13062,7 @@ embassador
 eutaxite
 expressionable
 explications
+emotional
 ergotisms
 ende
 ecchondrosis
