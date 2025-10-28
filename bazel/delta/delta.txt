@@ -3995,7 +3995,6 @@ deployments
 develops
 duplex
 defenestration
-delectated
 devitalise
 donkeywork
 dissuitable
@@ -13093,6 +13092,7 @@ dispensation
 dyscrasy
 dispensationalism
 denaturalization
+delectated
 deprisure
 dustlessness
 degami
