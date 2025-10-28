@@ -8723,6 +8723,7 @@ explodable
 equities
 equivalenced
 equivalent
+ennerve
 equivaluer
 exposited
 evulgation
@@ -11328,7 +11329,6 @@ epitrochlear
 electrohemostasis
 equiparate
 evenfall
-ennerve
 electroscission
 exclusively
 eupnoeic
