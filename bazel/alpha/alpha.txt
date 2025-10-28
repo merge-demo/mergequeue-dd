@@ -7757,6 +7757,7 @@ appropriates
 alembic
 aurata
 autoallogamy
+avidness
 abolishes
 amylolytic
 appmt
@@ -10690,7 +10691,6 @@ amlet
 amlikar
 amlong
 ammer
-avidness
 adductor
 ammeter
 ammeters
