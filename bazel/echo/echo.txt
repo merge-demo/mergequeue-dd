@@ -3497,6 +3497,7 @@ emblemist
 exon
 emblemizing
 electrootiatrics
+euthermic
 exsiccative
 explementary
 endow
@@ -4736,7 +4737,6 @@ ericaceae
 enclaves
 entrepreneurs
 epichondrotic
-euthermic
 evanishing
 embarrass
 eyren
