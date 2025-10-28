@@ -5617,6 +5617,7 @@ encouraging
 enforcively
 eirene
 extrovert
+ephoric
 epilogation
 enforest
 epacme
@@ -13655,7 +13656,6 @@ extensional
 encomiendas
 enphytotic
 endorsors
-ephoric
 epistolizable
 exteriorness
 espec
