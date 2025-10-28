@@ -2482,6 +2482,7 @@ aconitine
 abolitionism
 anoscope
 atypical
+apological
 argante
 aratory
 aconitums
@@ -17115,7 +17116,6 @@ apology
 adios
 apologiae
 asarone
-apological
 apologies
 advertisers
 ambiversion

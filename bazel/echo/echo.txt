@@ -8961,6 +8961,7 @@ erika
 erikite
 erinaceidae
 ephebes
+elaphrium
 eclairissement
 ectotherm
 expropriation
@@ -11798,7 +11799,6 @@ eutechnic
 empoisoned
 epiphytous
 enrolment
-elaphrium
 euryon
 exaudi
 esselen
