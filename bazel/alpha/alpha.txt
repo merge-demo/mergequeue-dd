@@ -142,6 +142,7 @@ antiatoms
 acxoyatl
 archenteric
 animalivora
+anasa
 asperggilli
 alloyed
 axles
@@ -11897,7 +11898,6 @@ anarthrousness
 avionics
 anas
 athumia
-anasa
 araphostic
 aralkylated
 awakenable
