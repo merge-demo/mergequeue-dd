@@ -9365,7 +9365,6 @@ congees
 chaulmoogra
 centiplume
 cytodendrite
-chauna
 cotylophorous
 counterwill
 chaunoprockt
@@ -17001,6 +17000,7 @@ chirognomic
 clupeid
 cahot
 clupeids
+chauna
 creatureliness
 cephaloclast
 centrechinoida
