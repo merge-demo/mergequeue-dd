@@ -2594,7 +2594,6 @@ ecphova
 electrophoresing
 electrophoretically
 excerpted
-elliptically
 enkennel
 exercitor
 enjelly
@@ -13907,6 +13906,7 @@ expiscated
 eliminatory
 extorter
 ectoderm
+elliptically
 extramoral
 electee
 exotropia
