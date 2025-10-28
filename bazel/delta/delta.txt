@@ -1080,7 +1080,6 @@ darner
 devoiced
 darning
 disfavoured
-designfully
 doling
 darrein
 darshan
@@ -17341,6 +17340,7 @@ discoverably
 dysepulotic
 drolleries
 drollest
+designfully
 dischase
 demilion
 depascent
