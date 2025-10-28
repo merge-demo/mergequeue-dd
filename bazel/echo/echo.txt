@@ -7304,7 +7304,6 @@ encushion
 entertainer
 epagomenae
 ericolin
-equerryship
 epagomenous
 endeavorer
 epochism
@@ -9604,6 +9603,7 @@ exceptionary
 ensearch
 esoterize
 epsilon
+equerryship
 esotropia
 esp
 eparchial
