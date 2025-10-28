@@ -2675,6 +2675,7 @@ curatorship
 canidia
 canikin
 chargedness
+counterenergy
 cardiatrophia
 canikins
 cephalocereus
@@ -26781,7 +26782,6 @@ cassowary
 countereffort
 cottiest
 counterembattled
-counterenergy
 chumpy
 clarity
 counterengagement
