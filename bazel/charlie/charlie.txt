@@ -10614,7 +10614,6 @@ cotwist
 chillest
 cystocarpic
 chilli
-crank
 comitant
 concealing
 chilly
@@ -20319,6 +20318,7 @@ crassula
 chalcolite
 chicagoans
 copaiba
+crank
 charivan
 commodiously
 chessboards
