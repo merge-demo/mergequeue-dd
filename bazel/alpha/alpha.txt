@@ -3535,7 +3535,6 @@ adenophora
 anticentralist
 arrenotoky
 archons
-archaize
 avian
 armeriaceae
 autodigestion
@@ -7255,6 +7254,7 @@ albian
 albicans
 anisaldoxime
 animadversiveness
+archaize
 antineologian
 abietineae
 abraser
