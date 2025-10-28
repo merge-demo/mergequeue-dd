@@ -6752,7 +6752,6 @@ deadhead
 desiderata
 dahabiyas
 diacoustics
-denitrificant
 deathroot
 drosophilidae
 drunkard
@@ -15827,6 +15826,7 @@ dialyzation
 dormancies
 dizygotic
 dulat
+denitrificant
 dellaring
 disweapon
 detenu
