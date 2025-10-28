@@ -12241,6 +12241,7 @@ deathshot
 disfurniture
 donax
 decumbence
+demilitarize
 distancing
 disgarnish
 deliberativeness
@@ -16859,7 +16860,6 @@ deare
 dourahs
 dissenters
 dreeing
-demilitarize
 disconsonant
 desinential
 difficult
