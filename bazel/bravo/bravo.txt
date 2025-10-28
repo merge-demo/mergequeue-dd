@@ -334,6 +334,7 @@ bemirrorment
 batswing
 beacon
 benzoid
+bubalis
 bicorporeal
 breakableness
 backbonelessness
@@ -3147,7 +3148,6 @@ blurrer
 bleakest
 bonnes
 burghemot
-bubalis
 bleat
 briskly
 beturbaned
