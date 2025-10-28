@@ -4081,7 +4081,6 @@ deface
 dhava
 denumeration
 dustoor
-disfeature
 dominance
 dualistic
 digitigrade
@@ -12940,6 +12939,7 @@ divineness
 denationalization
 differers
 displeasured
+disfeature
 diphyes
 demivoice
 discriminability
