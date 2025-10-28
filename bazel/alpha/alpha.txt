@@ -8522,6 +8522,7 @@ allegoriser
 aggression
 amyloids
 anotto
+antifaction
 aeolomelodicon
 assimilativeness
 accentuates
@@ -15054,7 +15055,6 @@ ammocoetoid
 allthorn
 antepredicament
 appallingly
-antifaction
 antifame
 antifanatic
 allocochick
