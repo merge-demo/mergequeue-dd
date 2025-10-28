@@ -3922,6 +3922,7 @@ boarts
 bombardier
 brickbats
 bergamasca
+beowulf
 birdbanding
 bdelloura
 bdellovibrio
@@ -15606,7 +15607,6 @@ brocaded
 bonzery
 brocatelle
 bilbi
-beowulf
 brocatello
 bestad
 brocatels
