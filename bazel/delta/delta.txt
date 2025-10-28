@@ -119,7 +119,6 @@ degerm
 dactylotheca
 drudge
 deactivated
-dactylozooid
 disponing
 dentolabial
 dreamage
@@ -8731,6 +8730,7 @@ deglutinate
 diathesis
 demean
 deliquesces
+dactylozooid
 danke
 dirl
 diatoma
