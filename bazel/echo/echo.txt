@@ -531,7 +531,6 @@ echea
 examinator
 emphyteusis
 echelle
-exhibitant
 electrosurgeries
 extraphenomenal
 estate
@@ -5163,6 +5162,7 @@ enterovirus
 eponymies
 eastings
 electroballistician
+exhibitant
 epilithic
 endogenae
 efference
