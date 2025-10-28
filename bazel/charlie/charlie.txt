@@ -18562,7 +18562,6 @@ cohabiting
 clefted
 coharmonious
 coharmonize
-cohead
 celiorrhea
 coheading
 coheads
@@ -20106,6 +20105,7 @@ commata
 commaterial
 cofeoffee
 commatic
+cohead
 cryobiologist
 cheerily
 commeasurable
