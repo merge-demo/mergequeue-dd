@@ -7050,7 +7050,6 @@ englishry
 evangely
 expostulator
 evidencive
-endotropic
 environment
 embolic
 entwines
@@ -8208,7 +8207,6 @@ euthenic
 eeten
 earlobe
 electrotechnologist
-ethnomaniac
 exodontic
 effaceable
 episcia
@@ -8731,6 +8729,7 @@ explodable
 equities
 equivalenced
 equivalent
+ennerve
 equivaluer
 exposited
 evulgation
@@ -11331,7 +11330,6 @@ epitrochlear
 electrohemostasis
 equiparate
 evenfall
-ennerve
 electroscission
 exclusively
 eupnoeic
@@ -11989,6 +11987,7 @@ exclamatory
 exclaves
 expensed
 eryngium
+endotropic
 enscrolls
 everyone
 enterfeat
@@ -12114,6 +12113,7 @@ excud
 europeanize
 excudate
 entwite
+ethnomaniac
 ennoblment
 erotizing
 excurrent
