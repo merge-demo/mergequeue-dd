@@ -14763,7 +14763,6 @@ abe
 attendancy
 antibibliolatry
 antilogs
-arling
 anticipations
 anticipative
 attensity
@@ -15702,6 +15701,7 @@ antiphony
 anomorhomboid
 antichloristic
 antiphonic
+arling
 antiphonies
 antiphonon
 abjudging
@@ -15875,6 +15875,7 @@ apprehendable
 astrion
 asterwort
 antirecruiting
+asteraceous
 autophonous
 aljoba
 aromatiser
@@ -23515,7 +23516,6 @@ aureoled
 audaciously
 auresca
 atomistically
-asteraceous
 aureomycin
 aaron
 amplified
