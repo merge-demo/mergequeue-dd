@@ -20713,7 +20713,6 @@ coswearer
 cumara
 charge
 comping
-clanjamfrie
 cyclized
 carbinol
 crambidae
@@ -28900,6 +28899,7 @@ convocated
 chrysal
 curtseyed
 crancelin
+clanjamfrie
 crimmy
 cricetids
 congratulatory
