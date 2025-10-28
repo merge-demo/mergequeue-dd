@@ -350,7 +350,6 @@ douzieme
 deckman
 desand
 drawstring
-desquamative
 demobs
 dermopterous
 dichlorodiphenyltrichloroethane
@@ -17529,6 +17528,7 @@ desegregation
 drubly
 disheartened
 drudged
+desquamative
 didepsid
 dysbulic
 dwarf
