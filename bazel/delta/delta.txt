@@ -9968,7 +9968,6 @@ droved
 decongesting
 decoupled
 dedolation
-diatesseron
 dodged
 decemvirship
 disconcerts
@@ -16629,6 +16628,7 @@ disco
 decompile
 disclaims
 daman
+diatesseron
 dissimilated
 desmopathology
 denunciate
