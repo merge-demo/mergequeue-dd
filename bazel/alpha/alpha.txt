@@ -2361,7 +2361,6 @@ antismut
 agrising
 asplenioid
 aurantiaceous
-acanthocephali
 alders
 aluminized
 anoil
@@ -20486,6 +20485,7 @@ ands
 aeluroidea
 allophytoid
 arthritides
+acanthocephali
 attritus
 acetopyrin
 auriculariales
