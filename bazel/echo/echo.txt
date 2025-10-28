@@ -746,6 +746,7 @@ episomes
 emblematised
 extoled
 effaces
+exosmotic
 endermatic
 effascinate
 eucharistize
@@ -12772,7 +12773,6 @@ enterosyphilis
 exortion
 endodontia
 exosmose
-exosmotic
 explicative
 exospheric
 erotize
