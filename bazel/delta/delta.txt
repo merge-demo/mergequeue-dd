@@ -7331,7 +7331,6 @@ deselected
 dilettantship
 dinumeration
 diporpa
-droddum
 diptera
 dishware
 disconcertedly
@@ -18613,6 +18612,7 @@ desperadoism
 dustheap
 dialystelic
 dedo
+droddum
 dustiest
 daincha
 dustless
