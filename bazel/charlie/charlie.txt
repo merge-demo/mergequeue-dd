@@ -5239,7 +5239,6 @@ cassabas
 cassabully
 cultist
 carthorse
-custodiam
 chordophone
 crwth
 circumvention
@@ -7881,6 +7880,7 @@ contrite
 cespitosely
 cespitulose
 coquetries
+custodiam
 cushiest
 cess
 cessantly
