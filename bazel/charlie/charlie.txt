@@ -4527,7 +4527,6 @@ carneyed
 cabiritic
 carneole
 coroner
-chartula
 coacervating
 catalineta
 caribal
@@ -25402,6 +25401,7 @@ cornicles
 corniculer
 corniferous
 centesimally
+chartula
 chaft
 cornigerous
 conies
