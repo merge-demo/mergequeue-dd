@@ -16393,7 +16393,6 @@ dolt
 dinornithes
 downsizing
 defensible
-dichord
 danner
 dovetails
 decrease
@@ -16656,6 +16655,7 @@ dossers
 dolichosauri
 dingleberry
 didelphian
+dichord
 dragonhood
 downily
 defervesced
