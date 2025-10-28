@@ -2531,6 +2531,7 @@ crosstie
 cleverness
 candle
 coehorn
+cirurgian
 candleball
 candlebomb
 candlefish
@@ -14542,7 +14543,6 @@ concertizing
 croplands
 cargoes
 cosets
-cirurgian
 cognomina
 cyrus
 craspedote
