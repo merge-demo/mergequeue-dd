@@ -14402,7 +14402,6 @@ cleopatra
 circumtonsillar
 chansons
 cumaphytic
-coelelminth
 computate
 cachot
 cholesterosis
@@ -16633,6 +16632,7 @@ capsules
 corpulencies
 cloisterwise
 concoagulation
+coelelminth
 chamisos
 cloke
 carapaced
