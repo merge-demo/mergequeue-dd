@@ -7952,7 +7952,6 @@ contumacities
 corixidae
 cetomorpha
 cangan
-cumular
 chartists
 cryptostome
 cetonian
@@ -11462,6 +11461,7 @@ catheterisation
 chocking
 chutes
 cyrenaicism
+cumular
 chytridium
 chylified
 coals
