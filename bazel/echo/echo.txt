@@ -3933,7 +3933,6 @@ exilarch
 embroglio
 empale
 empalers
-eyepit
 empall
 exhilaratory
 excurvation
@@ -13557,6 +13556,7 @@ egeria
 emulation
 epikeia
 egoism
+eyepit
 encryptions
 esoteric
 exsufflate
