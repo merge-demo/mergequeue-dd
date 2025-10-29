@@ -31,7 +31,6 @@ elderling
 endurably
 eagrass
 ewry
-embouchure
 everbloomer
 eanling
 ear
@@ -12721,6 +12720,7 @@ engramma
 exopod
 epigraphist
 embus
+embouchure
 exopterygotism
 eurypygae
 epha
