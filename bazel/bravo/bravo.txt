@@ -359,6 +359,7 @@ bonassus
 blew
 beweeper
 biblicoliterary
+burgessdom
 buddha
 backer
 beehives
@@ -15922,7 +15923,6 @@ blepharospath
 brontology
 bolographic
 bollards
-burgessdom
 brontosauruses
 beryllium
 barrels
