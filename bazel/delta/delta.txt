@@ -13197,6 +13197,7 @@ dilly
 display
 displayable
 dumaist
+daredevil
 depositive
 driftland
 demoralize
@@ -15545,7 +15546,6 @@ dermatoglyphic
 duffing
 dompteuse
 driveways
-daredevil
 doms
 derve
 drumreads
