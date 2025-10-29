@@ -1669,7 +1669,6 @@ ethylenes
 epiphloedal
 electrotaxis
 ejusdem
-eisteddfodic
 eyeballed
 eyeballing
 extincteur
@@ -11658,6 +11657,7 @@ etymologizing
 erept
 embracers
 exogenism
+eisteddfodic
 eadish
 exaggerate
 electrize
