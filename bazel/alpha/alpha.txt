@@ -10053,7 +10053,6 @@ archdiocese
 ambrettolide
 ambry
 alluminor
-autocopist
 antidiphtheric
 aniconic
 ambrite
@@ -24340,6 +24339,7 @@ antagonise
 albuminuric
 asbolan
 autosymbolic
+autocopist
 armlessly
 autosymbolically
 augmentationer

@@ -5596,7 +5596,6 @@ depends
 dallack
 decretals
 dispersed
-dukeship
 dowp
 disemplaned
 dreigh
@@ -15623,6 +15622,7 @@ donk
 dolor
 dioxin
 doloriferous
+dukeship
 donkeyman
 decahedra
 deliliria
