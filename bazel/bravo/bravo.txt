@@ -1539,7 +1539,6 @@ bootlegger
 bedaubed
 balladizing
 bales
-belongings
 bichromated
 babbit
 bezel
@@ -16773,6 +16772,7 @@ bliest
 beaume
 becomingness
 bimetallists
+belongings
 benzopyran
 bugbearish
 bushwalking
