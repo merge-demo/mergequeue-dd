@@ -8234,7 +8234,6 @@ aliptic
 acardiac
 aporia
 aorists
-amoebidae
 atik
 alypum
 amarelle
@@ -22525,6 +22524,7 @@ abaised
 archbuffoon
 ark
 ateuchi
+amoebidae
 atherosclerosis
 androgen
 amphiboles
