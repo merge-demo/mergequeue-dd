@@ -6561,7 +6561,6 @@ epipolism
 enteradenological
 enteral
 ensuant
-enterectomy
 enterer
 eulogious
 excusive
@@ -10491,6 +10490,7 @@ electrometry
 effusing
 entreatingly
 euboean
+enterectomy
 eubteria
 embezzlers
 endaortic
