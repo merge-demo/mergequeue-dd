@@ -3926,7 +3926,6 @@ calcaneoastragalar
 coauthered
 carburetting
 cynophobia
-circumstellar
 carburettor
 cauchemar
 calendared
@@ -31771,6 +31770,7 @@ customizer
 customizers
 complotted
 customizes
+circumstellar
 comped
 customizing
 ceti
