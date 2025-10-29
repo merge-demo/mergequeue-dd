@@ -659,6 +659,7 @@ bungles
 briguing
 battalions
 barefacedly
+begumming
 batfowler
 brosot
 basos
@@ -9702,7 +9703,6 @@ bedevil
 burdocks
 bescurvy
 bistipulate
-begumming
 bistred
 bilateralities
 bindheimite
