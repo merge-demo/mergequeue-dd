@@ -950,6 +950,7 @@ ectropion
 epilogues
 ectropium
 eluvia
+enwrought
 elects
 effatum
 ectrosyndactyly
@@ -8419,7 +8420,6 @@ equip
 eglogue
 endothecate
 epizootology
-enwrought
 epocha
 embaying
 eumitosis
