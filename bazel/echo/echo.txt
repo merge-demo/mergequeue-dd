@@ -2691,6 +2691,7 @@ electrotheraputic
 emyds
 electrothermal
 ephippial
+encheason
 emulsoidal
 exteriorise
 essed
@@ -4573,7 +4574,6 @@ ectochondral
 ectomesoblast
 expede
 enfettered
-encheason
 enchequer
 ethnopsychic
 enchesoun
