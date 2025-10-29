@@ -8734,7 +8734,6 @@ effs
 ektexines
 equivalved
 emmergoose
-entombing
 embryotrophic
 equivelocity
 encrotchet
@@ -11865,6 +11864,7 @@ euphonizing
 enomoty
 engorges
 excels
+entombing
 eosophobia
 encounter
 excelsior
