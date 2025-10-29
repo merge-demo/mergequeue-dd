@@ -17260,6 +17260,7 @@ apostatize
 apostatizing
 armoured
 apostaxis
+astragaloscaphoid
 armigeral
 animalcules
 anaesthetic
@@ -19039,7 +19040,6 @@ allotransplantation
 antisepticize
 arclike
 axman
-astragaloscaphoid
 arcocentrum
 antirheumatic
 antipathogenic
