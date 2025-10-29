@@ -523,7 +523,6 @@ ecesic
 ectropometer
 ecgonine
 evenhandedness
-emballonurid
 echappe
 echea
 examinator
@@ -14175,6 +14174,7 @@ exulding
 electrifies
 eviction
 entone
+emballonurid
 exultantly
 exultingly
 etherialising
