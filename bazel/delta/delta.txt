@@ -8405,7 +8405,6 @@ deplanes
 dialysable
 dishonourer
 dorobo
-desalting
 dahabiahs
 dinitrophenylhydrazine
 demagogism
@@ -12426,6 +12425,7 @@ dismissingly
 diakineses
 dishley
 diamond
+desalting
 deterrability
 dishmop
 desagrement
