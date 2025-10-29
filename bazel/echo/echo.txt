@@ -8011,7 +8011,6 @@ encoop
 epibasal
 ergs
 ease
-entoconid
 epidendron
 enstatitic
 easements
@@ -8493,6 +8492,7 @@ englisher
 enwombs
 equableness
 eugeosyncline
+entoconid
 ethnologer
 erectility
 equal
