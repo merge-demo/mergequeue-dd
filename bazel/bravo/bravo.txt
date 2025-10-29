@@ -5099,6 +5099,7 @@ bombable
 bromoaurate
 barbarized
 boxhaul
+burrah
 bestirred
 belching
 bakshished
@@ -16804,7 +16805,6 @@ bugling
 burladero
 buglosses
 bugong
-burrah
 blijver
 bituminous
 bugout
