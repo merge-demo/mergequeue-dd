@@ -3022,6 +3022,7 @@ canting
 cantingness
 crimpiest
 concent
+component
 cantlet
 cantline
 chromophore
@@ -20909,7 +20910,6 @@ componed
 componency
 caciocavallo
 compared
-component
 carmagnoles
 controllership
 componented
