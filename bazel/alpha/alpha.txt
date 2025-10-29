@@ -156,7 +156,6 @@ antireligionist
 anous
 agnostical
 acidproof
-anabiosis
 abaue
 abave
 anaberoga
@@ -12784,6 +12783,7 @@ aldolase
 ananite
 anguillaria
 autochthony
+anabiosis
 arabite
 abey
 anguilloid
