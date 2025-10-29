@@ -1884,7 +1884,6 @@ cuir
 cambric
 cypriote
 cartonnage
-cambricleaf
 colobus
 curs
 cambridge
@@ -30224,6 +30223,7 @@ conglobately
 conjugations
 chooky
 corm
+cambricleaf
 comptly
 caingang
 crumble
