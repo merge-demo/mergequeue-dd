@@ -2091,7 +2091,6 @@ bemas
 banshies
 boasting
 brachistochronic
-bornan
 bakelize
 betrough
 branchihyal
@@ -10882,6 +10881,7 @@ boniform
 blackbreast
 bunt
 beckett
+bornan
 behovely
 benn
 biffing
