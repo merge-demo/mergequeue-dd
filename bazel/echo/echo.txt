@@ -8933,6 +8933,7 @@ essive
 estrepe
 epiphanies
 errhine
+expection
 eudaemonist
 erical
 exoskeletal
@@ -12967,7 +12968,6 @@ equanimously
 expecter
 expecting
 expectingly
-expection
 enzym
 encephalopyosis
 erminette
