@@ -2050,7 +2050,6 @@ deploration
 dismemberments
 dolichocephal
 documentalist
-decadic
 decriminalized
 dawson
 dammara
@@ -11929,6 +11928,7 @@ discoglossoid
 domes
 derailleur
 disembarked
+decadic
 demephitize
 duskish
 disacidified
