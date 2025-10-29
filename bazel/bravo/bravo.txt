@@ -1728,7 +1728,6 @@ blunderheaded
 byline
 baronial
 bimotored
-baloskion
 bulbels
 belittled
 byssolite
@@ -2884,6 +2883,7 @@ beaconed
 bebuttoned
 barbers
 beglew
+baloskion
 bedwards
 beartongue
 blennometritis
