@@ -3676,7 +3676,6 @@ adiaphorist
 airframes
 appealingness
 appaume
-adiaphoron
 apronstring
 apples
 anaboly
@@ -8611,6 +8610,7 @@ alleviate
 acajous
 autohybridization
 antiquities
+adiaphoron
 applicative
 asiatize
 abnormalizing
