@@ -266,6 +266,7 @@ abdom
 alysson
 aerotropism
 anhydrides
+alveoli
 autoserotherapy
 armoire
 arsines
@@ -9602,7 +9603,6 @@ ararauna
 auxotrophy
 alveolate
 alveolation
-alveoli
 arrojadite
 accidie
 alveoliform
