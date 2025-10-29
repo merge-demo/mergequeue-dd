@@ -5432,7 +5432,6 @@ dictating
 donataries
 droughtier
 decan
-decard
 dryopteris
 ductus
 denuder
@@ -14963,6 +14962,7 @@ doctorate
 dodecahydrate
 delomorphous
 divata
+decard
 deploys
 disanimating
 divertimenti
