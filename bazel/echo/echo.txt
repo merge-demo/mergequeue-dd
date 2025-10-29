@@ -153,7 +153,6 @@ episcopizing
 entrept
 empight
 expurgations
-etymons
 examining
 enchylema
 enzygotic
@@ -11143,6 +11142,7 @@ earthdrake
 entity
 eadi
 evacuated
+etymons
 endeavored
 epexegetical
 evacuations
