@@ -8856,7 +8856,6 @@ camelot
 cloudless
 cliffhang
 chaptalize
-cymbalaria
 chapter
 canonries
 christianism
@@ -28258,6 +28257,7 @@ cloes
 cachet
 crossfiring
 copying
+cymbalaria
 cosher
 conine
 cephalothoracic
