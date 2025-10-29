@@ -5297,7 +5297,6 @@ cohorn
 crookback
 cassiduloid
 cistus
-cassiepeia
 cassimere
 caurus
 corymbed
@@ -15083,6 +15082,7 @@ cardiod
 chalcostibite
 civilianize
 complementalness
+cassiepeia
 civilisational
 collaboration
 chrysophilist
