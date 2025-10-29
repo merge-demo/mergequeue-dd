@@ -7909,6 +7909,7 @@ entreater
 epizootiology
 epinikion
 epilogical
+evenglow
 entomophaga
 eurystomatous
 experiment
@@ -13175,7 +13176,6 @@ episcotister
 expiable
 excubitorium
 enregister
-evenglow
 entailment
 ewer
 embroil
