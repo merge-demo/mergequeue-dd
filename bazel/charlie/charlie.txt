@@ -10114,7 +10114,6 @@ coxocerite
 cyclogram
 cornaceae
 cheskey
-campine
 coleochaete
 chimney
 chesoun
@@ -30946,6 +30945,7 @@ customhouses
 clews
 condensative
 culverhouse
+campine
 charmlessly
 culveriner
 corsesque
