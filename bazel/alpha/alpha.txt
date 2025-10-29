@@ -13121,7 +13121,6 @@ anonol
 appendicate
 anisodactyli
 anamnesis
-asnort
 anisodactylic
 aqua
 axilemma
@@ -23813,6 +23812,7 @@ autoanalytic
 aromatophore
 alexipyretic
 allomerism
+asnort
 auriculariae
 animalcule
 aeolotropic
