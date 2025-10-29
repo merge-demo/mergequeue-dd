@@ -5529,7 +5529,6 @@ againward
 ardeid
 agal
 anabong
-agalactic
 appoggiaturas
 anisomelus
 agalenidae
@@ -13465,6 +13464,7 @@ annuls
 abstersive
 acyloin
 addresser
+agalactic
 annumerate
 aboundingly
 ascidia
