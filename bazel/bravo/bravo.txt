@@ -10630,7 +10630,6 @@ bouleuteria
 brotulid
 barrelhead
 bleeze
-begarnish
 boselaphus
 blearness
 bleated
@@ -16883,6 +16882,7 @@ ballism
 burgundies
 blazoner
 beeping
+begarnish
 bunching
 baaing
 bulge
