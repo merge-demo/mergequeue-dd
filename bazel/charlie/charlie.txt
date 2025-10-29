@@ -15116,7 +15116,6 @@ chemosurgery
 civite
 chinchasuyu
 crocodilia
-civory
 chocalho
 ciwies
 colloquiality
@@ -21563,6 +21562,7 @@ clarifier
 cumquats
 concordably
 concordal
+civory
 circumundulation
 concordance
 carcavelhos
