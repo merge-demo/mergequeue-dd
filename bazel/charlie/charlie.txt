@@ -7438,6 +7438,7 @@ cephalotaceae
 cubited
 chalaziferous
 cephalotaxus
+codfish
 cephalothoraxes
 cephalotomy
 calctuff
@@ -17913,7 +17914,6 @@ codetermine
 codetta
 cabook
 codette
-codfish
 childbed
 coresidual
 centers
