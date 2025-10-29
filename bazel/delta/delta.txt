@@ -6656,7 +6656,6 @@ dissimuler
 demerol
 disadvancing
 directeur
-dreamwhile
 desert
 deserters
 disyllabic
@@ -14266,6 +14265,7 @@ diluter
 ditertiary
 diselectrify
 disyokes
+dreamwhile
 deinocephalia
 dithecal
 dither
