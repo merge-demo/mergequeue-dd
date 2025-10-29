@@ -7152,7 +7152,6 @@ domajig
 demesmerize
 dionize
 desto
-disvalues
 diaclinal
 damselfish
 dishabituated
@@ -13942,6 +13941,7 @@ deutoplasm
 discreating
 dysnomy
 dispensatory
+disvalues
 diagonal
 diplococci
 dictyoxylon
