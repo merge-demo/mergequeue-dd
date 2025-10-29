@@ -6858,7 +6858,6 @@ chairmaker
 cathodofluorescence
 celloidin
 counterbalance
-chirographic
 cellose
 cells
 cellucotton
@@ -26306,6 +26305,7 @@ cubistically
 cluttering
 counterindoctrinate
 canteen
+chirographic
 cosubject
 cosubordinate
 cochlospermaceous
