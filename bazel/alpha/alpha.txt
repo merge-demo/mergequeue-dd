@@ -12041,7 +12041,6 @@ allodge
 albuminimetry
 anchat
 andaman
-anchieutectic
 affectuous
 allbone
 amblygon
@@ -22736,6 +22735,7 @@ atones
 antipatriarchally
 acotyledon
 argilloid
+anchieutectic
 anocarpous
 atonicity
 ageusia
