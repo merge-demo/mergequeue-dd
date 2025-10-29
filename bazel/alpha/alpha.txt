@@ -11701,7 +11701,6 @@ affinity
 alpiniaceae
 antinational
 analytique
-arnoseris
 arcuately
 aurous
 anticynicism
@@ -16328,6 +16327,7 @@ axfetch
 americas
 antrotomy
 aspring
+arnoseris
 antrovert
 assiduities
 antisaloon
