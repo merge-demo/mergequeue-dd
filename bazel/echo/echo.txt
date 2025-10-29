@@ -9030,7 +9030,6 @@ evertor
 electromyographic
 eurychoric
 erythroblastic
-extrafoliaceous
 electrocardiographs
 evaginating
 euchring
@@ -9236,6 +9235,7 @@ extrapolative
 element
 embryoid
 eyestrain
+extrafoliaceous
 erotogenesis
 effranchise
 errable
