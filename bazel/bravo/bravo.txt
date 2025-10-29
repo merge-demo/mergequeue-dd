@@ -1411,6 +1411,7 @@ butterhead
 bulter
 baldrib
 bibliognost
+bionics
 balds
 baculums
 bale
@@ -12430,7 +12431,6 @@ buybacks
 bescrawl
 befoam
 booklists
-bionics
 budlike
 bisymmetrically
 bondmaids
