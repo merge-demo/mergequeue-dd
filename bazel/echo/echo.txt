@@ -2283,6 +2283,7 @@ enbloc
 endolymph
 excretal
 eger
+epicele
 encased
 egest
 equality
@@ -5799,7 +5800,6 @@ electrovalency
 etheling
 exfoliation
 erlkings
-epicele
 expiations
 eluviated
 emagram
