@@ -13098,7 +13098,6 @@ adjectival
 anischuria
 aniseed
 adynamic
-atingle
 antiorgastic
 aniseikonic
 acholuria
@@ -21647,6 +21646,7 @@ assertor
 abelmusk
 aggrade
 axiolite
+atingle
 acrosphacelus
 arthromeningitis
 arzan
