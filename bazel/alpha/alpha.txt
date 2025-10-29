@@ -12998,7 +12998,6 @@ allergist
 animallike
 alebush
 apozemical
-accouterments
 algebrization
 adapter
 animant
@@ -16717,6 +16716,7 @@ archplagiary
 ambrosiac
 aphanites
 apprend
+accouterments
 aphra
 aphrite
 amblyopsis
