@@ -256,6 +256,7 @@ embrighten
 easiest
 eleutheromorph
 elbow
+extorter
 evensong
 ejido
 eulamellibranchia
@@ -13902,7 +13903,6 @@ extramission
 erythrism
 expiscated
 eliminatory
-extorter
 ectoderm
 elliptically
 extramoral
