@@ -725,6 +725,7 @@ ethide
 enterocoele
 enharmonical
 elucidated
+extirpated
 edifice
 extramolecular
 ensamples
@@ -3975,7 +3976,6 @@ etymologise
 evangelian
 estrapade
 enage
-extirpated
 epionychia
 empexa
 ellipsoidal
