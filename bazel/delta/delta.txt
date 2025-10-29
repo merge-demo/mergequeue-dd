@@ -12975,7 +12975,6 @@ disorganise
 deuteranopia
 duplicities
 despisal
-dimout
 dauntless
 depredicate
 dinoceratidae
@@ -15600,6 +15599,7 @@ drawly
 done
 determinative
 dihydrocuprin
+dimout
 donis
 dispendious
 dent
