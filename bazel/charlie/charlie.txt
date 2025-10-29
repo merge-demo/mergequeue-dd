@@ -14721,7 +14721,6 @@ cystoradiography
 cairo
 cistori
 cystosarcoma
-cyanogenetic
 cystoschisis
 cariole
 comparting
@@ -31240,6 +31239,7 @@ codders
 curaghs
 caulker
 curari
+cyanogenetic
 computable
 coenospecific
 curarines
