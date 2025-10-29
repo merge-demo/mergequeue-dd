@@ -2886,7 +2886,6 @@ cleavingly
 corticated
 canopying
 covets
-cours
 canopus
 concatenation
 coruscant
@@ -21527,6 +21526,7 @@ conclusory
 calybite
 corindon
 ceinte
+cours
 chapellage
 congestions
 chaetangiaceae
