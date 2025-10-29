@@ -7877,7 +7877,6 @@ cesiums
 cespititious
 cespititous
 calcitration
-contrite
 cespitosely
 cespitulose
 coquetries
@@ -13577,6 +13576,7 @@ cymaphytism
 cymarin
 cymarose
 cookey
+contrite
 cymars
 cymation
 cytopathogenic
