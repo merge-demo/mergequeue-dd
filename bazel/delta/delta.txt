@@ -1697,6 +1697,7 @@ daws
 daw
 dwalm
 decolourized
+dechenite
 deamination
 debited
 deammonation
@@ -12584,7 +12585,6 @@ deditician
 defoamers
 diapiric
 downmost
-dechenite
 demilune
 disintoxication
 dankness
