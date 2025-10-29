@@ -3127,7 +3127,6 @@ endoscopy
 eloigning
 enactment
 euryte
-eloigns
 eloin
 eloine
 engrossing
@@ -6382,6 +6381,7 @@ epist
 enunciator
 eluvivia
 elapid
+eloigns
 ensemble
 engastrimyth
 engrained
