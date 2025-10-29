@@ -7214,7 +7214,6 @@ ariole
 anglesite
 avenues
 adjuvant
-albedo
 arbalests
 aerometer
 antimetrical
@@ -20739,6 +20738,7 @@ aruspex
 aborting
 advisedly
 abovedeck
+albedo
 arvejon
 arverni
 amini
