@@ -5741,6 +5741,7 @@ emaciation
 eddying
 endozoic
 endues
+exconjugant
 ensalada
 englanders
 engleim
@@ -8682,7 +8683,6 @@ equiponderated
 ejecta
 equipotential
 externalize
-exconjugant
 epicoeliac
 epulotic
 equiprobably
