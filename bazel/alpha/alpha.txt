@@ -6971,7 +6971,6 @@ afterdrain
 anchises
 akka
 akkad
-acephal
 anthropogenesis
 appense
 alist
@@ -19879,6 +19878,7 @@ agos
 aquamaniles
 ananthropism
 allivalite
+acephal
 aramis
 aldononose
 anchusine
