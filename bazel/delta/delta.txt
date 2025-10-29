@@ -10301,6 +10301,7 @@ ding
 demurrers
 diagrammers
 ditton
+dasypodoid
 drunkly
 diopter
 draped
@@ -16947,7 +16948,6 @@ dicotylous
 digladiation
 disesteem
 despairingness
-dasypodoid
 differentness
 douanes
 dreading
