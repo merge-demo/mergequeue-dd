@@ -3315,7 +3315,6 @@ blatters
 beings
 bathflower
 bandurria
-basketmaking
 bonnets
 boii
 bathysophical
@@ -10563,6 +10562,7 @@ bransle
 brigandine
 blatting
 beplumed
+basketmaking
 biblioclasm
 brinny
 brodie
