@@ -15146,7 +15146,6 @@ amphithyrons
 antigenes
 antigigmanic
 autonitridation
-antigonon
 apogamous
 antigonorrheic
 antigonus
@@ -21275,6 +21274,7 @@ amps
 asmodeus
 adurent
 aikona
+antigonon
 antifeudalism
 asoak
 asomatous
