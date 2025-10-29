@@ -1678,7 +1678,6 @@ braizes
 bambara
 bogtrot
 ballsier
-boycotter
 borrowable
 ballweed
 brehon
@@ -17115,6 +17114,7 @@ bulwarking
 brey
 bumbelo
 beclouding
+boycotter
 borley
 basseting
 bumblepuppy
