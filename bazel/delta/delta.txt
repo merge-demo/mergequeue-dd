@@ -16487,6 +16487,7 @@ determinableness
 draughthouse
 dichotomousness
 decry
+depulse
 destructor
 disgregated
 decidement
@@ -18068,7 +18069,6 @@ dentinoid
 doctrinality
 downhills
 disembattle
-depulse
 delves
 dullbrained
 desilt

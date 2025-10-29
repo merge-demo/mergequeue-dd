@@ -1801,7 +1801,6 @@ bedrabbling
 bromohydrin
 blennocystitis
 bizardite
-bowkail
 boulework
 banago
 buzzy
@@ -10429,6 +10428,7 @@ bimuscular
 barytostrontianite
 blaoner
 besauce
+bowkail
 benedicite
 babiches
 boongary
