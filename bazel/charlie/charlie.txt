@@ -17927,7 +17927,6 @@ codheaded
 conchuela
 codiaceae
 chondrotome
-codical
 chlamys
 cryptanalytics
 confidentially
@@ -27949,6 +27948,7 @@ craftworker
 crag
 craggan
 confers
+codical
 chromatometer
 craggy
 chromoscopic
