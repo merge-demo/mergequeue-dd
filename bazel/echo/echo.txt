@@ -1964,6 +1964,7 @@ ensorcels
 ejoo
 endemial
 enravishing
+emendations
 extraperitoneal
 eaters
 ecstatically
@@ -8668,7 +8669,6 @@ earth
 epiglottides
 evangelists
 equiperiodic
-emendations
 equipoise
 estrone
 eye
