@@ -5287,6 +5287,7 @@ erectors
 enwombing
 ernest
 estocs
+euouae
 ergodicity
 ectosome
 elegiast
@@ -11415,7 +11416,6 @@ exsomatic
 ependymary
 everted
 epileptiform
-euouae
 eli
 exhaustion
 emys
