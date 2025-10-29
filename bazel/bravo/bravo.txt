@@ -2594,7 +2594,6 @@ bamoth
 biphenyls
 besluit
 beaued
-balsameaceous
 breastbones
 bifronted
 biporous
@@ -7353,6 +7352,7 @@ bedgown
 biplicity
 burgout
 bolsheviki
+balsameaceous
 blueys
 boatings
 burez
