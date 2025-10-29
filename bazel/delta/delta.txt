@@ -232,6 +232,7 @@ dojos
 dispatcher
 dorstenia
 dramaturge
+dauberies
 daftest
 dangerousness
 donees
@@ -1325,7 +1326,6 @@ diphycercal
 decream
 dropling
 dauber
-dauberies
 denticulate
 droppy
 dumpings
