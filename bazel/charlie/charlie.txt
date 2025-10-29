@@ -10819,7 +10819,6 @@ coped
 confusers
 ceorls
 climatic
-canicule
 chinoleine
 chinoline
 chinologist
@@ -26393,6 +26392,7 @@ cusparine
 cotise
 cezannesque
 collector
+canicule
 consistible
 calycophoran
 crackpot
