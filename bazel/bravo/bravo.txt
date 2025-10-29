@@ -5651,7 +5651,6 @@ belicoseness
 belie
 bilirubinuria
 baskets
-blatancy
 busbar
 bikram
 bahts
@@ -16631,6 +16630,7 @@ bonaci
 bucorvus
 blats
 bowknots
+blatancy
 billheading
 broomweed
 biconvex
