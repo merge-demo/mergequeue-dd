@@ -2135,6 +2135,7 @@ decaliters
 decalitre
 drapable
 dunlop
+delinquently
 dinornithid
 dauncy
 disencumbering
@@ -18222,7 +18223,6 @@ dolichopsyllidae
 deedful
 depersonalize
 delights
-delinquently
 ditetragonal
 dentatocostate
 dermatorrhoea
