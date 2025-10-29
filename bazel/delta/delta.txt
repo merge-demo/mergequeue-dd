@@ -3187,6 +3187,7 @@ diabolising
 doftberry
 defencive
 dane
+detent
 dents
 defendable
 demimondaine
@@ -15921,7 +15922,6 @@ deliberators
 destinations
 dankly
 dolefuls
-detent
 dossman
 deputyship
 dorsopleural
