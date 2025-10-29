@@ -3033,6 +3033,7 @@ boniata
 beckons
 boliche
 brimmers
+bottier
 beachhead
 backswordsman
 bordermark
@@ -7229,7 +7230,6 @@ brubu
 blufter
 burners
 bicipitous
-bottier
 barnstormers
 buccolingual
 betaxed
