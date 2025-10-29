@@ -324,6 +324,7 @@ cradle
 cemented
 cryptology
 characine
+curval
 cysticercus
 cacodemonia
 cowtongue
@@ -24269,7 +24270,6 @@ convolvulic
 convolvulinic
 certiorari
 constraining
-curval
 comr
 convolvulus
 coercively
