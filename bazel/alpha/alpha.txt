@@ -10949,7 +10949,6 @@ amorpha
 ascensiontide
 amorphia
 aerobion
-abyssobenthonic
 aspatia
 aquatinta
 adelphophagy
@@ -10986,6 +10985,7 @@ amounted
 amounter
 anend
 amounters
+abyssobenthonic
 amices
 autocatheterism
 allocaffeine
