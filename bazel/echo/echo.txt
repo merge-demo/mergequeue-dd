@@ -3403,7 +3403,6 @@ ethnarchy
 enosises
 emetophobia
 ephoral
-erinize
 embassadress
 exumbral
 elaine
@@ -8071,6 +8070,7 @@ extraprovincial
 epiphragm
 enlargedness
 encover
+erinize
 extrasyphilitic
 extraordinaries
 expressable
