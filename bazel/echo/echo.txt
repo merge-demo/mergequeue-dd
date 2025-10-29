@@ -5563,7 +5563,6 @@ extratympanic
 empathetically
 enduringness
 epyllion
-estimably
 enrichment
 endogens
 ethologist
@@ -11089,6 +11088,7 @@ epiglottal
 eurytus
 erythrolysin
 engagedness
+estimably
 enlisted
 electrocapillary
 energized
