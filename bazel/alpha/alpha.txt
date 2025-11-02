@@ -4710,7 +4710,6 @@ aconites
 aerobiologist
 anchithere
 awakener
-analyse
 autocross
 arboreal
 aperture
@@ -17917,6 +17916,7 @@ arnatta
 anglimaniac
 abraum
 appurtenant
+analyse
 annalistically
 apractic
 aphrodisiacal
