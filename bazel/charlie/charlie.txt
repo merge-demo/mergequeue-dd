@@ -14371,7 +14371,6 @@ crambid
 crystalwort
 calorific
 cointers
-corniness
 cystorrhagia
 circumsphere
 cfs
@@ -19879,6 +19878,7 @@ collodiotype
 combure
 comburendo
 comburgess
+corniness
 cochleitis
 corotation
 caccagogue
