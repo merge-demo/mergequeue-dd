@@ -1175,7 +1175,6 @@ edomitish
 expective
 eutomous
 exorbitate
-enterograph
 edoni
 excisemen
 entrochite
@@ -4062,6 +4061,7 @@ entries
 ethmophysal
 entoilment
 emplaster
+enterograph
 enantiomer
 elevating
 election
