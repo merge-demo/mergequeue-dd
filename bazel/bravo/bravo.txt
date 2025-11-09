@@ -856,7 +856,6 @@ bagasses
 badhan
 bruxisms
 brierroot
-beflags
 bleachs
 bongos
 backband
@@ -3507,6 +3506,7 @@ balotade
 byroads
 bioecological
 bondholder
+beflags
 batfowled
 bassists
 batfowls
