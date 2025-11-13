@@ -3922,7 +3922,6 @@ disherits
 deformed
 dartle
 discifloral
-duo
 dermopathic
 dorippid
 dollied
@@ -7028,6 +7027,7 @@ desalinizes
 despitefulness
 disillusionizing
 disray
+duo
 despiteously
 despites
 dahms
