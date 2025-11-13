@@ -1825,7 +1825,6 @@ bandanaed
 bollito
 barricos
 besotter
-bilgy
 bearded
 basketmaker
 bandeau
@@ -8545,6 +8544,7 @@ brantcorn
 beachmaster
 brawlis
 beglerbegship
+bilgy
 billeted
 beating
 billeter
