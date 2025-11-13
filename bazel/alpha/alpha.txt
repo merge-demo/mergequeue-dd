@@ -8689,6 +8689,7 @@ avens
 anfractuousness
 ascoma
 apterygote
+authorizable
 afaint
 acarida
 alodial
@@ -20913,7 +20914,6 @@ ascidioidea
 attesting
 arroya
 ascyphous
-authorizable
 ahmet
 azoxynaphthalene
 acknowledgedly
