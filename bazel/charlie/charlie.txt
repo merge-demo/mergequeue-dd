@@ -7645,7 +7645,6 @@ calathisci
 cementer
 calcarated
 cerebrospinal
-chaetotaxy
 comport
 cerebrospinant
 chickstone
@@ -20210,6 +20209,7 @@ corporealness
 commercium
 ctenocephalus
 clarabella
+chaetotaxy
 commerge
 cryoscope
 cristispira
