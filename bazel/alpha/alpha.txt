@@ -14753,6 +14753,7 @@ anticipations
 anticipative
 attensity
 anglers
+acquirability
 activeness
 antinepotic
 ateleological
@@ -17617,7 +17618,6 @@ armillas
 aponeuroses
 alborak
 assistantships
-acquirability
 appled
 acrotretidae
 airborne
