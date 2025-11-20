@@ -5867,7 +5867,6 @@ engrosser
 endocarditic
 eubacteriales
 essayers
-echoer
 epicardial
 euthyroid
 episcopalian
@@ -6735,6 +6734,7 @@ esterifies
 elaphine
 endorsing
 euhemerise
+echoer
 echidnae
 epitaxially
 evacuation
