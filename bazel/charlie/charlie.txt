@@ -19493,7 +19493,6 @@ colorate
 coloration
 colorative
 centrifugally
-capsid
 champart
 crustiness
 cere
@@ -20129,6 +20128,7 @@ cotillion
 citrylidene
 chummily
 commenda
+capsid
 coloslossuses
 crim
 cheweler
