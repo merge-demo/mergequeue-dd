@@ -787,7 +787,6 @@ cayapo
 caid
 cadaver
 caids
-cayenne
 cucurbits
 cycadales
 completes
@@ -1277,6 +1276,7 @@ calgary
 caliban
 cunea
 calaverite
+cayenne
 ciphony
 compulsatory
 calibers
