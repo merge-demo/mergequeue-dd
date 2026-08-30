@@ -4122,7 +4122,6 @@ drumfire
 delimitation
 delimiter
 deviational
-departments
 diplomyelia
 deline
 dishonourably
@@ -16578,6 +16577,7 @@ dextrad
 diagrammatic
 demoralise
 dictum
+departments
 draftings
 dragnet
 diesinker
