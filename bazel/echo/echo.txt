@@ -3171,7 +3171,6 @@ ejaculum
 extraserous
 entomophagous
 enamoring
-esperantist
 enamelwork
 ectrogenic
 emmeleia
@@ -8148,6 +8147,7 @@ emim
 ephippium
 entrepas
 engyscope
+esperantist
 episcopization
 ecospecies
 emballonurine
