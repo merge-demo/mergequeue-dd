@@ -9695,7 +9695,6 @@ amyxorrhoea
 aldoketene
 aspergillums
 antifungal
-arteriectomy
 aeroplane
 aposthia
 arginases
@@ -20293,6 +20292,7 @@ artocarpad
 arsenolite
 arsenophen
 aerobia
+arteriectomy
 antesignani
 arsenophenol
 anotus
