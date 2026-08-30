@@ -2909,7 +2909,6 @@ divide
 desmodont
 duodecimomos
 dedicant
-dedicatee
 downbeat
 desensitizers
 disorientating
@@ -11116,6 +11115,7 @@ daturas
 drolls
 disarms
 denotations
+dedicatee
 demioctangular
 dictatorial
 diachronicness
