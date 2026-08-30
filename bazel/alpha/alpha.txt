@@ -3920,7 +3920,6 @@ administrant
 administrates
 alabastrons
 administrational
-administrative
 administratively
 administratrices
 aetobatus
@@ -12634,6 +12633,7 @@ amuletic
 astakiwi
 antihemolysin
 angioneurosis
+administrative
 angionoma
 auxil
 anathemata
