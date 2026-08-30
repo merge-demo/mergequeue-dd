@@ -3047,6 +3047,7 @@ congested
 cucumber
 cantoria
 cardsharps
+chemosurgical
 cubalaya
 cantoris
 cantors
@@ -25067,7 +25068,6 @@ coreigner
 coreigns
 curriculums
 corelates
-chemosurgical
 corelative
 clethraceous
 caimakam
