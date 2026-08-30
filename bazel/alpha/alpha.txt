@@ -13174,7 +13174,6 @@ antilogies
 administratress
 atterr
 antebath
-allegretto
 achroodextrinase
 acceded
 anisoptera
@@ -19437,6 +19436,7 @@ arguers
 argues
 applicancy
 amiantus
+allegretto
 accelerated
 achroglobin
 antiplenist
