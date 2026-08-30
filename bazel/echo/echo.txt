@@ -687,7 +687,6 @@ enumerative
 ebriated
 esteros
 ecol
-ethnogeny
 earlesss
 eidolism
 enchronicle
@@ -2312,6 +2311,7 @@ encrypting
 eyras
 electroacoustic
 electroacoustical
+ethnogeny
 elfkin
 electroacoustics
 enthetic
