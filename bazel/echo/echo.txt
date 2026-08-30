@@ -3264,7 +3264,6 @@ evadne
 eschewance
 edgiest
 ektene
-ensandal
 ensnaring
 enrages
 equitist
@@ -10527,6 +10526,7 @@ endogenic
 ermanaric
 exody
 engolden
+ensandal
 elytriferous
 euchlorine
 ectrodactylia
