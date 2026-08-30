@@ -4381,6 +4381,7 @@ cirsotomy
 coprocessing
 carination
 caring
+cryptoanalytic
 ceriph
 calculary
 criticizer
@@ -24169,7 +24170,6 @@ coenzymes
 conveth
 convex
 curvey
-cryptoanalytic
 cecropia
 copaivic
 calcific
