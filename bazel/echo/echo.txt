@@ -8024,7 +8024,6 @@ enteroscope
 epiphanise
 ealdormen
 epiphanous
-expansiveness
 expiator
 embarred
 epigrammatizer
@@ -13200,6 +13199,7 @@ earmark
 elicited
 elapinae
 emphatically
+expansiveness
 embale
 earthworms
 endosalpingitis
