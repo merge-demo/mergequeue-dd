@@ -12993,7 +12993,6 @@ dysoxidation
 dollarfishes
 decasepalous
 disoxygenation
-debacchate
 dodonaean
 dolce
 dysorexy
@@ -15380,6 +15379,7 @@ desubstantiate
 dacryocystotomy
 deprecate
 deallocated
+debacchate
 discovery
 derries
 dolomitic
