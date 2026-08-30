@@ -10003,7 +10003,6 @@ catlinite
 catacombic
 clammy
 criollo
-chilodon
 chiro
 chenopods
 compline
@@ -25923,6 +25922,7 @@ corton
 cordages
 cordwood
 convolute
+chilodon
 colley
 coruco
 chloral
