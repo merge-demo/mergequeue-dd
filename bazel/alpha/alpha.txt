@@ -176,7 +176,6 @@ acolapissa
 anakes
 abbasi
 antimonarchic
-abbate
 afterword
 advertizable
 ashtray
@@ -16702,6 +16701,7 @@ aphorist
 aphoristically
 aphorize
 aphorized
+abbate
 anecdotalism
 abos
 actuator
