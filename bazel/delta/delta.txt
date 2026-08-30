@@ -15300,6 +15300,7 @@ dinosauric
 delsartian
 dolerophanite
 disproperty
+drunkards
 dado
 drainspout
 declinal
@@ -17607,7 +17608,6 @@ disconsonancy
 depthometer
 doctrinarily
 drumwood
-drunkards
 disnatured
 desuperheater
 decandria
