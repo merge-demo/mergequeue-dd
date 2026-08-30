@@ -16775,7 +16775,6 @@ allocute
 antiinstitutionalist
 adjustmental
 antiliberals
-antistatist
 annotater
 amentulum
 apicular
@@ -23423,6 +23422,7 @@ aggest
 aromatize
 auloi
 aulophobia
+antistatist
 archpresbyterate
 atomistical
 annoyous
