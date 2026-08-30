@@ -11246,6 +11246,7 @@ amendableness
 anthomyia
 abjures
 alterant
+allicit
 amphithyra
 ana
 amphithura
@@ -23660,7 +23661,6 @@ akroter
 australopithecinae
 aphidius
 assistantship
-allicit
 anticivism
 acierates
 acaulescent
