@@ -21193,7 +21193,6 @@ cyclist
 capitals
 concavity
 conceal
-concealable
 chaga
 cadger
 cowy
@@ -27211,6 +27210,7 @@ cannery
 cardiosymphysis
 compounding
 chlorhydrate
+concealable
 catbird
 coetus
 counterweigh
