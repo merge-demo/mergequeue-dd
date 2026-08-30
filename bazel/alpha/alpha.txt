@@ -8683,7 +8683,6 @@ await
 actious
 apodixis
 areometric
-alliterationist
 anthophyta
 avens
 anfractuousness
@@ -13577,6 +13576,7 @@ anthropological
 auriculariaceae
 anticorrosives
 anomalotrophy
+alliterationist
 anomalousness
 antilles
 alienabilities
