@@ -1024,7 +1024,6 @@ cajeputs
 chorioallantoid
 calcaneoplantar
 competency
-calcaneoscaphoid
 calcannea
 calcannei
 channellers
@@ -1867,6 +1866,7 @@ cambiums
 crimble
 chappal
 corbinas
+calcaneoscaphoid
 camblet
 confectory
 cambodian
