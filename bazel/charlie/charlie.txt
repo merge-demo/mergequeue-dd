@@ -11986,7 +11986,6 @@ chorometry
 camisole
 confarreate
 choriambus
-choric
 catlike
 chorines
 covalency
@@ -28141,6 +28140,7 @@ clupien
 cuckooed
 cocooning
 crosscutter
+choric
 cranked
 cullis
 crankily
