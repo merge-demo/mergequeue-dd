@@ -15858,6 +15858,7 @@ apprehendable
 astrion
 asterwort
 antirecruiting
+asteraceous
 autophonous
 aljoba
 aromatiser
@@ -23509,7 +23510,6 @@ aureoled
 audaciously
 auresca
 atomistically
-asteraceous
 aureomycin
 aaron
 amplified
