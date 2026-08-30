@@ -13285,6 +13285,7 @@ club
 calendarian
 crossbencher
 climbable
+counterpunch
 cycloganoidei
 cyclogenesis
 calking
@@ -18216,7 +18217,6 @@ conquistadors
 coequals
 centerward
 chincha
-counterpunch
 chronologist
 chinbone
 chairless
