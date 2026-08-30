@@ -4618,7 +4618,6 @@ demihaque
 demijambe
 discriminant
 dishrags
-dukhobor
 destination
 diaphones
 dynastically
@@ -7040,6 +7039,7 @@ dreams
 diets
 dehache
 despoil
+dukhobor
 damon
 despoiler
 disabilities

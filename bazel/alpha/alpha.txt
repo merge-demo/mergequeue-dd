@@ -10555,6 +10555,7 @@ amylosynthesis
 almsgiver
 armamentary
 amiloun
+arenosity
 amylum
 abib
 amin
@@ -19189,7 +19190,6 @@ alberca
 aristas
 arenoid
 australis
-arenosity
 areographical
 adjunction
 antagonists
