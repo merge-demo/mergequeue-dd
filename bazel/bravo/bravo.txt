@@ -5306,6 +5306,7 @@ begnaw
 big
 biharmonic
 ballistics
+betailor
 biaxal
 bambos
 ballroom
@@ -7211,7 +7212,6 @@ brazils
 bubbliest
 bessera
 bettered
-betailor
 betain
 bobsleigh
 bibiru

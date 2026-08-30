@@ -11200,7 +11200,6 @@ aphaniptera
 ameen
 aftermast
 amphipod
-apostolicism
 amphiprostylar
 antiusurious
 andabatarian
@@ -11962,6 +11961,7 @@ anatidae
 amidstream
 archaises
 abandoned
+apostolicism
 antiatonement
 arched
 abought
