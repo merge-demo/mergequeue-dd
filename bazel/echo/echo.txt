@@ -760,6 +760,7 @@ ecotones
 extorsive
 emotive
 embryoctony
+enwreathe
 equilibrist
 easternizing
 ecoute
@@ -1324,6 +1325,7 @@ effects
 enlarge
 equilibristat
 enclog
+erosive
 effectuated
 encastage
 effectuating
@@ -6732,6 +6734,7 @@ enthralldom
 exurb
 enveloping
 esterifies
+endophyllous
 elaphine
 endorsing
 euhemerise
@@ -8358,7 +8361,6 @@ estranged
 expeding
 eastlins
 epicontinental
-erosive
 exportation
 endogenetic
 electrobiology
@@ -8383,7 +8385,6 @@ epitria
 estrum
 exceedable
 earplug
-enwreathe
 entertain
 elroquite
 epitrope
@@ -8670,7 +8671,6 @@ equiperiodic
 equipoise
 estrone
 eye
-endophyllous
 evasively
 erotical
 expectancies
