@@ -9259,7 +9259,6 @@ barringtonia
 bullation
 biquintile
 burkite
-bacillariophyta
 boles
 bastaard
 bavenite
@@ -11070,6 +11069,7 @@ briers
 bystreet
 bidentalia
 bemoaningly
+bacillariophyta
 block
 bipinnatifid
 bicone
