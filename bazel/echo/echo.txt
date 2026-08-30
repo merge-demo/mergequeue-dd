@@ -3507,7 +3507,6 @@ embodies
 elevens
 essential
 embassage
-ekes
 epepophysial
 echelons
 embarras
@@ -8577,6 +8576,7 @@ essancias
 eyebolts
 eumerogenesis
 endocarp
+ekes
 estrogen
 embranglement
 equidistribution
