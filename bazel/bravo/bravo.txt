@@ -2851,6 +2851,7 @@ blackcock
 brushland
 barraging
 boydekyn
+betelnuts
 boobery
 battologist
 braca
@@ -11382,7 +11383,6 @@ budlet
 brasilin
 bandits
 bingies
-betelnuts
 bluebreast
 boddagh
 balance
