@@ -219,7 +219,6 @@ erythritic
 earthslide
 exhumers
 ehuawa
-eyesores
 earthwall
 entte
 exoticalness
@@ -4577,6 +4576,7 @@ enchesoun
 euphemism
 endosarcode
 ethnolinguistics
+eyesores
 embryophagous
 eeriest
 effectuates
