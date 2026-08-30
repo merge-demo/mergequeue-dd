@@ -16909,7 +16909,6 @@ apneusis
 apneustic
 apnoea
 abominating
-adiaphoretic
 ayahausca
 addiction
 apoatropine
@@ -17657,6 +17656,7 @@ afterdischarge
 auxographic
 applier
 adoxies
+adiaphoretic
 alcibiadean
 acettoluide
 autocab
