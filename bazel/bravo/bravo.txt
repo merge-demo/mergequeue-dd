@@ -12304,7 +12304,6 @@ blotched
 bombasts
 bombed
 barrens
-bomber
 begroaning
 balatronic
 buckpot
@@ -13117,6 +13116,7 @@ belaced
 bovids
 borning
 bornite
+bomber
 brusquer
 baksheesh
 bornites
