@@ -1693,7 +1693,6 @@ cuddlier
 calottes
 cinchonizing
 coalsacks
-calpacks
 colostration
 catechizing
 comtesses
@@ -23170,6 +23169,7 @@ cowgate
 chkalik
 clysmian
 causson
+calpacks
 corymbs
 constablewick
 constabular
