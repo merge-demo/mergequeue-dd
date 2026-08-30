@@ -13568,6 +13568,7 @@ cort
 caloricity
 cathartically
 cymaphyte
+compositive
 cymaphytic
 cymaphytism
 cymarin
@@ -13841,6 +13842,7 @@ cinematograph
 cinematography
 clarenceuxship
 caving
+convival
 culpably
 chkfil
 cinematographically
@@ -20885,7 +20887,6 @@ complotting
 complutensian
 cartelized
 coeducate
-convival
 contrarational
 compo
 counterstream
@@ -27192,7 +27193,6 @@ cosin
 countervailing
 crawleyroot
 camisade
-compositive
 chondrogenetic
 countervair
 coprocessor
