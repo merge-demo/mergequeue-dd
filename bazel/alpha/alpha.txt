@@ -8507,6 +8507,7 @@ allegiance
 ancylostoma
 allegiancy
 astronautically
+abstinency
 allegorically
 aqueduct
 aboves
@@ -20954,7 +20955,6 @@ autophony
 anteposthumous
 adoperation
 ascogone
-abstinency
 adjournment
 alabama
 arvos
