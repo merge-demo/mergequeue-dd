@@ -8545,6 +8545,7 @@ erase
 eumorphic
 equatorward
 etheriform
+exagitate
 equatorwards
 excessmen
 ectomeric
@@ -11675,7 +11676,6 @@ erythrogenic
 ecoid
 entoplastic
 exaggeratively
-exagitate
 effluence
 electromer
 epiphragmal
