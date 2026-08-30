@@ -14403,7 +14403,6 @@ cayubaban
 cocontractor
 circumvallate
 countercriticism
-circumvallated
 circumvallating
 crepitant
 circumvallation
@@ -18117,6 +18116,7 @@ conusant
 cardooer
 copycatting
 cathedratically
+circumvallated
 compromitting
 crossbeak
 configured
