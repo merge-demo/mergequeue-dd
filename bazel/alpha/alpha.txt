@@ -7716,6 +7716,7 @@ alectoropodous
 apse
 alectryomachy
 autotropism
+adstrict
 arrentable
 aerotow
 aciliated
@@ -17040,7 +17041,6 @@ antimarian
 allotropism
 achiever
 away
-adstrict
 assiduous
 afterdeath
 abscessroot
