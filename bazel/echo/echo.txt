@@ -12263,7 +12263,6 @@ everduring
 exemplarism
 exempli
 endotoxin
-embodier
 evocatrix
 everlasting
 enfoul
@@ -12318,6 +12317,7 @@ epochal
 elvanitic
 exercitorian
 effront
+embodier
 efs
 eulogizers
 eventual
