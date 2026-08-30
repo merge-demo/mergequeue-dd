@@ -10541,7 +10541,6 @@ bezoardic
 blatherskites
 baptisteries
 blatiform
-biffies
 butyrone
 beflatter
 blatta
@@ -17867,6 +17866,7 @@ beltane
 bejuco
 bractless
 bahmanid
+biffies
 barbulyie
 belton
 brahmanda
