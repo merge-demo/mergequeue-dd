@@ -9959,6 +9959,7 @@ bushers
 blamed
 baldmoneys
 basin
+bunnia
 baddock
 bismuthyl
 beechy
@@ -17344,7 +17345,6 @@ bemadaming
 babeldom
 browny
 bunny
-bunnia
 bromizes
 beknots
 buffoonish
