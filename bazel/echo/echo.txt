@@ -2423,7 +2423,6 @@ empeople
 entophytal
 espinel
 eradiate
-euphausid
 epitaxial
 earthnut
 exciting
@@ -8761,6 +8760,7 @@ erade
 exhedra
 enfeebler
 euphyllite
+euphausid
 erythrorrhexis
 eradicable
 enticement
