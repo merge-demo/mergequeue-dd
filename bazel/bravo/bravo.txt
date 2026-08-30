@@ -6524,6 +6524,7 @@ booming
 berylloid
 breadnut
 baryglossia
+bryological
 balanorrhagia
 blotter
 bluff
@@ -7550,7 +7551,6 @@ basilics
 boethusian
 buchnera
 biometeorology
-bryological
 beswink
 bewitchingly
 beleve
