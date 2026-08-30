@@ -2481,7 +2481,6 @@ axiation
 aluminic
 aconitine
 abolitionism
-anoscope
 atypical
 apological
 argante
@@ -19676,6 +19675,7 @@ adrenally
 acylase
 allseed
 atelophobia
+anoscope
 apospories
 agastroneuria
 arlequinade
