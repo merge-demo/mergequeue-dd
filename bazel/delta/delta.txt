@@ -2365,6 +2365,7 @@ drat
 diacetyls
 denizens
 disseizin
+dinting
 docoglossate
 dilapidate
 darted
@@ -8750,7 +8751,6 @@ dizain
 disconsolately
 diatomicity
 duetted
-dinting
 defocusses
 deescalations
 diatomist
