@@ -8331,7 +8331,6 @@ eucleid
 evangelise
 eternizing
 eland
-eucarpic
 endocyemate
 epithetic
 effortlessness
@@ -10477,6 +10476,7 @@ ettle
 ecclesiolatry
 enologies
 errorist
+eucarpic
 eclectics
 epulary
 exemplifying
