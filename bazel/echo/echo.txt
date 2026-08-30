@@ -8587,6 +8587,7 @@ eelpouts
 eleutheromania
 equidivision
 epigrammatising
+experimentize
 embouchures
 encefalon
 espavel
@@ -10252,7 +10253,6 @@ ergal
 extravasate
 eulogium
 excipulum
-experimentize
 electronography
 expiscatory
 erump

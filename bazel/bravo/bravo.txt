@@ -2586,7 +2586,6 @@ barocco
 befilch
 barkbound
 bamoth
-biphenyls
 besluit
 beaued
 breastbones
@@ -11817,6 +11816,7 @@ barvel
 burbankian
 boardmen
 bioresearch
+biphenyls
 brainfag
 bionomically
 barrelet
