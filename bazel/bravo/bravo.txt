@@ -11809,7 +11809,6 @@ bamboozler
 baron
 bluefish
 burdeners
-byrl
 behavioristic
 briony
 bock
@@ -17790,6 +17789,7 @@ blutwurst
 bursty
 bitterhead
 belee
+byrl
 botein
 bobeches
 barks
