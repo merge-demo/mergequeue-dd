@@ -4725,7 +4725,6 @@ concolorous
 carpetweb
 change
 comeliest
-cyclicality
 carphiophiops
 carilloneur
 ceiler
@@ -26976,6 +26975,7 @@ ciceroning
 circumventer
 counterphobic
 chondromas
+cyclicality
 counterpicture
 counterplayer
 caxton

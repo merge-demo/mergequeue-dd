@@ -1997,7 +1997,6 @@ demicolumn
 dreader
 depressant
 deckload
-debunkers
 drawbench
 diaphragms
 dribblement
@@ -3898,6 +3897,7 @@ damone
 denouncers
 deityship
 diduce
+debunkers
 defenseman
 daphnite
 dagoes
