@@ -4005,7 +4005,6 @@ beaked
 beakerman
 bipinnariae
 butterroot
-bountiful
 bunraku
 byegaein
 beakers
@@ -5927,6 +5926,7 @@ brigued
 bevaring
 bemask
 barbarical
+bountiful
 befooling
 backslapped
 brewis
